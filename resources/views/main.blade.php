@@ -8,6 +8,7 @@
 <body>
     @include('nav')
     <main class="page-content p-5" id="content">
+        @include('texts.lorem')
         <br>
         @include('graphs.regioninePolitika')
     </main>

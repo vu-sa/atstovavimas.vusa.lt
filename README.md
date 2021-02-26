@@ -13,6 +13,7 @@ This site
 - Vertical left navbar
 - Slight grey background (with VU SA brand)
 - Headers and subheaders as links (with styling)
+- Mobile responsiveness
 
 ## Other elements
 

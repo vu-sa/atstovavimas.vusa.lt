@@ -1,4 +1,26 @@
-.vertical-nav {
+/* Fonts for paragraphs and headings */
+
+p {
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.7
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    padding-top: 1em;
+    font-family: 'Nunito Sans', sans-serif;
+    line-height: 1.7;
+}
+
+/* Navigation config */
+
+nav.vertical-nav {
     min-width: 17rem;
     width: 17rem;
     height: 100vh;
@@ -7,16 +29,14 @@
     left: 0;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
     transition: all 0.4s;
-  }
-
-.page-content {
-    width: calc(100% - 17rem);
-    margin-left: 17rem;
-    transition: all 0.4s;
 }
 
-rect {
-    pointer-events: all
+/* Main content config */
+
+main.page-content {
+    width: calc(100% - 40rem);
+    margin-left: 24rem;
+    transition: all 0.4s;
 }
 
 .label-container {
@@ -28,6 +48,8 @@ rect {
     transition-duration: 0.3s;
 }
 
+/* mermaid.js tooltips style */
+
 .mermaidTooltip {
     display: inline-block;
     padding: 1em;
@@ -36,5 +58,5 @@ rect {
     background-color: rgba(189, 63, 52, 0.3);
     border-color: blue;
     border-radius: 2px;
-    color:red;
+    color: red;
 }
