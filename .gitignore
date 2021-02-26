@@ -11,3 +11,10 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+.gitignore
+
+## Custom
+public/css/app.css
+public/css/app.css.LICENSE.txt
+public/js/app.js
+public/js/app.js.LICENSE.txt
