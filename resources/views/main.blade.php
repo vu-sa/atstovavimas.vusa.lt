@@ -10,7 +10,9 @@
     <main class="page-content p-5" id="content">
         @include('texts.lorem')
         <br>
+        <h2>Regioninė jaunimo politika</h2>
         @include('graphs.regioninePolitika')
+        @include('texts.regioninesPolitikosAprasas')
     </main>
 
     <script>

@@ -1,8 +1,11 @@
+body {
+    background-color:rgb(250, 249, 249) !important;
+}
+
 /* Fonts for paragraphs and headings */
 
-p {
-
-    font-family: 'Open Sans', sans-serif;
+p, p a {
+    font-family: 'Rubik', sans-serif;
     font-size: 1.2rem;
     line-height: 1.7
 }
@@ -29,6 +32,7 @@ nav.vertical-nav {
     left: 0;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
     transition: all 0.4s;
+    background-color:rgb(240, 239, 239);
 }
 
 /* Main content config */
@@ -51,6 +55,8 @@ main.page-content {
 /* mermaid.js tooltips style */
 
 .mermaidTooltip {
+    position: absolute;
+    margin-bottom: 40px;
     display: inline-block;
     padding: 1em;
     border-style: solid;
@@ -59,4 +65,14 @@ main.page-content {
     border-color: blue;
     border-radius: 2px;
     color: red;
+
+    /* text-align: center;
+    max-width: 200px;
+    padding: 2px;
+    font-family: 'trebuchet ms', verdana, arial;
+    font-family: var(--mermaid-font-family);
+    font-size: 12px;
+    border-radius: 2px;
+    pointer-events: none;
+    z-index: 100; */
 }
