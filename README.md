@@ -6,7 +6,6 @@ This site is used for Representing guide project, by VU SA.
 
 - [x] Laravel - main framework
 - [x] Bootstrap - for style
-- [x] mermaid.js - for flowcharts
 
 ## Style elements
 

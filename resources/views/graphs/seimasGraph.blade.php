@@ -1460,7 +1460,7 @@ H1MMnCyQoX51Zm5zm9svb38FGADlfoE8Gzt8CAAAAABJRU5ErkJggg==" transform="matrix(1 0 
 	</g>
 	<g id="LR_seimo_kancleris" >
 		<g>
-			<a tabindex="0" data-bs-toggle="popover" title="LR Seimo kancleris</a>" data-bs-placement="bottom" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimo kancleris vykdo Seimo ir Seimo valdybos dokumentų rengimo priežiūrą ir sklandų dokumentų tvarkymo ir Seimo kanceliarijos darbą. <hr> <a href='#seimo-kancleris'> Daugiau </a>">
+			<a tabindex="0" data-bs-toggle="popover" title="LR Seimo kancleris</a>" data-bs-placement="bottom" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimo kancleris vykdo Seimo ir Seimo valdybos dokumentų rengimo priežiūrą ir sklandų dokumentų tvarkymo ir Seimo kanceliarijos darbą. <hr> <a href='#seimo-kancleris'>Daugiau</a>">
 			<g>
 				<path fill="#FFFFFF" d="M1197,474.6c-7.4,0-13.5-6.1-13.5-13.5v-24.7c0-7.4,6.1-13.5,13.5-13.5h255.8c7.4,0,13.5,6.1,13.5,13.5
 					v24.7c0,7.4-6.1,13.5-13.5,13.5H1197z"/>
@@ -1470,7 +1470,8 @@ H1MMnCyQoX51Zm5zm9svb38FGADlfoE8Gzt8CAAAAABJRU5ErkJggg==" transform="matrix(1 0 
 						C1467.9,428.1,1461.2,421.4,1452.9,421.4L1452.9,421.4z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 1219.0126 457.6396)" fill="#111111" font-family="'Roboto'" font-size="25px">LR Seimo kancleris</text></a>
+			<text transform="matrix(1 0 0 1 1219.0126 457.6396)" fill="#111111" font-family="'Roboto'" font-size="25px">LR Seimo kancleris</text>
+		</a>
 		</g>
 		<g>
 			<g>

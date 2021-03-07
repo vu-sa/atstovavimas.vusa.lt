@@ -48,10 +48,12 @@
 
 <section id="frakcijos">
     <h3>Frakcijos </h3>
-    
-    <p>Seimo nariai pagal politines partijas ar vertybines nuostatas gali jungtis į frakcijas sudarytas iš ne mažiau kaip 7
+
+    <p>Seimo nariai pagal politines partijas ar vertybines nuostatas gali jungtis į frakcijas sudarytas iš ne mažiau
+        kaip 7
         narių, kuriose siekia politinių tikslų įgyvendinimo. Seimo narių frakcijai vadovauja ir jai Seime atstovauja
-        frakcijos seniūnas ar seniūno pavaduotojas. Seimo nariai, neįsiregistravę į frakcijas, pripažįstami vienos mišrios
+        frakcijos seniūnas ar seniūno pavaduotojas. Seimo nariai, neįsiregistravę į frakcijas, pripažįstami vienos
+        mišrios
         Seimo narių grupės, kuri turi frakcijos teises, nariais. </p>
 </section>
 
@@ -96,7 +98,7 @@
 
 <section id="seimo-kancleris">
     <h3>Seimo kancleris </h3>
-    
+
     <p>Seimo kancleris vykdo Seimo ir Seimo valdybos dokumentų rengimo priežiūrą ir sklandų dokumentų tvarkymo ir Seimo
         kanceliarijos darbą. </p>
 </section>

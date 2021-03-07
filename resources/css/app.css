@@ -1,10 +1,13 @@
 body {
-    background-color:rgb(250, 249, 249) !important;
+    background-color: rgb(250, 249, 249) !important;
 }
 
 /* Fonts for paragraphs and headings */
 
-p, p a, ol > li, ul > li {
+p,
+p a,
+ol>li,
+ul>li {
     font-family: 'Rubik', sans-serif;
     font-size: 1.2rem;
     line-height: 1.7
@@ -33,25 +36,17 @@ nav.vertical-nav {
     left: 0;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
     transition: all 0.4s;
-    background-color:rgb(240, 239, 239);
+    background-color: rgb(240, 239, 239);
 }
 
 /* Main content config */
 
 @media (min-width: 1200px) {
-main.page-content {
-    width: calc(100% - 36rem);
-    margin-left: 24rem;
-    transition: all 0.4s;
+    main.page-content {
+        width: calc(100% - 36rem);
+        margin-left: 24rem;
+        transition: all 0.4s;
     }
-}
-.label-container {
-    stroke-width: 1px !important;
-}
-
-.label-container:hover {
-    stroke-width: 3px !important;
-    transition-duration: 0.3s;
 }
 
 /* g:hover > path {
@@ -61,3 +56,11 @@ main.page-content {
 g:hover > text {
     fill:white
 } */
+
+#Layer_2:hover>g {
+    opacity: 0.3;
+}
+
+#Layer_2:hover>g:hover {
+    opacity: 1.0;
+}
