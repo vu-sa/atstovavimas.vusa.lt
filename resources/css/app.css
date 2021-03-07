@@ -38,12 +38,13 @@ nav.vertical-nav {
 
 /* Main content config */
 
+@media (min-width: 1200px) {
 main.page-content {
     width: calc(100% - 36rem);
     margin-left: 24rem;
     transition: all 0.4s;
+    }
 }
-
 .label-container {
     stroke-width: 1px !important;
 }
