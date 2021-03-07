@@ -68,7 +68,7 @@
 				C939.1,876.1,932.4,869.4,924.1,869.4L924.1,869.4z"/>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 731.9776 905.6396)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Laikinosios </tspan><tspan x="-7.4" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">darbo grupės</tspan></text>
+	<text transform="matrix(1 0 0 1 731.9776 905.6396)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Laikinosios </tspan><tspan x="-7.4" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">darbo grupės</tspan></text>
 	<g>
 		<path fill="#FFFFFF" d="M670.2,1050.5c-7.4,0-13.5-6.1-13.5-13.5v-24.7c0-7.4,6.1-13.5,13.5-13.5h254c7.4,0,13.5,6.1,13.5,13.5
 			v24.7c0,7.4-6.1,13.5-13.5,13.5H670.2z"/>
@@ -99,7 +99,8 @@
 					C943.9,758.1,937.2,751.4,928.9,751.4L928.9,751.4z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 697.1119 787.6396)" fill="#111111" font-family="'Roboto'" font-size="25px">LR Seimo frakcijos</text>
+		<a href="#frakcijos" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-html="true" title="Seimo nariai pagal politines partijas ar vertybines nuostatas gali jungtis į frakcijas sudarytas iš ne mažiau kaip 7
+        narių, kuriose siekia politinių tikslų įgyvendinimo." role="button"><text transform="matrix(1 0 0 1 697.1119 787.6396)" fill="#111111" font-family="'Roboto'" font-size="25px">LR Seimo frakcijos</text></a>
 	</g>
 	<g id="LR_seimas">
 		<g>
@@ -1457,8 +1458,8 @@ H1MMnCyQoX51Zm5zm9svb38FGADlfoE8Gzt8CAAAAABJRU5ErkJggg==" transform="matrix(1 0 
 			<circle fill="#BD2835" stroke="#333333" stroke-width="3" stroke-miterlimit="10" cx="1103.8" cy="447" r="9.1"/>
 		</g>
 	</g>
-	<g id="LR_seimo_kancleris">
-		<g>
+	<g id="LR_seimo_kancleris" >
+		<g data-bs-toggle="popover" title="LR Seimo kancleris" data-bs-placement="bottom" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimo kancleris vykdo Seimo ir Seimo valdybos dokumentų rengimo priežiūrą ir sklandų dokumentų tvarkymo ir Seimo kanceliarijos darbą. <br> <a href='#seimo-kancleris'> Daugiau </a>">
 			<g>
 				<path fill="#FFFFFF" d="M1197,474.6c-7.4,0-13.5-6.1-13.5-13.5v-24.7c0-7.4,6.1-13.5,13.5-13.5h255.8c7.4,0,13.5,6.1,13.5,13.5
 					v24.7c0,7.4-6.1,13.5-13.5,13.5H1197z"/>
@@ -1468,7 +1469,7 @@ H1MMnCyQoX51Zm5zm9svb38FGADlfoE8Gzt8CAAAAABJRU5ErkJggg==" transform="matrix(1 0 
 						C1467.9,428.1,1461.2,421.4,1452.9,421.4L1452.9,421.4z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 1219.0126 457.6396)" fill="#111111" font-family="'Roboto'" font-size="25px">LR Seimo kancleris</text>
+			<text transform="matrix(1 0 0 1 1219.0126 457.6396)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">LR Seimo kancleris</text>
 		</g>
 		<g>
 			<g>
@@ -1495,7 +1496,7 @@ H1MMnCyQoX51Zm5zm9svb38FGADlfoE8Gzt8CAAAAABJRU5ErkJggg==" transform="matrix(1 0 
 				</g>
 				<g>
 					<g>
-						<text transform="matrix(1 0 0 1 795.6536 167.7575)" fill="#111111" font-family="'Roboto'" font-size="43.9432px">LR Vyriausybė</text>
+						<text transform="matrix(1 0 0 1 795.6536 167.7575)" fill="#111111" font-family="'Roboto-Black'" font-size="43.9432px">LR Vyriausybė</text>
 					</g>
 				</g>
 			</g>
@@ -1872,7 +1873,7 @@ H1MMnCyQoX51Zm5zm9svb38FGADlfoE8Gzt8CAAAAABJRU5ErkJggg==" transform="matrix(1 0 
 						C388.1,876.1,381.4,869.4,373.1,869.4L373.1,869.4z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 83.3001 905.6396)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Studentams atstovaujanti</tspan><tspan x="75" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">organizacija</tspan></text>
+			<text transform="matrix(1 0 0 1 83.3001 905.6396)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Studentams atstovaujanti</tspan><tspan x="75" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">organizacija</tspan></text>
 		</g>
 		<g>
 			<g>
@@ -1946,7 +1947,7 @@ BN6LnhCSiIymSjdCCCGEELIYfwUYAI5W4PbOY9S0AAAAAElFTkSuQmCC" transform="matrix(1 0 
 			</g>
 		</g>
 	</g>
-	<g id="LR_seimo_nariai">
+	<g id="LR_seimo_nariai" data-bs-toggle="modal" data-bs-target="#seimo-nariai" role="button">
 		<g>
 			<g>
 				<path fill="#FFFFFF" d="M673,676.6c-7.4,0-13.5-6.1-13.5-13.5v-24.7c0-7.4,6.1-13.5,13.5-13.5h255.8c7.4,0,13.5,6.1,13.5,13.5
@@ -1957,7 +1958,7 @@ BN6LnhCSiIymSjdCCCGEELIYfwUYAI5W4PbOY9S0AAAAAElFTkSuQmCC" transform="matrix(1 0 
 						C943.9,630.1,937.2,623.4,928.9,623.4L928.9,623.4z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 714.1592 659.6396)" fill="#111111" font-family="'Roboto'" font-size="25px">LR Seimo nariai</text>
+			<text transform="matrix(1 0 0 1 714.1592 659.6396)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">LR Seimo nariai</text>
 		</g>
 		<g>
 			<g>
