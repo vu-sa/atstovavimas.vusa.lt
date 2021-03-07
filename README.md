@@ -17,6 +17,7 @@ This site is used for Representing guide project, by VU SA.
 - [ ] Mobile responsiveness
 - [ ] Abbreviations with \<abbr\>
 - [ ] Sticky underbar (or under nav) with ES info and creators.
+- [ ] Something Laravel docs like.
 
 ## Other elements
 
@@ -25,3 +26,4 @@ This site is used for Representing guide project, by VU SA.
 - [ ] Accordion navbar
 - [x] Readable font and its size
 - [ ] Tooltips for terms
+- [ ] Sticky button to go to section start (???)
