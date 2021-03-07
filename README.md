@@ -20,9 +20,9 @@ This site is used for Representing guide project, by VU SA.
 
 ## Other elements
 
-- [ ] Lazy loading
+- [x] Lazy loading for images
+  - [ ] Add `noscript` for all images.
 - [ ] Many hyperlinks (internal and external)
 - [ ] Accordion navbar
 - [x] Readable font and its size
-- [ ] Tooltips for terms
 - [ ] Sticky button to go to section start (???)

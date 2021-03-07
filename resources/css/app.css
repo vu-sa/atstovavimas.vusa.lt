@@ -19,12 +19,17 @@ h3,
 h4,
 h5,
 h6 {
-    padding-top: 1em;
+    padding-top: 0.8em;
     padding-bottom: 1em;
     font-family: 'Nunito Sans', sans-serif;
     line-height: 1.7;
+    font-weight: 600;
 }
 
+h4:hover a {
+    
+    transition: 1s;
+}
 /* Navigation config */
 
 nav.vertical-nav {
@@ -39,7 +44,7 @@ nav.vertical-nav {
     background-color: rgb(240, 239, 239);
 }
 
-/* Main content config */
+/* Config only on web*/
 
 @media (min-width: 1200px) {
     main.page-content {
@@ -49,13 +54,11 @@ nav.vertical-nav {
     }
 }
 
-/* g:hover > path {
-    fill:#bd2835;
+@media (max-width: 1199px) {
+    footer {
+        display: none;
+    }
 }
-
-g:hover > text {
-    fill:white
-} */
 
 #Layer_2:hover>g {
     opacity: 0.3;
@@ -64,3 +67,24 @@ g:hover > text {
 #Layer_2:hover>g:hover {
     opacity: 1.0;
 }
+
+/* For abbreviation on mobile */
+
+/* abbr[title]:after
+{
+   content: " (" attr(title) ")";
+}
+
+@media screen and (min-width: 1025px)
+{
+   abbr[title]
+   {
+      border-bottom: 1px dashed #ADADAD;
+      cursor:help;
+   }
+
+   abbr[title]:after
+   {
+      content: "";
+   }
+} */

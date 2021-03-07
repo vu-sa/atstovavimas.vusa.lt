@@ -1,14 +1,15 @@
-<footer class="mt-auto py-3 bg-light fixed-bottom ">
-    <div class="container ES-footer">
-        <div class="d-inline w-50">
-            <p> „Atstovavimo gidas“ yra projekto <a
-                    href="https://vusa.lt/lt/viesojo-valdymo-svietimo-srityje-gerinimas-itraukiant-nevyriausybines-organizacijas-">„Viešojo
-                    valdymo švietimo srityje gerinimas, įtraukiant nevyriausybines organizacijas“</a> dalis. Vykdomas
-                projektas finansuojamas iš Europos sąjungos struktūrinių fondų lėšų.
-            </p>
-        </div>
-        <div class="d-inline">
-            <button type="button" class="btn-close" data-bs-dismiss="ES-footer" aria-label="Close"></button>
+<footer class="mt-auto p-3 bg-light fixed-bottom shadow bg-body">
+    <div class="container-sm">
+        <div class="d-flex flex-row justify-content-between">
+            <img src="/img/ESFIVP.jpg" alt="ES programa" height="100">
+            <div style="margin: auto;">
+                <p class="fs-6"> „Atstovavimo gidas“ yra projekto <a class="fs-6"
+                        href="https://vusa.lt/lt/viesojo-valdymo-svietimo-srityje-gerinimas-itraukiant-nevyriausybines-organizacijas-">„Viešojo
+                        valdymo švietimo srityje gerinimas, įtraukiant nevyriausybines organizacijas“</a> dalis.
+                    Vykdomas
+                    projektas finansuojamas iš Europos sąjungos struktūrinių fondų lėšų.
+                </p>
+            </div>
         </div>
     </div>
 </footer>
