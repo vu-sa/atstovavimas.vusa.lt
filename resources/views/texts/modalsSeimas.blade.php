@@ -7,7 +7,7 @@
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
-            <img class="img-fluid" src="{{ asset('img/TVR.jpg') }}">
+            <img class="img-fluid" src="{{ 'img/TVR.jpg' }}">
             
             <p>Seimo nariais tampa 141 demokratiškuose rinkimuose išrinkti Lietuvos piliečiai.</p> 
             

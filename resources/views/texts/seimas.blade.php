@@ -135,6 +135,6 @@
 
 <h4>STUDENTAS </h4>
 
-<img src="{{ asset('img/studentas.png') }}">
+<img src="{{ 'img/studentas.png' }}">
 
 <p>Studentas – asmuo, studijuojantis aukštojoje mokykloje pagal tam tikrą studijų programą arba doktorantūroje.</p> 
