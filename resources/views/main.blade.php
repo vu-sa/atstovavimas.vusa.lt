@@ -10,7 +10,8 @@
     <main class="page-content p-5 flex-shrink-0" id="content">
         <div class="container">
             <h1>Atstovavimo gidas<h1>
-                    @include('texts.seimas')
+                @include('texts.AM')    
+                @include('texts.seimas')
 
                     <br>
 

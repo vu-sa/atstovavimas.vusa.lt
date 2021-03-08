@@ -60,12 +60,14 @@ nav.vertical-nav {
     }
 }
 
-#Layer_2:hover>g {
-    opacity: 0.3;
+svg:hover>g {
+    opacity: 0.25;
+    transition: 0.2s
 }
 
-#Layer_2:hover>g:hover {
+svg:hover> g:hover {
     opacity: 1.0;
+    transition: 0.1s
 }
 
 /* For abbreviation on mobile */
