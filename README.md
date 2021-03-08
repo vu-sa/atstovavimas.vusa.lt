@@ -1,16 +1,18 @@
 # Atstovavimas.vusa.lt
 
-This site is used for Representing guide project, by VU SA.
+This site is used for Representing guide project, by VU SA. **Work in progress!**
 
 ## Framework
 
-- [x] Laravel - main framework
-- [x] Bootstrap - for style
+- [x] Laravel - main framework.
+- [x] Bootstrap - for style.
+
+## Content
+
 
 ## Style elements
 
-- [x] Vertical left navbar
-  - [ ] Apply styling
+- [ ] Vertical left navbar
 - [ ] Slight grey background (with VU SA brand)
 - [ ] Headers and subheaders as links (with styling)
 - [ ] Mobile responsiveness
