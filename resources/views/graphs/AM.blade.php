@@ -114,7 +114,7 @@
       </a>
       <line x1="1364.897" y1="1245.1343" x2="1236.2603" y2="1245.1343" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
       <path d="M1518.6817,1378.205c-5,0-19.053-4.0532-19.053-9.053s14.0532-9.0531,19.053-9.0531a9.0531,9.0531,0,1,1,0,18.1061Z" transform="translate(-151.6524 -124.0127)" fill="#fbb01b" stroke="#333" stroke-miterlimit="10" stroke-width="3"/>
-      <g opacity="0.33">
+      <g opacity="0.4">
         <g>
           <line x1="1314.7755" y1="909.2092" x2="1100.5368" y2="909.2092" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
           <polygon points="1303.878 893.23 1363.502 909.198 1303.878 925.188 1303.878 893.23" fill="#fbb01b"/>
@@ -164,7 +164,7 @@
       <line x1="1349.8287" y1="1462.9284" x2="1233.3287" y2="1462.9284" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
       <path d="M1506.6817,1596.205c-5,0-19.053-4.0532-19.053-9.053s14.0532-9.0531,19.053-9.0531a9.0531,9.0531,0,1,1,0,18.1061Z" transform="translate(-151.6524 -124.0127)" fill="#fbb01b" stroke="#333" stroke-miterlimit="10" stroke-width="3"/>
       <path d="M1384.8127,1587.5147" transform="translate(-151.6524 -124.0127)" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
-      <g opacity="0.33">
+      <g opacity="0.4">
         <g>
           <line x1="1314.7755" y1="909.2092" x2="1100.5368" y2="909.2092" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
           <polygon points="1303.878 893.23 1363.502 909.198 1303.878 925.188 1303.878 893.23" fill="#fbb01b"/>
@@ -241,7 +241,7 @@
       <text transform="translate(1102.1081 1828.3353)" font-size="16" fill="#bd2835" font-family="Roboto-Italic, Roboto" font-style="italic">Deleguoja</text>
       <text transform="translate(748.1081 1761.3353)" font-size="16" fill="#bd2835" font-family="Roboto-Italic, Roboto" font-style="italic">Suda<tspan x="35.2734" y="0" letter-spacing="-0.0098em">r</tspan><tspan x="40.4453" y="0">o</tspan></text>
       <text transform="translate(968.1081 1765.3353)" font-size="16" fill="#bd2835" font-family="Roboto-Italic, Roboto" font-style="italic">Suda<tspan x="35.2734" y="0" letter-spacing="-0.0098em">r</tspan><tspan x="40.4453" y="0">o</tspan></text>
-      <g opacity="0.33">
+      <g opacity="0.4">
         <g>
           <line x1="1315.4627" y1="908.7078" x2="1101.2241" y2="908.7078" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
           <polygon points="1304.565 892.729 1364.189 908.697 1304.565 924.687 1304.565 892.729" fill="#fbb01b"/>
@@ -270,7 +270,7 @@
       </g>
       <text transform="translate(1099.3477 659.9069)" font-size="16" fill="#fbb01b" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan letter-spacing="-0.0054em">P</tspan><tspan x="9.7813" y="0">ataria</tspan></text>
       <text transform="translate(1035.3477 622.9069)" font-size="16" fill="#fbb01b" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan letter-spacing="-0.0054em">P</tspan><tspan x="9.7813" y="0">ataria</tspan></text>
-      <g opacity="0.33">
+      <g opacity="0.4">
         <g>
           <line x1="1314.7755" y1="909.2092" x2="1100.5368" y2="909.2092" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
           <polygon points="1303.878 893.23 1363.502 909.198 1303.878 925.188 1303.878 893.23" fill="#fbb01b"/>
@@ -326,7 +326,7 @@
         </a>
       <path d="M355.6817,1475.0989a9.0531,9.0531,0,0,1,9.0531,9.0531c0,5-4.0532,19.053-9.0531,19.053s-9.053-14.0532-9.053-19.053A9.0531,9.0531,0,0,1,355.6817,1475.0989Z" transform="translate(-151.6524 -124.0127)" fill="#fbb01b" stroke="#333" stroke-miterlimit="10" stroke-width="3"/>
       <text transform="matrix(1, -0.0012, 0.0012, 1, 232.245, 1399.8887)" font-size="16" fill="#fbb01b" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan letter-spacing="-0.0054em">P</tspan><tspan x="9.7813" y="0">ataria</tspan></text>
-      <g opacity="0.33">
+      <g opacity="0.4">
         <g>
           <line x1="1314.7755" y1="909.2092" x2="1100.5368" y2="909.2092" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
           <polygon points="1303.878 893.23 1363.502 909.198 1303.878 925.188 1303.878 893.23" fill="#fbb01b"/>
@@ -365,7 +365,7 @@
       <path d="M1221.6817,1664.0989c5,0,19.0531,4.0532,19.0531,9.0531s-14.0532,9.053-19.0531,9.053a9.0531,9.0531,0,0,1,0-18.1061Z" transform="translate(-151.6524 -124.0127)" fill="#fbb01b" stroke="#333" stroke-miterlimit="10" stroke-width="3"/>
       <polyline points="1069.57 1640.205 1093.646 1640.205 1093.646 1601.964" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
       <path d="M1223.6817,1754.1644c5,0,19.0531,4.0532,19.0531,9.053s-14.0532,9.053-19.0531,9.053a9.053,9.053,0,0,1,0-18.106Z" transform="translate(-151.6524 -124.0127)" fill="#fbb01b" stroke="#333" stroke-miterlimit="10" stroke-width="3"/>
-      <g opacity="0.33">
+      <g opacity="0.4">
         <g>
           <line x1="1314.7755" y1="909.2092" x2="1100.5368" y2="909.2092" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
           <polygon points="1303.878 893.23 1363.502 909.198 1303.878 925.188 1303.878 893.23" fill="#fbb01b"/>
@@ -376,7 +376,7 @@
     <g id="SAO">
       <rect x="1397.1081" y="1830.002" width="52" height="32" fill="url(#linear-gradient)"/>
       <text transform="matrix(1, -0.0012, 0.0012, 1, 1240.245, 2169.8887)" font-size="14" fill="#fbb01b" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan letter-spacing="-0.0483em">T</tspan><tspan x="7.4922" y="0">eikia siūlymus</tspan></text>
-      <g opacity="0.33">
+      <g opacity="0.4">
         <g>
           <line x1="1314.7755" y1="909.2092" x2="1100.5368" y2="909.2092" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
           <polygon points="1303.878 893.23 1363.502 909.198 1303.878 925.188 1303.878 893.23" fill="#fbb01b"/>
@@ -438,7 +438,7 @@
       </g>
       <text transform="translate(1399.8148 2074.075)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">AM studentų s<tspan x="161.3281" y="0" letter-spacing="-0.0073em">a</tspan><tspan x="174.7437" y="0">vi</tspan><tspan x="192.9199" y="0" letter-spacing="-0.0073em">v</tspan><tspan x="204.8462" y="0">aldos (LSS na</tspan><tspan x="357.1904" y="0" letter-spacing="-0.0093em">r</tspan><tspan x="365.417" y="0" letter-spacing="0em">ės)</tspan></text>
       <polyline points="1233.158 914.002 1233.158 2139.708 1351.157 2142.002" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
-      <g opacity="0.33">
+      <g opacity="0.4">
         <g>
           <line x1="1314.7755" y1="909.2092" x2="1100.5368" y2="909.2092" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
           <polygon points="1303.878 893.23 1363.502 909.198 1303.878 925.188 1303.878 893.23" fill="#fbb01b"/>
@@ -479,7 +479,7 @@
         </g>
         <text transform="translate(1444.1081 1916.3353)" font-size="16" fill="#bd2835" font-family="Roboto-Italic, Roboto" font-style="italic">Deleguoja</text>
       </g>
-      <g opacity="0.33">
+      <g opacity="0.4">
         <g>
           <line x1="1314.7755" y1="909.2092" x2="1100.5368" y2="909.2092" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
           <polygon points="1303.878 893.23 1363.502 909.198 1303.878 925.188 1303.878 893.23" fill="#fbb01b"/>
@@ -523,7 +523,7 @@
         <circle cx="670.4281" cy="1357.7314" r="9.053" fill="#bd2835" stroke="#333" stroke-miterlimit="10" stroke-width="3"/>
       </g>
       <text transform="translate(617.1081 1395.002)" font-size="16" fill="#bd2835" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan letter-spacing="-0.0483em">T</tspan><tspan x="8.5625" y="0">eikia</tspan></text>
-      <g opacity="0.33">
+      <g opacity="0.4">
         <g>
           <line x1="1314.7755" y1="909.2092" x2="1100.5368" y2="909.2092" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
           <polygon points="1303.878 893.23 1363.502 909.198 1303.878 925.188 1303.878 893.23" fill="#fbb01b"/>
