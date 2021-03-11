@@ -37,10 +37,10 @@
             kai į organizaciją kreipiasi studentas ar bet kuris kitas akademinės bendruomenės narys, įsitraukiant į kitų
             suinteresuotų šalių inicijuotas diskusijas arba inicijuojant pakeitimo eigą organizacijos viduje.</p>
 
-        <figure class="figure"><img class="figure-img img-fluid" src="/img/main/Picture2.png"
-                alt="Problemos sprendimo eiga">
-            <figcaption class="figure-caption">Problemos sprendimo eiga.</figcaption>
-        </figure>
+            <figure class="figure"><img class="figure-img img-fluid" src="/img/main/Picture2.png"
+                    alt="Problemos sprendimo eiga">
+                <figcaption class="figure-caption">Problemos sprendimo eiga.</figcaption>
+            </figure>
 
         <section id="situacijos-analize">
             <h4>2.1. Situacijos analizė ir problemos identifikavimas</h4>
@@ -219,90 +219,148 @@
         <p>Toliau yra pateikiamas advokacijos planas, kuris padės pasiruošti nešti studentų nuomonę ir daryti įtaką
             sprendimų priėmimui vietiniu, regioniniu ir nacionaliniu lygmeniu:</p>
 
-        <section id="pasiruosimas-pristatymui">
-            <h4>Pasiruošimas problemos pristatymui</h4>
-
-            <p>Visų pirma reikia pasiruošti perteikti sprendžiamo klausimo problematiką – kokia yra esama situacija, kuo
-                ji yra netinkama ir ką tai lemia. Rekomenduotina atsakymus į šiuos klausimus pagrįsti surinktais
-                duomenimis bei apklausų analize, taip pat įvardinti, kas šiuo metu trukdo turėti jūsų norimą situaciją.
-            </p>
-        </section>
-
-        <section id="plano-minimum-maximum-susiformavimas">
-            <h4>Plano „minimum“ ir plano „maksimum“ susiformavimas</h4>
-
-            <p>Ne visada pavyksta pasiekti nusimatyto pokyčio ir šiame momente gali kilti klausimas – ar vadovautis
-                logika „viskas arba nieko“? Tam, kad pateikus pasiūlymą suinteresuotoms institucijoms ir gavus iš jų
-                neigiamą atsakymą nebūtų iš karto nuleidžiamos rankos, rekomenduojama iš anksto nusimatyti du galimus
-                scenarijų ekstremumus – pirmasis iš jų yra ideali situacija (planas „maksimum“), o antrasis yra
-                patenkinama situacija (planas „minimum“). Tokių rėmų nustatymas gali padėti kritiniuose taškuose
-                pakreipti klausimo nagrinėjimą į vieną ar kitą pusę, kas padėtų pasiekti arba maksimalaus užsibrėžto
-                rezultato, arba pasiekti bent kokį nors rezultatą. Šių planų sudarymui nėra griežtų taisyklių – kartais
-                planu „minimum“ gali būti ir klausimo aptarimas atitinkamos institucijos posėdyje. Svarbiausia yra
-                nebent tai, kad minimalus siekiamas rezultatas sukurtų galimybę su tam tikru klausimu dirbti ateityje,
-                jeigu dabar to neįmanoma padaryti.</p>
-        </section>
-        <section id="tiksliniu-grupiu-nustatymas">
-            <h4>Tikslinių grupių nustatymas</h4>
-            <p>Pasiekti vienam ar kitam pokyčiui dažnai reikia įtikinti tam tikrus asmenis ar jų grupes pritarti
-                teikiamiems siūlymams, dėl to nešant studentų nuomonę yra svarbu įsivardinti, kas faktiškai gali priimti
-                sprendimą dėl atitinkamo klausimo ir kas yra pagrindinės jūsų klausimu suinteresuotos grupės. Svarbu
-                žinoti ir kokia tų suinteresuotų asmenų galia sprendimų eigai bei nuomonė jūsų klausimu. Jeigu žinome ne
-                tik nuomonę, bet ir kokius interesus šalys atstovauja bei kokiomis vertybėmis vadovaujasi, galima
-                išsiskirti, kuriuos iš jų įmanoma įtikinti, o kurie ir liks oponentais ar bent jau bus neutralūs. Kad ir
-                kokia bebūtų išankstinė suinteresuotų asmenų nuomonė, pravartu nešant studentų nuomonę pasinaudoti
-                visais kanalais, kuriuos turite tiems asmenims ar grupėms pasiekti (asmeninės pažintys, formalūs
-                procesai, kita).</p>
-        </section>
-        <section id="paramos-kurimas">
-            <h4>Paramos kūrimas</h4>
-            <p>Nusistačius tikslines grupes galima įvertinti, kokį ir kokio stiprumo palaikymą savo tikslui galite
-                mobilizuoti, taip pat ar galite remtis savo turimais ištekliais ir jau turimais paramos tinklais. Jeigu
-                atrodo, kad tikslo siekimui pastiprinti iš esmės reikėtų tam tikro asmens ar grupės pagalbos,
-                atsižvelkite, ar jie jau yra jūsų sąjungininkai, ar vis dėlto juos dar reikia įtikinti. Ieškant naujų
-                sąjungininkų pravartu žinoti, ką įtikinti lengviausia, o ką sunkiausia, kas prisijungs tik tuo atveju,
-                jei pirma įtikinsite jų draugus.</p>
-        </section>
-        <section id="zinutes-formulavimas">
-            <h4>Žinutės formulavimas</h4>
-            <p>Siekiant įtikinti palaikyti studentų atstovų poziciją kreipiantis į skirtingus asmenis bei grupes reikėtų
-                įsivertinti žinutes, kurias nešate – ar argumentai pakankamai svarūs ir įtikinantys, kaip jie atliepia
-                dabartinį auditorijos mąstymą ir vertybes, ar nešama problematika ir jos sprendimas atliepia šiuo metu
-                vyraujantį diskursą, ar tai bus nauja, atrodys įgyvendinama ir naudinga. Formuojant žinutę pravartu
-                nusimatyti, kaip auditorija reaguos į jūsų žinutes, ar jūsų naudojama kalba nesukels sunkumų atitinkamai
-                auditorijai ją suprantant, ar nėra per daug (arba per mažai) emocinės kalbos ir faktų, paremiančių
-                siūlymus.</p>
-        </section>
-        <section id="komunikacijos-kanalu-nustatymas">
-            <h4>Komunikacijos kanalų nustatymas</h4>
-            <p>Tam, kad klausimas būtų aktualizuotas, būtų įtikinti skirtingi asmenys ar grupės ir būtų prieita prie
-                keliamų problemų išsprendimo, gali tekti ne vieną kartą skirtingais būdais pristatyti savo poziciją ir
-                pasiūlymus. Kiekvienai auditorijai įtikinti galima išsiskirti skirtingus kelius jai pasiekti, kaip antai
-                renginiai, susirinkimai, viešoji komunikacija ir kiti įvykiai, kuriuose galite transliuoti savo žinutę
-                tai auditorijai. Renkantis komunikacijos kanalus savo argumentams paremti ir ištransliuoti
-                suinteresuotoms šalims, pirma reikėtų įsivertinti, kiek pastangų reikia derantis, kalbantis, vedant
-                dialogą iki jų įtikinimo, kokiais veiksmais tai būtų įmanoma pasiekti. Be to, planuojami veiksmai turėtų
-                atitikti ir jūsų organizacijos platesnį kontekstą. Nusimatant veiksmus svarbu žinoti, kiek laiko
-                turėsite komunikacijai, kokie kanalai būtų labiausiai girdimi / matomi jūsų auditorijos bei kiek šiems
-                veiksmams išteklių turite.</p>
-        </section>
-        <section id="veiksmu-plano-parengimas">
-            <h4>Veiksmų plano parengimas</h4>
-            <p>Pristatant problematiką bei jos siūlomus sprendimus pagal atitinkamą instituciją reikėtų pasirinkti ir
-                pačią pristatymo formą bei nusimatyti kitų savo veiksmų planą.</p>
-            <p>Ar tai būtų mažiau formalus pristatymas skaidrių pavidalu, ar formalus dokumentas, kaip antai raštas,
-                pozicija ar rezoliucija – pristatomas dokumentas privalo turėti aiškią ir pastovią struktūrą, kurioje
-                turėtų būti pateikiama esama situacija ir jos problematika, apibendrintas nuomonės rinkimo procesas
-                (jeigu buvo rinkta studentų nuomonė), gauti rezultatai ir pagal juos suformuluotos išvados, įvardijamos
-                konkrečios problemos. Jeigu yra galimybė ir norima kuo paveikiau pristatyti problemas, galima ir
-                argumentuoti, kodėl kalbate būtent apie šias problemas argumentaciją pakreipiant taip, kad ji atlieptų
-                suinteresuotų asmenų ir grupių vertybes bei interesus. Esminė pristatymo vieta – pasiūlymai problemoms
-                spręsti – turi būti aiškiai suprantami ir logiški, atliepti pristatytų problemų sprendimą ir būti
-                įgyvendinami. Pristatymo eigoje pravartu vengti buitinių žodžių, pateikiamuose dokumentuose nepalikti
-                gramatikos ar stiliaus klaidų, argumentuojant vengti emocinio krūvio, patartina nenaudoti absoliutinimų,
-                subtiliai pateikti auditorijai jautrias temas ir išlikti profesionaliems bei turėti kuo paremti savo
-                siūlymus bei argumentus.</p>
-        </section>
+            <div class="accordion accordion-flush" id="accordionFlushExample">
+                <section id="pasiruosimas-pristatymui">
+                <div class="accordion-item">
+                  <h4 id="flush-headingOne">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                        Pasiruošimas problemos pristatymui
+                    </button>
+                </h4>
+                  <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body"><p>Visų pirma reikia pasiruošti perteikti sprendžiamo klausimo problematiką – kokia yra esama situacija, kuo
+                        ji yra netinkama ir ką tai lemia. Rekomenduotina atsakymus į šiuos klausimus pagrįsti surinktais
+                        duomenimis bei apklausų analize, taip pat įvardinti, kas šiuo metu trukdo turėti jūsų norimą situaciją.</p>
+                    </div>
+                  </div>
+                </div>
+            </section>
+            <section id="plano-minimum-maximum-susiformavimas">
+            <div class="accordion-item">
+                  <h4 class="accordion-header" id="flush-headingTwo">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                        Plano „minimum“ ir plano „maksimum“ susiformavimas
+                    </button>
+                  </h4>
+            
+                  <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body"><p>Ne visada pavyksta pasiekti nusimatyto pokyčio ir šiame momente gali kilti klausimas – ar vadovautis
+                        logika „viskas arba nieko“? Tam, kad pateikus pasiūlymą suinteresuotoms institucijoms ir gavus iš jų
+                        neigiamą atsakymą nebūtų iš karto nuleidžiamos rankos, rekomenduojama iš anksto nusimatyti du galimus
+                        scenarijų ekstremumus – pirmasis iš jų yra ideali situacija (planas „maksimum“), o antrasis yra
+                        patenkinama situacija (planas „minimum“). Tokių rėmų nustatymas gali padėti kritiniuose taškuose
+                        pakreipti klausimo nagrinėjimą į vieną ar kitą pusę, kas padėtų pasiekti arba maksimalaus užsibrėžto
+                        rezultato, arba pasiekti bent kokį nors rezultatą. Šių planų sudarymui nėra griežtų taisyklių – kartais
+                        planu „minimum“ gali būti ir klausimo aptarimas atitinkamos institucijos posėdyje. Svarbiausia yra
+                        nebent tai, kad minimalus siekiamas rezultatas sukurtų galimybę su tam tikru klausimu dirbti ateityje,
+                        jeigu dabar to neįmanoma padaryti.</p></div>
+                  </div>
+                </div>
+            </section>
+                <section id="tiksliniu-grupiu-nustatymas">
+                <div class="accordion-item">
+                  <h4 class="accordion-header" id="flush-headingThree">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                        Tikslinių grupių nustatymas
+                    </button>
+                  </h4>
+                  <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body"><p>Pasiekti vienam ar kitam pokyčiui dažnai reikia įtikinti tam tikrus asmenis ar jų grupes pritarti
+                        teikiamiems siūlymams, dėl to nešant studentų nuomonę yra svarbu įsivardinti, kas faktiškai gali priimti
+                        sprendimą dėl atitinkamo klausimo ir kas yra pagrindinės jūsų klausimu suinteresuotos grupės. Svarbu
+                        žinoti ir kokia tų suinteresuotų asmenų galia sprendimų eigai bei nuomonė jūsų klausimu. Jeigu žinome ne
+                        tik nuomonę, bet ir kokius interesus šalys atstovauja bei kokiomis vertybėmis vadovaujasi, galima
+                        išsiskirti, kuriuos iš jų įmanoma įtikinti, o kurie ir liks oponentais ar bent jau bus neutralūs. Kad ir
+                        kokia bebūtų išankstinė suinteresuotų asmenų nuomonė, pravartu nešant studentų nuomonę pasinaudoti
+                        visais kanalais, kuriuos turite tiems asmenims ar grupėms pasiekti (asmeninės pažintys, formalūs
+                        procesai, kita).</p>
+                  </div>
+                </div>
+            </section>
+              <section id="paramos-kurimas">
+                <div class="accordion-item">
+                  <h4 class="accordion-header" id="flush-headingFour">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+                        Paramos kūrimas
+                    </button>
+                  </h4>
+                  <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body"><p>Nusistačius tikslines grupes galima įvertinti, kokį ir kokio stiprumo palaikymą savo tikslui galite
+                        mobilizuoti, taip pat ar galite remtis savo turimais ištekliais ir jau turimais paramos tinklais. Jeigu
+                        atrodo, kad tikslo siekimui pastiprinti iš esmės reikėtų tam tikro asmens ar grupės pagalbos,
+                        atsižvelkite, ar jie jau yra jūsų sąjungininkai, ar vis dėlto juos dar reikia įtikinti. Ieškant naujų
+                        sąjungininkų pravartu žinoti, ką įtikinti lengviausia, o ką sunkiausia, kas prisijungs tik tuo atveju,
+                        jei pirma įtikinsite jų draugus.</p>
+                  </div>
+                </div>
+            </section>
+              
+              <section id="zinutes-formulavimas">
+                <div class="accordion-item">
+                  <h4 class="accordion-header" id="flush-headingFive">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
+                        Žinutės formulavimas
+                    </button>
+                  </h4>
+                  <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body"><p>Siekiant įtikinti palaikyti studentų atstovų poziciją kreipiantis į skirtingus asmenis bei grupes reikėtų
+                        įsivertinti žinutes, kurias nešate – ar argumentai pakankamai svarūs ir įtikinantys, kaip jie atliepia
+                        dabartinį auditorijos mąstymą ir vertybes, ar nešama problematika ir jos sprendimas atliepia šiuo metu
+                        vyraujantį diskursą, ar tai bus nauja, atrodys įgyvendinama ir naudinga. Formuojant žinutę pravartu
+                        nusimatyti, kaip auditorija reaguos į jūsų žinutes, ar jūsų naudojama kalba nesukels sunkumų atitinkamai
+                        auditorijai ją suprantant, ar nėra per daug (arba per mažai) emocinės kalbos ir faktų, paremiančių
+                        siūlymus.</p>
+                  </div>
+                </div>
+            </section>
+              <section id="komunikacijos-kanalu-nustatymas">
+                <div class="accordion-item">
+                  <h4 class="accordion-header" id="flush-headingSix">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseSix">
+                        Komunikacijos kanalų nustatymas
+                    </button>
+                  </h4>
+                  <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body"><p>Tam, kad klausimas būtų aktualizuotas, būtų įtikinti skirtingi asmenys ar grupės ir būtų prieita prie
+                        keliamų problemų išsprendimo, gali tekti ne vieną kartą skirtingais būdais pristatyti savo poziciją ir
+                        pasiūlymus. Kiekvienai auditorijai įtikinti galima išsiskirti skirtingus kelius jai pasiekti, kaip antai
+                        renginiai, susirinkimai, viešoji komunikacija ir kiti įvykiai, kuriuose galite transliuoti savo žinutę
+                        tai auditorijai. Renkantis komunikacijos kanalus savo argumentams paremti ir ištransliuoti
+                        suinteresuotoms šalims, pirma reikėtų įsivertinti, kiek pastangų reikia derantis, kalbantis, vedant
+                        dialogą iki jų įtikinimo, kokiais veiksmais tai būtų įmanoma pasiekti. Be to, planuojami veiksmai turėtų
+                        atitikti ir jūsų organizacijos platesnį kontekstą. Nusimatant veiksmus svarbu žinoti, kiek laiko
+                        turėsite komunikacijai, kokie kanalai būtų labiausiai girdimi / matomi jūsų auditorijos bei kiek šiems
+                        veiksmams išteklių turite.</p>
+                  </div>
+                </div>
+            </section>
+            <section id="veiksmu-plano-parengimas">
+                <div class="accordion-item">
+                  <h4 class="accordion-header" id="flush-headingSeven">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSeven" aria-expanded="false" aria-controls="flush-collapseSeven">
+                        Veiksmų plano parengimas
+                    </button>
+                  </h4>
+                  <div id="flush-collapseSeven" class="accordion-collapse collapse" aria-labelledby="flush-headingSeven" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body"><p>Pristatant problematiką bei jos siūlomus sprendimus pagal atitinkamą instituciją reikėtų pasirinkti ir
+                        pačią pristatymo formą bei nusimatyti kitų savo veiksmų planą.</p>
+                    <p>Ar tai būtų mažiau formalus pristatymas skaidrių pavidalu, ar formalus dokumentas, kaip antai raštas,
+                        pozicija ar rezoliucija – pristatomas dokumentas privalo turėti aiškią ir pastovią struktūrą, kurioje
+                        turėtų būti pateikiama esama situacija ir jos problematika, apibendrintas nuomonės rinkimo procesas
+                        (jeigu buvo rinkta studentų nuomonė), gauti rezultatai ir pagal juos suformuluotos išvados, įvardijamos
+                        konkrečios problemos. Jeigu yra galimybė ir norima kuo paveikiau pristatyti problemas, galima ir
+                        argumentuoti, kodėl kalbate būtent apie šias problemas argumentaciją pakreipiant taip, kad ji atlieptų
+                        suinteresuotų asmenų ir grupių vertybes bei interesus. Esminė pristatymo vieta – pasiūlymai problemoms
+                        spręsti – turi būti aiškiai suprantami ir logiški, atliepti pristatytų problemų sprendimą ir būti
+                        įgyvendinami. Pristatymo eigoje pravartu vengti buitinių žodžių, pateikiamuose dokumentuose nepalikti
+                        gramatikos ar stiliaus klaidų, argumentuojant vengti emocinio krūvio, patartina nenaudoti absoliutinimų,
+                        subtiliai pateikti auditorijai jautrias temas ir išlikti profesionaliems bei turėti kuo paremti savo
+                        siūlymus bei argumentus.</p>
+                  </div>
+                </div>
+            </section>
+            </div>
+       
         <p>Susiplanavus visą savo veiklą galima imtis šio plano įgyvendinimo.</p>
         <section id="rezultatu-ivertinimas">
             <h4>Rezultatų įvertinimas</h4>

@@ -83,9 +83,6 @@ nav a {
     border-radius: 0.5rem !important
 }
 
-/* Navigation config */
-
-
 
 /* Config only on web*/
 
@@ -94,6 +91,8 @@ nav a {
         width: calc(100% - 20rem);
         margin-left: 18rem;
     }
+
+    /* Navigation config */
 
     div.vertical-nav {
         min-width: 17rem;
