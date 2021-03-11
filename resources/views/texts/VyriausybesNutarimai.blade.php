@@ -1,6 +1,6 @@
-<section id="lrv-nutarimai">
+<section id="nutarimai">
     <section id="lrv-nutarimu-schema">
-        <h3>VYRIAUSYBĖS NUTARIMO PRIĖMIMO PROCESAS</h3>
+        <h2>VYRIAUSYBĖS NUTARIMO PRIĖMIMO PROCESAS</h2>
     </section>
 
     <p>Teisės aktų projektai registruojami Vyriausybės kanceliarijoje. </p>

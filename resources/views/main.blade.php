@@ -5,16 +5,21 @@
     @include('head')
 </head>
 
-<body class="d-flex flex-column h-100">
+<body>
     @include('elements.nav')
-    <div class="container">
-        <main class="page-content col-9 flex-shrink-0 mb-5" id="content">
+    <div class="container-lg" style="margin-bottom:50px">
+        <main class="page-content col-xl-9 flex-shrink-0" id="content">
         
                 @include('elements.entry')
+                <hr>
                 @include('texts.intro')
-                @include('texts.AM')    
-                @include('texts.seimas')
+                <hr>
+                @include('texts.AM')  
+                <hr>  
+                @include('texts.Seimas')
+                <hr>
                 @include('texts.LRV')
+                <hr>
                 @include('texts.SMSM')
 
                 <p><strong>ĮSTATYMŲ LEIDYBOS IR VYRIAUSYBĖS NUTARIMO PRIĖMIMO PROCESO SCHEMOS DAR NEĮDĖTOS</strong></p>
@@ -25,11 +30,12 @@
 
                 <p>O toliau leidinyje pateikta II dalis: Studentų atstovo veikla ir kompetencijos.</p>
 
+                <hr>
                 @include('texts.atstovuKompetencijos')
-        
+                @include('elements.ES')
     </main>
 </div>
-    @include('elements.ES')
+    
 </body>
 
 <script>

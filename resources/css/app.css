@@ -54,39 +54,49 @@ a[target='_blank']::after {
 
 /* Link color to VU SA red */
 
-a {
+a:not(.nav-link):not(.dropdown-item) {
     color:#bd2835 !important
+}
+
+a.nav-link, a.dropdown-item {
+    color:rgba(0, 0, 0, 0.9) !important
 }
 
 a:hover {
     color:#9b202b !important
 }
 
+nav a {
+    font-size: 0.9em;
+}
+
 /* Navigation config */
 
-nav.vertical-nav {
-    min-width: 17rem;
-    width: 17rem;
-    height: 100vh;
-    position: fixed;
-    top: 0;
-    left: 0;
-    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
-    transition: all 0.4s;
-    background-color: rgb(240, 239, 239);
-}
+
 
 /* Config only on web*/
 
-@media (min-width: 1200px) {
+@media (min-width: 1400px) {
     main.page-content {
-        width: calc(100% - 32rem);
-        margin-left: 24rem;
-        transition: all 0.4s;
+        width: calc(100% - 24rem);
+        margin-left: 16rem;
+    }
+
+    div.vertical-nav {
+        min-width: 17rem;
+        /* width: 17rem; */
+        height: 100vh;
+        position: fixed;
+        top: 0;
+        left: 0;
+        box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+        align-items: normal;
+        justify-content: start;
+    
     }
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 1399px) {
     footer {
         display: none;
     }

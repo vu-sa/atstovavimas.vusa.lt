@@ -2,7 +2,7 @@
     <h2>LR Seimas ir susijusių struktūros</h2>
     <section title="Seimo schema">
         <h3>LR Seimo ir susijusių struktūrų schema</h3>
-        @include('graphs.seimas')
+        @include('graphs.Seimas')
 
         <img class="img-fluid" src="/img/main/image029.jpg">
 

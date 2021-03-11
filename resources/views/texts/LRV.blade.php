@@ -23,7 +23,7 @@
             kuruojami klausimai. </p>
         <p>
             Už aukštojo mokslo ir studijų politiką tiesiogiai atsakinga yra Švietimo, mokslo ir sporto ministerija.
-            Išsamiau apie šią ministeriją ČIA.
+            Išsamiau apie šią ministeriją – <a href="#smsm">čia</a>.
             Apie Vyriausybės nutarimų svarstymo procedūras išsamiau galite paskaityti čia. <strong>linkas i smsm
                 schema</strong>.
         </p>
@@ -73,18 +73,18 @@
     </section>
 
     <section id="mp-biuras">
-        <h3>Ministro pirmininko biuras</h3>
+        <h3>Ministro Pirmininko biuras</h3>
         <p>Organizuoja susitikimus ir renginius, kuriuose dalyvauja Ministras Pirmininkas.</p>
         <p>Išsamiau galite susipažinti <a target="_blank" href="https://lrvk.lrv.lt/lt/vyriausybes-kanceliarijos-struktura">čia</a>.</p> 
     </section>
 
     <section id="mp-patarejai">
-        <h3>Ministro pirmininko patarėjai</h3>
+        <h3>Ministro Pirmininko patarėjai</h3>
         <p>Ministro pirmininko patarėjai – politinio pasitikėjimo valstybės tarnautojai, kurie pataria ministrui
             pirmininkui atitinkamų sričių klausimais, pagal savo ekspertinius laukus.</p>
 
 
-        <p>Ministro pirmininko patarėjus galite rasti <a target="_blank" href="https://ministraspirmininkas.lrv.lt/lt/ministres-pirmininkes-komanda">čia</a>.
+        <p>Ministro Pirmininko patarėjus galite rasti <a target="_blank" href="https://ministraspirmininkas.lrv.lt/lt/ministres-pirmininkes-komanda">čia</a>.
             </p>
     </section>
 

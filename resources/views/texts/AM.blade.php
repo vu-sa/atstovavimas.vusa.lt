@@ -65,7 +65,7 @@
 
     <img class="img-fluid" src="/img/main/image013.png">
 
-    <section id="smsm">
+    <section id="am-smsm">
         <h3>Švietimo, mokslo ir sporto ministerija</h3>
 
         <p>Švietimo, mokslo ir sporto ministerija (toliau – ŠMSM) yra LR valstybės įstaiga, kuri savo veiklos tikslų
@@ -75,8 +75,8 @@
         <p><a target="_blank" href="https://www.smm.lt/web/lt/administracine-informacija/nuostatai">Išsamiau apie
                 Švietimo, mokslo ir
                 sporto ministerijos funkcijas</a>.</p>
-        <section id="smsm-ministras">
-            <h5>Švietimo, mokslo ir sporto Ministras</h5>
+        <section id="am-smsm-ministras">
+            <h4>Švietimo, mokslo ir sporto Ministras</h4>
             <p>Ministras vadovauja ministerijai, sprendžia ministerijos kompetencijai priklausančius klausimus ir
                 yra tiesiogiai atsakingas už Vyriausybės programos ir kasmetinių Vyriausybės veiklos prioritetų bei
                 planuojamų pasiekti rezultatų jam pavestose valdymo srityse įgyvendinimą.</p>
@@ -205,6 +205,16 @@
         </section>
     </section>
 
+    <section id="strata">
+        <h4>Vyriausybės strateginės analizės centras</h4>
+        <p>Vyriausybės strateginės analizės centras (STRATA) yra ekspertinė institucija, teikianti Vyriausybei ir
+            ministerijoms nepriklausomą, tiriamąja veikla grįstą informaciją, reikalingą įrodymais pagrįstiems viešosios
+            politikos sprendimams priimti. </p>
+        <p><a target="_blank" href="https://strata.gov.lt/lt/apie-mus/apie">Išsamiau apie STRATA veiklą</a>.</p>
+    </section>
+
+
+
     <section id="kontrolierius">
         <h3>Lietuvos Respublikos akademinės etikos ir procedūrų kontrolierius</h3>
         <p>
@@ -216,7 +226,8 @@
             ir studijų institucijas atšaukti sprendimus dėl aukštojo mokslo kvalifikacijos suteikimo, pakeisti ar
             panaikinti sprendimus, prieštaraujančius akademinei etikai ir procedūroms</p>
         <p>Išsamiau su akademinės etikos ir
-            procedūrų kontrolieriaus veikla galite susipažinti <a target="_blank" href="https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.406672/">čia.</a></p>
+            procedūrų kontrolieriaus veikla galite susipažinti <a target="_blank"
+                href="https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.406672/">čia.</a></p>
 
         <section id="kontrolieriaus-tarnyba">
             <h4>Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnyba</h4>
@@ -224,7 +235,8 @@
                 ir procedūrų kontrolieriaus darbą, jam nagrinėjant skundus ir inicijuojant tyrimus dėl akademinės etikos
                 ir procedūrų pažeidimo, prižiūrint, kad nebūtų pažeidžiamos akademinės etikos nuostatos ir procedūros.
             </p>
-            <p>Daugiau apie kontrolierių ir tarnybą galima pasiskaityti <a target="_blank" href="https://etikostarnyba.lt/apie-istaiga/">čia</a>.</p>
+            <p>Daugiau apie kontrolierių ir tarnybą galima pasiskaityti <a target="_blank"
+                    href="https://etikostarnyba.lt/apie-istaiga/">čia</a>.</p>
         </section>
     </section>
 
@@ -335,13 +347,5 @@
         <p>Lietuvos studentų sąjunga atstovauja Lietuvos studentams nacionaliniu lygiu. Siekdama įgyvendinti šią
             savo misiją, Sąjunga organizuoja renginius bei akcijas.</p>
         <p><a target="_blank" href="http://www.lss.lt/veikla-lietuvoje/">Išsamiau apie LSS veiklą</a>.</p>
-    </section>
-
-    <section id="strata">
-        <h4>Vyriausybės strateginės analizės centras</h4>
-        <p>Vyriausybės strateginės analizės centras (STRATA) yra ekspertinė institucija, teikianti Vyriausybei ir
-            ministerijoms nepriklausomą, tiriamąja veikla grįstą informaciją, reikalingą įrodymais pagrįstiems viešosios
-            politikos sprendimams priimti. </p>
-        <p><a target="_blank" href="https://strata.gov.lt/lt/apie-mus/apie">Išsamiau apie STRATA veiklą</a>.</p>
     </section>
 </section>
