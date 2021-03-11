@@ -1,16 +1,19 @@
+@import "@fortawesome/fontawesome-free/css/solid";
+
 body {
     background-color: rgb(250, 249, 249) !important;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
 }
 
 /* Fonts for paragraphs and headings */
 
 p,
-p a,
 ol>li,
 ul>li {
     font-family: 'Rubik', sans-serif;
-    font-size: 1.2rem;
-    line-height: 1.7
+    line-height: 1.7;
+    font-size: 1.2em
 }
 
 h1,
@@ -26,10 +29,39 @@ h6 {
     font-weight: 600;
 }
 
-h4:hover a {
-    
-    transition: 1s;
+p a, li a {
+    font-family: 'Rubik', sans-serif;
+    line-height: 1.7;
 }
+
+/* h4:hover a {
+    transition: 1s;
+} */
+
+/* If target to _blank, add icon. */
+
+a[target='_blank']::after {
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 900; 
+    content: "\f360";
+    padding-right: 6px;
+    padding-left: 4px;
+    text-decoration: none;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+}
+
+/* Link color to VU SA red */
+
+a {
+    color:#bd2835 !important
+}
+
+a:hover {
+    color:#9b202b !important
+}
+
 /* Navigation config */
 
 nav.vertical-nav {
@@ -48,7 +80,7 @@ nav.vertical-nav {
 
 @media (min-width: 1200px) {
     main.page-content {
-        width: calc(100% - 36rem);
+        width: calc(100% - 32rem);
         margin-left: 24rem;
         transition: all 0.4s;
     }
@@ -69,24 +101,3 @@ svg:hover> g:hover {
     opacity: 1.0;
     transition: 0.1s
 }
-
-/* For abbreviation on mobile */
-
-/* abbr[title]:after
-{
-   content: " (" attr(title) ")";
-}
-
-@media screen and (min-width: 1025px)
-{
-   abbr[title]
-   {
-      border-bottom: 1px dashed #ADADAD;
-      cursor:help;
-   }
-
-   abbr[title]:after
-   {
-      content: "";
-   }
-} */

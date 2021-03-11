@@ -11,31 +11,28 @@ This site is used for Representing guide project, by VU SA. **Work in progress!*
 ## Content
 
 - [ ] I dalis
-  - [ ] Įvadas ir AM dokumentai
+  - [x] Įvadas ir AM dokumentai
   - [x] AM
     - [x] Schema
     - [x] Aprašymas
-  - [ ] Seimas
-    - [ ] Schema
-    - [ ] Aprašymas
-  - [ ] Vyriausybė
-    - [ ] Schema
-    - [ ] Aprašymas
-  - [ ] ŠMŠM
-    - [ ] Schema
-    - [ ] Aprašymas
-  - [ ] Regioninė savivalda
-    - [ ] Schema
-    - [ ] Aprašymas
+  - [x] Seimas
+    - [x] Schema
+    - [x] Aprašymas
+  - [x] Vyriausybė
+    - [x] Schema
+    - [x] Aprašymas
+  - [x] ŠMŠM
+    - [x] Schema
+    - [x] Aprašymas
   - [ ] Įstatymų leidyba
     - [ ] Seimo trumpasis
     - [ ] Seimo ilgasis (atsisiuntimui)
     - [ ] Vyriausybės
-- [ ] II dalis
-  - [ ] Adkovacijos planas
+- [x] II dalis
+  - [ ] Advokacijos planas
   - [ ] Planavimų metodikos dalykai
   - [ ] Archyvo panaršymas (naudinga medžiaga, kaip pasiruošti)
-- [ ] Nuotraukos
+- [x] Nuotraukos
 ## Style elements
 
 - [ ] Vertical left navbar
@@ -54,8 +51,9 @@ This site is used for Representing guide project, by VU SA. **Work in progress!*
 
 - [ ] Lazy loading for images
   - [ ] Add `noscript` for all images.
-- [ ] Many hyperlinks (internal and external)
-  - [ ] Don't forget external to `_blank`
+- [x] Many hyperlinks (internal and external)
+  - [x] Don't forget external to `_blank`
 - [x] Readable font and its size
 - [ ] Sticky button to go to section start (???)
+  - [ ] [Reference](https://css-tricks.com/creating-sliding-effects-using-sticky-positioning/)
 - [ ] Use shadows (???)

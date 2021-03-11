@@ -1,4 +1,4 @@
-<footer class="mt-auto p-3 bg-light fixed-bottom shadow bg-body">
+<footer class="mt-auto p-2 bg-light fixed-bottom shadow bg-body">
     <div class="container-sm">
         <div class="d-flex flex-row justify-content-between">
             <img src="/img/ESFIVP.jpg" alt="ES programa" height="100">
