@@ -195,7 +195,7 @@
     </section>
 
     <section id="smsm-pavaldzios-institucijos">
-        <p><strong>ŠMSM yra pavaldžios tam tikros institucijos:</strong></p>
+        <p><strong>ŠMSM yra pavaldžios institucijos:</strong></p>
     
         <section id="smsm-skvc">
             <h3>Studijų kokybės vertinimo centras</h3>
