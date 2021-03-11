@@ -1,4 +1,4 @@
-<li class="nav-item dropdown">
+<li class="nav-item dropdown dropend">
     <a class="nav-link dropdown-toggle" href="#aukstasis-mokslas" id="navbarDarkDropdownMenuLink" role="button"
         data-bs-toggle="dropdown" aria-expanded="false">
         Aukštasis mokslas
