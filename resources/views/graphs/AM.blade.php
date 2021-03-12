@@ -1,4 +1,4 @@
-<svg id="AM" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2480.4855 2327.002">
+<svg id="AM" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 70 2480.4855 2327.002">
     <defs>
       <clipPath id="clip-path" transform="translate(-151.6524 -124.0127)">
         <rect x="1546.8606" y="1686.6411" width="160.5329" height="108.0277" fill="none"/>
@@ -308,7 +308,6 @@
             <circle cx="1699.0576" cy="369.9627" r="9.053" fill="#bd2835" stroke="#333" stroke-miterlimit="10" stroke-width="3"/>
           </g>
         </g>
-        <text transform="translate(1679.4431 79.7383)" font-size="93.2103" fill="#111" font-family="Roboto-Black, Roboto" font-weight="800">Lietu<tspan x="211.4531" y="0" letter-spacing="-0.0073em">v</tspan><tspan x="258.9229" y="0">os aukš</tspan><tspan x="582.9736" y="0" letter-spacing="-0.0146em">t</tspan><tspan x="613.6045" y="0">ojo </tspan><tspan x="0" y="111.8525">mokslo sistema</tspan></text>
       </g>
     </g>
     <g id="LMA">

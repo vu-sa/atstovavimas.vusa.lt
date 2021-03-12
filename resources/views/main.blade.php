@@ -7,35 +7,34 @@
 
 <body>
     @include('elements.nav')
-    <div class="container-lg" style="margin-bottom:50px">
+    <div class="container-lg" style="margin-bottom:25px">
         <main class="page-content col-xl-9 flex-shrink-0" id="content">
-        
-                @include('elements.entry')
-                <hr>
-                @include('texts.intro')
-                <hr>
-                @include('texts.AM')  
-                <hr>  
-                @include('texts.Seimas')
-                <hr>
-                @include('texts.LRV')
-                <hr>
-                @include('texts.SMSM')
+            @include('elements.entry')
+            @include('texts.intro')
+            <hr>
+            @include('texts.AM')
+            <hr>
+            @include('texts.Seimas')
+            <hr>
+            @include('texts.LRV')
+            <hr>
+            @include('texts.SMSM')
+            <hr>
+            @include('texts.procesai')
 
-                <p><strong>ĮSTATYMŲ LEIDYBOS IR VYRIAUSYBĖS NUTARIMO PRIĖMIMO PROCESO SCHEMOS DAR NEĮDĖTOS</strong></p>
+            <p>Šioje dalyje pristatėme aukštojo mokslo politikos dalyvių schemas – jei kilo papildomų klausimų, į
+                kuriuos atsakymų šiame leidinyje nepavyko rasti, kreipkitės į savo studentus atstovaujančią
+                organizaciją.</p>
 
-                @include('texts.procesai')
+            <p><strong>O toliau leidinyje pateikta II dalis: Studentų atstovo veikla ir kompetencijos.</strong></p>
 
-                <p>Šioje dalyje pristatėme aukštojo mokslo politikos dalyvių schemas – jei kilo papildomų klausimų, į kuriuos atsakymų šiame leidinyje nepavyko rasti, kreipkitės į savo studentus atstovaujančią organizaciją.</p>
+            <hr>
+            @include('texts.atstovuKompetencijos')
+            <hr>
+            @include('texts.baigiamasisZodis')
+        </main>
+    </div>
 
-                <p>O toliau leidinyje pateikta II dalis: Studentų atstovo veikla ir kompetencijos.</p>
-
-                <hr>
-                @include('texts.atstovuKompetencijos')
-                @include('elements.ES')
-    </main>
-</div>
-    
 </body>
 
 <script>
@@ -43,6 +42,7 @@
     var popoverList = popoverTriggerList.map(function(popoverTriggerEl) {
         return new bootstrap.Popover(popoverTriggerEl)
     })
+
 </script>
 
 </html>

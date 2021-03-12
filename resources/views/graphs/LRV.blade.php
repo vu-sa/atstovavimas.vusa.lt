@@ -214,7 +214,7 @@
 		</g>
 		<g>
 		  <text transform="translate(1685.7621 1112.3476)" font-size="43.9432" fill="#111" font-family="Roboto-Black, Roboto" font-weight="800">LR Seimas</text>
-		  <image width="1717" height="1261" transform="translate(1485.0086 1036.5305) scale(0.0961)" xlink:href="img/Vyriausybe/Vyriausyb%C4%976.png"/>
+		  <image width="1717" height="1261" transform="translate(1485.0086 1036.5305) scale(0.0961)" xlink:href="img/AM7.png"/>
 		</g>
 	  </g>
 	  <g>

@@ -1,46 +1,47 @@
 <section id="procesai">
+    <h2>Įstatymų leidybos procesas</h2>
     <section id="seimo-nutarimu-trumpoji-schema">
-        <h2>Seimo nutarimų priėmimų procesas</h2>
+        <h3>Apibendrinta įstatymo iniciavimo struktūra</h3>
         @include('graphs.SeimasProcesasTrumpai')
     </section>
 
-    <section id="seimo-nutarimu-schema">
-        <h2>Seimo nutarimų priėmimų procesas</h2>
+    <section id="istatymo-iniciavimo-struktura">
+        <h3>Įstatymo iniciavimo struktūra</h3>
         @include('graphs.SeimasProcesas')
     </section>
-    
-    <section id="lrv-nutarimu-schema">
-        <h2>Vyriausybės nutarimų priėmimų procesas</h2>
-        @include('graphs.VyriausybeProcesas')
-    </section>
-
+</section>
+<section id="lrv-nutarimu-schema">
+    <h3>Vyriausybės nutarimo priėmimo procesas</h3>
+    @include('graphs.VyriausybeProcesas')
+    <h3>Vyriausybės nutarimo priėmimo proceso aprašas</h3>
     <p>Teisės aktų projektai registruojami Vyriausybės kanceliarijoje. </p>
     <p>
         <strong>
-            O kaip užregistruoti teisės aktą?
-            Tai galima padaryti keliais būdais:
+            O kaip užregistruoti teisės aktą? Tai galima padaryti keliais būdais:
         </strong>
     </p>
     <ol>
-        <li><p>Vyriausybei įstatymų, nutarimų ir kitų teisės aktų projektus turi teisę teikti Ministras Pirmininkas,
-                ministrai, savivaldybių tarybos ir socialiniai partneriai (asociacijos, profesinės sąjungos,
-                nevyriausybinės organizacijos).</p>
-            <p>Svarbu yra tai, jog Ministro Pirmininko teikiami teisės aktų projektai turi būti pasirašyti Ministro
-                Pirmininko, ministro teikiami teisės aktų projektai – ministro. </p>
+        <li>
+            Vyriausybei įstatymų, nutarimų ir kitų teisės aktų projektus turi teisę teikti Ministras Pirmininkas,
+            ministrai, savivaldybių tarybos ir socialiniai partneriai (asociacijos, profesinės sąjungos,
+            nevyriausybinės organizacijos). <br>
+            Svarbu yra tai, jog Ministro Pirmininko teikiami teisės aktų projektai turi būti pasirašyti Ministro
+            Pirmininko, ministro teikiami teisės aktų projektai – ministro.<br>
 
-            <p>O pavyzdžiui, savivaldybių tarybų ir socialinių partnerių teikiami teisės aktų projektai turi būti
-                pasirašyti atitinkamos srities ministro. Vyriausybei teikiamas teisės akto projektas, kurį parengė ir
-                teikė tam tikra institucija, turi būti suderintas su kitomis institucijomis pagal nustatytą Vyriausybės
-                darbo reglamento tvarką.</p>
+            O pavyzdžiui, savivaldybių tarybų ir socialinių partnerių teikiami teisės aktų projektai turi būti
+            pasirašyti atitinkamos srities ministro. Vyriausybei teikiamas teisės akto projektas, kurį parengė ir
+            teikė tam tikra institucija, turi būti suderintas su kitomis institucijomis pagal nustatytą Vyriausybės
+            darbo reglamento tvarką.
         </li>
 
-        <li><p>Teisės aktai gali būti pateikiami ir kaip asmenų prašymai ir skundai bei piliečių peticijos. </p>
-            <p>Vyriausybei ar Ministrui Pirmininkui adresuoti asmenų prašymai ir skundai Vyriausybės kanclerio
-                persiunčiami atsakingoms institucijoms ir apie tai pranešama prašymą ar skundą pateikusiam asmeniui.
-            </p>
-            <p>O Vyriausybės Peticijų komisijos pateiktos išvados dėl peticijoje išdėstytų reikalavimų ir pasiūlymų
-                (ne)tenkinimo registruojamos Vyriausybės kanceliarijoje. Tada išvados perduodamos atitinkamoms
-                institucijoms, jog būtų parengtas atitinkamas teisės aktas dėl peticijos reikalavimų įgyvendinimo.</p>
+        <li>
+            Teisės aktai gali būti pateikiami ir kaip asmenų prašymai ir skundai bei piliečių peticijos. <br>
+            Vyriausybei ar Ministrui Pirmininkui adresuoti asmenų prašymai ir skundai Vyriausybės kanclerio
+            persiunčiami atsakingoms institucijoms ir apie tai pranešama prašymą ar skundą pateikusiam asmeniui. <br>
+
+            O Vyriausybės Peticijų komisijos pateiktos išvados dėl peticijoje išdėstytų reikalavimų ir pasiūlymų
+            (ne)tenkinimo registruojamos Vyriausybės kanceliarijoje. Tada išvados perduodamos atitinkamoms
+            institucijoms, jog būtų parengtas atitinkamas teisės aktas dėl peticijos reikalavimų įgyvendinimo.
         </li>
     </ol>
 

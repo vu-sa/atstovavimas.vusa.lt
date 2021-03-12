@@ -5,6 +5,7 @@
     </a>
     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
       <li><a class="dropdown-item" href="#aukstasis-mokslas"><strong>Schema</strong></a></li>  
+      <div class="dropdown-divider"></div>
       <li><a class="dropdown-item" href="#lr-pilieciai">LR piliečiai</a></li>
         <li><a class="dropdown-item" href="#am-seimas">Seimas</a></li>
         <li><a class="dropdown-item" href="#am-vyriausybe">Vyriausybė</a></li>

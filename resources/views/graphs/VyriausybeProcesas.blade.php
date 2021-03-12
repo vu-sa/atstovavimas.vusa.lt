@@ -1,5 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 898.4118 865.4118">
-    <g id="Vyriausybe">
+<svg id="Vyriausybe" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 898.4118 755.4118">
       <g>
         <g>
           <g>
@@ -100,6 +99,6 @@
           <polygon points="200.194 156.651 200.014 157.192 197.849 157.192 197.849 156.633 200.194 156.651" fill="#fcb813" fill-rule="evenodd"/>
         </g>
       </g>
-    </g>
+
   </svg>
   

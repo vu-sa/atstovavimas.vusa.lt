@@ -15,7 +15,7 @@
     </g>
     <g>
       <text transform="translate(543.4731 180.8774)" font-size="43.9432" fill="#111" font-family="Roboto-Black, Roboto" font-weight="800">LR Seimas</text>
-      <image width="1717" height="1261" transform="translate(342.7196 105.0603) scale(0.0961)" xlink:href="Procesai1.png"/>
+      <image width="1717" height="1261" transform="translate(342.7196 105.0603) scale(0.0961)" xlink:href="img/AM7.png"/>
     </g>
     <g>
       <g>

@@ -219,15 +219,15 @@
         <p>Toliau yra pateikiamas advokacijos planas, kuris padės pasiruošti nešti studentų nuomonę ir daryti įtaką
             sprendimų priėmimui vietiniu, regioniniu ir nacionaliniu lygmeniu:</p>
 
-            <div class="accordion accordion-flush" id="accordionFlushExample">
+            <div class="accordion accordion-flush" id="accordionFlush">
                 <section id="pasiruosimas-pristatymui">
                 <div class="accordion-item">
                   <h4 id="flush-headingOne">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                        Pasiruošimas problemos pristatymui
+                        1. Pasiruošimas problemos pristatymui
                     </button>
                 </h4>
-                  <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                  <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlush">
                     <div class="accordion-body"><p>Visų pirma reikia pasiruošti perteikti sprendžiamo klausimo problematiką – kokia yra esama situacija, kuo
                         ji yra netinkama ir ką tai lemia. Rekomenduotina atsakymus į šiuos klausimus pagrįsti surinktais
                         duomenimis bei apklausų analize, taip pat įvardinti, kas šiuo metu trukdo turėti jūsų norimą situaciją.</p>
@@ -239,11 +239,11 @@
             <div class="accordion-item">
                   <h4 class="accordion-header" id="flush-headingTwo">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                        Plano „minimum“ ir plano „maksimum“ susiformavimas
+                        2. Plano „minimum“ ir plano „maksimum“ susiformavimas
                     </button>
                   </h4>
             
-                  <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+                  <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlush">
                     <div class="accordion-body"><p>Ne visada pavyksta pasiekti nusimatyto pokyčio ir šiame momente gali kilti klausimas – ar vadovautis
                         logika „viskas arba nieko“? Tam, kad pateikus pasiūlymą suinteresuotoms institucijoms ir gavus iš jų
                         neigiamą atsakymą nebūtų iš karto nuleidžiamos rankos, rekomenduojama iš anksto nusimatyti du galimus
@@ -261,10 +261,10 @@
                 <div class="accordion-item">
                   <h4 class="accordion-header" id="flush-headingThree">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                        Tikslinių grupių nustatymas
+                        3. Tikslinių grupių nustatymas
                     </button>
                   </h4>
-                  <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+                  <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlush">
                     <div class="accordion-body"><p>Pasiekti vienam ar kitam pokyčiui dažnai reikia įtikinti tam tikrus asmenis ar jų grupes pritarti
                         teikiamiems siūlymams, dėl to nešant studentų nuomonę yra svarbu įsivardinti, kas faktiškai gali priimti
                         sprendimą dėl atitinkamo klausimo ir kas yra pagrindinės jūsų klausimu suinteresuotos grupės. Svarbu
@@ -281,10 +281,10 @@
                 <div class="accordion-item">
                   <h4 class="accordion-header" id="flush-headingFour">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-                        Paramos kūrimas
+                        4. Paramos kūrimas
                     </button>
                   </h4>
-                  <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
+                  <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlush">
                     <div class="accordion-body"><p>Nusistačius tikslines grupes galima įvertinti, kokį ir kokio stiprumo palaikymą savo tikslui galite
                         mobilizuoti, taip pat ar galite remtis savo turimais ištekliais ir jau turimais paramos tinklais. Jeigu
                         atrodo, kad tikslo siekimui pastiprinti iš esmės reikėtų tam tikro asmens ar grupės pagalbos,
@@ -299,10 +299,10 @@
                 <div class="accordion-item">
                   <h4 class="accordion-header" id="flush-headingFive">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
-                        Žinutės formulavimas
+                        5. Žinutės formulavimas
                     </button>
                   </h4>
-                  <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive" data-bs-parent="#accordionFlushExample">
+                  <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive" data-bs-parent="#accordionFlush">
                     <div class="accordion-body"><p>Siekiant įtikinti palaikyti studentų atstovų poziciją kreipiantis į skirtingus asmenis bei grupes reikėtų
                         įsivertinti žinutes, kurias nešate – ar argumentai pakankamai svarūs ir įtikinantys, kaip jie atliepia
                         dabartinį auditorijos mąstymą ir vertybes, ar nešama problematika ir jos sprendimas atliepia šiuo metu
@@ -317,10 +317,10 @@
                 <div class="accordion-item">
                   <h4 class="accordion-header" id="flush-headingSix">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseSix">
-                        Komunikacijos kanalų nustatymas
+                        6. Komunikacijos kanalų nustatymas
                     </button>
                   </h4>
-                  <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix" data-bs-parent="#accordionFlushExample">
+                  <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix" data-bs-parent="#accordionFlush">
                     <div class="accordion-body"><p>Tam, kad klausimas būtų aktualizuotas, būtų įtikinti skirtingi asmenys ar grupės ir būtų prieita prie
                         keliamų problemų išsprendimo, gali tekti ne vieną kartą skirtingais būdais pristatyti savo poziciją ir
                         pasiūlymus. Kiekvienai auditorijai įtikinti galima išsiskirti skirtingus kelius jai pasiekti, kaip antai
@@ -338,10 +338,10 @@
                 <div class="accordion-item">
                   <h4 class="accordion-header" id="flush-headingSeven">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSeven" aria-expanded="false" aria-controls="flush-collapseSeven">
-                        Veiksmų plano parengimas
+                        7. Veiksmų plano parengimas
                     </button>
                   </h4>
-                  <div id="flush-collapseSeven" class="accordion-collapse collapse" aria-labelledby="flush-headingSeven" data-bs-parent="#accordionFlushExample">
+                  <div id="flush-collapseSeven" class="accordion-collapse collapse" aria-labelledby="flush-headingSeven" data-bs-parent="#accordionFlush">
                     <div class="accordion-body"><p>Pristatant problematiką bei jos siūlomus sprendimus pagal atitinkamą instituciją reikėtų pasirinkti ir
                         pačią pristatymo formą bei nusimatyti kitų savo veiksmų planą.</p>
                     <p>Ar tai būtų mažiau formalus pristatymas skaidrių pavidalu, ar formalus dokumentas, kaip antai raštas,

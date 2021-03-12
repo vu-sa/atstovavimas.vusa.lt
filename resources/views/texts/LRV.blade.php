@@ -3,7 +3,7 @@
     <section title="Vyriausybės schema">
         <h3>LR Vyriausybės ir susijusių struktūrų schema</h3>
         @include('graphs.LRV')
-
+        <h3>LR Vyriausybės ir susijusių struktūrų schemos aprašas</h3>
         <p>Seimo ir su ja susijusių struktūrų schemoje nagrinėjome aukštojo mokslo politikos formavimą, o dabar
             pereiname prie jos įgyvendinimo. Valstybės mokslo ir studijų politiką <strong>įgyvendina</strong>
             Vyriausybė, Švietimo, mokslo ir sporto ir kitos ministerijos. </p>
@@ -11,7 +11,7 @@
             ryšiai. Ši struktūra sudaryta remiantis Vyriausybės darbo reglamentu, jo nuorodą rasite <a
                 href="https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.13436/asr">čia</a> ir <a
                 href="https://www.e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82/asr">Lietuvos Respublikos Vyriausybės
-                įstatymu</a>.</p>
+                įstatymu</a></p>
         <p>Vyriausybė prie aukštojo mokslo politikos įgyvendinimo prisideda dvejopai. Pirma, ji pateikia išvadas Seimo
             komitetams dėl teikiamų įstatymų projektų bei teikia paaiškinimus Seimo nariams aktualiais ir svarstomais
             klausimais, ar pati inicijuoja įstatymų pakeitimus.</p>
@@ -23,12 +23,9 @@
             kuruojami klausimai. </p>
         <p>
             Už aukštojo mokslo ir studijų politiką tiesiogiai atsakinga yra Švietimo, mokslo ir sporto ministerija.
-            Išsamiau apie šią ministeriją – <a href="#smsm">čia</a>.
-            Apie Vyriausybės nutarimų svarstymo procedūras išsamiau galite paskaityti čia. <strong>linkas i smsm
-                schema</strong>.
-        </p>
-        <p>Apie Vyriausybės nutarimų svarstymo procedūras išsamiau galite paskaityti ČIA.<strong>linkas i vyriausybes
-                schema</strong>.</p>
+            Išsamiau apie šią ministeriją – <a href="#smsm">čia</a></p>
+        
+        <p>Apie Vyriausybės nutarimų svarstymo procedūras išsamiau galite paskaityti <a href="lrv-nutarimai">čia</a></p>
 
     </section>
 
@@ -37,7 +34,7 @@
     <section id="lrv-seimas">
         <h3>Seimas</h3>
         <p>Lietuvos Respublikos Seimas yra įstatymų leidžiamoji valdžia.</p>
-        <p><a target="_blank" href="https://www.lrs.lt/sip/portal.show?p_r=35354&p_k=1">Išsamiau apie Seimo veiklą</a>.</p>
+        <p><a target="_blank" href="https://www.lrs.lt/sip/portal.show?p_r=35354&p_k=1">Išsamiau apie Seimo veiklą</a></p>
     </section>
 
     <section id="lrv">
@@ -53,8 +50,8 @@
             priimami sprendimai pagal kompetenciją jai priskirtų aukštojo mokslo klausimų.</p>
         <p>Išsamiau apie Vyriausybės veiklą:</p>
         <ul>
-            <li><a target="_blank" href="https://lrv.lt/lt/aktuali-informacija/apie-vyriausybe/vyriausybe">https://lrv.lt/lt/aktuali-informacija/apie-vyriausybe/vyriausybe</a></li>
-            <li><a target="_blank" href="https://lrv.lt/lt/aktuali-informacija/apie-vyriausybe/ministrai">https://lrv.lt/lt/aktuali-informacija/apie-vyriausybe/ministrai</a></li>
+            <li><a target="_blank" href="https://lrv.lt/lt/aktuali-informacija/apie-vyriausybe/vyriausybe">Apie Vyriausybę</a></li>
+            <li><a target="_blank" href="https://lrv.lt/lt/aktuali-informacija/apie-vyriausybe/ministrai">Ministrai</a></li>
         </ul>
     </section>
 
@@ -67,24 +64,24 @@
         </p>
         <p>Išsamiau galite susipažinti čia:</p>
         <ul>
-            <li><a target="_blank" href="https://www.e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82/asr">https://www.e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82/asr</a></li>
-            <li><a target="_blank" href="https://ministraspirmininkas.lrv.lt/lt/">https://ministraspirmininkas.lrv.lt/lt/</a></li>
+            <li><a target="_blank" href="https://www.e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82/asr">LR Vyriausybės įstatymas</a></li>
+            <li><a target="_blank" href="https://ministraspirmininkas.lrv.lt/lt/">Ministro Pirmininko puslapis</a></li>
         </ul>
     </section>
 
     <section id="mp-biuras">
         <h3>Ministro Pirmininko biuras</h3>
         <p>Organizuoja susitikimus ir renginius, kuriuose dalyvauja Ministras Pirmininkas.</p>
-        <p>Išsamiau galite susipažinti <a target="_blank" href="https://lrvk.lrv.lt/lt/vyriausybes-kanceliarijos-struktura">čia</a>.</p> 
+        <p>Išsamiau galite susipažinti <a target="_blank" href="https://lrvk.lrv.lt/lt/vyriausybes-kanceliarijos-struktura">čia</a></p> 
     </section>
 
     <section id="mp-patarejai">
         <h3>Ministro Pirmininko patarėjai</h3>
-        <p>Ministro pirmininko patarėjai – politinio pasitikėjimo valstybės tarnautojai, kurie pataria ministrui
+        <p>Ministro Pirmininko patarėjai – politinio pasitikėjimo valstybės tarnautojai, kurie pataria ministrui
             pirmininkui atitinkamų sričių klausimais, pagal savo ekspertinius laukus.</p>
 
 
-        <p>Ministro Pirmininko patarėjus galite rasti <a target="_blank" href="https://ministraspirmininkas.lrv.lt/lt/ministres-pirmininkes-komanda">čia</a>.
+        <p>Ministro Pirmininko patarėjus galite rasti <a target="_blank" href="https://ministraspirmininkas.lrv.lt/lt/ministres-pirmininkes-komanda">čia</a>
             </p>
     </section>
 
@@ -99,7 +96,7 @@
         <h3>Vyriausybės kanceliarija</h3>
         <p>Vyriausybės kanceliarija padeda vykdyti Vyriausybės ir Ministro Pirmininko funkcijas. </p>
         <p>
-            Išsamiau galite susipažinti <a target="_blank" href="https://lrvk.lrv.lt/lt/vyriausybes-kanceliarijos-struktura">čia</a>.
+            Išsamiau galite susipažinti <a target="_blank" href="https://lrvk.lrv.lt/lt/vyriausybes-kanceliarijos-struktura">čia</a>
             
         </p>
     </section>
@@ -108,7 +105,7 @@
         <h3>Vyriausybės kancleris</h3>
         <p>Vyriausybės kancleris organizuoja Vyriausybei ir Ministrui Pirmininkui pateiktų teisės aktų projektų analizę
             ir derinimą, organizuoja Vyriausybės posėdžių rengimą ministerijų atstovų pasitarimus.</p>
-        <p>Išsamiau galite susipažinti <a target="_blank" href="https://lrvk.lrv.lt/lt/vyriausybes-kancleris">čia</a>.</p>
+        <p>Išsamiau galite susipažinti <a target="_blank" href="https://lrvk.lrv.lt/lt/vyriausybes-kancleris">čia</a></p>
     </section>
 
 
@@ -123,7 +120,7 @@
         <p>Su aukštuoju mokslu susijusi komisija, veikianti Vyriausybėje yra Mokslo, technologijų ir inovacijų taryba
             (STRATA)</p>
 
-        <p>Išsamiau galite susipažinti <a target="_blank" href="https://lrv.lt/lt/apie-vyriausybe/komitetai-ir-komisijos">čia</a>.</p>
+        <p>Išsamiau galite susipažinti <a target="_blank" href="https://lrv.lt/lt/apie-vyriausybe/komitetai-ir-komisijos">čia</a></p>
     </section>
 
     <section id="lrv-ministerijos">
@@ -131,7 +128,7 @@
         <p>Ministerija steigiama formuoti valstybės politiką ir koordinuoti jos įgyvendinimą ministrui pavestose
             srityse. Ministras vadovauja ministerijai, sprendžia ministerijos kompetencijai priklausančius klausimus.
         </p>
-        <p>Išsamiau galite susipažinti <a target="_blank" href="https://lrv.lt/lt/ministerijos">čia</a>.</p>
+        <p>Išsamiau galite susipažinti <a target="_blank" href="https://lrv.lt/lt/ministerijos">čia</a></p>
 
         <section id="aplinkos-ministerija">
             <h4>Aplinkos ministerija</h3>
@@ -274,7 +271,7 @@
 
 <section id="lrv-pavaldzios-istaigos">
         <h3>Pavaldžios įstaigos</h3>
-    <p>Vyriausybė turi 17 –a pavaldžių institucijų. Išsamiau galite susipažinti <a target="_blank" href="https://lrv.lt/lt/istaigos">čia</a>.</p>
+    <p>Vyriausybė turi 17 –a pavaldžių institucijų. Išsamiau galite susipažinti <a target="_blank" href="https://lrv.lt/lt/istaigos">čia</a></p>
 </section>
 
 <p>Studentas – asmuo, studijuojantis aukštojoje mokykloje pagal tam tikrą studijų programą arba doktorantūroje.</p>

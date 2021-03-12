@@ -16,36 +16,42 @@ ul>li {
     font-size: 1.2em
 }
 
+img {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
 h1,
 h2,
-h3,
-h4,
-h5,
-h6 {
-    padding-top: 0.8em;
-    padding-bottom: 1em;
+h3:not(.popover-header),
+h4 {
+    margin-top: 1.8em !important;
     font-family: 'Nunito Sans', sans-serif;
     line-height: 1.7;
     font-weight: 600;
 }
 
-h1 {
-    font-size: 3rem
-}
+/* Offsets anchor of section */
 
-h2 {
-    font-size: 2.4rem
-}
-
-h3 {
-    font-size: 1.8rem
+section:before {
+    content: '';
+    display: block;
+    position: relative;
+    width: 0;
+    height: 1em;
+    margin-top: -1em;
+    visibility: hidden;
 }
 
 h4 {
-    font-size: 1.2rem
+    margin-top: 1.2em !important;
+    margin-bottom: 1em !important;
+    border-left: 6px solid #bd2835;
+    padding-left: 0.5em
 }
 
-p a, li a {
+p a,
+li a {
     font-family: 'Rubik', sans-serif;
     line-height: 1.7;
 }
@@ -57,8 +63,8 @@ p a, li a {
 /* If target to _blank, add icon. */
 
 a[target='_blank']::after {
-    font-family: "Font Awesome 5 Free"; 
-    font-weight: 900; 
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
     content: "\f360";
     padding-right: 6px;
     padding-left: 4px;
@@ -71,23 +77,28 @@ a[target='_blank']::after {
 /* Link color to VU SA red */
 
 a:not(.nav-link):not(.dropdown-item) {
-    color:#bd2835 !important
+    color: #bd2835 !important
 }
 
-a.nav-link, a.dropdown-item {
-    color:rgba(0, 0, 0, 0.9) !important
+a.nav-link,
+a.dropdown-item {
+    color: rgba(0, 0, 0, 0.9) !important
 }
 
 a:hover {
-    color:#9b202b !important
+    color: #9b202b !important
 }
 
 nav a {
     font-size: 0.8em;
 }
 
+/* nav a.dropdown-item {
+    font-size: 0.7em;
+} */
+
 .accordion-button:not(.collapsed) {
-    color:#ffffff !important;
+    color: #ffffff !important;
     background-color: #bd2835 !important;
 }
 
@@ -120,7 +131,7 @@ nav a {
         box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
         align-items: normal;
         justify-content: start;
-    
+
     }
 }
 
@@ -130,17 +141,34 @@ nav a {
     }
 }
 
+@media (min-width: 1200px) {
+    h1 {
+        font-size: 3rem !important
+    }
+
+    h2 {
+        font-size: 2.4rem !important
+    }
+
+    h3:not(.popover-header) {
+        font-size: 1.8rem !important
+    }
+
+    h4 {
+        font-size: 1.4rem !important;
+    }
+}
+
 svg {
-    margin-top:50px;
-    margin-bottom:50px
+    margin-bottom: 50px
 }
 
 svg:hover>g {
-    opacity: 0.25;
+    opacity: 0.3;
     transition: 0.2s
 }
 
-svg:hover> g:hover {
+svg:hover>g:hover {
     opacity: 1.0;
     transition: 0.1s
 }

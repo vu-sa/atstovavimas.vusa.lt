@@ -182,21 +182,21 @@
         <rect x="412" y="132.6105" width="371" height="145.5903" rx="13.5" fill="#fff"/>
         <path d="M863.5,213.2472a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12h-344a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12h344m0-3h-344a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15h344a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
       </g>
-      <image width="256" height="100" transform="translate(463.3303 151.8634) scale(1.0784)" xlink:href="SMSM1.png"/>
+      <image width="256" height="100" transform="translate(463.3303 151.8634) scale(1.0784)" xlink:href="/img/SMSM/SMSM1.png"/>
     </g>
     <g id="KPMPC">
       <g>
         <rect x="819.9268" y="132.6105" width="355.0889" height="145.5903" rx="13.5" fill="#fff"/>
         <path d="M1255.5156,213.2472a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12H927.4266a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12h328.089m0-3H927.4266a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15h328.089a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
       </g>
-      <image width="201" height="63" transform="translate(842.1127 156.8234) scale(1.52)" xlink:href="SMSM2.png"/>
+      <image width="201" height="63" transform="translate(842.1127 156.8234) scale(1.52)" xlink:href="/img/SMSM/SMSM2.png"/>
     </g>
     <g id="LMNŠC">
       <g>
         <rect x="412.4986" y="323.2775" width="370.5864" height="145.5898" rx="13.5" fill="#fff"/>
         <path d="M863.5848,403.9138a12.0136,12.0136,0,0,1,12,12v118.59a12.0135,12.0135,0,0,1-12,12H519.9988a12.0135,12.0135,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12h343.586m0-3H519.9988a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15h343.586a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
       </g>
-      <image width="206" height="245" transform="translate(444.0848 338.5301) scale(0.466)" xlink:href="../../../Vilnius%20University/VRM%20pojekto%20Atstovavimo%20gidas%20-%20General/Tekstai%20ir%20schemos/Logotipai%20Justinui/%C5%A1msm%20%C4%AFstaig%C5%B3%20logo/LMNSC.png"/>
+      <image width="206" height="245" transform="translate(444.0848 338.5301) scale(0.466)" xlink:href="/img/SMSM/LMNSC.png"/>
       <text transform="translate(566.2035 378.1389)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">Lietu<tspan x="54.7119" y="0" letter-spacing="-0.0073em">v</tspan><tspan x="66.6382" y="0">os mokinių</tspan><tspan x="0" y="30">neformaliojo </tspan><tspan x="0" y="60">švietimo cent</tspan><tspan x="149.1943" y="60" letter-spacing="-0.0195em">r</tspan><tspan x="157.1655" y="60">as</tspan></text>
     </g>
     <g id="LVJC">
@@ -204,7 +204,7 @@
         <rect x="1212.9111" y="132.6105" width="334.0947" height="145.5903" rx="13.5" fill="#fff"/>
         <path d="M1627.506,213.2472a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12H1320.4109a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12H1627.506m0-3H1320.4109a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15H1627.506a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
       </g>
-      <image width="425" height="240" transform="translate(1266.497 139.8634) scale(0.5333)" xlink:href="SMSM3.png"/>
+      <image width="425" height="240" transform="translate(1266.497 139.8634) scale(0.5333)" xlink:href="/img/SMSM/SMSM3.png"/>
     </g>
     <g id="Leidybos_centras" data-name="Leidybos centras">
       <g>
@@ -223,21 +223,21 @@
         <rect x="412" y="518.944" width="371" height="145.5898" rx="13.5" fill="#fff"/>
         <path d="M863.5,599.5805a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12h-344a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12h344m0-3h-344a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15h344a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
       </g>
-      <image width="1201" height="435" transform="translate(458.9097 541.8814) scale(0.2312)" xlink:href="SMSM4.png"/>
+      <image width="1201" height="435" transform="translate(458.9097 541.8814) scale(0.2312)" xlink:href="/img/SMSM/SMSM4.png"/>
     </g>
     <g id="NVI">
       <g>
         <rect x="1218.1651" y="323.2775" width="323.5869" height="145.5898" rx="13.5" fill="#fff"/>
         <path d="M1622.2515,403.9138a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12H1325.6654a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12h296.5861m0-3H1325.6654a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15h296.5861a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
       </g>
-      <image width="318" height="159" transform="translate(1274.7515 343.5301) scale(0.6604)" xlink:href="SMSM5.png"/>
+      <image width="318" height="159" transform="translate(1274.7515 343.5301) scale(0.6604)" xlink:href="/img/SMSM/SMSM5.png"/>
     </g>
     <g id="SKVC">
       <g>
         <rect x="818.5537" y="518.944" width="357.835" height="145.5898" rx="13.5" fill="#fff"/>
         <path d="M1256.8884,599.5805a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12H926.0538a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12h330.8346m0-3H926.0538a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15h330.8346a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
       </g>
-      <image width="1066" height="716" transform="translate(837.1399 548.1967) scale(0.1241)" xlink:href="SMSM6.png"/>
+      <image width="1066" height="716" transform="translate(837.1399 548.1967) scale(0.1241)" xlink:href="/img/SMSM/SMSM6.png"/>
       <text transform="translate(981.2586 569.8056)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">Studijų kokybės<tspan x="0" y="30" letter-spacing="-0.0063em">v</tspan><tspan x="11.9507" y="30">e</tspan><tspan x="25.1953" y="30" letter-spacing="0.0244em">r</tspan><tspan x="34.2651" y="30">tinimo</tspan><tspan x="0" y="60">cent</tspan><tspan x="48.291" y="60" letter-spacing="-0.0195em">r</tspan><tspan x="56.2622" y="60">as</tspan></text>
     </g>
     <g id="ŠMPF">
@@ -245,14 +245,14 @@
         <rect x="1217.917" y="518.944" width="324.083" height="145.5898" rx="13.5" fill="#fff"/>
         <path d="M1622.5,599.5805a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12H1325.4169a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12H1622.5m0-3H1325.4169a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15H1622.5a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
       </g>
-      <image width="310" height="163" transform="translate(1272.7515 535.1967) scale(0.6903)" xlink:href="../../../Vilnius%20University/VRM%20pojekto%20Atstovavimo%20gidas%20-%20General/Tekstai%20ir%20schemos/Logotipai%20Justinui/%C5%A1msm%20%C4%AFstaig%C5%B3%20logo/smpf.png"/>
+      <image width="310" height="163" transform="translate(1272.7515 535.1967) scale(0.6903)" xlink:href="/img/SMSM/smpf.png"/>
     </g>
     <g id="VSF">
       <g>
         <rect x="628.4141" y="702.5192" width="339.5859" height="145.5903" rx="13.5" fill="#fff"/>
         <path d="M1048.5,783.156a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12H735.9139a12.0136,12.0136,0,0,1-12-12V795.156a12.0136,12.0136,0,0,1,12-12H1048.5m0-3H735.9139a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15H1048.5a15,15,0,0,0,15-15V795.156a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
       </g>
-      <image width="800" height="426" transform="translate(697.0376 718.2722) scale(0.27)" xlink:href="../../../Vilnius%20University/VRM%20pojekto%20Atstovavimo%20gidas%20-%20General/Tekstai%20ir%20schemos/Logotipai%20Justinui/VSF.jpg"/>
+      <image width="800" height="426" transform="translate(697.0376 718.2722) scale(0.27)" xlink:href="img/SMSM/VSF.jpg"/>
     </g>
   </g>
 </svg>

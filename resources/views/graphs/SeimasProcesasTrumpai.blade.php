@@ -1,5 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 878.5882 1237.9802">
-    <g id="Seimas-trumpasis">
+<svg id="Seimas-trumpasis" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 878.5882 1087.9802">
       <g>
         <g>
           <g>
@@ -113,8 +112,8 @@
       </g>
       <g>
         <text transform="translate(337.3261 126.4637)" font-size="43.9432" fill="#111" font-family="Roboto-Black, Roboto" font-weight="800">LR Seimas</text>
-        <image width="1717" height="1261" transform="translate(136.5727 50.6465) scale(0.0961)" xlink:href="Procesai1.png"/>
+        <image width="1717" height="1261" transform="translate(136.5727 50.6465) scale(0.0961)" xlink:href="img/AM7.png"/>
       </g>
-    </g>
+
   </svg>
   

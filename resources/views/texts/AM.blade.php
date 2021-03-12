@@ -1,15 +1,15 @@
-<section id="aukstasis-mokslas">
+<section id="aukstasis-mokslas" title="Aukštasis mokslas">
     <h2>Aukštasis mokslas</h2>
     <section id="aukstojo-mokslo-schema">
-        <h3>Aukštojo mokslo schema</h3>
+        <h3>Aukštojo mokslo politikos schema</h3>
         @include('graphs.AM')
-
+        <h3>Aukštojo mokslo politikos schemos aprašas</h3>
         <p>Šioje schemoje yra vaizduojama visa Lietuvos aukštojo mokslo sistemos dalyviai. Atstovaudamos studentams
             aktualius klausimus aukštojo mokslo lauke veikiančios studentiškos organizacijos ir jų deleguoti atstovai
             turi matyti šios sistemos dalyvius, jog galėtų tikslingai nukreipti savo kreipimąsi. Ši aukštojo mokslo
             sistema yra sudaryta remiantis <a target="_blank"
                 href="https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.343430">LR
-                Mokslo ir studijų įstatymu</a>.</p>
+                Mokslo ir studijų įstatymu</a></p>
         <p>Jame nurodyta, kad valstybės mokslo ir studijų politiką <strong>formuoja</strong> Seimas, o ją
             <strong>įgyvendina</strong> Vyriausybė, Švietimo ir mokslo ministerija ir kitos ministerijos, Lietuvos
             mokslo taryba, Valstybinis studijų fondas, Studijų kokybės vertinimo centras, akademinės etikos ir procedūrų
@@ -30,8 +30,14 @@
     <section id="lr-pilieciai">
         <h3>LR piliečiai</h3>
         <p>Asmenys, turintys Lietuvos Respublikos pilietybę ir su ja suteiktas teises bei pareigas.</p>
-        <p><a target="_blank" href="https://www.lrp.lt/lt/prezidento-funkcijos">Išsamiau apie Prezidento funkcijas</a>.
-        </p>
+    </section>
+
+    <section id="prezidentas">
+        <h3>Prezidentas</h3>
+        <p>Prezidentas yra valstybės vadovas. Prezidentas sprendžia pagrindinius užsienio politikos klausimus ir kartu
+            su Vyriausybe vykdo užsienio politiką, turi įstatymų leidybos Seime iniciatyvos teisę, taip pat teisę
+            vetuoti Seimo priimtus įstatymus. </p>
+        <p><a target="_blank" href="https://www.lrp.lt/lt/prezidento-funkcijos">Išsamiau apie Prezidento funkcijas</a>
     </section>
 
     <section id="am-seimas">
@@ -43,7 +49,7 @@
             politikos procesais susiję įstatymų projektai, kurie per Komitetus vėliau teikiami Seimo posėdžiams ir
             tvirtinami.
         </p>
-        <p><a target="_blank" href="https://www.lrs.lt/sip/portal.show?p_r=35354&p_k=1">Išsamiau apie Seimo veiklą</a>.
+        <p><a target="_blank" href="https://www.lrs.lt/sip/portal.show?p_r=35354&p_k=1">Išsamiau apie Seimo veiklą</a>
         </p>
     </section>
 
@@ -60,7 +66,7 @@
             priimami sprendimai pagal kompetenciją jai priskirtų aukštojo mokslo klausimų. </p>
         <p><a target="_blank" href="https://lrv.lt/lt/aktuali-informacija/apie-vyriausybe/vyriausybe">Išsamiau apie
                 Vyriausybės
-                veiklą</a>.</p>
+                veiklą</a></p>
     </section>
 
     <img class="img-fluid" src="/img/main/image013.png">
@@ -74,7 +80,7 @@
         </p>
         <p><a target="_blank" href="https://www.smm.lt/web/lt/administracine-informacija/nuostatai">Išsamiau apie
                 Švietimo, mokslo ir
-                sporto ministerijos funkcijas</a>.</p>
+                sporto ministerijos funkcijas</a></p>
         <section id="am-smsm-ministras">
             <h4>Švietimo, mokslo ir sporto Ministras</h4>
             <p>Ministras vadovauja ministerijai, sprendžia ministerijos kompetencijai priklausančius klausimus ir
@@ -94,7 +100,7 @@
             projektus, prie kurių prisideda ir studentai.</p>
         <p><a target="_blank" href="https://www.e-tar.lt/portal/lt/legalAct/fdc30c905a6311e7846ef01bfffb9b64">Išsamiau
                 apie
-                LMT</a>. </p>
+                LMT</a> </p>
 
         <section id="lmt-nariai">
             <h4>Lietuvos mokslo tarybos nariai</h4>
@@ -108,7 +114,7 @@
                 komiteto, Švietimo ir mokslo, Finansų ministerijų, Lietuvos mokslų akademijos atstovai.</p>
             <p><a target="_blank" href="https://www.lmt.lt/lt/apie-taryba/pirmininkas/122 ">Išsamiau apie Lietuvos
                     mokslo tarybos
-                    pirmininką</a>.</p>
+                    pirmininką</a></p>
         </section>
 
     </section>
@@ -121,13 +127,14 @@
             pilietiniams, moksliniams, verslumo, kūrybiniams ir sportiniams projektams vykdyti bei įgyvendinanti
             kitas aukštojo mokslo ir profesinio mokymo kokybei ir prieinamumui užtikrinti skirtas priemones.</p>
 
-        <p>VSF įtaka aukštojo mokslo politikos procesuose yra patariamoji</p>
+        <p>VSF įtaka aukštojo mokslo politikos procesuose yra patariamoji.</p>
         <p>Išsamiau apie VSF:</p>
         <ul>
             <li><a target="_blank"
-                    href="https://www.e-tar.lt/portal/lt/legalAct/TAR.DA0C11CB3DA8/wBzYLyfgCY">https://www.e-tar.lt/portal/lt/legalAct/TAR.DA0C11CB3DA8/wBzYLyfgCY</a>
+                    href="https://www.e-tar.lt/portal/lt/legalAct/TAR.DA0C11CB3DA8/wBzYLyfgCY">Valstybinio studijų fondo
+                    nuostatai</a>
             </li>
-            <li><a target="_blank" href="https://vsf.lrv.lt/lt/">https://vsf.lrv.lt/lt/</a></li>
+            <li><a target="_blank" href="https://vsf.lrv.lt/lt/">vsf.lrv.lt</a></li>
         </ul>
 
         <img class="img-fluid" src="/img/main/image015.jpg">
@@ -140,6 +147,9 @@
                 lėšas iš grąžinamų paskolų, palūkanų ir delspinigių, bei kitų nebiudžetinių įplaukų bei
                 atlieka kitas teisės aktų Fondo valdybai pavestas funkcijas.</p>
             <p>Valdybą tvirtina ŠMSM ministras, ji yra sudaryta iš 11 asmenų. </p>
+
+            <p><a target="_blank" href="https://vsf.lrv.lt/lt/struktura-ir-kontaktai/valdyba-1">Išsamiau apie
+                    Valstybinio studijų fondo valdybą</a></p>
 
         </section>
     </section>
@@ -171,7 +181,7 @@
             nuostatus tvirtina Vyriausybė.</p>
         <p><a target="_blank" href="https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.343430/asr">Išsamiau apie
                 Aukštojo
-                mokslo tarybą</a>.</p>
+                mokslo tarybą</a></p>
     </section>
 
     <section id="skvc">
@@ -181,15 +191,15 @@
             bei aukštojo mokslo kvalifikacijų, vertinimą, teikia informaciją Centro veiklos klausimais bei vykdo
             kitas funkcijas.</p>
         <p>
-            Pagrindinės sritys ties kuriomis dirba SKVC – Vertina užsienyje įgytą vidurinį ir aukštąjį
-            išsilavinimą, Informuoja apie aukštojo mokslo studijas Lietuvoje bei užsienyje, skatina aukštąsias
-            mokyklas gerinti studijų kokybę, bei rengia su mokslu ir studijomis susijusių teisės aktų projektus.
+            Pagrindinės sritys ties kuriomis dirba SKVC –vertina užsienyje įgytą vidurinį ir aukštąjį išsilavinimą,
+            informuoja apie aukštojo mokslo studijas Lietuvoje bei užsienyje, skatina aukštąsias mokyklas gerinti
+            studijų kokybę bei rengia su mokslu ir studijomis susijusių teisės aktų projektus.
         </p>
         <p>
             Užsiimdamas studijų programų
             atestacija, Centras gali uždaryti studijų programas ar aukštąsias mokyklas.
         </p>
-        <p><a target="_blank" href="https://www.skvc.lt/default/lt/apie-mus">Išsamiau apie SKVC veiklą</a>.</p>
+        <p><a target="_blank" href="https://www.skvc.lt/default/lt/apie-mus">Išsamiau apie SKVC veiklą</a></p>
 
         <section id="skvc-taryba">
             <h4>Studijų kokybės ir vertinimo centro taryba</h4>
@@ -201,19 +211,17 @@
                 tvirtina metinę centro direktoriaus ataskaitą, rengia centro metinę ataskaitą.</p>
             <p> <a target="_blank" href="https://www.skvc.lt/default/lt/taryba">Išsamiau apie Studių kokybės vertinimo
                     centro
-                    tarybą</a>. </p>
+                    tarybą</a> </p>
         </section>
     </section>
 
     <section id="strata">
-        <h4>Vyriausybės strateginės analizės centras</h4>
+        <h3>Vyriausybės strateginės analizės centras</h3>
         <p>Vyriausybės strateginės analizės centras (STRATA) yra ekspertinė institucija, teikianti Vyriausybei ir
             ministerijoms nepriklausomą, tiriamąja veikla grįstą informaciją, reikalingą įrodymais pagrįstiems viešosios
             politikos sprendimams priimti. </p>
-        <p><a target="_blank" href="https://strata.gov.lt/lt/apie-mus/apie">Išsamiau apie STRATA veiklą</a>.</p>
+        <p><a target="_blank" href="https://strata.gov.lt/lt/apie-mus/apie">Išsamiau apie STRATA veiklą</a></p>
     </section>
-
-
 
     <section id="kontrolierius">
         <h3>Lietuvos Respublikos akademinės etikos ir procedūrų kontrolierius</h3>
@@ -236,7 +244,7 @@
                 ir procedūrų pažeidimo, prižiūrint, kad nebūtų pažeidžiamos akademinės etikos nuostatos ir procedūros.
             </p>
             <p>Daugiau apie kontrolierių ir tarnybą galima pasiskaityti <a target="_blank"
-                    href="https://etikostarnyba.lt/apie-istaiga/">čia</a>.</p>
+                    href="https://etikostarnyba.lt/apie-istaiga/">čia</a></p>
         </section>
     </section>
 
@@ -251,11 +259,11 @@
 
         <p>Išsamiau galite paskaityti:</p>
         <ul>
-            <li><a target="_blank"
-                    href="https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.343430">https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.343430</a>
+            <li><a target="_blank" href="https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.343430">Mokslo ir studijų
+                    įstatymas</a>
             </li>
-            <li><a target="_blank"
-                    href="http://lms.lt/archyvas/?q=lt/LietuvosUniversitetai">http://lms.lt/archyvas/?q=lt/LietuvosUniversitetai</a>
+            <li><a target="_blank" href="http://lms.lt/archyvas/?q=lt/LietuvosUniversitetai">Universitetų Lietuvoje
+                    sąrašas</a>
             </li>
         </ul>
     </section>
@@ -270,11 +278,10 @@
 
         <p>Išsamiau galite paskaityti:</p>
         <ul>
-            <li><a target="_blank"
-                    href="https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.343430">https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.343430</a>
+            <li><a target="_blank" href="https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.343430">Mokslo ir studijų
+                    įstatymas</a>
             </li>
-            <li><a target="_blank"
-                    href="http://lms.lt/archyvas/?q=lt/Kolegijos">http://lms.lt/archyvas/?q=lt/Kolegijos</a></li>
+            <li><a target="_blank" href="http://lms.lt/archyvas/?q=lt/Kolegijos">Kolegijų Lietuvoje sąrašas</a></li>
         </ul>
     </section>
 
@@ -283,22 +290,27 @@
         <p>Mokslinių tyrimų institutas – juridinis asmuo, kurio pagrindinė veikla – moksliniai tyrimai ir
             eksperimentinė plėtra.</p>
 
-        <p>Mokslinių tyrimų institutų įtaka aukštojo mokslo politikos procesuose patariamoji.</p>
+        <p>Mokslinių tyrimų institutų įtaka aukštojo mokslo politikos procesuose yra patariamoji.</p>
 
         <p>Lietuvoje veikiantys mokslo institutai nurodyti <a target="_blank"
-                href="http://lms.lt/archyvas/?q=lt/MoksloInstitutai">čia</a>.
+                href="http://lms.lt/archyvas/?q=lt/MoksloInstitutai">čia</a>
         </p>
     </section>
 
-    <p>Lietuvos Švietimo Taryba (toliau – Taryba) yra Lietuvos Respublikos Seimo sudaryta ir jam atskaitinga valstybės
-        švietimo savivaldos institucija, atliekanti ekspertinį vertinimą ir konsultuojanti strateginiais Lietuvos
-        švietimo plėtros klausimais.</p>
+    <section id="lst">
+        <h3>Lietuvos Švietimo Taryba</h3>
+        <p>Lietuvos Švietimo Taryba (toliau – Taryba) yra Lietuvos Respublikos Seimo sudaryta ir jam atskaitinga
+            valstybės
+            švietimo savivaldos institucija, atliekanti ekspertinį vertinimą ir konsultuojanti strateginiais Lietuvos
+            švietimo plėtros klausimais.</p>
 
-    <p><a target="_blank" href="https://www.lrs.lt/sip/portal.show?p_r=9258&p_k=1">Išsamiau apie Tarybos funkcijas ir
-            narių skyrimą</a>.
-    </p>
+        <p><a target="_blank" href="https://www.lrs.lt/sip/portal.show?p_r=9258&p_k=1">Išsamiau apie Tarybos funkcijas
+                ir
+                narių skyrimą</a>
+        </p>
+    </section>
 
-    <img class="img-fluid" src="/img/main/image022.png">
+    <img class="img-fluid" src="/img/main/image022.jpg">
 
     <section id="lurk">
         <h3>Lietuvos universitetų rektorių konferencija (LURK)</h3>
@@ -310,7 +322,7 @@
         <p>Gali deleguoti savo atstovus į Švietimo, mokslo ir sporto ministerijos (ir ne tik) sudarytas darbo grupes ar
             komisijas, kurios
             susijusios su aukštuoju mokslu.</p>
-        <p><a target="_blank" href="https://lurk.lt/index.php/apie-mus/istatai/">Išsamiau apie LURK</a>.</p>
+        <p><a target="_blank" href="https://lurk.lt/index.php/apie-mus/istatai/">Išsamiau apie LURK</a></p>
     </section>
 
     <section id="lkdk">
@@ -324,7 +336,7 @@
         <p>Gali deleguoti savo atstovus į ŠMSM (ir ne tik) sudarytas darbo grupes ar komisijas, kurios
             susijusios su aukštuoju mokslu.</p>
 
-        <p><a target="_blank" href="https://www.kolegijos.lt/lt/apie-konferencija/istatai/">Išsamiau apie LKDK</a>.</p>
+        <p><a target="_blank" href="https://www.kolegijos.lt/lt/apie-konferencija/istatai/">Išsamiau apie LKDK</a></p>
     </section>
 
     <img class="img-fluid" src="/img/main/image024.jpg">
@@ -336,7 +348,7 @@
             Vilniaus universitete bei už jo ribų, puoselėjanti universitetinę kultūrą ir kurianti palankiausias
             sąlygas studentų saviraiškai.</p>
         <p>VU SA yra vienintelė studentų atstovybė, kuri savo studentų interesams atstovauja nacionaliniu mastu.</p>
-        <p><a target="_blank" href="https://vusa.lt/lt">Išsamiau apie VU SA veiklą</a>.</p>
+        <p><a target="_blank" href="https://vusa.lt/lt">Išsamiau apie VU SA veiklą</a></p>
     </section>
 
     <section id="lss">
@@ -346,6 +358,6 @@
             atstovaujanti Lietuvos studentų interesams, jungianti Lietuvos aukštųjų mokyklų Studentų savivaldas.</p>
         <p>Lietuvos studentų sąjunga atstovauja Lietuvos studentams nacionaliniu lygiu. Siekdama įgyvendinti šią
             savo misiją, Sąjunga organizuoja renginius bei akcijas.</p>
-        <p><a target="_blank" href="http://www.lss.lt/veikla-lietuvoje/">Išsamiau apie LSS veiklą</a>.</p>
+        <p><a target="_blank" href="http://www.lss.lt/veikla-lietuvoje/">Išsamiau apie LSS veiklą</a></p>
     </section>
 </section>

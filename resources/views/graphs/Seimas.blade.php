@@ -323,7 +323,7 @@
 		</g>
 		<g>
 		  <text transform="translate(672.2621 325.4648)" font-size="43.9432" fill="#111" font-family="Roboto-Black, Roboto" font-weight="800">LR Seimas</text>
-		  <image width="1717" height="1261" transform="translate(471.5086 249.6477) scale(0.0961)" xlink:href="Seimas1.png"/>
+		  <image width="1717" height="1261" transform="translate(471.5086 249.6477) scale(0.0961)" xlink:href="img/AM7.png"/>
 		</g>
 	  </g>
 	  <g>
