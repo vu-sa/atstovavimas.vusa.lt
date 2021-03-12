@@ -24,8 +24,5 @@
         <li><a class="dropdown-item" href="#moksliniu-tyrimu-institutas">Mokslinių tyrimų institutai</a></li>
         <li><a class="dropdown-item" href="#lurk">Lietuvos universitetų rektorių konferencija</a></li>
         <li><a class="dropdown-item" href="#lkdk">Lietuvos kolegijų direktorių konferencija</a></li>
-        <div class="dropdown-divider"></div>
-        <li><a class="dropdown-item" href="#vusa">VU SA</a></li>
-        <li><a class="dropdown-item" href="#lss">Lietuvos studentų sąjunga</a></li>
       </ul>
 </li>

@@ -31,12 +31,6 @@
 
     <img class="img-fluid" src="/img/main/image040.jpg">
 
-    <section id="lrv-seimas">
-        <h3>Seimas</h3>
-        <p>Lietuvos Respublikos Seimas yra įstatymų leidžiamoji valdžia.</p>
-        <p><a target="_blank" href="https://www.lrs.lt/sip/portal.show?p_r=35354&p_k=1">Išsamiau apie Seimo veiklą</a></p>
-    </section>
-
     <section id="lrv">
         <h3>Vyriausybė</h3>
 
@@ -77,8 +71,8 @@
 
     <section id="mp-patarejai">
         <h3>Ministro Pirmininko patarėjai</h3>
-        <p>Ministro Pirmininko patarėjai – politinio pasitikėjimo valstybės tarnautojai, kurie pataria ministrui
-            pirmininkui atitinkamų sričių klausimais, pagal savo ekspertinius laukus.</p>
+        <p>Ministro Pirmininko patarėjai – politinio pasitikėjimo valstybės tarnautojai, kurie pataria Ministrui
+            Pirmininkui atitinkamų sričių klausimais, pagal savo ekspertinius laukus.</p>
 
 
         <p>Ministro Pirmininko patarėjus galite rasti <a target="_blank" href="https://ministraspirmininkas.lrv.lt/lt/ministres-pirmininkes-komanda">čia</a>
@@ -271,11 +265,8 @@
 
 <section id="lrv-pavaldzios-istaigos">
         <h3>Pavaldžios įstaigos</h3>
-    <p>Vyriausybė turi 17 –a pavaldžių institucijų. Išsamiau galite susipažinti <a target="_blank" href="https://lrv.lt/lt/istaigos">čia</a></p>
+    <p>Vyriausybė turi 17–a pavaldžių institucijų. Išsamiau galite susipažinti <a target="_blank" href="https://lrv.lt/lt/istaigos">čia</a></p>
 </section>
-
-<p>Studentas – asmuo, studijuojantis aukštojoje mokykloje pagal tam tikrą studijų programą arba doktorantūroje.</p>
-<p>Studentus atstovaujančios organizacijos - aprašymai nurodyti Aukštojo mokslo politikos schemoje.</p>
 
 <img class="img-fluid" src="/img/main/image046.jpg">
 

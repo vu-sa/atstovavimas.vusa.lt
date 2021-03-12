@@ -67,11 +67,13 @@
 	</g>
 	<g id="Studentai">
 	  <g>
-		<g>
-		  <rect x="1.5" y="795.6221" width="339.7295" height="80.585" rx="13.5" fill="#fff"/>
-		  <path d="M548.2294,936.567a12.0136,12.0136,0,0,1,12,12v53.5856a12.0136,12.0136,0,0,1-12,12H235.5a12.0136,12.0136,0,0,1-12-12V948.567a12.0136,12.0136,0,0,1,12-12H548.2294m0-3H235.5a15,15,0,0,0-15,15v53.5856a15,15,0,0,0,15,15H548.2294a15,15,0,0,0,15-15V948.567a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
-		</g>
-		<text transform="translate(12.1796 830.3469)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">Studentams ats<tspan x="175.3296" y="0" letter-spacing="-0.0098em">t</tspan><tspan x="183.252" y="0" letter-spacing="-0.0073em">ov</tspan><tspan x="209.2529" y="0">aujančios</tspan><tspan x="84.0332" y="30">o</tspan><tspan x="98.291" y="30" letter-spacing="-0.0093em">r</tspan><tspan x="106.5186" y="30">ganizacijos</tspan></text>
+		<a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='sao'>Daugiau</a>">
+			<g>
+			  <rect x="1.5" y="795.6221" width="339.7295" height="80.585" rx="13.5" fill="#fff"/>
+			  <path d="M548.2294,936.567a12.0136,12.0136,0,0,1,12,12v53.5856a12.0136,12.0136,0,0,1-12,12H235.5a12.0136,12.0136,0,0,1-12-12V948.567a12.0136,12.0136,0,0,1,12-12H548.2294m0-3H235.5a15,15,0,0,0-15,15v53.5856a15,15,0,0,0,15,15H548.2294a15,15,0,0,0,15-15V948.567a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
+			</g>
+			<text transform="translate(12.1796 830.3469)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">Studentams ats<tspan x="175.3296" y="0" letter-spacing="-0.0098em">t</tspan><tspan x="183.252" y="0" letter-spacing="-0.0073em">ov</tspan><tspan x="209.2529" y="0">aujančios</tspan><tspan x="84.0332" y="30">o</tspan><tspan x="98.291" y="30" letter-spacing="-0.0093em">r</tspan><tspan x="106.5186" y="30">ganizacijos</tspan></text>
+		</a>
 	  </g>
 	  <g>
 		<line x1="344.3144" y1="837.4352" x2="487.7727" y2="837.4352" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="7"/>
@@ -91,8 +93,10 @@
 		<line x1="437.2294" y1="967.2966" x2="485.6533" y2="967.2966" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="7"/>
 		<polygon points="478.025 978.482 519.762 967.304 478.025 956.111 478.025 978.482" fill="#fbb01b"/>
 	  </g>
-	  <rect x="61.3647" y="916.6078" width="220" height="46.7096" rx="13.1774" fill="#bd2835" stroke="#bd2835" stroke-linejoin="round"/>
-	  <text transform="translate(117.422 947.2687)" font-size="25" fill="#fff" font-family="Roboto-Bold, Roboto" font-weight="700">Studentai</text>
+	  <a tabindex="0" data-bs-toggle="popover" title="Studentas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Studentas – asmuo, studijuojantis aukštojoje mokykloje pagal tam tikrą studijų programą arba doktorantūroje.">
+	  	<rect x="61.3647" y="916.6078" width="220" height="46.7096" rx="13.1774" fill="#bd2835" stroke="#bd2835" stroke-linejoin="round"/>
+		  <text transform="translate(117.422 947.2687)" font-size="25" fill="#fff" font-family="Roboto-Bold, Roboto" font-weight="700">Studentai</text>
+	  </a>
 	  <text transform="translate(365.2606 823.3496)" font-size="16" fill="#fbb01b" font-family="Roboto-Italic, Roboto" font-style="italic">K<tspan x="9.8047" y="0" letter-spacing="-0.0093em">r</tspan><tspan x="14.9844" y="0">eipiasi</tspan></text>
 	  <g>
 		<line x1="439.5397" y1="513.3703" x2="490.8463" y2="513.3703" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="7"/>
@@ -346,16 +350,18 @@ kaip 7 narių, kuriose siekia politinių tikslų įgyvendinimo. <hr> <a href='#s
 	<g id="LR_Seimas" data-name="LR Seimas">
 	  <rect x="850.6849" y="660.1883" width="52" height="32" fill="url(#linear-gradient-3)"/>
 	  <rect x="850.6849" y="726.9714" width="52" height="32" fill="url(#linear-gradient-4)"/>
-	  <g>
-		<g>
-		  <path d="M417.3008,235.5234H937.0879a32.4941,32.4941,0,0,1,32.4941,32.4941v84.48a32.4941,32.4941,0,0,1-32.4941,32.4941H417.3a32.4937,32.4937,0,0,1-32.4937-32.4937v-84.48A32.4941,32.4941,0,0,1,417.3008,235.5234Z" fill="#fff"/>
-		  <path d="M1157.5877,376.4689a31.0291,31.0291,0,0,1,30.9939,30.994v84.48a31.0291,31.0291,0,0,1-30.9939,30.994H637.8008a31.0291,31.0291,0,0,1-30.994-30.994v-84.48a31.0291,31.0291,0,0,1,30.994-30.994h519.7869m0-3H637.8008a33.994,33.994,0,0,0-33.994,33.994v84.48a33.994,33.994,0,0,0,33.994,33.994h519.7869a33.9939,33.9939,0,0,0,33.9939-33.994v-84.48a33.9939,33.9939,0,0,0-33.9939-33.994Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
-		</g>
-		<g>
-		  <text transform="translate(672.2621 325.4648)" font-size="43.9432" fill="#111" font-family="Roboto-Black, Roboto" font-weight="800">LR Seimas</text>
-		  <image width="1717" height="1261" transform="translate(471.5086 249.6477) scale(0.0961)" xlink:href="img/AM7.png"/>
-		</g>
-	  </g>
+	  <a tabindex="0" data-bs-toggle="popover" title="LR Seimas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Lietuvos Respublikos Seimas yra įstatymų leidžiamoji valdžia. <hr> <a target='_blank' href='https://www.lrs.lt/sip/portal.show?p_r=35354&p_k=1'>Daugiau</a>">
+	  	<g>
+			<g>
+			  <path d="M417.3008,235.5234H937.0879a32.4941,32.4941,0,0,1,32.4941,32.4941v84.48a32.4941,32.4941,0,0,1-32.4941,32.4941H417.3a32.4937,32.4937,0,0,1-32.4937-32.4937v-84.48A32.4941,32.4941,0,0,1,417.3008,235.5234Z" fill="#fff"/>
+			  <path d="M1157.5877,376.4689a31.0291,31.0291,0,0,1,30.9939,30.994v84.48a31.0291,31.0291,0,0,1-30.9939,30.994H637.8008a31.0291,31.0291,0,0,1-30.994-30.994v-84.48a31.0291,31.0291,0,0,1,30.994-30.994h519.7869m0-3H637.8008a33.994,33.994,0,0,0-33.994,33.994v84.48a33.994,33.994,0,0,0,33.994,33.994h519.7869a33.9939,33.9939,0,0,0,33.9939-33.994v-84.48a33.9939,33.9939,0,0,0-33.9939-33.994Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
+			</g>
+			<g>
+			  <text transform="translate(672.2621 325.4648)" font-size="43.9432" fill="#111" font-family="Roboto-Black, Roboto" font-weight="800">LR Seimas</text>
+			  <image width="1717" height="1261" transform="translate(471.5086 249.6477) scale(0.0961)" xlink:href="img/AM7.png"/>
+			</g>
+		  </g>
+	  </a>
 	  <g>
 		<g>
 		  <line x1="575.8404" y1="235.7362" x2="575.8404" y2="183.4052" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>

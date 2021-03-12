@@ -6,8 +6,11 @@
         </button>
         <div class="collapse navbar-collapse vertical-nav px-3 py-3" id="navbarToggler">
             <ul class="navbar-nav navbar-nav-scroll me-auto mb-2 mb-lg-0 flex-column">
-                <li class="nav-item">
-                    <a class="nav-link" style="font-size: 1.2em" aria-current="page" href="#ivadas"><strong>Atstovavimo gidas</strong></a>
+                <li class="navbar-text">
+                    <a class="nav-link" style="font-size: 1.2em" aria-current="page"><img src="img/vusa.png" width="50" style="padding-right:15px;margin:0"><strong>Atstovavimo gidas</strong></a>
+                </li>
+                <li class="navbar-text">
+                    <a class="nav-link" style="font-size: 1em" aria-current="page" href="#ivadas"><strong>Įvadas</strong></a>
                 </li>
                 <div class="dropdown-divider"></div>
                 <li class="navbar-text">

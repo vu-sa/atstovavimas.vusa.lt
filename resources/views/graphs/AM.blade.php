@@ -381,7 +381,7 @@ valstybės
       </g>
     </g>
     <g id="SAO">
-      <rect x="1397.1081" y="1830.002" width="52" height="32" fill="url(#linear-gradient)"/>
+      <a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='sao'>Daugiau</a>"><rect x="1397.1081" y="1830.002" width="52" height="32" fill="url(#linear-gradient)"/></a>
       <text transform="matrix(1, -0.0012, 0.0012, 1, 1240.245, 2169.8887)" font-size="14" fill="#fbb01b" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan letter-spacing="-0.0483em">T</tspan><tspan x="7.4922" y="0">eikia siūlymus</tspan></text>
       <g opacity="0.33">
         <g>

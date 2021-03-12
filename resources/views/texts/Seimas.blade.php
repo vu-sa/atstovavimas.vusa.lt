@@ -151,10 +151,6 @@
         <p>Išsamiau galite susipažinti <a target="_blank" href="https://www.lrs.lt/sip/portal.show?p_r=35381&p_k=1">čia</a></p>
     </section>
 
-    <p>Studentas – asmuo, studijuojantis aukštojoje mokykloje pagal tam tikrą studijų programą arba doktorantūroje.</p>
-
-    <p>Studentus atstovaujančios organizacijos - aprašymai nurodyti Aukštojo mokslo politikos schemoje.</p>
-
     <img class="img-fluid" src="/img/main/image036.png">
 
 </section>

@@ -339,5 +339,4 @@
         <p><a target="_blank" href="https://www.kolegijos.lt/lt/apie-konferencija/istatai/">Išsamiau apie LKDK</a></p>
     </section>
 
-    
 </section>

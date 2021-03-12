@@ -195,10 +195,10 @@
     </section>
 
     <section id="smsm-pavaldzios-institucijos">
-        <p><strong>ŠMSM yra pavaldžios institucijos:</strong></p>
+        <h3>ŠMSM pavaldžios institucijos</h3>
     
         <section id="smsm-skvc">
-            <h3>Studijų kokybės vertinimo centras</h3>
+            <h4>Studijų kokybės vertinimo centras</h4>
             <p>Studijų kokybės vertinimo centras (SKVC), tai LR valstybės biudžetinė įstaiga, įgyvendinanti aukštojo mokslo
                 kokybės priežiūros politiką ir prisidedanti gerinant laisvo asmenų judėjimo sąlygas. SKVC skatina aukštųjų
                 mokyklų veiklos kokybę per išorinį vertinimą bei institucijų ir studijų programų akreditavimą bei kuria
@@ -208,7 +208,7 @@
             <p>Išsamiau su SKVC galite susipažinti <a target="_blank" href="https://www.skvc.lt/default/lt/">čia</a></p>
             <p>Atstovavimo procese verta žinoti ir patariančiąsias SKVC institucijas:</p>
             <section id="skvc-apeliacine-komisija">
-                <h4>Studijų kokybės vertinimo centro apeliacinė komisija</h4>
+                <h5>Studijų kokybės vertinimo centro apeliacinė komisija</h5>
                 <p>Apeliacinė komisija nagrinėja aukštųjų mokyklų pateiktas apeliacijas dėl SKVC priimtų sprendimų dėl
                     studijų programų, studijų krypčių, paraiškos dokumentų leidimui vykdyti studijas ir su studijomis
                     susijusią veiklą, Lietuvos aukštųjų mokyklų, užsienio aukštųjų mokyklų filialų Lietuvos Respublikoje
@@ -218,14 +218,14 @@
                 <p>Išsamiau su šia komisija galite susipažinti <a target="_blank" href="https://www.e-tar.lt/portal/lt/legalAct/014819f0ebf811e99681cd81dcdca52c">čia</a></p>
             </section>
             <section id="studiju-vertinimo-komisija">
-                <h4>Studijų vertinimo komisija</h4>
+                <h5>Studijų vertinimo komisija</h5>
                 <p>Studijų vertinimo komisija svarsto ekspertų parengtas studijų programų išvadas ir pataria SKVC programų
                     vertinimo klausimais. Komisija nagrinėja ekspertų parengtas išvadas siekdama užtikrinti, kad jos būtų
                     objektyvios, išsamios ir pagrįstos. Komisijoje veikia vienas studentų atstovas.</p>
                 <p>Išsamiau su šia komisija galite susipažinti <a target="_blank" href="https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/41e025c2eeb911e99ab7ff5a9ea34fcc?jfwid=-zvxcz1ufq">čia</a></p>
             </section>
             <section id="aukstuju-mokyklu-vertinimo-komisija">
-                <h4>Aukštųjų mokyklų vertinimo komisija</h4>
+                <h5>Aukštųjų mokyklų vertinimo komisija</h5>
                 <p>Aukštųjų mokyklų vertinimo komisija (AMVK) svarsto SKVC ekspertų pateiktas išvadas dėl paraiškų leidimui
                     vykdyti studijas ir su studijomis susijusiai veiklai gauti, aukštųjų mokyklų veiklos išorinio vertinimo.
                     AMVK taip pat teikia siūlymus dėl teisės aktų, reglamentuojančių aukštųjų mokyklų, užsienio aukštųjų
@@ -236,7 +236,7 @@
         </section>
     
         <section id="smpf">
-            <h3>Švietimo mainų ir paramos fondas (ŠMPF)</h3>
+            <h4>Švietimo mainų ir paramos fondas (ŠMPF)</h4>
     
             <p>Švietimo mainų ir paramos fondas (ŠMPF) – Lietuvos nacionalinė agentūra, kuriai pavesta administruoti
                 programą „Erasmus+“ ir kitas Europos Komisijos (EK) ir Lietuvos Respublikos Vyriausybės finansuojamas
@@ -247,7 +247,7 @@
         </section>
     
         <section id="smsm-vsf">
-            <h3>Valstybinis studijų fondas (VSF)</h3>
+            <h4>Valstybinis studijų fondas (VSF)</h4>
             <p>Valstybinis studijų fondas (VSF) – biudžetinė įstaiga, administruojanti valstybės paskolas, valstybės
                 remiamas paskolas studentams ir mokiniams, kurie mokosi pagal formaliojo profesinio mokymo programas, kitą
                 finansinę paramą studentams ir profesiniam mokymui vykdyti, lėšas studentų pilietiniams, moksliniams,
@@ -258,7 +258,7 @@
             <p>Išsamiau su VSF galite susipažinti <a target="_blank" href="https://vsf.lrv.lt/">čia</a></p>
         </section>
         <section id="nsa">
-            <h3>Nacionalinė švietimo agentūra (NŠA)</h3>
+            <h4>Nacionalinė švietimo agentūra (NŠA)</h4>
             <p>Nacionalinė švietimo agentūra dalyvauja įgyvendinant valstybinę ikimokyklinio, priešmokyklinio, bendrojo
                 ugdymo politiką, skatina švietimo įstaigas (išskyrus aukštąsias mokyklas), kitus švietimo teikėjus
                 užtikrinti švietimo veiklos kokybę, teikiant informacinę, konsultacinę, kvalifikacijos tobulinimo,
@@ -266,7 +266,7 @@
             <p>Išsamiau su Nacionaline švietimo agentūra galite susipažinti <a target="_blank" href="https://www.nsa.smm.lt/">čia</a></p>
         </section>
         <section id="esfa">
-            <h3>Europos socialinio fondo agentūra (ESFA)</h3>
+            <h4>Europos socialinio fondo agentūra (ESFA)</h4>
             <p>Europos socialinio fondo agentūra (ESFA) – Agentūra siekia pagerinti galimybes įsidarbinti padedant jauniems
                 žmonėms baigus mokyklą integruotis į darbo rinką arba apmokant mažiau kvalifikuotus darbo ieškančius
                 asmenis. Ji skelbia ministerijų patvirtintus kvietimus teikti paraiškas, konsultuoja pareiškėjus, vertina
@@ -277,7 +277,7 @@
             <p>Išsamiau su ESFA galite susipažinti <a target="_blank" href="https://www.esf.lt/lt/">čia</a></p>
         </section>
         <section id="kpmpc">
-            <h3>Kvalifikacijų ir profesinio mokymo plėtros centras</h3>
+            <h4>Kvalifikacijų ir profesinio mokymo plėtros centras</h4>
             <p>
                 Kvalifikacijų ir profesinio mokymo plėtros centras – švietimo pagalbos įstaiga, teikianti informacinę,
                 ekspertinę, konsultacinę ir kvalifikacijos tobulinimo pagalbą, įgyvendinanti valstybinę profesinio mokymo ir
@@ -288,14 +288,14 @@
             <p>Išsamiau su šiuo centru galite susipažinti <a target="_blank" href="https://www.kpmpc.lt/kpmpc/">čia</a></p>
         </section>
         <section id="lmnsc">
-            <h3>Lietuvos mokinių neformaliojo švietimo centras</h3>
+            <h4>Lietuvos mokinių neformaliojo švietimo centras</h4>
             <p>Lietuvos mokinių neformaliojo švietimo centras – inicijuoja ir dalyvauja rengiant teisės aktus, teikia
                 siūlymus, kuria, diegia ir skleidžia inovacijas neformaliojo vaikų švietimo politikos klausimais, rengia
                 mokytojų kvalifikacijos tobulinimo programas ir organizuoja jų vykdymą, teikia metodinę pagalbą.</p>
             <p>Išsamiau su šiuo centru galite susipažinti <a target="_blank" href="https://www.lmnsc.lt/">čia</a></p>
         </section>
         <section>
-            <h3>Lietuvos vaikų ir jaunimo centras</h3>
+            <h4>Lietuvos vaikų ir jaunimo centras</h4>
             <p>Lietuvos vaikų ir jaunimo centras – centras dalyvauja formuojant neformaliojo vaikų švietimo politiką ir ją
                 įgyvendinant – inicijuoja teisės aktų projektų rengimą neformaliojo vaikų švietimo srityje, koordinuoja
                 šioje srityje dirbančių mokytojų kvalifikacijos tobulinimą, organizuoja neformaliojo švietimo nacionalinius
@@ -304,12 +304,12 @@
         </section>
     
         <section id="melc">
-            <h3>Mokslo ir enciklopedijų leidybos centras</h3>
+            <h4>Mokslo ir enciklopedijų leidybos centras</h4>
             <p>Mokslo ir enciklopedijų leidybos centras – valstybinė mokslo leidybos įstaiga.</p>
             <p>Išsamiau su šiuo centru galite susipažinti <a target="_blank" href="https://www.melc.lt/lt/">čia</a></p>
         </section>
         <section id="nvi">
-            <h3>Nacionalinis vėžio institutas</h3>
+            <h4>Nacionalinis vėžio institutas</h4>
             <p>Nacionalinis vėžio institutas – instituto misija yra vykdyti valstybei, visuomenei, tarptautiniam
                 bendradarbiavimui, ūkio subjektams svarbius ilgalaikius mokslinius tyrimus ir eksperimentinę plėtrą,
                 siekiant pagerinti onkologinių pacientų diagnostikos, gydymo ir profilaktikos efektyvumą ir sumažinti
@@ -318,13 +318,13 @@
             <p>Išsamiau su Nacionaliniu vėžio institutu galite susipažinti <a target="_blank" href="https://www.nvi.lt/">čia</a></p>
         </section>
         <section id="vln">
-            <h3>Vilniaus lietuvių namai</h3>
+            <h4>Vilniaus lietuvių namai</h4>
             <p>Vilniaus lietuvių namai – dieninė, savarankiško mokymosi bendrojo lavinimo gimnazija Vilniuje vykdanti
                 pradinio, pagrindinio, vidurinio ir papildomo ugdymo programas, orientuota į užsienio lietuvius.</p>
             <p>Išsamiau su Vilniaus lietuvių namais galite susipažinti <a target="_blank" href="http://www.lietuviunamai.vilnius.lm.lt/">čia</a></p>
         </section>
         <section id="aikos-svis">
-            <h3>AIKOS ir ŠVIS</h3>
+            <h4>AIKOS ir ŠVIS</h4>
             <p>AIKOS (atvira informavimo, konsultavimo ir orientavimo sistema) bei ŠVIS (Švietimo valdymo informacinė
                 sistema). AIKOS funkcija – teikti informaciją apie mokymosi galimybes Lietuvoje. Tuo tarpu ŠVIS kaupiami
                 duomenys apie ikimokyklinį, pradinį, pagrindinį, vidurinį ugdymą, profesinį mokymą bei studijas. Duomenys

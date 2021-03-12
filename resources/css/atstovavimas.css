@@ -24,7 +24,8 @@ img {
 h1,
 h2,
 h3:not(.popover-header),
-h4 {
+h4,
+h5 {
     margin-top: 1.8em !important;
     font-family: 'Nunito Sans', sans-serif;
     line-height: 1.7;
