@@ -8,7 +8,7 @@
 <body>
     @include('elements.nav')
     <div class="container-lg" style="margin-bottom:25px">
-        <main class="page-content col-xl-9 flex-shrink-0" id="content">
+        <main class="page-content col-xl-9 flex-shrink-0" style="margin-top: 3em" id="content">
             @include('elements.entry')
             @include('texts.intro')
             <hr>
