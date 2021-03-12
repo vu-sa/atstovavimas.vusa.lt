@@ -24,7 +24,7 @@
 
                 <p><strong>ĮSTATYMŲ LEIDYBOS IR VYRIAUSYBĖS NUTARIMO PRIĖMIMO PROCESO SCHEMOS DAR NEĮDĖTOS</strong></p>
 
-                @include('texts.VyriausybesNutarimai')
+                @include('texts.procesai')
 
                 <p>Šioje dalyje pristatėme aukštojo mokslo politikos dalyvių schemas – jei kilo papildomų klausimų, į kuriuos atsakymų šiame leidinyje nepavyko rasti, kreipkitės į savo studentus atstovaujančią organizaciją.</p>
 

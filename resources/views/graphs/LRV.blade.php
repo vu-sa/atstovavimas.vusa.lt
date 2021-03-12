@@ -33,7 +33,7 @@
 			<rect x="1170.0713" y="704.4999" width="334.0957" height="145.5903" rx="13.5" fill="#fff"/>
 			<path d="M1588.3423,840.7472a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12H1281.2472a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12h307.0951m0-3H1281.2472a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15h307.0951a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-97.6757 -134.7472)" fill="#333"/>
 		  </g>
-		  <image width="1200" height="919" transform="translate(1259.9398 717.9999) scale(0.1279)" xlink:href="../../../Vilnius%20University/VRM%20pojekto%20Atstovavimo%20gidas%20-%20General/Tekstai%20ir%20schemos/Logotipai%20Justinui/Ministerstv%C5%B3%20logotipai/%C5%BD%C5%ABMin.png"/>
+		  <image width="1200" height="919" transform="translate(1259.9398 717.9999) scale(0.1279)" xlink:href="/img/Vyriausybe/%C5%BD%C5%ABMin.png"/>
 		</g>
 	  </g>
 	  <g id="Vidaus">
@@ -42,7 +42,7 @@
 			<rect x="777.7383" y="704.4999" width="334.0947" height="145.5903" rx="13.5" fill="#fff"/>
 			<path d="M1196.009,840.7472a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12H888.9139a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12H1196.009m0-3H888.9139a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15H1196.009a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-97.6757 -134.7472)" fill="#333"/>
 		  </g>
-		  <image width="852" height="400" transform="translate(806.1233 711.9999) scale(0.325)" xlink:href="../../../Vilnius%20University/VRM%20pojekto%20Atstovavimo%20gidas%20-%20General/Tekstai%20ir%20schemos/Logotipai%20Justinui/Ministerstv%C5%B3%20logotipai/VrMin.jpg"/>
+		  <image width="852" height="400" transform="translate(806.1233 711.9999) scale(0.325)" xlink:href="/img/Vyriausybe/VrMin.jpg"/>
 		</g>
 	  </g>
 	  <g id="URM">
@@ -51,7 +51,7 @@
 			<rect x="1562.4053" y="521.9999" width="334.0947" height="145.5903" rx="13.5" fill="#fff"/>
 			<path d="M1980.6757,658.2472a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12H1673.5806a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12h307.0951m0-3H1673.5806a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15h307.0951a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-97.6757 -134.7472)" fill="#333"/>
 		  </g>
-		  <image width="532" height="448" transform="translate(1585 540.4999) scale(0.24)" xlink:href="../../../Vilnius%20University/VRM%20pojekto%20Atstovavimo%20gidas%20-%20General/Tekstai%20ir%20schemos/Logotipai%20Justinui/Ministerstv%C5%B3%20logotipai/UrMin.jpg"/>
+		  <image width="532" height="448" transform="translate(1585 540.4999) scale(0.24)" xlink:href="/img/Vyriausybe/UrMin.jpg"/>
 		  <text transform="translate(1732.828 573.7297)" font-size="25" fill="#111" font-family="Roboto-Bold, Roboto" font-weight="700">Užsienio<tspan x="0" y="30" letter-spacing="-0.0093em">r</tspan><tspan x="8.8867" y="30">eikalų</tspan><tspan x="0" y="60">ministerija</tspan></text>
 		</g>
 	  </g>
@@ -61,7 +61,7 @@
 			<rect x="1170.0713" y="521.9999" width="334.0957" height="145.5903" rx="13.5" fill="#fff"/>
 			<path d="M1588.3423,658.2472a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12H1281.2472a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12h307.0951m0-3H1281.2472a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15h307.0951a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-97.6757 -134.7472)" fill="#333"/>
 		  </g>
-		  <image width="2000" height="773" transform="translate(1186.4692 537.2396) scale(0.1501)" xlink:href="../../../Vilnius%20University/VRM%20pojekto%20Atstovavimo%20gidas%20-%20General/Tekstai%20ir%20schemos/Logotipai%20Justinui/Ministerstv%C5%B3%20logotipai/TeisMin.jpg"/>
+		  <image width="2000" height="773" transform="translate(1186.4692 537.2396) scale(0.1501)" xlink:href="/img/Vyriausybe/TeisMin.jpg"/>
 		</g>
 	  </g>
 	  <g id="ŠMSM">
@@ -70,7 +70,7 @@
 			<rect x="777.7383" y="521.9999" width="334.0947" height="145.5903" rx="13.5" fill="#fff"/>
 			<path d="M1196.009,658.2472a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12H888.9139a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12H1196.009m0-3H888.9139a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15H1196.009a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-97.6757 -134.7472)" fill="#333"/>
 		  </g>
-		  <image width="1194" height="469" transform="translate(801.3333 542.4999) scale(0.24)" xlink:href="../../../Vilnius%20University/VRM%20pojekto%20Atstovavimo%20gidas%20-%20General/Tekstai%20ir%20schemos/Logotipai%20Justinui/Ministerstv%C5%B3%20logotipai/%C5%A0msMin.png"/>
+		  <image width="1194" height="469" transform="translate(801.3333 542.4999) scale(0.24)" xlink:href="/img/Vyriausybe/%C5%A0msMin.png"/>
 		</g>
 	  </g>
 	  <g id="SAM">
@@ -79,7 +79,7 @@
 			<rect x="385.4048" y="521.9999" width="334.0952" height="145.5903" rx="13.5" fill="#fff"/>
 			<path d="M803.6757,658.2472a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12H496.5806a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12H803.6757m0-3H496.5806a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15H803.6757a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-97.6757 -134.7472)" fill="#333"/>
 		  </g>
-		  <image width="346" height="146" transform="translate(408.1436 532.8091) scale(0.8348)" xlink:href="../../../Vilnius%20University/VRM%20pojekto%20Atstovavimo%20gidas%20-%20General/Tekstai%20ir%20schemos/Logotipai%20Justinui/Ministerstv%C5%B3%20logotipai/SaMin.png"/>
+		  <image width="346" height="146" transform="translate(408.1436 532.8091) scale(0.8348)" xlink:href="/img/Vyriausybe/SaMin.png"/>
 		</g>
 	  </g>
 	  <g id="Susisiekimo">
@@ -88,7 +88,7 @@
 			<rect x="1562.4053" y="337.7499" width="334.0947" height="145.5903" rx="13.5" fill="#fff"/>
 			<path d="M1980.6757,473.9972a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12H1673.5806a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12h307.0951m0-3H1673.5806a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15h307.0951a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-97.6757 -134.7472)" fill="#333"/>
 		  </g>
-		  <image width="1261" height="458" transform="translate(1567.4997 351.7984) scale(0.2573)" xlink:href="Vyriausyb%C4%971.png"/>
+		  <image width="1261" height="458" transform="translate(1567.4997 351.7984) scale(0.2573)" xlink:href="/img/Vyriausybe/Vyriausyb%C4%971.png"/>
 		</g>
 	  </g>
 	  <g id="SADM">
@@ -97,7 +97,7 @@
 			<rect x="1170.0713" y="337.7499" width="334.0957" height="145.5903" rx="13.5" fill="#fff"/>
 			<path d="M1588.3423,473.9972a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12H1281.2472a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12h307.0951m0-3H1281.2472a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15h307.0951a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-97.6757 -134.7472)" fill="#333"/>
 		  </g>
-		  <image width="1474" height="1278" transform="translate(1262.2739 346.2499) scale(0.1007)" xlink:href="../../../Vilnius%20University/VRM%20pojekto%20Atstovavimo%20gidas%20-%20General/Tekstai%20ir%20schemos/Logotipai%20Justinui/Ministerstv%C5%B3%20logotipai/SadMin.png"/>
+		  <image width="1474" height="1278" transform="translate(1262.2739 346.2499) scale(0.1007)" xlink:href="/img/Vyriausybe/SadMin.png"/>
 		</g>
 	  </g>
 	  <g id="Kultūros">
@@ -109,7 +109,7 @@
 			</g>
 			<text transform="translate(955.1614 406.4797)" font-size="25" fill="#111" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan letter-spacing="-0.0112em">K</tspan><tspan x="15.5884" y="0">ultū</tspan><tspan x="58.6426" y="0" letter-spacing="-0.0176em">r</tspan><tspan x="67.3218" y="0">os</tspan><tspan x="0" y="30">ministerija</tspan></text>
 		  </g>
-		  <image width="1757" height="1522" transform="translate(812.495 362.2499) scale(0.0667)" xlink:href="Vyriausyb%C4%972.png"/>
+		  <image width="1757" height="1522" transform="translate(812.495 362.2499) scale(0.0667)" xlink:href="img/Vyriausybe/Vyriausyb%C4%972.png"/>
 		</g>
 	  </g>
 	  <g id="KAM">
@@ -118,7 +118,7 @@
 			<rect x="385.4048" y="337.7499" width="334.0952" height="145.5903" rx="13.5" fill="#fff"/>
 			<path d="M803.6757,473.9972a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12H496.5806a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12H803.6757m0-3H496.5806a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15H803.6757a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-97.6757 -134.7472)" fill="#333"/>
 		  </g>
-		  <image width="351" height="143" transform="translate(409 352.287) scale(0.8177)" xlink:href="../../../Vilnius%20University/VRM%20pojekto%20Atstovavimo%20gidas%20-%20General/Tekstai%20ir%20schemos/Logotipai%20Justinui/Ministerstv%C5%B3%20logotipai/KaMin.png"/>
+		  <image width="351" height="143" transform="translate(409 352.287) scale(0.8177)" xlink:href="/img/Vyriausybe/KaMin.png"/>
 		</g>
 	  </g>
 	  <g id="Finansų">
@@ -127,7 +127,7 @@
 			<rect x="1562.4053" y="151.9999" width="334.0947" height="145.5903" rx="13.5" fill="#fff"/>
 			<path d="M1980.6757,288.2472a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12H1673.5806a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12h307.0951m0-3H1673.5806a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15h307.0951a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-97.6757 -134.7472)" fill="#333"/>
 		  </g>
-		  <image width="344" height="217" transform="translate(1633.2377 165.5133) scale(0.56)" xlink:href="Vyriausyb%C4%973.png"/>
+		  <image width="344" height="217" transform="translate(1633.2377 165.5133) scale(0.56)" xlink:href="img/Vyriausybe/Vyriausyb%C4%973.png"/>
 		</g>
 	  </g>
 	  <g id="Energetikos">
@@ -136,7 +136,7 @@
 			<rect x="1170.0713" y="151.9999" width="334.0957" height="145.5903" rx="13.5" fill="#fff"/>
 			<path d="M1588.3423,288.2472a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12H1281.2472a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12h307.0951m0-3H1281.2472a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15h307.0951a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-97.6757 -134.7472)" fill="#333"/>
 		  </g>
-		  <image width="301" height="139" transform="translate(1209.3333 164.9673) scale(0.8494)" xlink:href="Vyriausyb%C4%974.png"/>
+		  <image width="301" height="139" transform="translate(1209.3333 164.9673) scale(0.8494)" xlink:href="img/Vyriausybe/Vyriausyb%C4%974.png"/>
 		</g>
 	  </g>
 	  <g id="Ekonomikos">
@@ -148,7 +148,7 @@
 			</g>
 			<text transform="translate(924.1614 207.7297)" font-size="25" fill="#111" font-family="Roboto-Bold, Roboto" font-weight="700">Ekonomikos ir <tspan x="0" y="30">in</tspan><tspan x="20.6299" y="30" letter-spacing="-0.0073em">ov</tspan><tspan x="47.0337" y="30">acijų </tspan><tspan x="0" y="60">ministerija</tspan></text>
 		  </g>
-		  <image width="285" height="307" transform="translate(794.3333 162.4999) scale(0.421)" xlink:href="Vyriausyb%C4%975.png"/>
+		  <image width="285" height="307" transform="translate(794.3333 162.4999) scale(0.421)" xlink:href="img/Vyriausybe/Vyriausyb%C4%975.png"/>
 		</g>
 	  </g>
 	  <g id="Aplinkos">
@@ -160,7 +160,7 @@
 			</g>
 			<text transform="translate(562.828 220.7297)" font-size="25" fill="#111" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan letter-spacing="-0.0234em">A</tspan><tspan x="16.2354" y="0">plinkos</tspan><tspan x="0" y="30">ministerija</tspan></text>
 		  </g>
-		  <image width="1116" height="1010" transform="translate(411.3703 170.4999) scale(0.1102)" xlink:href="../../../Vilnius%20University/VRM%20pojekto%20Atstovavimo%20gidas%20-%20General/Tekstai%20ir%20schemos/Logotipai%20Justinui/Ministerstv%C5%B3%20logotipai/ApMin.png"/>
+		  <image width="1116" height="1010" transform="translate(411.3703 170.4999) scale(0.1102)" xlink:href="/img/Vyriausybe/ApMin.png"/>
 		</g>
 	  </g>
 	  <g>
@@ -214,7 +214,7 @@
 		</g>
 		<g>
 		  <text transform="translate(1685.7621 1112.3476)" font-size="43.9432" fill="#111" font-family="Roboto-Black, Roboto" font-weight="800">LR Seimas</text>
-		  <image width="1717" height="1261" transform="translate(1485.0086 1036.5305) scale(0.0961)" xlink:href="Vyriausyb%C4%976.png"/>
+		  <image width="1717" height="1261" transform="translate(1485.0086 1036.5305) scale(0.0961)" xlink:href="img/Vyriausybe/Vyriausyb%C4%976.png"/>
 		</g>
 	  </g>
 	  <g>

@@ -1,6 +1,17 @@
-<section id="nutarimai">
+<section id="procesai">
+    <section id="seimo-nutarimu-trumpoji-schema">
+        <h2>Seimo nutarimų priėmimų procesas</h2>
+        @include('graphs.SeimasProcesasTrumpai')
+    </section>
+
+    <section id="seimo-nutarimu-schema">
+        <h2>Seimo nutarimų priėmimų procesas</h2>
+        @include('graphs.SeimasProcesas')
+    </section>
+    
     <section id="lrv-nutarimu-schema">
-        <h2>VYRIAUSYBĖS NUTARIMO PRIĖMIMO PROCESAS</h2>
+        <h2>Vyriausybės nutarimų priėmimų procesas</h2>
+        @include('graphs.VyriausybeProcesas')
     </section>
 
     <p>Teisės aktų projektai registruojami Vyriausybės kanceliarijoje. </p>
