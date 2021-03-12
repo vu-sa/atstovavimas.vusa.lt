@@ -23,14 +23,18 @@
 	  <linearGradient id="linear-gradient-4" x1="4371.5833" y1="1797.1849" x2="4371.5833" y2="1849.1849" xlink:href="#linear-gradient"/>
 	</defs>
 	<g id="LR_Seimo_kanceliarija" data-name="LR Seimo kanceliarija">
-	  <g>
-		<g>
-		  <rect x="756.9902" y="98.6565" width="282.8457" height="51.668" rx="13.5" fill="#fff"/>
-		  <path d="M1246.8356,239.6018a12.0136,12.0136,0,0,1,12,12V276.27a12.0136,12.0136,0,0,1-12,12H990.99a12.0136,12.0136,0,0,1-12-12V251.6018a12.0136,12.0136,0,0,1,12-12h255.8454m0-3H990.99a15,15,0,0,0-15,15V276.27a15,15,0,0,0,15,15h255.8454a15,15,0,0,0,15-15V251.6018a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
-		</g>
-		<text transform="translate(779.2958 133.3816)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">LR Seimo kanceliarija</text>
-	  </g>
-	  <text transform="translate(917.9992 180.4487)" font-size="16" fill="#fbb01b" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan letter-spacing="-0.0054em">P</tspan><tspan x="9.7813" y="0">adeda</tspan></text>
+		<a tabindex="0" data-bs-toggle="popover" title="Seimo kanceliarija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimo kanceliarijos žmonės atlieka įvairias užduotis, kad užtikrintų sklandų Seimo darbą ir nepertraukiamą
+		teisėkūros procesą, gerintų informacijos apie Seimo darbą sklaidą ir pasiekiamumą, nuosekliai ir kryptingai plėtotų
+		tarptautinį bendradarbiavimą. <hr> <a target='_blank' href='https://www.lrs.lt/sip/portal.show?p_r=35381&p_k=1'>Daugiau</a>">
+	  	<g>
+			<g>
+			  <rect x="756.9902" y="98.6565" width="282.8457" height="51.668" rx="13.5" fill="#fff"/>
+			  <path d="M1246.8356,239.6018a12.0136,12.0136,0,0,1,12,12V276.27a12.0136,12.0136,0,0,1-12,12H990.99a12.0136,12.0136,0,0,1-12-12V251.6018a12.0136,12.0136,0,0,1,12-12h255.8454m0-3H990.99a15,15,0,0,0-15,15V276.27a15,15,0,0,0,15,15h255.8454a15,15,0,0,0,15-15V251.6018a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
+			</g>
+			<text transform="translate(779.2958 133.3816)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">LR Seimo kanceliarija</text>
+		  </g>
+		</a>
+		  <text transform="translate(917.9992 180.4487)" font-size="16" fill="#fbb01b" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan letter-spacing="-0.0054em">P</tspan><tspan x="9.7813" y="0">adeda</tspan></text>
 	  <g>
 		<g>
 		  <line x1="898.9841" y1="151.1652" x2="898.9841" y2="206.4962" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
@@ -40,22 +44,26 @@
 	  </g>
 	</g>
 	<g id="Komisijos">
-	  <g>
-		<g>
-		  <path d="M530.879,1062.4093H788.73a13.5,13.5,0,0,1,13.5,13.5v24.668a13.5,13.5,0,0,1-13.5,13.5h-257.85a13.5,13.5,0,0,1-13.5-13.5v-24.6685A13.5,13.5,0,0,1,530.879,1062.4093Z" fill="#fff"/>
-		  <path d="M1009.2294,1203.3548a12.0136,12.0136,0,0,1,12,12v24.668a12.0136,12.0136,0,0,1-12,12h-257.85a12.0136,12.0136,0,0,1-12-12v-24.668a12.0136,12.0136,0,0,1,12-12h257.85m0-3h-257.85a15,15,0,0,0-15,15v24.668a15,15,0,0,0,15,15h257.85a15,15,0,0,0,15-15v-24.668a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
-		</g>
-		<text transform="translate(604.9765 1098.1759)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto"><tspan letter-spacing="-0.0132em">K</tspan><tspan x="15.3442" y="0">omisijos</tspan></text>
-	  </g>
+		<a tabindex="0" data-bs-toggle="popover" title="Komisijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimas įstatymams nagrinėti ir kitiems klausimams spręsti sudaro komisijas. <hr> <a href='#seimo-komisijos'>Daugiau</a>">
+	  	<g>
+			<g>
+			  <path d="M530.879,1062.4093H788.73a13.5,13.5,0,0,1,13.5,13.5v24.668a13.5,13.5,0,0,1-13.5,13.5h-257.85a13.5,13.5,0,0,1-13.5-13.5v-24.6685A13.5,13.5,0,0,1,530.879,1062.4093Z" fill="#fff"/>
+			  <path d="M1009.2294,1203.3548a12.0136,12.0136,0,0,1,12,12v24.668a12.0136,12.0136,0,0,1-12,12h-257.85a12.0136,12.0136,0,0,1-12-12v-24.668a12.0136,12.0136,0,0,1,12-12h257.85m0-3h-257.85a15,15,0,0,0-15,15v24.668a15,15,0,0,0,15,15h257.85a15,15,0,0,0,15-15v-24.668a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
+			</g>
+			<text transform="translate(604.9765 1098.1759)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto"><tspan letter-spacing="-0.0132em">K</tspan><tspan x="15.3442" y="0">omisijos</tspan></text>
+		  </g>
+	  </a>
 	</g>
 	<g id="Laikinosios_darbo_grupės" data-name="Laikinosios darbo grupės">
-	  <g>
-		<g>
-		  <rect x="523.1445" y="794.5566" width="279.085" height="83.5859" rx="13.5" fill="#fff"/>
-		  <path d="M1009.2294,935.5022a12.0136,12.0136,0,0,1,12,12v56.5856a12.0136,12.0136,0,0,1-12,12H757.1445a12.0136,12.0136,0,0,1-12-12V947.5022a12.0136,12.0136,0,0,1,12-12h252.0849m0-3H757.1445a15,15,0,0,0-15,15v56.5856a15,15,0,0,0,15,15h252.0849a15,15,0,0,0,15-15V947.5022a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
-		</g>
-		<text transform="translate(596.5861 829.282)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">Laikinosios <tspan x="-7.4282" y="30">darbo grupės</tspan></text>
-	  </g>
+		<a tabindex="0" data-bs-toggle="popover" title="Laikinosios darbo grupės" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Konkretiems klausimams spręsti Seimo nariai (mažiausiai penki) gali jungtis į laikinąsias darbo grupes. <hr> <a href='#https://www.lrs.lt/sip/portal.show?p_r=38270&p_k=1'>Daugiau</a>">
+	  	<g>
+			<g>
+			  <rect x="523.1445" y="794.5566" width="279.085" height="83.5859" rx="13.5" fill="#fff"/>
+			  <path d="M1009.2294,935.5022a12.0136,12.0136,0,0,1,12,12v56.5856a12.0136,12.0136,0,0,1-12,12H757.1445a12.0136,12.0136,0,0,1-12-12V947.5022a12.0136,12.0136,0,0,1,12-12h252.0849m0-3H757.1445a15,15,0,0,0-15,15v56.5856a15,15,0,0,0,15,15h252.0849a15,15,0,0,0,15-15V947.5022a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
+			</g>
+			<text transform="translate(596.5861 829.282)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">Laikinosios <tspan x="-7.4282" y="30">darbo grupės</tspan></text>
+		  </g>
+	  </a>
 	</g>
 	<g id="Studentai">
 	  <g>
@@ -93,13 +101,16 @@
 	</g>
 	<g id="LRS_frakcijų_sueiga" data-name="LRS frakcijų sueiga">
 	  <rect x="885.1607" y="449.9277" width="52" height="32" fill="url(#linear-gradient)"/>
-	  <g>
-		<g>
-		  <rect x="1114.9766" y="649.189" width="282.8457" height="80.5854" rx="13.5" fill="#fff"/>
-		  <path d="M1604.8219,790.1343a12.0136,12.0136,0,0,1,12,12V855.72a12.0136,12.0136,0,0,1-12,12H1348.9765a12.0136,12.0136,0,0,1-12-12V802.1343a12.0136,12.0136,0,0,1,12-12h255.8454m0-3H1348.9765a15,15,0,0,0-15,15V855.72a15,15,0,0,0,15,15h255.8454a15,15,0,0,0,15-15V802.1343a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
-		</g>
-		<text transform="translate(1159.6024 683.9142)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">LR Seimo f<tspan x="120.2148" y="0" letter-spacing="-0.0195em">r</tspan><tspan x="128.186" y="0">a</tspan><tspan x="141.7847" y="0" letter-spacing="-0.0098em">k</tspan><tspan x="154.2114" y="0">cijų</tspan><tspan x="12.9824" y="30">seniūnų sueiga</tspan></text>
-	  </g>
+	  <a tabindex="0" data-bs-toggle="popover" title="Seniūnų sueiga" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seime veikia Seniūnų sueiga, į kurią įeina Seimo valdybos nariai ir frakcijų atstovai, kurių skaičius
+proporcingas frakcijų narių skaičiui. <hr> <a href='#seniunu-sueiga'>Daugiau</a>">
+	  	<g>
+			<g>
+			  <rect x="1114.9766" y="649.189" width="282.8457" height="80.5854" rx="13.5" fill="#fff"/>
+			  <path d="M1604.8219,790.1343a12.0136,12.0136,0,0,1,12,12V855.72a12.0136,12.0136,0,0,1-12,12H1348.9765a12.0136,12.0136,0,0,1-12-12V802.1343a12.0136,12.0136,0,0,1,12-12h255.8454m0-3H1348.9765a15,15,0,0,0-15,15V855.72a15,15,0,0,0,15,15h255.8454a15,15,0,0,0,15-15V802.1343a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
+			</g>
+			<text transform="translate(1159.6024 683.9142)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">LR Seimo f<tspan x="120.2148" y="0" letter-spacing="-0.0195em">r</tspan><tspan x="128.186" y="0">a</tspan><tspan x="141.7847" y="0" letter-spacing="-0.0098em">k</tspan><tspan x="154.2114" y="0">cijų</tspan><tspan x="12.9824" y="30">seniūnų sueiga</tspan></text>
+		  </g>
+	  </a>
 	  <g>
 		<g>
 		  <polyline points="1115.338 702.242 1037.771 702.242 922.5 702.242 922.5 854.176 832.965 854.176" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
@@ -153,13 +164,16 @@
 	</g>
 	<g id="LRV">
 	  <g>
-		<g>
-		  <g>
-			<path d="M139.8335,1.5H676.2676a32.4941,32.4941,0,0,1,32.4941,32.4941v84.481a32.4932,32.4932,0,0,1-32.4932,32.4932H139.8335a32.4941,32.4941,0,0,1-32.4941-32.4941v-84.48A32.4941,32.4941,0,0,1,139.8335,1.5Z" fill="#fff"/>
-			<path d="M896.7681,142.4453a31.0292,31.0292,0,0,1,30.994,30.994v84.48a31.0291,31.0291,0,0,1-30.994,30.9939H360.3335A31.029,31.029,0,0,1,329.34,257.92v-84.48a31.0291,31.0291,0,0,1,30.9939-30.994H896.7681m0-3H360.3335a33.9939,33.9939,0,0,0-33.9939,33.994v84.48a33.9939,33.9939,0,0,0,33.9939,33.9939H896.7681a33.9939,33.9939,0,0,0,33.994-33.9939v-84.48a33.994,33.994,0,0,0-33.994-33.994Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
-		  </g>
-		  <text transform="translate(384.7948 92.4414)" font-size="43.9432" fill="#111" font-family="Roboto-Black, Roboto" font-weight="800">LR <tspan x="63.4258" y="0" letter-spacing="-0.0054em">V</tspan><tspan x="92.2207" y="0">yriausybė</tspan></text>
-		</g>
+		<a tabindex="0" data-bs-toggle="popover" title="Vyriausybė" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Vyriausybė – tai Lietuvos Respublikos įstatymų vykdomoji valdžia. Vyriausybė sudaro 14 ministerijų ministrai ir
+ministras pirmininkas, Seimo paskirti ketverių metų kadencijai. <hr> <a target='_blank' href='https://lrv.lt/lt/aktuali-informacija/apie-vyriausybe/vyriausybe'>Daugiau</a>">
+			<g>
+			  <g>
+				<path d="M139.8335,1.5H676.2676a32.4941,32.4941,0,0,1,32.4941,32.4941v84.481a32.4932,32.4932,0,0,1-32.4932,32.4932H139.8335a32.4941,32.4941,0,0,1-32.4941-32.4941v-84.48A32.4941,32.4941,0,0,1,139.8335,1.5Z" fill="#fff"/>
+				<path d="M896.7681,142.4453a31.0292,31.0292,0,0,1,30.994,30.994v84.48a31.0291,31.0291,0,0,1-30.994,30.9939H360.3335A31.029,31.029,0,0,1,329.34,257.92v-84.48a31.0291,31.0291,0,0,1,30.9939-30.994H896.7681m0-3H360.3335a33.9939,33.9939,0,0,0-33.9939,33.994v84.48a33.9939,33.9939,0,0,0,33.9939,33.9939H896.7681a33.9939,33.9939,0,0,0,33.994-33.9939v-84.48a33.994,33.994,0,0,0-33.994-33.994Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
+			  </g>
+			  <text transform="translate(384.7948 92.4414)" font-size="43.9432" fill="#111" font-family="Roboto-Black, Roboto" font-weight="800">LR <tspan x="63.4258" y="0" letter-spacing="-0.0054em">V</tspan><tspan x="92.2207" y="0">yriausybė</tspan></text>
+			</g>
+		</a>
 		<g>
 		  <path d="M465.33,197.326v-1.0628h-7.18v-9.5647h-1.2905V197.326Zm3.1131-10.6275h-1.2905V197.326h1.2905ZM480.694,197.326v-1.0628h-8.38v-3.8866h7.3323v-1.0627h-7.3323v-3.5527h8.2895v-1.0627h-9.58V197.326Zm12.2975-9.5648v-1.0627H481.9851v1.0627h4.8576v9.5648h1.2912v-9.5648Zm12.2368,4.6913v-5.754h-1.29v5.754c0,2.8846-1.26,3.9626-4.084,3.9626-2.84,0-4.0543-1.0628-4.0543-3.9626v-5.754h-1.29v5.754c0,3.7956,1.7,5.0253,5.3441,5.0253,3.6727,0,5.3738-1.1842,5.3738-5.0253m13.4058-5.754h-1.4113l-4.6767,9.5344-4.6906-9.5344h-1.4126l5.2985,10.6275h1.5941Zm12.2368,5.2986c0-3.8411-2.612-5.45-6.088-5.45-3.4464,0-6.0736,1.6093-6.0736,5.45s2.5817,5.4807,6.0736,5.4807c3.5222,0,6.088-1.64,6.088-5.4807m-1.2912,0c0,3.0667-1.9585,4.418-4.7968,4.418-2.8239,0-4.7817-1.3513-4.7817-4.418,0-3.082,1.9875-4.3877,4.7817-4.3877,2.7783,0,4.7968,1.3057,4.7968,4.3877m13.468,2.2773c0-4.6306-9.246-1.746-9.246-4.5547,0-1.8218,2.307-2.11,3.6886-2.11,1.5175,0,3.476.2885,4.0088,1.9433l1.1683-.2884c-.7439-2.2166-3.0364-2.7176-5.1309-2.7176-1.944,0-5.0411.7135-5.0411,3.173,0,4.2055,9.2,1.2146,9.2,4.5547,0,1.9737-2.7024,2.1407-4.13,2.1407-1.777,0-3.6582-.3189-4.1744-2.05l-1.23.3188c.5769,2.3532,3.082,2.7935,5.4048,2.7935,2.1862,0,5.4815-.3188,5.4815-3.2034" transform="translate(-220.5 -139.4453)" fill="#231f20"/>
 		  <path d="M467.744,215.2685l-3.1123-4.5395a3.0447,3.0447,0,0,0,2.8846-3.0212c0-1.9889-1.67-3.0668-3.5071-3.0668h-7.15v10.6275H458.15v-4.4939h5.1l3.0364,4.4939Zm-1.5182-7.5607a2.0245,2.0245,0,0,1-2.2014,2.004H458.15v-4.008h5.8748a2.0245,2.0245,0,0,1,2.2014,2.004m13.0111,7.5607v-1.0627h-8.3806v-3.8867h7.333v-1.0627h-7.333v-3.5526h8.2888V204.641h-9.58v10.6275Zm12.3272-3.0516c0-4.6306-9.2452-1.746-9.2452-4.5546,0-1.8219,2.3076-2.11,3.6892-2.11,1.5175,0,3.476.2885,4.0074,1.9434l1.17-.2885c-.7439-2.2166-3.0364-2.7176-5.1309-2.7176-1.9439,0-5.0411.7136-5.0411,3.1731,0,4.2054,9.2,1.2145,9.2,4.5546,0,1.9737-2.7025,2.1407-4.13,2.1407-1.777,0-3.66-.3189-4.1744-2.05l-1.2311.3188c.5769,2.3532,3.0827,2.7935,5.4055,2.7935,2.1856,0,5.48-.3188,5.48-3.2034m12.3893-4.5091c0-1.9889-1.6238-3.0668-3.4615-3.0668h-7.1053v10.6275h1.2912v-4.4939h5.8141c1.8377,0,3.4615-1.0779,3.4615-3.0668m-1.2912,0a1.9972,1.9972,0,0,1-2.2159,2.004h-5.7685v-4.008h5.7685a1.9972,1.9972,0,0,1,2.2159,2.004m13.528,2.6872v-5.754H514.899v5.754c0,2.8846-1.26,3.9626-4.084,3.9626-2.8383,0-4.0529-1.0628-4.0529-3.9626v-5.754h-1.2912v5.754c0,3.7956,1.7011,5.0253,5.3441,5.0253,3.6748,0,5.3752-1.1842,5.3752-5.0253m13.3292,1.8067a2.553,2.553,0,0,0-1.8978-2.505,2.4229,2.4229,0,0,0,1.2457-2.2166c0-2.0193-1.67-2.8391-3.4761-2.8391h-6.9244v10.6275h7.6373c2.0648,0,3.4153-.8654,3.4153-3.0668m-1.9426-4.7368a1.6658,1.6658,0,0,1-1.6549,1.7915H519.758v-3.5526h5.6477c1.1684,0,2.1711.4554,2.1711,1.7611m.6528,4.7368c0,1.4119-.7591,2.0041-2.1255,2.0041H519.758v-3.917h6.0425c1.3208,0,2.4291.4554,2.4291,1.9129m11.5081,3.0668v-1.0627h-7.1819V204.641h-1.29v10.6275Zm3.1116-10.6275h-1.29v10.6275h1.29Zm13.3748,10.6275-7.1046-6.0121,6.6947-4.6154h-1.9434l-7.1487,4.9646V204.641H545.431v10.6275h1.2911v-4.3421l1.365-.9565,6.3165,5.2986Zm11.7827-5.3289c0-3.8411-2.612-5.45-6.0881-5.45-3.4463,0-6.0735,1.6093-6.0735,5.45s2.5817,5.4807,6.0735,5.4807c3.5223,0,6.0881-1.64,6.0881-5.4807m-1.2912,0c0,3.0668-1.9585,4.418-4.7969,4.418-2.8238,0-4.7823-1.3512-4.7823-4.418,0-3.082,1.9882-4.3877,4.7823-4.3877,2.7784,0,4.7969,1.3057,4.7969,4.3877m13.4666,2.2773c0-4.6306-9.2446-1.746-9.2446-4.5546,0-1.8219,2.3056-2.11,3.6872-2.11,1.5189,0,3.4774.2885,4.0088,1.9434l1.1683-.2885c-.7439-2.2166-3.0364-2.7176-5.1309-2.7176-1.9439,0-5.04.7136-5.04,3.1731,0,4.2054,9.199,1.2145,9.199,4.5546,0,1.9737-2.7024,2.1407-4.1282,2.1407-1.777,0-3.66-.3189-4.1758-2.05l-1.229.3188c.5762,2.3532,3.0806,2.7935,5.4048,2.7935,2.1862,0,5.48-.3188,5.48-3.2034" transform="translate(-220.5 -139.4453)" fill="#231f20"/>
@@ -185,13 +199,17 @@
 	  <text transform="translate(347.3859 180.4487)" font-size="16" fill="#fbb01b" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan letter-spacing="-0.0483em">T</tspan><tspan x="8.5625" y="0">eikia siūlymus / iš</tspan><tspan x="133.3906" y="0" letter-spacing="-0.0073em">v</tspan><tspan x="140.8672" y="0">adas</tspan></text>
 	</g>
 	<g id="LR_Seimo_pirmininkas" data-name="LR Seimo pirmininkas">
-	  <g>
-		<g>
-		  <rect x="1114.9766" y="382.8159" width="282.8457" height="51.668" rx="13.5" fill="#fff"/>
-		  <path d="M1604.8219,523.7611a12.0136,12.0136,0,0,1,12,12v24.6683a12.0136,12.0136,0,0,1-12,12H1348.9765a12.0136,12.0136,0,0,1-12-12V535.7611a12.0136,12.0136,0,0,1,12-12h255.8454m0-3H1348.9765a15,15,0,0,0-15,15v24.6683a15,15,0,0,0,15,15h255.8454a15,15,0,0,0,15-15V535.7611a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
-		</g>
-		<text transform="translate(1135.7196 417.541)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">LR Seimo pirmininkas</text>
-	  </g>
+		
+	  	<g>
+			<a tabindex="0" data-bs-toggle="popover" title="Seimo pirmininkas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimo pirmininkas yra Lietuvos Respublikos Seimo vadovas, renkamas Seimo daugumos balsais Seimo kadencijos
+			laikotarpiui. Vykdydamas savo įgaliojimus, Seimo Pirmininkas leidžia potvarkius. <hr> <a target='_blank' href='https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.5734/OLtfmteOUm'>Daugiau</a>">
+			<g>
+			  <rect x="1114.9766" y="382.8159" width="282.8457" height="51.668" rx="13.5" fill="#fff"/>
+			  <path d="M1604.8219,523.7611a12.0136,12.0136,0,0,1,12,12v24.6683a12.0136,12.0136,0,0,1-12,12H1348.9765a12.0136,12.0136,0,0,1-12-12V535.7611a12.0136,12.0136,0,0,1,12-12h255.8454m0-3H1348.9765a15,15,0,0,0-15,15v24.6683a15,15,0,0,0,15,15h255.8454a15,15,0,0,0,15-15V535.7611a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
+			</g>
+			<text transform="translate(1135.7196 417.541)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">LR Seimo pirmininkas</text>
+		  </g>
+		</a>
 	  <g>
 		<g>
 		  <path d="M1353.9567,520.0334s-11.9144-36.0406-36.0406-36.0406c-15.703,0-63.78.24-95.4359.4077" transform="translate(-220.5 -139.4453)" fill="none" stroke="#bd2835" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
@@ -208,13 +226,15 @@
 	  <circle cx="1362.8933" cy="433.5724" r="9.053" fill="#bd2835" stroke="#333" stroke-miterlimit="10" stroke-width="3"/>
 	</g>
 	<g id="LR_SP_pavaduotojai" data-name="LR SP pavaduotojai">
-	  <g>
-		<g>
-		  <rect x="1112.0824" y="517.6849" width="282.8457" height="80.585" rx="13.5" fill="#fff"/>
-		  <path d="M1601.9278,658.63a12.0136,12.0136,0,0,1,12,12v53.5856a12.0136,12.0136,0,0,1-12,12H1346.0824a12.0136,12.0136,0,0,1-12-12V670.63a12.0136,12.0136,0,0,1,12-12h255.8454m0-3H1346.0824a15,15,0,0,0-15,15v53.5856a15,15,0,0,0,15,15h255.8454a15,15,0,0,0,15-15V670.63a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
-		</g>
-		<text transform="translate(1138.9407 552.4097)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">LR Seimo pirmininko<tspan x="42.8652" y="30">p</tspan><tspan x="56.8911" y="30" letter-spacing="-0.0073em">av</tspan><tspan x="82.2329" y="30">aduo</tspan><tspan x="137.9702" y="30" letter-spacing="-0.0098em">t</tspan><tspan x="145.8926" y="30">ojai</tspan></text>
-	  </g>
+	  <a tabindex="0" data-bs-toggle="popover" title="Seimo pirmininko pavaduotojai" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimo Pirmininko pavaduotojai atlieka Seimo Pirmininko jiems pavestas funkcijas. <hr> <a target='_blank' href='https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.5734/OLtfmteOUm'>Daugiau</a>">
+	  	<g>
+			<g>
+			  <rect x="1112.0824" y="517.6849" width="282.8457" height="80.585" rx="13.5" fill="#fff"/>
+			  <path d="M1601.9278,658.63a12.0136,12.0136,0,0,1,12,12v53.5856a12.0136,12.0136,0,0,1-12,12H1346.0824a12.0136,12.0136,0,0,1-12-12V670.63a12.0136,12.0136,0,0,1,12-12h255.8454m0-3H1346.0824a15,15,0,0,0-15,15v53.5856a15,15,0,0,0,15,15h255.8454a15,15,0,0,0,15-15V670.63a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
+			</g>
+			<text transform="translate(1138.9407 552.4097)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">LR Seimo pirmininko<tspan x="42.8652" y="30">p</tspan><tspan x="56.8911" y="30" letter-spacing="-0.0073em">av</tspan><tspan x="82.2329" y="30">aduo</tspan><tspan x="137.9702" y="30" letter-spacing="-0.0098em">t</tspan><tspan x="145.8926" y="30">ojai</tspan></text>
+		  </g>
+	  </a>
 	  <g>
 		<polyline points="1542.174 501.093 1542.174 478.385 1362.893 478.385 1362.893 516.184" fill="none" stroke="#bd2835" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
 		<polygon points="1551.761 494.555 1542.18 530.329 1532.587 494.555 1551.761 494.555" fill="#bd2835"/>
@@ -223,13 +243,16 @@
 	  <text transform="translate(1384.1934 465.9277)" font-size="16" fill="#bd2835" font-family="Roboto-Italic, Roboto" font-style="italic">Įeina</text>
 	</g>
 	<g id="LRS_valdyba" data-name="LRS valdyba">
-	  <g>
-		<g>
-		  <rect x="1509.8652" y="531.8291" width="282.8457" height="51.6685" rx="13.5" fill="#fff"/>
-		  <path d="M1999.7107,672.7747a12.0136,12.0136,0,0,1,12,12v24.6682a12.0136,12.0136,0,0,1-12,12H1743.8652a12.0136,12.0136,0,0,1-12-12V684.7747a12.0136,12.0136,0,0,1,12-12h255.8455m0-3H1743.8652a15,15,0,0,0-15,15v24.6682a15,15,0,0,0,15,15h255.8455a15,15,0,0,0,15-15V684.7747a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
-		</g>
-		<text transform="translate(1552.7089 566.5544)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">LR Seimo <tspan x="111.5356" y="0" letter-spacing="-0.0073em">v</tspan><tspan x="123.4619" y="0">aldyba</tspan></text>
-	  </g>
+		<a tabindex="0" data-bs-toggle="popover" title="Seimo valdyba" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimo valdybą sudaro Seimo Pirmininkas, jo pavaduotojai ir Seimo opozicijos lyderis. Valdyba sprendžia
+		organizacinius Seimo darbo klausimus ir teikia patarimus Seimo Pirmininkui. <hr> <a href='#seimo-valdyba'>Daugiau</a>">
+	  	<g>
+			<g>
+			  <rect x="1509.8652" y="531.8291" width="282.8457" height="51.6685" rx="13.5" fill="#fff"/>
+			  <path d="M1999.7107,672.7747a12.0136,12.0136,0,0,1,12,12v24.6682a12.0136,12.0136,0,0,1-12,12H1743.8652a12.0136,12.0136,0,0,1-12-12V684.7747a12.0136,12.0136,0,0,1,12-12h255.8455m0-3H1743.8652a15,15,0,0,0-15,15v24.6682a15,15,0,0,0,15,15h255.8455a15,15,0,0,0,15-15V684.7747a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
+			</g>
+			<text transform="translate(1552.7089 566.5544)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">LR Seimo <tspan x="111.5356" y="0" letter-spacing="-0.0073em">v</tspan><tspan x="123.4619" y="0">aldyba</tspan></text>
+		  </g>
+	  </a>
 	  <g>
 		<g>
 		  <polyline points="1509.338 557.435 1466.5 557.435 1466.5 700.37 1428.965 700.37" fill="none" stroke="#bd2835" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
@@ -240,13 +263,15 @@
 	  <text transform="translate(1467.3914 540.7898)" font-size="16" fill="#bd2835" font-family="Roboto-Italic, Roboto" font-style="italic">Įeina</text>
 	</g>
 	<g id="Seimo_nariai" data-name="Seimo nariai">
-	  <g>
-		<g>
-		  <rect x="524.1446" y="487.6218" width="282.8457" height="51.668" rx="13.5" fill="#fff"/>
-		  <path d="M1013.99,628.567a12.0136,12.0136,0,0,1,12,12v24.6684a12.0136,12.0136,0,0,1-12,12H758.1444a12.0136,12.0136,0,0,1-12-12V640.567a12.0136,12.0136,0,0,1,12-12H1013.99m0-3H758.1444a15,15,0,0,0-15,15v24.6684a15,15,0,0,0,15,15H1013.99a15,15,0,0,0,15-15V640.567a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
-		</g>
-		<text transform="translate(578.7677 522.3469)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">LR Seimo nariai</text>
-	  </g>
+		<a tabindex="0" data-bs-toggle="popover" title="Seimo nariai" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimo nariais tampa 141 demokratiškuose rinkimuose išrinkti Lietuvos piliečiai. <hr> <a target='_blank' href='#seimo-nariai'>Daugiau</a>">
+	  	<g>
+			<g>
+			  <rect x="524.1446" y="487.6218" width="282.8457" height="51.668" rx="13.5" fill="#fff"/>
+			  <path d="M1013.99,628.567a12.0136,12.0136,0,0,1,12,12v24.6684a12.0136,12.0136,0,0,1-12,12H758.1444a12.0136,12.0136,0,0,1-12-12V640.567a12.0136,12.0136,0,0,1,12-12H1013.99m0-3H758.1444a15,15,0,0,0-15,15v24.6684a15,15,0,0,0,15,15H1013.99a15,15,0,0,0,15-15V640.567a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
+			</g>
+			<text transform="translate(578.7677 522.3469)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">LR Seimo nariai</text>
+		  </g>
+	  </a>
 	  <g>
 		<g>
 		  <line x1="673.7891" y1="486.4418" x2="673.7891" y2="413.1107" fill="none" stroke="#bd2835" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
@@ -265,11 +290,13 @@
 	  <text transform="translate(595.3386 590.7849)" font-size="16" fill="#bd2835" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan letter-spacing="-0.0103em">F</tspan><tspan x="8.4922" y="0">ormuoja</tspan></text>
 	</g>
 	<g id="LR_Frakcijos_seniūnas" data-name="LR Frakcijos seniūnas">
-	  <g>
-		<rect x="1114.7373" y="795.2188" width="282.8457" height="51.6685" rx="13.5" fill="#fff"/>
-		<path d="M1604.5827,936.1641a12.0136,12.0136,0,0,1,12,12v24.6683a12.0136,12.0136,0,0,1-12,12H1348.7373a12.0136,12.0136,0,0,1-12-12V948.1641a12.0136,12.0136,0,0,1,12-12h255.8454m0-3H1348.7373a15,15,0,0,0-15,15v24.6683a15,15,0,0,0,15,15h255.8454a15,15,0,0,0,15-15V948.1641a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
-	  </g>
-	  <text transform="translate(1135.6339 829.944)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">LR <tspan x="35.0342" y="0" letter-spacing="-0.0127em">F</tspan><tspan x="48.5352" y="0" letter-spacing="-0.0195em">r</tspan><tspan x="56.5063" y="0">a</tspan><tspan x="70.105" y="0" letter-spacing="-0.0098em">k</tspan><tspan x="82.5317" y="0">cijos seniūnas</tspan></text>
+		<a tabindex="0" data-bs-toggle="popover" title="Seimo frakcijos seniūnas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimo narių frakcijai vadovauja ir jai Seime atstovauja frakcijos seniūnas ar seniūno pavaduotojas. <hr> <a target='_blank' href='https://www.lrs.lt/sip/portal.show?p_r=35342&p_k=1'>Daugiau</a>">
+	  	<g>
+			<rect x="1114.7373" y="795.2188" width="282.8457" height="51.6685" rx="13.5" fill="#fff"/>
+			<path d="M1604.5827,936.1641a12.0136,12.0136,0,0,1,12,12v24.6683a12.0136,12.0136,0,0,1-12,12H1348.7373a12.0136,12.0136,0,0,1-12-12V948.1641a12.0136,12.0136,0,0,1,12-12h255.8454m0-3H1348.7373a15,15,0,0,0-15,15v24.6683a15,15,0,0,0,15,15h255.8454a15,15,0,0,0,15-15V948.1641a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
+		  </g>
+		  <text transform="translate(1135.6339 829.944)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">LR <tspan x="35.0342" y="0" letter-spacing="-0.0127em">F</tspan><tspan x="48.5352" y="0" letter-spacing="-0.0195em">r</tspan><tspan x="56.5063" y="0">a</tspan><tspan x="70.105" y="0" letter-spacing="-0.0098em">k</tspan><tspan x="82.5317" y="0">cijos seniūnas</tspan></text>
+	  </a>
 	  <g>
 		<g>
 		  <line x1="1256.4027" y1="791.8727" x2="1256.4027" y2="758.5418" fill="none" stroke="#bd2835" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
@@ -281,13 +308,16 @@
 	</g>
 	<g id="LRS_frakcijos" data-name="LRS frakcijos">
 	  <rect x="895.1607" y="548.9772" width="32" height="52" fill="url(#linear-gradient-2)"/>
-	  <g>
-		<g>
-		  <rect x="524.1445" y="649.5688" width="282.8457" height="51.668" rx="13.5" fill="#fff"/>
-		  <path d="M1013.99,790.5139a12.0136,12.0136,0,0,1,12,12v24.6684a12.0136,12.0136,0,0,1-12,12H758.1445a12.0136,12.0136,0,0,1-12-12V802.5139a12.0136,12.0136,0,0,1,12-12H1013.99m0-3H758.1445a15,15,0,0,0-15,15v24.6684a15,15,0,0,0,15,15H1013.99a15,15,0,0,0,15-15V802.5139a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
-		</g>
-		<text transform="translate(562.0866 684.2938)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">LR Seimo f<tspan x="120.2148" y="0" letter-spacing="-0.0195em">r</tspan><tspan x="128.186" y="0">a</tspan><tspan x="141.7847" y="0" letter-spacing="-0.0098em">k</tspan><tspan x="154.2114" y="0">cijos</tspan></text>
-	  </g>
+	  <a tabindex="0" data-bs-toggle="popover" title="Frakcijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimo nariai pagal politines partijas ar vertybines nuostatas gali jungtis į frakcijas sudarytas iš ne mažiau
+kaip 7 narių, kuriose siekia politinių tikslų įgyvendinimo. <hr> <a href='#seimo-frakcijos'>Daugiau</a>">
+	  	<g>
+			<g>
+			  <rect x="524.1445" y="649.5688" width="282.8457" height="51.668" rx="13.5" fill="#fff"/>
+			  <path d="M1013.99,790.5139a12.0136,12.0136,0,0,1,12,12v24.6684a12.0136,12.0136,0,0,1-12,12H758.1445a12.0136,12.0136,0,0,1-12-12V802.5139a12.0136,12.0136,0,0,1,12-12H1013.99m0-3H758.1445a15,15,0,0,0-15,15v24.6684a15,15,0,0,0,15,15H1013.99a15,15,0,0,0,15-15V802.5139a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
+			</g>
+			<text transform="translate(562.0866 684.2938)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto">LR Seimo f<tspan x="120.2148" y="0" letter-spacing="-0.0195em">r</tspan><tspan x="128.186" y="0">a</tspan><tspan x="141.7847" y="0" letter-spacing="-0.0098em">k</tspan><tspan x="154.2114" y="0">cijos</tspan></text>
+		  </g>
+	  </a>
 	  <g>
 		<g>
 		  <line x1="807.6599" y1="674.5404" x2="1085.9908" y2="674.5404" fill="none" stroke="#bd2835" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
@@ -364,13 +394,16 @@
 	  <text transform="translate(789.9135 442.4836)" font-size="16" fill="#bd2835" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan letter-spacing="-0.0103em">F</tspan><tspan x="8.4922" y="0">ormuoja</tspan></text>
 	</g>
 	<g id="Komitetai">
-	  <g>
-		<g>
-		  <rect x="521.2617" y="941.4629" width="280.9678" height="51.668" rx="13.5" fill="#fff"/>
-		  <path d="M1009.2294,1082.4079a12.0136,12.0136,0,0,1,12,12v24.668a12.0136,12.0136,0,0,1-12,12H755.2619a12.0136,12.0136,0,0,1-12-12v-24.668a12.0136,12.0136,0,0,1,12-12h253.9675m0-3H755.2619a15,15,0,0,0-15,15v24.668a15,15,0,0,0,15,15h253.9675a15,15,0,0,0,15-15v-24.668a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
-		</g>
-		<text transform="translate(608.3341 976.229)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto"><tspan letter-spacing="-0.0132em">K</tspan><tspan x="15.3442" y="0">omitetai</tspan></text>
-	  </g>
+		<a tabindex="0" data-bs-toggle="popover" title="Komitetai" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimas įstatymams nagrinėti ir kitiems klausimams spręsti sudaro komitetus. Komitetai svarbiausioms veiklos
+		kryptims iš savo narių gali sudaryti pakomitečius. <hr> <a href='#seimo-komitetai'>Daugiau</a>">
+	  	<g>
+			<g>
+			  <rect x="521.2617" y="941.4629" width="280.9678" height="51.668" rx="13.5" fill="#fff"/>
+			  <path d="M1009.2294,1082.4079a12.0136,12.0136,0,0,1,12,12v24.668a12.0136,12.0136,0,0,1-12,12H755.2619a12.0136,12.0136,0,0,1-12-12v-24.668a12.0136,12.0136,0,0,1,12-12h253.9675m0-3H755.2619a15,15,0,0,0-15,15v24.668a15,15,0,0,0,15,15h253.9675a15,15,0,0,0,15-15v-24.668a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
+			</g>
+			<text transform="translate(608.3341 976.229)" font-size="25" fill="#111" font-family="Roboto-Regular, Roboto"><tspan letter-spacing="-0.0132em">K</tspan><tspan x="15.3442" y="0">omitetai</tspan></text>
+		  </g>
+	  </a>
 	</g>
 	<g id="Legenda">
 	  <g id="Legenda-2" data-name="Legenda">

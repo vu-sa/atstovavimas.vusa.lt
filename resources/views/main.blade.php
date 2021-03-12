@@ -26,8 +26,8 @@
                 kuriuos atsakymų šiame leidinyje nepavyko rasti, kreipkitės į savo studentus atstovaujančią
                 organizaciją.</p>
 
-            <p><strong>O toliau leidinyje pateikta II dalis: Studentų atstovo veikla ir kompetencijos.</strong></p>
-
+            <hr>
+            @include('texts.SAO')
             <hr>
             @include('texts.atstovuKompetencijos')
             <hr>

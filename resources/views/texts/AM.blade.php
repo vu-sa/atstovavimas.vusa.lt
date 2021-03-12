@@ -104,7 +104,7 @@
 
         <section id="lmt-nariai">
             <h4>Lietuvos mokslo tarybos nariai</h4>
-            <p>Lietuvos mokslo tarybą sudaro 29 nariai, renkami 5 m. Kadencijai. Lietuvos mokslo tarybos sudėtį
+            <p>Lietuvos mokslo tarybą sudaro 29 nariai, renkami 5 m. kadencijai. Lietuvos mokslo tarybos sudėtį
                 vyriausybės teikimu tvirtina Seimas.</p>
         </section>
         <section id="lmt-pirmininkas-pavaduotojai">
@@ -298,8 +298,8 @@
     </section>
 
     <section id="lst">
-        <h3>Lietuvos Švietimo Taryba</h3>
-        <p>Lietuvos Švietimo Taryba (toliau – Taryba) yra Lietuvos Respublikos Seimo sudaryta ir jam atskaitinga
+        <h3>Lietuvos švietimo taryba</h3>
+        <p>Lietuvos švietimo taryba (toliau – Taryba) yra Lietuvos Respublikos Seimo sudaryta ir jam atskaitinga
             valstybės
             švietimo savivaldos institucija, atliekanti ekspertinį vertinimą ir konsultuojanti strateginiais Lietuvos
             švietimo plėtros klausimais.</p>
@@ -339,25 +339,5 @@
         <p><a target="_blank" href="https://www.kolegijos.lt/lt/apie-konferencija/istatai/">Išsamiau apie LKDK</a></p>
     </section>
 
-    <img class="img-fluid" src="/img/main/image024.jpg">
-
-    <section id="vusa">
-        <h4>VU SA</h4>
-        <p>Vilniaus universiteto Studentų atstovybė (VU SA) – seniausia ir didžiausia Lietuvoje visuomeninė, ne
-            pelno siekianti, nepolitinė, ekspertinė švietimo organizacija, atstovaujanti studentų interesams
-            Vilniaus universitete bei už jo ribų, puoselėjanti universitetinę kultūrą ir kurianti palankiausias
-            sąlygas studentų saviraiškai.</p>
-        <p>VU SA yra vienintelė studentų atstovybė, kuri savo studentų interesams atstovauja nacionaliniu mastu.</p>
-        <p><a target="_blank" href="https://vusa.lt/lt">Išsamiau apie VU SA veiklą</a></p>
-    </section>
-
-    <section id="lss">
-        <h4>Lietuvos studentų sąjunga</h4>
-
-        <p>Lietuvos studentų sąjunga yra nacionalinė, demokratinė, nepriklausoma ir nevyriausybinė organizacija,
-            atstovaujanti Lietuvos studentų interesams, jungianti Lietuvos aukštųjų mokyklų Studentų savivaldas.</p>
-        <p>Lietuvos studentų sąjunga atstovauja Lietuvos studentams nacionaliniu lygiu. Siekdama įgyvendinti šią
-            savo misiją, Sąjunga organizuoja renginius bei akcijas.</p>
-        <p><a target="_blank" href="http://www.lss.lt/veikla-lietuvoje/">Išsamiau apie LSS veiklą</a></p>
-    </section>
+    
 </section>

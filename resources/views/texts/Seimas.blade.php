@@ -4,8 +4,7 @@
         <h3>LR Seimo ir susijusių struktūrų schema</h3>
         @include('graphs.Seimas')
         <h3>LR Seimo ir susijusių struktūrų schemos aprašas</h3>
-        <img class="img-fluid" src="/img/main/image029.jpg">
-
+        
         <p>Remiantis pirmąja schema, jau žinome, kad valstybės mokslo ir studijų politiką formuoja Seimas.</p>
         <p>Šioje schemoje pristatomi Seimo organizaciniai dariniai ir susijusių struktūrų veikla bei jų tarpusavio
             ryšiai.</p>
@@ -72,7 +71,7 @@
     </section>
 
     <section id="seimo-valdyba">
-        <h3>Seimo Valdyba</h3>
+        <h3>Seimo valdyba</h3>
         <p>Seimo valdybą sudaro Seimo Pirmininkas, jo pavaduotojai ir Seimo opozicijos lyderis. Valdyba sprendžia
             organizacinius Seimo darbo klausimus ir teikia patarimus Seimo Pirmininkui. Prireikus, Seimo valdyba
             nustato, kokioms institucijoms ar asmenims pagrindinis komitetas privalo nusiųsti įstatymo projektą išvadoms
@@ -150,15 +149,6 @@
             tarptautinį bendradarbiavimą.
         </p>
         <p>Išsamiau galite susipažinti <a target="_blank" href="https://www.lrs.lt/sip/portal.show?p_r=35381&p_k=1">čia</a></p>
-    </section>
-
-    <section id="seimas-vyriausybe">
-        <h3>Vyriausybė</h3>
-        <p>
-            Vyriausybė – tai Lietuvos Respublikos įstatymų vykdomoji valdžia. Vyriausybė sudaro 14 ministerijų ministrai ir
-            ministras pirmininkas, Seimo paskirti ketverių metų kadencijai.
-        </p>
-        <p><a target="_blank" href="https://lrv.lt/lt/aktuali-informacija/apie-vyriausybe/vyriausybe">Išsamiau apie Vyriausybės veiklą</a></p>
     </section>
 
     <p>Studentas – asmuo, studijuojantis aukštojoje mokykloje pagal tam tikrą studijų programą arba doktorantūroje.</p>

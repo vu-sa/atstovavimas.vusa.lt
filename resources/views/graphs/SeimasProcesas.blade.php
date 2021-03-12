@@ -1,4 +1,4 @@
-<svg id="Seimas" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1112.4706 1881.8824">
+<svg id="Seimas" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1112.4706 1801.8824">
     <g>
       <g>
         <g>

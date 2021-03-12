@@ -4,16 +4,16 @@
       Vyriausybė
   </a>
   <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-    <li><a class="dropdown-item" href="#vyriausybe"><strong>Schema</strong></a></li>
+    <li><a class="dropdown-item" href="#vyriausybe"><strong>Vyriausybės schema</strong></a></li>
     <div class="dropdown-divider"></div>  
       <li><a class="dropdown-item" href="#lrv-seimas">Seimas</a></li>
       <div class="dropdown-divider"></div>
       <li><a class="dropdown-item" href="#lrv">Vyriausybė</a></li>
       <div class="dropdown-divider"></div>
       <li><a class="dropdown-item" href="#mp">Ministras Pirmininkas</a></li>
-      <li><a class="dropdown-item" href="#mp-biuras">Ministro Pirmininko biuras</a></li>
-      <li><a class="dropdown-item" href="#mp-patarejai">Ministro Pirmininko patarėjai</a></li>
-      <li><a class="dropdown-item" href="#mp-darbo-grupes">Ministro Pirmininko sudaromos darbo grupės</a></li>
+      <li><a class="dropdown-item" href="#mp-biuras">MP biuras</a></li>
+      <li><a class="dropdown-item" href="#mp-patarejai">MP patarėjai</a></li>
+      <li><a class="dropdown-item" href="#mp-darbo-grupes">MP sudaromos darbo grupės</a></li>
       <div class="dropdown-divider"></div>
       <li><a class="dropdown-item" href="#lrv-kanceliarija">Vyriausybės kanceliarija</a></li>
       <li><a class="dropdown-item" href="#lrv-kancleris">Vyriausybės kancleris</a></li>

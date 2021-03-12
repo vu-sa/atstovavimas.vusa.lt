@@ -4,7 +4,7 @@
       Seimas
   </a>
   <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-    <li><a class="dropdown-item" href="#seimas"><strong>Schema</strong></a></li> 
+    <li><a class="dropdown-item" href="#seimas"><strong>Seimo schema</strong></a></li> 
     <div class="dropdown-divider"></div> 
     <li><a class="dropdown-item" href="#seimas-smk">Švietimo ir mokslo komitetas</a></li>
       <li><a class="dropdown-item" href="#jaunimo-ir-sporto-reikalu-komisija">Jaunimo ir sporto reikalų komisija</a></li>
