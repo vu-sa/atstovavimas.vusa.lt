@@ -29,6 +29,22 @@ h6 {
     font-weight: 600;
 }
 
+h1 {
+    font-size: 3rem
+}
+
+h2 {
+    font-size: 2.4rem
+}
+
+h3 {
+    font-size: 1.8rem
+}
+
+h4 {
+    font-size: 1.2rem
+}
+
 p a, li a {
     font-family: 'Rubik', sans-serif;
     line-height: 1.7;
@@ -112,6 +128,11 @@ nav a {
     footer {
         display: none;
     }
+}
+
+svg {
+    margin-top:50px;
+    margin-bottom:50px
 }
 
 svg:hover>g {
