@@ -315,7 +315,7 @@
 	</g>
 	<g id="Studentai">
 	  <g>
-		<a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='sao'>Daugiau</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#sao'>Daugiau</a>">
 			<g>
 			  <rect x="1.5" y="1045.5043" width="344.2295" height="80.5859" rx="13.5" fill="#fff"/>
 			  <path d="M429.905,1181.7517a12.0136,12.0136,0,0,1,12,12v53.5856a12.0136,12.0136,0,0,1-12,12H112.6757a12.0136,12.0136,0,0,1-12-12v-53.5856a12.0136,12.0136,0,0,1,12-12H429.905m0-3H112.6757a15,15,0,0,0-15,15v53.5856a15,15,0,0,0,15,15H429.905a15,15,0,0,0,15-15v-53.5856a15,15,0,0,0-15-15Z" transform="translate(-97.6757 -134.7472)" fill="#333"/>
