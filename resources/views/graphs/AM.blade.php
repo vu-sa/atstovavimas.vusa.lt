@@ -381,7 +381,7 @@ valstybės
       </g>
     </g>
     <g id="SAO">
-      <a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='sao'>Daugiau</a>"><rect x="1397.1081" y="1830.002" width="52" height="32" fill="url(#linear-gradient)"/></a>
+      <a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#sao'>Daugiau</a>"><rect x="1397.1081" y="1830.002" width="52" height="32" fill="url(#linear-gradient)"/></a>
       <text transform="matrix(1, -0.0012, 0.0012, 1, 1240.245, 2169.8887)" font-size="14" fill="#fbb01b" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan letter-spacing="-0.0483em">T</tspan><tspan x="7.4922" y="0">eikia siūlymus</tspan></text>
       <g opacity="0.33">
         <g>
@@ -391,7 +391,7 @@ valstybės
         </g>
       </g>
       <g>
-        <a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='sao'>Daugiau</a>">
+        <a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#sao'>Daugiau</a>">
           <g>
             <path d="M1538.448,2449.0147c-18.1094,0-33.9942-14.95-33.9942-31.9941V2098.8213c0-17.0439,15.8848-31.9941,33.9942-31.9941h885.3154a32.03,32.03,0,0,1,31.9941,31.9941v318.1993a32.03,32.03,0,0,1-31.9941,31.9941Z" transform="translate(-151.6524 -124.0127)" fill="#fff"/>
             <path d="M2423.7634,2068.8277a30.028,30.028,0,0,1,29.9941,29.9939v318.1992a30.028,30.028,0,0,1-29.9941,29.9939H1538.448c-17.0436,0-31.9939-14.0159-31.9939-29.9939V2098.8216c0-15.978,14.95-29.9939,31.9939-29.9939h885.3154m0-4H1538.448c-18.7743,0-35.9939,15.22-35.9939,33.9939v318.1992c0,18.7742,17.22,33.9939,35.9939,33.9939h885.3154a33.9941,33.9941,0,0,0,33.9941-33.9939V2098.8216a33.994,33.994,0,0,0-33.9941-33.9939Z" transform="translate(-151.6524 -124.0127)" fill="#333"/>

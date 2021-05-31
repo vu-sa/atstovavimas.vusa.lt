@@ -74,7 +74,7 @@ vadovauja ministerijai. <hr> <a href='#smsm-ministras'>Daugiau</a>">
   </g>
   <g id="Studentai">
     <g>
-      <a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='sao'>Daugiau</a>">
+      <a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#sao'>Daugiau</a>">
         <g>
           <rect x="1.5" y="1032.9303" width="344.2295" height="80.5859" rx="13.5" fill="#fff"/>
           <path d="M426.2294,1113.567a12.0136,12.0136,0,0,1,12,12v53.5856a12.0136,12.0136,0,0,1-12,12H109a12.0136,12.0136,0,0,1-12-12V1125.567a12.0136,12.0136,0,0,1,12-12H426.2294m0-3H109a15,15,0,0,0-15,15v53.5856a15,15,0,0,0,15,15H426.2294a15,15,0,0,0,15-15V1125.567a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
