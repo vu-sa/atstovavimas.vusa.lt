@@ -12,6 +12,8 @@
             @include('elements.entry')
             @include('texts.intro')
             <hr>
+            @include('texts.KAP')
+            <hr>
             @include('texts.AM')
             <hr>
             @include('texts.Seimas')
