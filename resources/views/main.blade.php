@@ -14,6 +14,8 @@
             <hr>
             @include('texts.KAP')
             <hr>
+            @include('texts.VU')
+            <hr>
             @include('texts.AM')
             <hr>
             @include('texts.Seimas')
