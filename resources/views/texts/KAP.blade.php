@@ -2,6 +2,7 @@
     <h2>KAP</h2>
     <section id="kap-schema">
         <h3>KAP schema</h3>
+        @include('graphs.KAP')
         <h3>KAP schemos aprašymas</h3>
 
         <p>Čia pavaizduota VU kamieninio akademinio padalinio (fakulteto, instituto, centro) (toliau – VU KAP) schema,
