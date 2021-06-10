@@ -16,3 +16,21 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('main');
 });
+
+Route::get('/quiz1', function () {
+    return view('quizzes.quiz1');
+});
+
+## VU struktūros schema
+
+Route::get('/quiz2', function () {
+    return view('quizzes.quiz2');
+});
+
+Route::get('/quiz3', function () {
+    return view('quizzes.quiz3');
+});
+
+Route::get('/quiz4', function () {
+    return view('quizzes.quiz4');
+});

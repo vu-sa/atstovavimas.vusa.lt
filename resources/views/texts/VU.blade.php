@@ -295,5 +295,6 @@
         <p>Studentas – asmuo, studijuojantis aukštojoje mokykloje pagal tam tikrą studijų programą arba doktorantūroje.
         </p>
     </section>
-</section>
+
+    <iframe src="/quiz2" title="Pasitikrink žinias apie VU" width="1000" height="300"></iframe>
 </section>
