@@ -16,6 +16,8 @@
             <hr>
             @include('texts.VU')
             <hr>
+            @include('texts.miestas')
+            <hr>
             @include('texts.AM')
             <hr>
             @include('texts.Seimas')

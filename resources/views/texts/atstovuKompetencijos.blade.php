@@ -1,6 +1,11 @@
 <section id="atstovu-kompetencijos">
     <h2>Studentų atstovo veikla ir kompetencijos</h2>
 
+    <video width="1000" height="440" controls>
+        <source src="video/Atstovavimas.mp4" type="video/mp4">
+      Jūsų naršyklė nepalaiko šio vaizdo klipo.
+      </video>
+
     <p>Studentų atstovo veiklą galime apibrėžti skirtingai instituciniu ir nacionaliniu lygmenimis. Tačiau,
         neatsižvelgiant į šias skirtingas dedamąsias, atstovavimą mes galime suprasti kaip savotiškus susitarimus,
         neretai atsispindinčius pareigybių aprašuose (jeigu tokie sudaromi), kurie priklauso nuo studentų savivaldos
