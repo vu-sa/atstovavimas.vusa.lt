@@ -11,7 +11,7 @@
 				c18.774,0,33.994-15.22,33.994-33.994v-569.012C3243.723,1424.22,3228.504,1409,3209.729,1409L3209.729,1409z"/>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 2683.2161 1491.9473)" fill="#111111" font-family="'Roboto-Bold'" font-size="38px">VU Senato komisijos</text>
+	<text transform="matrix(1 0 0 1 2683.2161 1491.9473)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">VU Senato komisijos</text>
 	<g>
 		<g>
 			<path fill="#FFFFFF" d="M2556.22,1741.208c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.164
@@ -23,7 +23,7 @@
 					L2812.384,1659.123z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 2553.8618 1695.3479)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Bendrųjų universitetinių</tspan><tspan x="43.104" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">studijų komisija</tspan></text>
+		<text transform="matrix(1 0 0 1 2553.8618 1695.3479)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Bendrųjų universitetinių</tspan><tspan x="43.104" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">studijų komisija</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -36,7 +36,7 @@
 					L2812.384,1901.623z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 2604.1611 1937.8479)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Centrinė ginčų</tspan><tspan x="-35.413" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">nagrinėjimo komisija</tspan></text>
+		<text transform="matrix(1 0 0 1 2604.1611 1937.8479)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Centrinė ginčų</tspan><tspan x="-35.413" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">nagrinėjimo komisija</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -49,7 +49,7 @@
 					L2812.384,1780.373z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 2566.9785 1816.5979)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Centrinė akademinės</tspan><tspan x="33.716" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">etikos komisija</tspan></text>
+		<text transform="matrix(1 0 0 1 2566.9785 1816.5979)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Centrinė akademinės</tspan><tspan x="33.716" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">etikos komisija</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -62,7 +62,7 @@
 					L3162.384,1537.873z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 2943.1626 1574.0979)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Centrinė rinkimų</tspan><tspan x="44.275" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">komisija</tspan></text>
+		<text transform="matrix(1 0 0 1 2943.1626 1574.0979)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Centrinė rinkimų</tspan><tspan x="44.275" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">komisija</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -75,7 +75,7 @@
 					L2812.384,1537.873z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 2561.8394 1574.0979)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Akademinio protokolo</tspan><tspan x="75.598" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">komisija</tspan></text>
+		<text transform="matrix(1 0 0 1 2561.8394 1574.0979)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Akademinio protokolo</tspan><tspan x="75.598" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">komisija</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -88,7 +88,7 @@
 					L3162.384,1696.841z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 2914.708 1733.0664)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Emeritūros, afiliacijos</tspan><tspan x="33.752" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">ir garbės vardų </tspan><tspan x="72.729" y="60" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">komisija</tspan></text>
+		<text transform="matrix(1 0 0 1 2914.708 1733.0664)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Emeritūros, afiliacijos</tspan><tspan x="33.752" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">ir garbės vardų </tspan><tspan x="72.729" y="60" fill="#111111" font-family="'Roboto'" font-size="25px">komisija</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -101,7 +101,7 @@
 					L3162.384,1871.081z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 2934.3369 1907.306)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">VU profesoriaus ir</tspan><tspan x="-17.224" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">docento pedagoginių</tspan><tspan x="-25.305" y="60" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">vardų teikimo komisija</tspan></text>
+		<text transform="matrix(1 0 0 1 2934.3369 1907.306)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">VU profesoriaus ir</tspan><tspan x="-17.224" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">docento pedagoginių</tspan><tspan x="-25.305" y="60" fill="#111111" font-family="'Roboto'" font-size="25px">vardų teikimo komisija</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -114,7 +114,7 @@
 					L3162.384,1871.081z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 2934.3369 1907.306)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">VU profesoriaus ir</tspan><tspan x="-17.224" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">docento pedagoginių</tspan><tspan x="-25.305" y="60" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">vardų teikimo komisija</tspan></text>
+		<text transform="matrix(1 0 0 1 2934.3369 1907.306)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">VU profesoriaus ir</tspan><tspan x="-17.224" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">docento pedagoginių</tspan><tspan x="-25.305" y="60" fill="#111111" font-family="'Roboto'" font-size="25px">vardų teikimo komisija</tspan></text>
 	</g>
 </g>
 <g id="Rektoriaus_komitetai">
@@ -129,7 +129,7 @@
 					L1240.426,1111.752z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1037.5769 1146.9769)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Darbo grupės</text>
+		<text transform="matrix(1 0 0 1 1037.5769 1146.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Darbo grupės</text>
 	</g>
 	<g>
 		<path fill="#FFFFFF" d="M197.718,1754c-17.642,0-31.994-14.353-31.994-31.994v-446.012c0-17.642,14.353-31.994,31.994-31.994
@@ -141,7 +141,7 @@
 				c18.774,0,33.994-15.22,33.994-33.994v-446.012C1255.723,1257.22,1240.504,1242,1221.729,1242L1221.729,1242z"/>
 		</g>
 	</g>
-	<text transform="matrix(0 -1 1 0 263.197 1683.166)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Bold'" font-size="38px">Komisijos / </tspan><tspan x="20.392" y="45.6" fill="#111111" font-family="'Roboto-Bold'" font-size="38px">komitetai</tspan></text>
+	<text transform="matrix(0 -1 1 0 263.197 1683.166)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Komisijos / </tspan><tspan x="20.392" y="45.6" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">komitetai</tspan></text>
 	<g>
 		<g>
 			<path fill="#FFFFFF" d="M828.56,1692.685c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h344.164
@@ -153,7 +153,7 @@
 					L1172.723,1610.599z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 888.8048 1646.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Vienkartinių tikslinių</tspan><tspan x="-49.841" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">stipendijų skirstymo komisija</tspan></text>
+		<text transform="matrix(1 0 0 1 888.8048 1646.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Vienkartinių tikslinių</tspan><tspan x="-49.841" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">stipendijų skirstymo komisija</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -166,7 +166,7 @@
 					L1172.723,1461.099z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 878.7526 1497.3243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Vienkartinių socialinių</tspan><tspan x="-39.789" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">stipendijų skirstymo komisija</tspan></text>
+		<text transform="matrix(1 0 0 1 878.7526 1497.3243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Vienkartinių socialinių</tspan><tspan x="-39.789" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">stipendijų skirstymo komisija</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -179,7 +179,7 @@
 					L495.723,1311.599z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 294.4952 1347.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">VU Priėmimo</tspan><tspan x="26.282" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">komisija</tspan></text>
+		<text transform="matrix(1 0 0 1 294.4952 1347.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">VU Priėmimo</tspan><tspan x="26.282" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">komisija</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -192,7 +192,7 @@
 					L725.723,1460.599z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 429.0851 1496.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">VU geriausių dėstytojų</tspan><tspan x="9.266" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">pripažinimo komisija</tspan></text>
+		<text transform="matrix(1 0 0 1 429.0851 1496.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">VU geriausių dėstytojų</tspan><tspan x="9.266" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">pripažinimo komisija</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -205,7 +205,7 @@
 					L726.723,1607.599z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 408.2408 1643.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">VU išskirtinio profesoriaus</tspan><tspan x="-22.986" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">kategorijos suteikimo komisija</tspan></text>
+		<text transform="matrix(1 0 0 1 408.2408 1643.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">VU išskirtinio profesoriaus</tspan><tspan x="-22.986" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">kategorijos suteikimo komisija</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -218,7 +218,7 @@
 					L1170.723,1311.599z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 643.9625 1347.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">VU partnerystės profesorių ir partnerystės</tspan><tspan x="-50.116" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">docentų pareigų suteikimo patariamasis komitetas</tspan></text>
+		<text transform="matrix(1 0 0 1 643.9625 1347.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">VU partnerystės profesorių ir partnerystės</tspan><tspan x="-50.116" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">docentų pareigų suteikimo patariamasis komitetas</tspan></text>
 	</g>
 </g>
 <g id="Senato_kolegija">
@@ -233,7 +233,7 @@
 					L2465.873,645.752z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 2252.7102 680.9769)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Senato kolegija</text>
+		<text transform="matrix(1 0 0 1 2252.7102 680.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Senato kolegija</text>
 	</g>
 </g>
 <g id="Senato_komitetai">
@@ -257,7 +257,7 @@
 				L2941.723,961.599z"/>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 2714.189 997.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Kokybės ir plėtros</tspan><tspan x="43.817" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">komitetas</tspan></text>
+	<text transform="matrix(1 0 0 1 2714.189 997.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Kokybės ir plėtros</tspan><tspan x="43.817" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">komitetas</tspan></text>
 	<g>
 		<g>
 			<path fill="#FFFFFF" d="M2685.56,903.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.865
@@ -269,7 +269,7 @@
 					L2941.426,854.752z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 2716.324 889.9769)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Studijų komitetas</text>
+		<text transform="matrix(1 0 0 1 2716.324 889.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Studijų komitetas</text>
 	</g>
 	<g>
 		<g>
@@ -282,9 +282,9 @@
 					L2941.426,1101.752z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 2713.6873 1136.9769)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Mokslo komitetas</text>
+		<text transform="matrix(1 0 0 1 2713.6873 1136.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Mokslo komitetas</text>
 	</g>
-	<text transform="matrix(0 1 -1 0 3010.1824 857.562)" fill="#111111" font-family="'Roboto-Bold'" font-size="38px">Senato komitetai</text>
+	<text transform="matrix(0 1 -1 0 3010.1824 857.562)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Senato komitetai</text>
 </g>
 <g id="Didysis_rektoratas">
 	<g>
@@ -298,7 +298,7 @@
 					L1791.369,1616.752z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1512.1339 1659.0371)" fill="#111111" font-family="'Roboto-Bold'" font-size="30.0109px">Didysis rektoratas</text>
+		<text transform="matrix(1 0 0 1 1512.1339 1659.0371)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="30.0109px">Didysis rektoratas</text>
 	</g>
 </g>
 <g id="Mažasis_rektoratas">
@@ -312,7 +312,7 @@
 				c18.774,0,33.994-15.22,33.994-33.994v-239.585C2356.482,1183.647,2341.263,1168.427,2322.489,1168.427L2322.489,1168.427z"/>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 1808.9448 1440.9473)" fill="#111111" font-family="'Roboto-Bold'" font-size="38px">Mažasis rektoratas</text>
+	<text transform="matrix(1 0 0 1 1808.9448 1440.9473)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Mažasis rektoratas</text>
 	<g>
 		<g>
 			<path fill="#FFFFFF" d="M1669.319,1283.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
@@ -324,7 +324,7 @@
 					L1925.185,1234.752z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1702.0786 1269.9769)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Vicerektorius (-ė)</text>
+		<text transform="matrix(1 0 0 1 1702.0786 1269.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Vicerektorius (-ė)</text>
 	</g>
 	<g>
 		<g>
@@ -337,7 +337,7 @@
 					L2277.185,1234.752z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 2075.7891 1269.9769)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Kancleris (-ė)</text>
+		<text transform="matrix(1 0 0 1 2075.7891 1269.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Kancleris (-ė)</text>
 	</g>
 	<g>
 		<g>
@@ -350,7 +350,7 @@
 					L2101.185,1322.752z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1908.2725 1357.9769)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Prorektoriai</text>
+		<text transform="matrix(1 0 0 1 1908.2725 1357.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Prorektoriai</text>
 	</g>
 	<g>
 		<g>
@@ -364,7 +364,7 @@
 		</g>
 		<circle fill="#BC2835" stroke="#333333" stroke-width="3" stroke-miterlimit="10" cx="1728.243" cy="1475.058" r="9.053"/>
 	</g>
-	<text transform="matrix(1 0 0 1 1750.8386 1537.9795)" fill="#BC2835" font-family="'Roboto-Italic'" font-size="20px">Įeina</text>
+	<text transform="matrix(1 0 0 1 1750.8386 1537.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Įeina</text>
 	<g>
 		<g>
 			<g>
@@ -377,7 +377,7 @@
 		</g>
 		<circle fill="#BC2835" stroke="#333333" stroke-width="3" stroke-miterlimit="10" cx="1977.243" cy="1475.058" r="9.053"/>
 	</g>
-	<text transform="matrix(1 0 0 1 2000.8386 1537.9795)" fill="#BC2835" font-family="'Roboto-Italic'" font-size="20px">Vadovauja</text>
+	<text transform="matrix(1 0 0 1 2000.8386 1537.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Vadovauja</text>
 	<g>
 		
 			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="5135.6401" y1="2904.238" x2="5135.6401" y2="2956.238" gradientTransform="matrix(4.489700e-11 -1 1 4.489700e-11 -1202.5148 6922.6401)">
@@ -399,7 +399,7 @@
 				c18.774,0,33.994-15.22,33.994-33.994v-872.012C2294.723,1833.22,2279.504,1818,2260.729,1818L2260.729,1818z"/>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 1517.1227 1901.5764)" fill="#111111" font-family="'Roboto-Bold'" font-size="38px">Kamieniniai neakademiniai padaliniai</text>
+	<text transform="matrix(1 0 0 1 1517.1227 1901.5764)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Kamieniniai neakademiniai padaliniai</text>
 	<g>
 		<g>
 			<path fill="#FFFFFF" d="M1486.221,2063.261c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
@@ -411,7 +411,7 @@
 					L1742.384,1981.175z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1544.403 2017.4006)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Bendrabučių</tspan><tspan x="28.131" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">centras</tspan></text>
+		<text transform="matrix(1 0 0 1 1544.403 2017.4006)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Bendrabučių</tspan><tspan x="28.131" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">centras</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -424,7 +424,7 @@
 					L1742.426,2125.381z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1559.3894 2160.6067)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Biblioteka</text>
+		<text transform="matrix(1 0 0 1 1559.3894 2160.6067)" fill="#111111" font-family="'Roboto'" font-size="25px">Biblioteka</text>
 	</g>
 	<g>
 		<g>
@@ -437,7 +437,7 @@
 					L1748.426,2236.966z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1527.657 2272.1907)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Botanikos sodas</text>
+		<text transform="matrix(1 0 0 1 1527.657 2272.1907)" fill="#111111" font-family="'Roboto'" font-size="25px">Botanikos sodas</text>
 	</g>
 	<g>
 		<g>
@@ -450,7 +450,7 @@
 					L2173.33,2354.898z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1964.6838 2390.1235)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Planetariumas</text>
+		<text transform="matrix(1 0 0 1 1964.6838 2390.1235)" fill="#111111" font-family="'Roboto'" font-size="25px">Planetariumas</text>
 	</g>
 	<g>
 		<g>
@@ -463,7 +463,7 @@
 					L2173.33,2236.966z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1995.1829 2272.1907)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Muziejus</text>
+		<text transform="matrix(1 0 0 1 1995.1829 2272.1907)" fill="#111111" font-family="'Roboto'" font-size="25px">Muziejus</text>
 	</g>
 	<g>
 		<g>
@@ -476,7 +476,7 @@
 					L1748.426,2604.775z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1528.9998 2640.0005)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Kultūros centras</text>
+		<text transform="matrix(1 0 0 1 1528.9998 2640.0005)" fill="#111111" font-family="'Roboto'" font-size="25px">Kultūros centras</text>
 	</g>
 	<g>
 		<g>
@@ -489,7 +489,7 @@
 					L2173.33,1997.752z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1999.6448 2032.9769)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Leidykla</text>
+		<text transform="matrix(1 0 0 1 1999.6448 2032.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Leidykla</text>
 	</g>
 	<g>
 		<g>
@@ -502,7 +502,7 @@
 					L1748.384,2323.051z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1550.0065 2359.2761)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Informacinių</tspan><tspan x="1.904" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">technologijų</tspan><tspan x="-25.452" y="60" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">paslaugų centras</tspan></text>
+		<text transform="matrix(1 0 0 1 1550.0065 2359.2761)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Informacinių</tspan><tspan x="1.904" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">technologijų</tspan><tspan x="-25.452" y="60" fill="#111111" font-family="'Roboto'" font-size="25px">paslaugų centras</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -515,7 +515,7 @@
 					L2173.479,2588.199z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1955.0695 2624.4241)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Turto valdymo ir</tspan><tspan x="-5.42" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">paslaugų centras</tspan></text>
+		<text transform="matrix(1 0 0 1 1955.0695 2624.4241)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Turto valdymo ir</tspan><tspan x="-5.42" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">paslaugų centras</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -528,7 +528,7 @@
 					L2173.479,2467.334z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1941.8497 2503.5588)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Sveikatos ir sporto</tspan><tspan x="61.779" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">centras</tspan></text>
+		<text transform="matrix(1 0 0 1 1941.8497 2503.5588)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Sveikatos ir sporto</tspan><tspan x="61.779" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">centras</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -541,7 +541,7 @@
 					L2173.479,2108.805z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1938.7003 2145.0305)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Mokymo ir praktikų</tspan><tspan x="31.903" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">bazių centras</tspan></text>
+		<text transform="matrix(1 0 0 1 1938.7003 2145.0305)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Mokymo ir praktikų</tspan><tspan x="31.903" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">bazių centras</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -554,7 +554,7 @@
 					L1748.426,2483.91z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1499.575 2519.1353)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Konfucijaus institutas</text>
+		<text transform="matrix(1 0 0 1 1499.575 2519.1353)" fill="#111111" font-family="'Roboto'" font-size="25px">Konfucijaus institutas</text>
 	</g>
 	<g>
 		<g>
@@ -568,7 +568,7 @@
 		</g>
 		<circle fill="#BC2835" stroke="#333333" stroke-width="3" stroke-miterlimit="10" cx="1727.243" cy="1819.568" r="9.053"/>
 	</g>
-	<text transform="matrix(1 0 0 1 1750.8386 1755.9795)" fill="#BC2835" font-family="'Roboto-Italic'" font-size="20px">Įeina</text>
+	<text transform="matrix(1 0 0 1 1750.8386 1755.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Įeina</text>
 </g>
 <g id="Taryba">
 	<g>
@@ -582,7 +582,7 @@
 					L1763.676,951.557z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1545.7268 1012.0814)" fill="#111111" font-family="'Roboto-Bold'" font-size="45px">Taryba</text>
+		<text transform="matrix(1 0 0 1 1545.7268 1012.0814)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="45px">Taryba</text>
 	</g>
 	<g>
 		<g>
@@ -596,7 +596,7 @@
 		</g>
 		<circle fill="#BC2835" stroke="#333333" stroke-width="3" stroke-miterlimit="10" cx="1729.243" cy="953.568" r="9.053"/>
 	</g>
-	<text transform="matrix(1 0 0 1 1750.8386 924.9795)" fill="#BC2835" font-family="'Roboto-Italic'" font-size="20px">Renka</text>
+	<text transform="matrix(1 0 0 1 1750.8386 924.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Renka</text>
 	<g>
 		<g>
 			<g>
@@ -618,7 +618,7 @@
 			</g>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 1649.8386 1086.9795)" fill="#BC2835" font-family="'Roboto-Italic'" font-size="20px">Tvirtina</text>
+	<text transform="matrix(1 0 0 1 1649.8386 1086.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Tvirtina</text>
 	<g>
 		<g>
 			<g>
@@ -631,7 +631,7 @@
 		</g>
 		<circle fill="#FBB01B" stroke="#333333" stroke-width="3" stroke-miterlimit="10" cx="1684.243" cy="953.568" r="9.053"/>
 	</g>
-	<text transform="matrix(1 0 0 1 1702.8386 178.9795)" fill="#FBB01B" font-family="'Roboto-Italic'" font-size="20px">Teikia siūlymus</text>
+	<text transform="matrix(1 0 0 1 1702.8386 178.9795)" fill="#FBB01B" font-family="'Roboto'" font-style="italic" font-size="20px">Teikia siūlymus</text>
 </g>
 <g id="Rektorius">
 	<g>
@@ -644,7 +644,7 @@
 					c8.284,0,15-6.716,15-15v-61C2135.676,727.463,2128.96,720.747,2120.676,720.747L2120.676,720.747z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1875.7444 781.0814)" fill="#111111" font-family="'Roboto-Bold'" font-size="45px">Rektorius</text>
+		<text transform="matrix(1 0 0 1 1875.7444 781.0814)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="45px">Rektorius</text>
 	</g>
 	<g>
 		<g>
@@ -682,8 +682,8 @@
 		</g>
 		<circle fill="#BC2835" stroke="#333333" stroke-width="3" stroke-miterlimit="10" cx="2099.243" cy="809.058" r="9.053"/>
 	</g>
-	<text transform="matrix(1 0 0 1 2115.8386 853.9795)" fill="#BC2835" font-family="'Roboto-Italic'" font-size="20px">Įeina</text>
-	<text transform="matrix(1 0 0 1 1881.8386 853.9795)" fill="#BC2835" font-family="'Roboto-Italic'" font-size="20px">Formuoja</text>
+	<text transform="matrix(1 0 0 1 2115.8386 853.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Įeina</text>
+	<text transform="matrix(1 0 0 1 1881.8386 853.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Formuoja</text>
 	<g>
 		<g>
 			<g>
@@ -705,8 +705,8 @@
 			</g>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 1718.8386 728.9795)" fill="#BC2835" font-family="'Roboto-Italic'" font-size="20px">Formuoja</text>
-	<text transform="matrix(1 0 0 1 2363.8386 736.9795)" fill="#FBB01B" font-family="'Roboto-Italic'" font-size="20px">Teikia siūlymus</text>
+	<text transform="matrix(1 0 0 1 1718.8386 728.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Formuoja</text>
+	<text transform="matrix(1 0 0 1 2363.8386 736.9795)" fill="#FBB01B" font-family="'Roboto'" font-style="italic" font-size="20px">Teikia siūlymus</text>
 	<g>
 		
 			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="4721.6401" y1="2316.238" x2="4721.6401" y2="2368.238" gradientTransform="matrix(1 0 0 1 -3407.9167 -1143.238)">
@@ -746,7 +746,7 @@
 					c8.284,0,15-6.716,15-15v-61C2500.676,957.463,2493.96,950.747,2485.676,950.747L2485.676,950.747z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 2256.0486 1012.0814)" fill="#111111" font-family="'Roboto-Bold'" font-size="45px">Senatas</text>
+		<text transform="matrix(1 0 0 1 2256.0486 1012.0814)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="45px">Senatas</text>
 	</g>
 	<g>
 		<g>
@@ -796,10 +796,10 @@
 		</g>
 		<circle fill="#FBB01B" stroke="#333333" stroke-width="3" stroke-miterlimit="10" cx="2498.988" cy="982.247" r="9.053"/>
 	</g>
-	<text transform="matrix(1 0 0 1 2417.8386 931.9795)" fill="#FBB01B" font-family="'Roboto-Italic'" font-size="20px">Teikia siūlymus</text>
-	<text transform="matrix(1 0 0 1 2507.8386 1045.9795)" fill="#BC2835" font-family="'Roboto-Italic'" font-size="20px">Formuoja</text>
-	<text transform="matrix(1 0 0 1 2308.8386 1079.9795)" fill="#BC2835" font-family="'Roboto-Italic'" font-size="20px">Formuoja</text>
-	<text transform="matrix(1 0 0 1 2363.8386 859.9795)" fill="#BC2835" font-family="'Roboto-Italic'" font-size="20px">Formuoja</text>
+	<text transform="matrix(1 0 0 1 2417.8386 931.9795)" fill="#FBB01B" font-family="'Roboto'" font-style="italic" font-size="20px">Teikia siūlymus</text>
+	<text transform="matrix(1 0 0 1 2507.8386 1045.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Formuoja</text>
+	<text transform="matrix(1 0 0 1 2308.8386 1079.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Formuoja</text>
+	<text transform="matrix(1 0 0 1 2363.8386 859.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Formuoja</text>
 </g>
 <g id="LT">
 	<g>
@@ -812,7 +812,7 @@
 					h313.163c8.284,0,15-6.716,15-15V137.752C2509.522,129.467,2502.806,122.752,2494.522,122.752L2494.522,122.752z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 2262.4871 165.0371)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Bold'" font-size="30.0109px">LR Seimas,</tspan><tspan x="0.125" y="36.013" fill="#111111" font-family="'Roboto-Bold'" font-size="30.0109px">Vyriausybė</tspan><tspan x="-5.51" y="72.026" fill="#111111" font-family="'Roboto-Bold'" font-size="30.0109px">Prezidentas</tspan></text>
+		<text transform="matrix(1 0 0 1 2262.4871 165.0371)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="30.0109px">LR Seimas,</tspan><tspan x="0.125" y="36.013" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="30.0109px">Vyriausybė</tspan><tspan x="-5.51" y="72.026" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="30.0109px">Prezidentas</tspan></text>
 	</g>
 </g>
 <g id="Studentai">
@@ -827,7 +827,7 @@
 			</g>
 		</g>
 		<g>
-			<text transform="matrix(1 0 0 1 1901.2964 504.756)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Vilniaus universiteto </tspan><tspan x="8.228" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Studentų atstovybė</tspan></text>
+			<text transform="matrix(1 0 0 1 1901.2964 504.756)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Vilniaus universiteto </tspan><tspan x="8.228" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">Studentų atstovybė</tspan></text>
 			<g>
 				<path fill-rule="evenodd" clip-rule="evenodd" d="M1829.16,517.738c-2.157-2.593-3.672-6.058-3.694-10.057
 					c-0.044-6.646,0.044-13.413,0.044-20.092l30.388,0.011v16.365c0,1.209-0.011,2.702-0.011,3.672c0,3.944-1.068,6.657-3.127,9.534
@@ -1537,7 +1537,7 @@
 		<path fill="#BC2835" stroke="#BC2835" stroke-linejoin="round" stroke-miterlimit="10" d="M2069.763,363.947h-193.645
 			c-7.278,0-13.177-5.9-13.177-13.177v-20.355c0-7.278,5.9-13.177,13.177-13.177h193.645c7.278,0,13.177,5.9,13.177,13.177v20.355
 			C2082.941,358.048,2077.041,363.947,2069.763,363.947z"/>
-		<text transform="matrix(1 0 0 1 1918.9978 347.8987)" fill="#FFFFFF" font-family="'Roboto-Bold'" font-size="25px">Studentai</text>
+		<text transform="matrix(1 0 0 1 1918.9978 347.8987)" fill="#FFFFFF" font-family="'Roboto'" font-weight=700 font-size="25px">Studentai</text>
 	</g>
 	<g>
 		<g>
@@ -1610,7 +1610,7 @@
 		</g>
 		<circle fill="#BC2835" stroke="#333333" stroke-width="3" stroke-miterlimit="10" cx="1776.498" cy="477.313" r="9.053"/>
 	</g>
-	<text transform="matrix(1 0 0 1 1374.8386 426.9795)"><tspan x="0" y="0" fill="#BC2835" font-family="'Roboto-Italic'" font-size="20px">Renka atstovus ir</tspan><tspan x="0" y="24" fill="#BC2835" font-family="'Roboto-Italic'" font-size="20px">dalyvauja padalinio veiklose</tspan></text>
+	<text transform="matrix(1 0 0 1 1374.8386 426.9795)"><tspan x="0" y="0" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Renka atstovus ir</tspan><tspan x="0" y="24" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">dalyvauja padalinio veiklose</tspan></text>
 	<g>
 		<g>
 			<g>
@@ -1635,11 +1635,11 @@
 		</g>
 		<circle fill="#BC2835" stroke="#F2F2F2" stroke-width="3" stroke-miterlimit="10" cx="1862.498" cy="340.313" r="9.053"/>
 	</g>
-	<text transform="matrix(1 0 0 1 1713.8386 539.9795)" fill="#BC2835" font-family="'Roboto-Italic'" font-size="20px">Įeina</text>
-	<text transform="matrix(1 0 0 1 2029.8386 607.9795)" fill="#BC2835" font-family="'Roboto-Italic'" font-size="20px">Renkama</text>
-	<text transform="matrix(1 0 0 1 2234.8386 447.9795)"><tspan x="0" y="0" fill="#FBB01B" font-family="'Roboto-Italic'" font-size="20px">Teikia </tspan><tspan x="0" y="24" fill="#FBB01B" font-family="'Roboto-Italic'" font-size="20px">siūlymus</tspan></text>
-	<text transform="matrix(1 0 0 1 2000.8386 400.9795)" fill="#BC2835" font-family="'Roboto-Italic'" font-size="20px">Renka</text>
-	<text transform="matrix(1 0 0 1 2234.8386 526.9795)" fill="#BC2835" font-family="'Roboto-Italic'" font-size="20px">Deleguoja</text>
+	<text transform="matrix(1 0 0 1 1713.8386 539.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Įeina</text>
+	<text transform="matrix(1 0 0 1 2029.8386 607.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Renkama</text>
+	<text transform="matrix(1 0 0 1 2234.8386 447.9795)"><tspan x="0" y="0" fill="#FBB01B" font-family="'Roboto'" font-style="italic" font-size="20px">Teikia </tspan><tspan x="0" y="24" fill="#FBB01B" font-family="'Roboto'" font-style="italic" font-size="20px">siūlymus</tspan></text>
+	<text transform="matrix(1 0 0 1 2000.8386 400.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Renka</text>
+	<text transform="matrix(1 0 0 1 2234.8386 526.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Deleguoja</text>
 	<g>
 		
 			<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="4773.6401" y1="2316.238" x2="4773.6401" y2="2368.238" gradientTransform="matrix(1 0 0 1 -3407.9167 -1143.238)">
@@ -1661,7 +1661,7 @@
 				c18.774,0,33.994-15.22,33.994-33.994V293.994C1255.723,275.22,1240.504,260,1221.729,260L1221.729,260z"/>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 413.0338 347.681)" fill="#111111" font-family="'Roboto-Bold'" font-size="38px">Kamieniniai akademiniai padaliniai</text>
+	<text transform="matrix(1 0 0 1 413.0338 347.681)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Kamieniniai akademiniai padaliniai</text>
 	<g>
 		<g>
 			<path fill="#FFFFFF" d="M247.735,480.471c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
@@ -1673,7 +1673,7 @@
 					L503.898,398.385z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 313.1194 434.6106)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Chemijos ir</tspan><tspan x="-57.532" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">geomokslų fakultetas</tspan></text>
+		<text transform="matrix(1 0 0 1 313.1194 434.6106)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Chemijos ir</tspan><tspan x="-57.532" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">geomokslų fakultetas</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -1686,7 +1686,7 @@
 					L839.417,865.175z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 627.6301 901.4006)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Matematikos ir</tspan><tspan x="-45.379" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">informatikos fakultetas</tspan></text>
+		<text transform="matrix(1 0 0 1 627.6301 901.4006)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Matematikos ir</tspan><tspan x="-45.379" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">informatikos fakultetas</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -1699,7 +1699,7 @@
 					L503.749,658.564z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 260.1781 693.7888)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Filologijos fakultetas</text>
+		<text transform="matrix(1 0 0 1 260.1781 693.7888)" fill="#111111" font-family="'Roboto'" font-size="25px">Filologijos fakultetas</text>
 	</g>
 	<g>
 		<g>
@@ -1712,7 +1712,7 @@
 					L503.898,503.716z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 260.2082 539.9418)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Ekonomikos ir verslo</tspan><tspan x="28.961" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">administravimo</tspan><tspan x="60.028" y="60" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">fakultetas</tspan></text>
+		<text transform="matrix(1 0 0 1 260.2082 539.9418)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Ekonomikos ir verslo</tspan><tspan x="28.961" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">administravimo</tspan><tspan x="60.028" y="60" fill="#111111" font-family="'Roboto'" font-size="25px">fakultetas</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -1725,7 +1725,7 @@
 					L503.749,771.838z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 259.4398 807.0635)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Filosofijos fakultetas</text>
+		<text transform="matrix(1 0 0 1 259.4398 807.0635)" fill="#111111" font-family="'Roboto'" font-size="25px">Filosofijos fakultetas</text>
 	</g>
 	<g>
 		<g>
@@ -1738,7 +1738,7 @@
 					L839.417,398.385z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 617.7302 434.6106)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Gyvybės mokslų </tspan><tspan x="51.837" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">centras</tspan></text>
+		<text transform="matrix(1 0 0 1 617.7302 434.6106)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Gyvybės mokslų </tspan><tspan x="51.837" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">centras</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -1751,7 +1751,7 @@
 					L1174.788,414.962z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 930.4232 450.1868)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Medicinos fakultetas</text>
+		<text transform="matrix(1 0 0 1 930.4232 450.1868)" fill="#111111" font-family="'Roboto'" font-size="25px">Medicinos fakultetas</text>
 	</g>
 	<g>
 		<g>
@@ -1764,7 +1764,7 @@
 					L1174.788,771.838z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 951.4618 807.0635)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Teisės fakultetas</text>
+		<text transform="matrix(1 0 0 1 951.4618 807.0635)" fill="#111111" font-family="'Roboto'" font-size="25px">Teisės fakultetas</text>
 	</g>
 	<g>
 		<g>
@@ -1777,7 +1777,7 @@
 					L1174.788,881.382z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 961.6058 916.6067)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Verslo mokykla</text>
+		<text transform="matrix(1 0 0 1 961.6058 916.6067)" fill="#111111" font-family="'Roboto'" font-size="25px">Verslo mokykla</text>
 	</g>
 	<g>
 		<g>
@@ -1790,7 +1790,7 @@
 					L503.749,881.382z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 277.9701 916.6067)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Fizikos fakultetas</text>
+		<text transform="matrix(1 0 0 1 277.9701 916.6067)" fill="#111111" font-family="'Roboto'" font-size="25px">Fizikos fakultetas</text>
 	</g>
 	<g>
 		<g>
@@ -1803,7 +1803,7 @@
 					L1174.788,535.564z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 949.0448 570.7888)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Šiaulių akademija</text>
+		<text transform="matrix(1 0 0 1 949.0448 570.7888)" fill="#111111" font-family="'Roboto'" font-size="25px">Šiaulių akademija</text>
 	</g>
 	<g>
 		<g>
@@ -1816,7 +1816,7 @@
 					L839.269,535.564z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 607.6907 570.7888)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Istorijos fakultetas</text>
+		<text transform="matrix(1 0 0 1 607.6907 570.7888)" fill="#111111" font-family="'Roboto'" font-size="25px">Istorijos fakultetas</text>
 	</g>
 	<g>
 		<g>
@@ -1829,7 +1829,7 @@
 					L839.417,755.262z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 629.1745 791.4872)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Komunikacijos</tspan><tspan x="26.581" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">fakultetas</tspan></text>
+		<text transform="matrix(1 0 0 1 629.1745 791.4872)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Komunikacijos</tspan><tspan x="26.581" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">fakultetas</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -1842,7 +1842,7 @@
 					L1174.936,626.716z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 930.0012 662.9418)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Tarptautinių santykių</tspan><tspan x="15.228" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">ir politikos mokslų</tspan><tspan x="64.911" y="60" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">institutas</tspan></text>
+		<text transform="matrix(1 0 0 1 930.0012 662.9418)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Tarptautinių santykių</tspan><tspan x="15.228" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">ir politikos mokslų</tspan><tspan x="64.911" y="60" fill="#111111" font-family="'Roboto'" font-size="25px">institutas</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -1855,7 +1855,7 @@
 					L839.269,658.564z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 617.0169 693.7888)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Kauno fakultetas</text>
+		<text transform="matrix(1 0 0 1 617.0169 693.7888)" fill="#111111" font-family="'Roboto'" font-size="25px">Kauno fakultetas</text>
 	</g>
 	<g>
 		<g>
@@ -1869,7 +1869,7 @@
 		</g>
 		<circle fill="#BC2835" stroke="#333333" stroke-width="3" stroke-miterlimit="10" cx="886.243" cy="1008.058" r="9.053"/>
 	</g>
-	<text transform="matrix(1 0 0 1 912.8386 1045.9795)" fill="#BC2835" font-family="'Roboto-Italic'" font-size="20px">Įeina KAP vadovai</text>
+	<text transform="matrix(1 0 0 1 912.8386 1045.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Įeina KAP vadovai</text>
 </g>
 <g id="CR">
 	<g>
@@ -1882,7 +1882,7 @@
 				c18.774,0,33.994-15.22,33.994-33.994v-867.585C1255.723,1846.647,1240.504,1831.427,1221.729,1831.427L1221.729,1831.427z"/>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 504.0337 1911.9473)" fill="#111111" font-family="'Roboto-Bold'" font-size="38px">Centrinė administracija</text>
+	<text transform="matrix(1 0 0 1 504.0337 1911.9473)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Centrinė administracija</text>
 	<g>
 		<g>
 			<g>
@@ -1895,7 +1895,7 @@
 						L484.579,1990.449z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 259.6355 2025.6741)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Rektoriaus biuras</text>
+			<text transform="matrix(1 0 0 1 259.6355 2025.6741)" fill="#111111" font-family="'Roboto'" font-size="25px">Rektoriaus biuras</text>
 		</g>
 		<g>
 			<g>
@@ -1908,7 +1908,7 @@
 						L484.579,2121.025z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 225.0408 2156.25)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Finansų departamentas</text>
+			<text transform="matrix(1 0 0 1 225.0408 2156.25)" fill="#111111" font-family="'Roboto'" font-size="25px">Finansų departamentas</text>
 		</g>
 		<g>
 			<g>
@@ -1921,7 +1921,7 @@
 						L830.635,2251.601z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 575.5404 2286.8257)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Plėtros departamentas</text>
+			<text transform="matrix(1 0 0 1 575.5404 2286.8257)" fill="#111111" font-family="'Roboto'" font-size="25px">Plėtros departamentas</text>
 		</g>
 		<g>
 			<g>
@@ -1934,7 +1934,7 @@
 						L1176.692,2251.601z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 944.9185 2286.8257)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Teisėkuros skyrius</text>
+			<text transform="matrix(1 0 0 1 944.9185 2286.8257)" fill="#111111" font-family="'Roboto'" font-size="25px">Teisėkuros skyrius</text>
 		</g>
 		<g>
 			<g>
@@ -1947,7 +1947,7 @@
 						L484.579,2251.601z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 257.8474 2286.8257)" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Personalo skyrius</text>
+			<text transform="matrix(1 0 0 1 257.8474 2286.8257)" fill="#111111" font-family="'Roboto'" font-size="25px">Personalo skyrius</text>
 		</g>
 		<g>
 			<g>
@@ -1960,7 +1960,7 @@
 						L1176.84,1973.873z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 956.8867 2010.0978)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Civilinės ir darbų</tspan><tspan x="6.171" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">saugos tarnyba</tspan></text>
+			<text transform="matrix(1 0 0 1 956.8867 2010.0978)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Civilinės ir darbų</tspan><tspan x="6.171" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">saugos tarnyba</tspan></text>
 		</g>
 		<g>
 			<g>
@@ -1973,7 +1973,7 @@
 						L830.784,1973.873z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 618.4109 2010.0979)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Bendruomenės</tspan><tspan x="-4.743" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">vystymo skyrius</tspan></text>
+			<text transform="matrix(1 0 0 1 618.4109 2010.0979)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Bendruomenės</tspan><tspan x="-4.743" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">vystymo skyrius</tspan></text>
 		</g>
 		<g>
 			<g>
@@ -1986,7 +1986,7 @@
 						L1176.84,2104.448z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 944.8076 2140.6736)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Mokslo ir inovacijų</tspan><tspan x="19.403" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">departamentas</tspan></text>
+			<text transform="matrix(1 0 0 1 944.8076 2140.6736)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Mokslo ir inovacijų</tspan><tspan x="19.403" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">departamentas</tspan></text>
 		</g>
 		<g>
 			<g>
@@ -1999,7 +1999,7 @@
 						L830.784,2365.6z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 571.5178 2401.8252)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Studijų administravimo </tspan><tspan x="91.742" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">skyrius</tspan></text>
+			<text transform="matrix(1 0 0 1 571.5178 2401.8252)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Studijų administravimo </tspan><tspan x="91.742" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">skyrius</tspan></text>
 		</g>
 		<g>
 			<g>
@@ -2012,7 +2012,7 @@
 						L830.784,2626.752z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 617.1477 2662.9771)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Viešųjų pirkimų</tspan><tspan x="46.112" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">skyrius</tspan></text>
+			<text transform="matrix(1 0 0 1 617.1477 2662.9771)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Viešųjų pirkimų</tspan><tspan x="46.112" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">skyrius</tspan></text>
 		</g>
 		<g>
 			<g>
@@ -2025,7 +2025,7 @@
 						L484.728,2365.6z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 252.5857 2401.8252)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Studentų paslaugų</tspan><tspan x="6.39" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">ir karjeros skyrius</tspan></text>
+			<text transform="matrix(1 0 0 1 252.5857 2401.8252)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Studentų paslaugų</tspan><tspan x="6.39" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">ir karjeros skyrius</tspan></text>
 		</g>
 		<g>
 			<g>
@@ -2038,7 +2038,7 @@
 						L484.728,2626.752z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 280.2468 2662.9771)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Vidaus audito</tspan><tspan x="36.957" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">skyrius</tspan></text>
+			<text transform="matrix(1 0 0 1 280.2468 2662.9771)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Vidaus audito</tspan><tspan x="36.957" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">skyrius</tspan></text>
 		</g>
 		<g>
 			<g>
@@ -2051,7 +2051,7 @@
 						L1176.84,2496.176z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 964.6382 2532.4011)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Teisės taikymo</tspan><tspan x="44.678" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">skyrius</tspan></text>
+			<text transform="matrix(1 0 0 1 964.6382 2532.4011)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Teisės taikymo</tspan><tspan x="44.678" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">skyrius</tspan></text>
 		</g>
 		<g>
 			<g>
@@ -2064,7 +2064,7 @@
 						L484.728,2496.176z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 235.3492 2532.4011)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Strateginio planavimo</tspan><tspan x="81.854" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">skyrius</tspan></text>
+			<text transform="matrix(1 0 0 1 235.3492 2532.4011)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Strateginio planavimo</tspan><tspan x="81.854" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">skyrius</tspan></text>
 		</g>
 		<g>
 			<g>
@@ -2077,7 +2077,7 @@
 						L1176.84,2365.6z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 951.0151 2401.8252)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Studijų kokybės ir</tspan><tspan x="16.65" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">plėtros skyrius</tspan></text>
+			<text transform="matrix(1 0 0 1 951.0151 2401.8252)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Studijų kokybės ir</tspan><tspan x="16.65" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">plėtros skyrius</tspan></text>
 		</g>
 		<g>
 			<g>
@@ -2090,7 +2090,7 @@
 						L830.784,2104.448z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 607.0891 2140.6736)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Komunikacijos ir </tspan><tspan x="-6.201" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">rinkodaros skyrius</tspan></text>
+			<text transform="matrix(1 0 0 1 607.0891 2140.6736)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Komunikacijos ir </tspan><tspan x="-6.201" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">rinkodaros skyrius</tspan></text>
 		</g>
 		<g>
 			<g>
@@ -2103,7 +2103,7 @@
 						L830.784,2496.176z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 605.7336 2532.4011)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">Tarptautinių ryšių</tspan><tspan x="57.526" y="30" fill="#111111" font-family="'Roboto-Regular'" font-size="25px">skyrius</tspan></text>
+			<text transform="matrix(1 0 0 1 605.7336 2532.4011)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Tarptautinių ryšių</tspan><tspan x="57.526" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">skyrius</tspan></text>
 		</g>
 	</g>
 </g>
