@@ -6,5 +6,5 @@
       Jūsų naršyklė nepalaiko šio vaizdo klipo.
       </video>
     
-    <p>Išsamiau, nuo 9 puslapio, apie atstovavimą miesto lygmeniu ir savivaldybėje veikiančias struktūras skaitykite: <a target="_blank" href="https://lijot.lt/wp-content/uploads/2020/08/Metodinis-leidinys.pdf">https://lijot.lt/wp-content/uploads/2020/08/Metodinis-leidinys.pdf</a></p>
+    <p>Išsamiau, nuo 9 puslapio, apie atstovavimą miesto lygmeniu ir savivaldybėje veikiančias struktūras skaitykite: <a target="_blank" href="https://lijot.lt/wp-content/uploads/2020/08/Metodinis-leidinys.pdf">LiJOT metodinėje medžiagoje organizacijoms</a></p>
 </section>

@@ -1,10 +1,11 @@
 <section id="VU">
+    <h2>Vilniaus universitetas</h2>
     <section id="VU-schema">
         <h3>VU schema</h3>
         @include('graphs.VU')
         <h4>Schemos aprašas</h4>
         <p>Vilniaus universiteto struktūra sudaryta remiantis Vilniaus universiteto Statutu ir kitais vidiniais veiklos
-            dokumentais ir teisės aktais, jie pasiekiami <a
+            dokumentais ir teisės aktais, jie pasiekiami <a target="_blank"
                 href="https://www.vu.lt/apiemus/dokumentai#strateginiai-veiklos-planai">čia</a>.</p>
 
         <p>Vilniaus universitetas – seniausia šalies nacionalinės reikšmės mokslo ir studijų institucija. Universitetas
@@ -90,35 +91,35 @@
         <ul>
             <li>Centrinė rinkimų komisija – kuria VU valdymo organų rinkimų tvarką ir užtikrina skaidrius bei tinkamus
                 VU valdymo organų rinkimus. Veikloje vadovaujasi: <a target="_blank"
-                    href="https://www.vu.lt/site_files/VUCentrinesrinkimukomisijosnuostatai.pdf">https://www.vu.lt/site_files/VUCentrinesrinkimukomisijosnuostatai.pdf</a>
+                    href="https://www.vu.lt/site_files/VUCentrinesrinkimukomisijosnuostatai.pdf">šiais nuostatais</a>.
             </li>
 
             <li>Centrinė akademinės etikos komisija – sprendžia ginčus bei klausimus, susijusius su akademinės etikos
                 pažeidimais, kuria ir nuolatos atnaujina VU akademinės etikos kodeksą. Veikloje vadovaujasi: <a target="_blank"
-                    href="https://www.vu.lt/apiemus/dokumentai#akademine-etika">https://www.vu.lt/apiemus/dokumentai#akademine-etika</a>
+                    href="https://www.vu.lt/apiemus/dokumentai#akademine-etika">šiais dokumentais</a>.
             </li>
 
             <li>Centrinė ginčų nagrinėjimo komisija – nagrinėja skundus bei pareiškimus tarp Universiteto bendruomenės
                 narių, nesusijusius su akademinės etikos pažeidimais. Veikloje vadovaujasi: <a target="_blank"
-                    href="https://www.vu.lt/apiemus/dokumentai#akademine-etika">https://www.vu.lt/apiemus/dokumentai#akademine-etika</a>
+                    href="https://www.vu.lt/apiemus/dokumentai#akademine-etika">šiais dokumentais</a>.
             </li>
 
             <li>Akademinio protokolo komisija – kuria ir nuolatos atnaujina akademinių apeigų protokolą bei akademinių
-                renginių aprašus. Veikloje vadovaujasi: <a target="_blank"
-                    href="https://www.vu.lt/site_files/Akademiniu_apeigu_protokolas.pdf">https://www.vu.lt/site_files/Akademiniu_apeigu_protokolas.pdf</a>
+                renginių aprašus. Veikloje vadovaujasi <a target="_blank"
+                    href="https://www.vu.lt/site_files/Akademiniu_apeigu_protokolas.pdf">šiuo protokolu</a>.
             </li>
 
             <li>Emeritūros, afiliacijos ir garbės vardų komisija – svarsto ir teikia Senatui tvirtinti kandidatūras
                 gauti Universiteto profesoriaus emerito, afiliuotojo profesoriaus, docento, mokslo darbuotojo bei garbės
-                daktaro, alumni, mecenato vardus. Veikloje vadovaujasi: <a target="_blank"
-                    href="https://www.vu.lt/site_files/Emerituros_afiliacijos_ir_garbes_vardu_nuostatai.pdf">https://www.vu.lt/site_files/Emerituros_afiliacijos_ir_garbes_vardu_nuostatai.pdf</a>
+                daktaro, alumni, mecenato vardus. Veikloje vadovaujasi <a target="_blank"
+                    href="https://www.vu.lt/site_files/Emerituros_afiliacijos_ir_garbes_vardu_nuostatai.pdf">šiais nuostatais</a>.
             </li>
 
             <li>Bendrųjų universitetinių studijų komisija – nagrinėja naujai teikiamų bendrųjų universitetinių studijų
                 modulius, teikia išvadas dėl jų atitikimo bendrųjų universitetinių studijų koncepcijai, kuri vėliau
                 tvirtinimui yra teikiama Senatui ir atlieka šių modulių įgyvendinimo kokybės stebėseną. Veikloje
                 vadovaujasi: <a target="_blank"
-                    href="https://www.vu.lt/site_files/BUS_koncepcija_2018-01-23_redakcija.pdf">https://www.vu.lt/site_files/BUS_koncepcija_2018-01-23_redakcija.pdf</a>
+                    href="https://www.vu.lt/site_files/BUS_koncepcija_2018-01-23_redakcija.pdf">BUS koncepcija</a>.
             </li>
         </ul>
 
@@ -192,8 +193,8 @@
             <li>Viešųjų pirkimų skyrius</li>
         </ul>
 
-        <p>Visų šių skyrių kontaktus rasite: <a
-                href="https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1">čia</a>.</p>
+        <p>Visų šių skyrių kontaktus rasite: <a target="_blank"
+                href="https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1">čia</a></p>
 
         <p>Studentų atstovams svarbu bendradarbiauti su beveik visais VU veikiančiais skyriais, nes jie gali būti yra
             partneriai, kurie padeda patobulinti universitetinį gyvenimą studentams.</>
@@ -202,49 +203,54 @@
 
         <p>Rektorius gali formuoti komisijas ir komitetus svarbiems Universiteto klausimams spręsti.</p>
 
-        <p>Partnerystės profesorių ir partnerystės docentų pareigų suteikimo patariamasis komitetas – Komitetas VU
+        <h5>Partnerystės profesorių ir partnerystės docentų pareigų suteikimo patariamasis komitetas</h5>
+        <p> Komitetas VU
             rektoriui teikia nuomonę dėl VU partnerystės profesorių ir partnerystės docentų pareigybių suteikimo. Šios
             pareigybės leidžia paskaitas Vilniaus universitete dėstyti garsiems Lietuvos verslo atstovams, diplomatams
             ir kitiems savo sričių specialistams, užimantiems vadovaujančias pareigas ar turintiems didžiulę praktinio
-            darbo patirtį. Komitetas savo veikloje vadovaujasi šiais nuostatais: <a
-                href="https://www.vu.lt/site_files/Reguliaminas/Dėl_partnerystės_profesoriaus_ir_partnerystės_docento_pareigybių.pdf">https://www.vu.lt/site_files/Reguliaminas/Dėl_partnerystės_profesoriaus_ir_partnerystės_docento_pareigybių.pdf</a>
+            darbo patirtį. Komitetas savo veikloje vadovaujasi <a target="_blank"
+            href="https://www.vu.lt/site_files/Reguliaminas/Dėl_partnerystės_profesoriaus_ir_partnerystės_docento_pareigybių.pdf">šiais nuostatais</a>.
         </p>
 
-        <p>VU geriausių dėstytojų pripažinimo komisija – Komisija svarsto kandidatų veiklą ir teikia Rektoriui
+        <h5>VU geriausių dėstytojų pripažinimo komisija</h5>
+        <p> Komisija svarsto kandidatų veiklą ir teikia Rektoriui
             rekomendacijas dėl kandidatų pripažinimo geriausiais metų dėstytojais. Kandidatūras iš Vilniaus universiteto
             studentų siūlomų dėstytojų Komisijos svarstymui teikia kamieninio akademinio padalinio administracija kartu
-            su VU SA padaliniu. Komisija savo veikloje vadovaujasi šiuo aprašu: <a
-                href="https://www.vu.lt/site_files/Isak_VU_geriausiu_destytoju_rinkimo_aprasas_1.pdf">https://www.vu.lt/site_files/Isak_VU_geriausiu_destytoju_rinkimo_aprasas_1.pdf</a>
+            su VU SA padaliniu. Komisija savo veikloje vadovaujasi <a target="_blank"
+            href="https://www.vu.lt/site_files/Isak_VU_geriausiu_destytoju_rinkimo_aprasas_1.pdf">šiuo aprašu</a>.
         </p>
 
-        <p>VU priėmimo komisija – Komisija svarsto ir teikia Universiteto rektoriui tvirtinti dėstytojų ir mokslo
+        <h5>VU priėmimo komisija</h5>
+        <p> Komisija svarsto ir teikia Universiteto rektoriui tvirtinti dėstytojų ir mokslo
             darbuotojų kandidatūras akademinėms pareigoms užimti.</p>
 
-        <p>Plačiau apie procedūrą: <a
-                href="https://www.vu.lt/apiemus/karjera/akademinis-personalas/6546-konkursu-organizavimo-nuostatai-ir-kiti-susije-dokumentai">https://www.vu.lt/apiemus/karjera/akademinis-personalas/6546-konkursu-organizavimo-nuostatai-ir-kiti-susije-dokumentai</A>
+        <p><a target="_blank"
+            href="https://www.vu.lt/apiemus/karjera/akademinis-personalas/6546-konkursu-organizavimo-nuostatai-ir-kiti-susije-dokumentai">Plačiau apie procedūrą </a>
         </p>
 
-        <p>Vienkartinių socialinių stipendijų skirstymo komisija – nagrinėja gautus prašymus, susijusius su studento
+        <h5>Vienkartinių socialinių stipendijų skirstymo komisija</h5>
+        <p> Nagrinėja gautus prašymus, susijusius su studento
             materialinės ir / ar socialinės padėties pablogėjimu (susirgus sunkia liga, patyrus traumą, avariją, gaisrą,
-            rimtą vagystę, artimojo mirtį, vienam iš tėvų praradus darbą ir pan.). Veikloje vadovaujasi: <a
-                href="https://vusa.lt/lt/vienkartines-socialines-stipendijos">https://vusa.lt/lt/vienkartines-socialines-stipendijos</a>
+            rimtą vagystę, artimojo mirtį, vienam iš tėvų praradus darbą ir pan.). Veikloje vadovaujasi <a target="_blank"
+            href="https://vusa.lt/lt/vienkartines-socialines-stipendijos">šiais principais</a>.
         </p>
 
-        <p>Vienkartinių tikslinių stipendijų skirstymo komisija – sprendžia, kam ir kokio dydžio skirti vienkartines
+        <h5>Vienkartinių tikslinių stipendijų skirstymo komisija</h5>
+        <p> Sprendžia, kam ir kokio dydžio skirti vienkartines
             tikslines stipendijas už pasiekimus kultūros, sporto, mokslo ar visuomeninėje veikloje. Veikloje
-            vadovaujasi: <a
-                href="https://vusa.lt/lt/vienkartines-tikslines-stipendijos">https://vusa.lt/lt/vienkartines-tikslines-stipendijos</a>
+            vadovaujasi: <a target="_blank"
+                href="https://vusa.lt/lt/vienkartines-tikslines-stipendijos">šiais principais</a>.
         </p>
 
         <p>Plačiau apie VU teikiamas stipendijas:</p>
 
         <ul>
-            <li><a
-                    href="https://www.vu.lt/studijos/studentams/finansai/stipendijos">https://www.vu.lt/studijos/studentams/finansai/stipendijos</a>
+            <li><a target="_blank"
+                    href="https://www.vu.lt/studijos/studentams/finansai/stipendijos">VU puslapyje</a>
             </li>
 
-            <li><a
-                    href="https://www.vu.lt/site_files/SD/Studentams/st._reglamentuojantys_dok/Stipendijų_nuostatai_2020-07-20.pdf">https://www.vu.lt/site_files/SD/Studentams/st._reglamentuojantys_dok/Stipendijų_nuostatai_2020-07-20.pdf</a>
+            <li><a target="_blank"
+                    href="https://www.vu.lt/site_files/SD/Studentams/st._reglamentuojantys_dok/Stipendijų_nuostatai_2020-07-20.pdf">Stipedijų nuostatuose</a>
             </li>
         </ul>
 
@@ -272,30 +278,30 @@
 
         <p>Šiuo metu Universitete yra <a href="https://www.vu.lt/apiemus/struktura/padaliniai">15 VU KAP</a>.</p>
 
-        <p>Išsamiau apie VU KAP - SUDĖT LINKĄ Į STRUKTŪRĄ KUR BUS PUSLAPYJE, KAD PASPAUDUS KONKREČIAI TAVE Į TĄ VIETĄ
-            NUMESTŲ AUTOMATIŠKAI ( KUR EFKA SCHEMA YR PADARĘS)</p>
+        <p>Išsamiau apie VU KAP - <a href="#VU-schema">VU schemoje</a> (paspausk schemoje ant KAP ir galėsi nueiti į jo puslapį)</p>
 
         <p>Vilniaus universiteto kamieniniai neakademiniai padaliniai (toliau – VU KNAP). Jie steigiami paslaugoms,
-            užtikrinančioms akademinių padalinių veiklą, teikti ir kitoms neakademinėms Universiteto funkcijoms atlikti.
-            Šių organizacinių darinių vieta Universiteto valdymo struktūroje nustatyta Pavyzdiniuose Vilniaus
+            užtikrinančioms akademinių padalinių veiklą, teikti ir kitoms neakademinėms Universiteto funkcijoms atlikti. Šių organizacinių darinių vieta Universiteto valdymo struktūroje nustatyta Pavyzdiniuose Vilniaus
             universiteto kamieninių neakademinių padalinių nuostatuose, kuriuos tvirtina Rektorius.</p>
 
         <p>Visi VU KNAP pateikiami <a href="https://www.vu.lt/apiemus/struktura/padaliniai">čia</a>.</p>
 
-        <p>VU KNAP pavyzdiniai nuostatai: <a
-                href="https://www.vu.lt/site_files/Reguliaminas/Pavyzdiniai_VU_kamieninio_neakademinio_padalinio_nuostatai_2019-10-16.pdf">https://www.vu.lt/site_files/Reguliaminas/Pavyzdiniai_VU_kamieninio_neakademinio_padalinio_nuostatai_2019-10-16.pdf</a>
+        <p><a
+            href="https://www.vu.lt/site_files/Reguliaminas/Pavyzdiniai_VU_kamieninio_neakademinio_padalinio_nuostatai_2019-10-16.pdf">VU KNAP pavyzdiniai nuostatai</a>
         </p>
-
-        <p>Vilniaus universiteto Studentų atstovybė (VU SA) – seniausia ir didžiausia Lietuvoje visuomeninė, ne pelno
+        <h3>Vilniaus universiteto Studentų atstovybė (VU SA)</h3>
+        <p>Seniausia ir didžiausia Lietuvoje visuomeninė, ne pelno
             siekianti, nepolitinė, ekspertinė švietimo organizacija, atstovaujanti studentų interesams Vilniaus
             universitete bei už jo ribų, puoselėjanti universitetinę kultūrą ir kurianti palankiausias sąlygas studentų
             saviraiškai.</p>
 
         <p>VU SA yra vienintelė studentų atstovybė, kuri savo studentų interesams atstovauja nacionaliniu mastu.</p>
 
-        <p>Studentas – asmuo, studijuojantis aukštojoje mokykloje pagal tam tikrą studijų programą arba doktorantūroje.
+        <p><strong>Studentas</strong> – asmuo, studijuojantis aukštojoje mokykloje pagal tam tikrą studijų programą arba doktorantūroje.
         </p>
+        
     </section>
-
+    <hr>
+    <p><strong>Metas žinių pasitikrinimui!</strong></p>
     <iframe src="/quiz2" title="Pasitikrink žinias apie VU" width="1000" height="300"></iframe>
 </section>

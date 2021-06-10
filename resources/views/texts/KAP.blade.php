@@ -4,13 +4,12 @@
         <h3>KAP schema</h3>
         @include('graphs.KAP')
         <h3>KAP schemos aprašymas</h3>
-
         <p>Čia pavaizduota VU kamieninio akademinio padalinio (fakulteto, instituto, centro) (toliau – VU KAP) schema,
             kuris atlieka pagrindinę visų rūšių pagrindinę universiteto veiklą. VU KAP vadovaujasi statutu, Senato
             patvirtintais pavyzdiniais VU KAP nuostatais ir kitais Universiteto veiklos dokumentais. Kiekvieno VU KAP
-            internetiniame puslapyje rasite jo veiklos dokumentus. Taip pat šie dokumentai patalpinti prie VU Senato
-            priimamu sprendimų: <a target="_blank"
-                href="https://www.vu.lt/apiemus/struktura/senatas/senato-sprendimai">https://www.vu.lt/apiemus/struktura/senatas/senato-sprendimai</a>
+            internetiniame puslapyje rasite jo veiklos dokumentus. Taip pat šie dokumentai patalpinti prie <a target="_blank"
+                href="https://www.vu.lt/apiemus/struktura/senatas/senato-sprendimai">VU Senato
+                priimamų sprendimų</a>.
         </p>
 
         <p>Naudodamiesi šia schema sužinosite, kokie yra VU KAP dariniai ir kaip jie susiję tarpusavyje. Plačiau apie
@@ -22,8 +21,8 @@
             pavyzdžiui, kilus konfliktui dėl galutinio dalyko įvertinimo, ar norint patobulinti savo studijų programą.
         </p>
 
-        <p>Schema parengta vadovaujantis: <a
-                href="https://www.vu.lt/site_files/Reguliaminas/Kamieninio_akademinio_padalinio_pavyzdiniai_nuostatai.pdf">https://www.vu.lt/site_files/Reguliaminas/Kamieninio_akademinio_padalinio_pavyzdiniai_nuostatai.pdf</a>
+        <p>Schema parengta vadovaujantis: <a target="_blank"
+                href="https://www.vu.lt/site_files/Reguliaminas/Kamieninio_akademinio_padalinio_pavyzdiniai_nuostatai.pdf">KAP pavyzdiniais nuostatais</a>
         </p>
     </section>
 
@@ -102,7 +101,7 @@
                 <li>Analizuoti studijų programos įgyvendinimą, identifikuoti problemas ir siūlyti jų sprendimo būdus;
                 </li>
 
-                <li>Rengtia studijų programos realizavimo ataskaitas ir pristatyti jas VU KAP tarybai bent kartą per
+                <li>Rengti studijų programos realizavimo ataskaitas ir pristatyti jas VU KAP tarybai bent kartą per
                     mokslo metus;</li>
 
                 <li>Tvirtina kreditų kaupimo ir perkėlimo sprendimus, individualius studijų planus;</li>
@@ -114,8 +113,7 @@
                 programos vykdymo kokybę bei kitais studijų programos vykdymo ar individualaus studijų plano sudarymo
                 klausimais.</p>
 
-            <p>Išsamiau: <a
-                    href="https://www.vu.lt/site_files/Reguliaminas/SPK_nuostatai_galutinis_2018.pdf">https://www.vu.lt/site_files/Reguliaminas/SPK_nuostatai_galutinis_2018.pdf</a>
+            <p><a target="_blank" href="https://www.vu.lt/site_files/Reguliaminas/SPK_nuostatai_galutinis_2018.pdf">Išsamiau</a>
             </p>
         </section>
         <section id="doktoranturos-mokykla">
@@ -127,11 +125,10 @@
                 ir sudaryti tinkamas sąlygas doktorantams vykdyti mokslinius tyrimus ir eksperimentinės plėtros darbus.
             </p>
 
-            <p>Išsamiau: <a
-                    href="https://www.vu.lt/site_files/Senatas_Taryba/S-2017-10-1/VU_doktoranturos_mokyklu_nuostatai.pdf">https://www.vu.lt/site_files/Senatas_Taryba/S-2017-10-1/VU_doktoranturos_mokyklu_nuostatai.pdf</a>
+            <p> <a target="_blank" href="https://www.vu.lt/site_files/Senatas_Taryba/S-2017-10-1/VU_doktoranturos_mokyklu_nuostatai.pdf" >Išsamiau</a>
             </p>
         </section>
-        <section>
+        <section id="vu-kap-gnk">
             <h4>VU KAP ginčų nagrinėjimo komisija</h4>
 
             <p>Komisija nagrinėja pareiškimus dėl ginčų, susijusių su mokslo ir studijų veikla, tarp Padalinio vykdomus
@@ -141,18 +138,18 @@
                 procedūros ar kitų pažeidimų, galimai turinčių įtakos galutiniam studijų dalyko pasiekimų vertinimui.
             </p>
 
-            <p>Išsamiau: <a
-                    href="https://www.vu.lt/site_files/Reguliaminas/KAP_gin%C4%8D%C5%B3_nagrin%C4%97jimo_komisijos_nuostatai_2019-04-16.pdf">https://www.vu.lt/site_files/Reguliaminas/KAP_gin%C4%8D%C5%B3_nagrin%C4%97jimo_komisijos_nuostatai_2019-04-16.pdf</a>
+            <p><a target="_blank"
+                    href="https://www.vu.lt/site_files/Reguliaminas/KAP_gin%C4%8D%C5%B3_nagrin%C4%97jimo_komisijos_nuostatai_2019-04-16.pdf">Išsamiau</a>
             </p>
         </section>
-        <section>
+        <section id="vu-kap-aek">
             <h4>VU KAP akademinės etikos komisija </h4>
 
             <p>Komisija nagrinėja kreipimusis dėl akademinės bendruomenės narių, dirbančių ar studijuojančių tame
                 Padalinyje, veiksmų, galimai pažeidžiančių akademinę etiką.</p>
 
-            <p>Išsamiau:<a
-                    href="https://www.vu.lt/site_files/SPN-55_KAP_AEK_nuostatai.pdf">https://www.vu.lt/site_files/SPN-55_KAP_AEK_nuostatai.pdf</a>
+            <p><a target="_blank"
+                    href="https://www.vu.lt/site_files/SPN-55_KAP_AEK_nuostatai.pdf">Išsamiau</a>
             </p>
         </section>
         <section id="vu-kap-pak">
@@ -163,8 +160,8 @@
                 Universitetu laikotarpiui, Komisija vertina dėstytojo studijų vykdymo bei mokslinę veiklą ir sprendžia,
                 ar darbo sutartis bus pratęsta.</p>
 
-            <p>Išsamiau: <a
-                    href="https://www.vu.lt/site_files/Vilniaus_universiteto_d%C4%97stytoj%C5%B3_ir_mokslo_meno_darbuotoj%C5%B3_konkurs%C5%B3_pareigoms_eiti_i_aestavimo_organizavimo_nuostatai.pdf">https://www.vu.lt/site_files/Vilniaus_universiteto_d%C4%97stytoj%C5%B3_ir_mokslo_meno_darbuotoj%C5%B3_konkurs%C5%B3_pareigoms_eiti_i_aestavimo_organizavimo_nuostatai.pdf</a>
+            <p><a target="_blank"
+                    href="https://www.vu.lt/site_files/Vilniaus_universiteto_d%C4%97stytoj%C5%B3_ir_mokslo_meno_darbuotoj%C5%B3_konkurs%C5%B3_pareigoms_eiti_i_aestavimo_organizavimo_nuostatai.pdf">Išsamiau</a>
             </p>
         </section>
         <section id="vu-kap-rk">
