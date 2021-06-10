@@ -177,3 +177,8 @@ svg:hover>g:hover {
     opacity: 1.0;
     transition: 0.1s
 }
+
+video {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
