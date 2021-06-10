@@ -1,6 +1,7 @@
 <section id="VU">
     <section id="VU-schema">
         <h3>VU schema</h3>
+        @include('graphs.VU')
         <h4>Schemos aprašas</h4>
         <p>Vilniaus universiteto struktūra sudaryta remiantis Vilniaus universiteto Statutu ir kitais vidiniais veiklos
             dokumentais ir teisės aktais, jie pasiekiami <a
