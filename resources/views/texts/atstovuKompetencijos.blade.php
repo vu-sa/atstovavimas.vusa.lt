@@ -1,7 +1,7 @@
 <section id="atstovu-kompetencijos">
     <h2>Studentų atstovo veikla ir kompetencijos</h2>
 
-    <video width="1000" height="440" controls>
+    <video width="870" height="500" controls>
         <source src="video/Atstovavimas.mp4" type="video/mp4">
       Jūsų naršyklė nepalaiko šio vaizdo klipo.
       </video>
