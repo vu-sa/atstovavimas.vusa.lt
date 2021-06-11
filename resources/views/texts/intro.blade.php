@@ -1,32 +1,3 @@
-{{-- <section id="turinys">
-    <h2>Turinys</h2>
-
-    <h3>I dalis</h3>
-    <ol>
-        <li>Įvadas</li>
-        <li>Aukštojo mokslo politikos schema</li>
-        <li>Aukštojo mokslo politikos schemos aprašas</li>
-        <li>LR Seimo ir susijusių struktūrų schema</li>
-        <li>LR Seimo ir susijusių struktūrų schemos aprašas</li>
-        <li>LR Vyriausybės ir susijusių struktūrų schema</li>
-        <li>LR Vyriausybės ir susijusių struktūrų schemos aprašas</li>
-        <li>LR Švietimo, mokslo ir sporto ministerijos ir susijusių struktūrų schema </li>
-        <li>LR Švietimo, mokslo ir sporto ministerijos ir susijusių struktūrų schemos aprašas</li>
-        <li>Įstatymų leidybos procesas</li>
-        <li>Vyriausybės nutarimo priėmimo procesas</li>
-    </ol>
-
-    <h3>II dalis</h3>
-    <p>Studentų atstovų veikla ir kompetencijos:</p>
-    <ol>
-        <li>Problemos identifikavimas ir sprendimo kelio planavimas</li>
-        <li>Duomenų rinkimas, analizavimas ir apipavidalinimas</li>
-        <li>Pasiūlymo rengimas, nešimas ir atsiskaitymas studentams</li>
-    </ol>
-</section>
-
-<img class="img-fluid" src="/img/main/image003.jpg"> --}}
-
 <section id="ivadas">
     <h2>Įvadas</h2>
     <p>Prieš Jūsų akis – VU SA sukurtas atstovavimo gidas. Jo tikslas – supažindinti studentų atstovus ir atstovavimu
