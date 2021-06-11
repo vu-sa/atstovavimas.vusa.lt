@@ -1,107 +1,164 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 3404.801 2931.106" enable-background="new 0 0 3404.801 2931.106" xml:space="preserve">
 <g id="VU_Senato_komisijos">
-	<g>
-		<path fill="#FFFFFF" d="M2510.634,2044c-17.642,0-31.994-14.353-31.994-31.994v-569.012c0-17.642,14.353-31.994,31.994-31.994
-			h699.096c17.642,0,31.994,14.353,31.994,31.994v569.012c0,17.642-14.353,31.994-31.994,31.994H2510.634z"/>
+	<a tabindex="0" 
+data-bs-toggle="popover" 
+title="VU Senato komisijos" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Senato komisijos yra Senato sudarytos komisijos, padedančios įgyvendinti Universiteto tikslus bei uždavinius. <hr> <a href='/#senato-komisijos'>Daugiau</a>">
 		<g>
-			<path fill="#333333" d="M3209.729,1413c16.539,0,29.994,13.455,29.994,29.994v569.012c0,16.539-13.455,29.994-29.994,29.994
-				h-699.096c-16.539,0-29.994-13.455-29.994-29.994v-569.012c0-16.539,13.455-29.994,29.994-29.994H3209.729 M3209.729,1409
-				h-699.096c-18.774,0-33.994,15.22-33.994,33.994v569.012c0,18.774,15.219,33.994,33.994,33.994h699.096
-				c18.774,0,33.994-15.22,33.994-33.994v-569.012C3243.723,1424.22,3228.504,1409,3209.729,1409L3209.729,1409z"/>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 2683.2161 1491.9473)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">VU Senato komisijos</text>
-	<g>
-		<g>
-			<path fill="#FFFFFF" d="M2556.22,1741.208c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.164
-				c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H2556.22z"/>
+			<path fill="#FFFFFF" d="M2510.634,2044c-17.642,0-31.994-14.353-31.994-31.994v-569.012c0-17.642,14.353-31.994,31.994-31.994
+				h699.096c17.642,0,31.994,14.353,31.994,31.994v569.012c0,17.642-14.353,31.994-31.994,31.994H2510.634z"/>
 			<g>
-				<path fill="#333333" d="M2812.384,1662.123c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12h-256.163
-					c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H2812.384 M2812.384,1659.123h-256.163c-8.284,0-15,6.716-15,15v53.586
-					c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C2827.384,1665.838,2820.668,1659.123,2812.384,1659.123
-					L2812.384,1659.123z"/>
+				<path fill="#333333" d="M3209.729,1413c16.539,0,29.994,13.455,29.994,29.994v569.012c0,16.539-13.455,29.994-29.994,29.994
+					h-699.096c-16.539,0-29.994-13.455-29.994-29.994v-569.012c0-16.539,13.455-29.994,29.994-29.994H3209.729 M3209.729,1409
+					h-699.096c-18.774,0-33.994,15.22-33.994,33.994v569.012c0,18.774,15.219,33.994,33.994,33.994h699.096
+					c18.774,0,33.994-15.22,33.994-33.994v-569.012C3243.723,1424.22,3228.504,1409,3209.729,1409L3209.729,1409z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 2553.8618 1695.3479)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Bendrųjų universitetinių</tspan><tspan x="43.104" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">studijų komisija</tspan></text>
+		<text transform="matrix(1 0 0 1 2683.2161 1491.9473)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">VU Senato komisijos</text>
+	</a>
+	<a tabindex="0" 
+data-bs-toggle="popover" 
+title="BUS komisija" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Nagrinėja naujai teikiamų bendrųjų universitetinių studijų
+modulius, teikia išvadas dėl jų atitikimo bendrųjų universitetinių studijų koncepcijai, kuri vėliau
+tvirtinimui yra teikiama Senatui ir atlieka šių modulių įgyvendinimo kokybės stebėseną. <hr> <a target='_blank'
+href='https://www.vu.lt/site_files/BUS_koncepcija_2018-01-23_redakcija.pdf'>BUS koncepcija</a>">
+		<g>
+			<g>
+				<path fill="#FFFFFF" d="M2556.22,1741.208c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.164
+					c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H2556.22z"/>
+				<g>
+					<path fill="#333333" d="M2812.384,1662.123c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12h-256.163
+						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H2812.384 M2812.384,1659.123h-256.163c-8.284,0-15,6.716-15,15v53.586
+						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C2827.384,1665.838,2820.668,1659.123,2812.384,1659.123
+						L2812.384,1659.123z"/>
+				</g>
+			</g>
+			<text transform="matrix(1 0 0 1 2553.8618 1695.3479)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Bendrųjų universitetinių</tspan><tspan x="43.104" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">studijų komisija</tspan></text>
+		</g>
+	</a>
+	<g>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Centrinė ginčų nagrinėjimo komisija" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Nagrinėja skundus bei pareiškimus tarp Universiteto bendruomenės
+narių, nesusijusius su akademinės etikos pažeidimais. <hr> <a target='_blank'
+href='https://www.vu.lt/apiemus/dokumentai#akademine-etika'>Daugiau</a>">
+			<g>
+				<path fill="#FFFFFF" d="M2556.22,1983.708c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.164
+					c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H2556.22z"/>
+				<g>
+					<path fill="#333333" d="M2812.384,1904.623c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12h-256.163
+						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H2812.384 M2812.384,1901.623h-256.163c-8.284,0-15,6.716-15,15v53.586
+						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C2827.384,1908.338,2820.668,1901.623,2812.384,1901.623
+						L2812.384,1901.623z"/>
+				</g>
+			</g>
+			<text transform="matrix(1 0 0 1 2604.1611 1937.8479)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Centrinė ginčų</tspan><tspan x="-35.413" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">nagrinėjimo komisija</tspan></text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M2556.22,1983.708c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.164
-				c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H2556.22z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Centrinė akademinės etikos komisija" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Sprendžia ginčus bei klausimus, susijusius su akademinės etikos
+pažeidimais, kuria ir nuolatos atnaujina VU akademinės etikos kodeksą. <hr> <a target='_blank'
+href='https://www.vu.lt/apiemus/dokumentai#akademine-etika'>Daugiau</a>">
 			<g>
-				<path fill="#333333" d="M2812.384,1904.623c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12h-256.163
-					c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H2812.384 M2812.384,1901.623h-256.163c-8.284,0-15,6.716-15,15v53.586
-					c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C2827.384,1908.338,2820.668,1901.623,2812.384,1901.623
-					L2812.384,1901.623z"/>
+				<path fill="#FFFFFF" d="M2556.22,1862.458c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.164
+					c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H2556.22z"/>
+				<g>
+					<path fill="#333333" d="M2812.384,1783.373c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12h-256.163
+						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H2812.384 M2812.384,1780.373h-256.163c-8.284,0-15,6.716-15,15v53.586
+						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C2827.384,1787.088,2820.668,1780.373,2812.384,1780.373
+						L2812.384,1780.373z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 2604.1611 1937.8479)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Centrinė ginčų</tspan><tspan x="-35.413" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">nagrinėjimo komisija</tspan></text>
+			<text transform="matrix(1 0 0 1 2566.9785 1816.5979)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Centrinė akademinės</tspan><tspan x="33.716" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">etikos komisija</tspan></text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M2556.22,1862.458c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.164
-				c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H2556.22z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Centrinė rinkimų komisija" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Kuria VU valdymo organų rinkimų tvarką ir užtikrina skaidrius bei tinkamus
+VU valdymo organų rinkimus. <hr> <a target='_blank'
+href='https://www.vu.lt/site_files/VUCentrinesrinkimukomisijosnuostatai.pdf'>Daugiau</a>">
 			<g>
-				<path fill="#333333" d="M2812.384,1783.373c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12h-256.163
-					c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H2812.384 M2812.384,1780.373h-256.163c-8.284,0-15,6.716-15,15v53.586
-					c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C2827.384,1787.088,2820.668,1780.373,2812.384,1780.373
-					L2812.384,1780.373z"/>
+				<path fill="#FFFFFF" d="M2906.22,1619.958c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.164
+					c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H2906.22z"/>
+				<g>
+					<path fill="#333333" d="M3162.384,1540.873c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12h-256.163
+						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H3162.384 M3162.384,1537.873h-256.163c-8.284,0-15,6.716-15,15v53.586
+						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C3177.384,1544.588,3170.668,1537.873,3162.384,1537.873
+						L3162.384,1537.873z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 2566.9785 1816.5979)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Centrinė akademinės</tspan><tspan x="33.716" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">etikos komisija</tspan></text>
+			<text transform="matrix(1 0 0 1 2943.1626 1574.0979)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Centrinė rinkimų</tspan><tspan x="44.275" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">komisija</tspan></text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M2906.22,1619.958c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.164
-				c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H2906.22z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Akademinio protokolo komisija" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Kuria ir nuolatos atnaujina akademinių apeigų protokolą bei akademinių
+renginių aprašus. <hr> <a target='_blank'
+href='https://www.vu.lt/site_files/Akademiniu_apeigu_protokolas.pdf'>Protokolas</a>">
 			<g>
-				<path fill="#333333" d="M3162.384,1540.873c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12h-256.163
-					c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H3162.384 M3162.384,1537.873h-256.163c-8.284,0-15,6.716-15,15v53.586
-					c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C3177.384,1544.588,3170.668,1537.873,3162.384,1537.873
-					L3162.384,1537.873z"/>
+				<path fill="#FFFFFF" d="M2556.22,1619.958c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.164
+					c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H2556.22z"/>
+				<g>
+					<path fill="#333333" d="M2812.384,1540.873c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12h-256.163
+						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H2812.384 M2812.384,1537.873h-256.163c-8.284,0-15,6.716-15,15v53.586
+						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C2827.384,1544.588,2820.668,1537.873,2812.384,1537.873
+						L2812.384,1537.873z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 2943.1626 1574.0979)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Centrinė rinkimų</tspan><tspan x="44.275" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">komisija</tspan></text>
+			<text transform="matrix(1 0 0 1 2561.8394 1574.0979)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Akademinio protokolo</tspan><tspan x="75.598" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">komisija</tspan></text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M2556.22,1619.958c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.164
-				c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H2556.22z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Emeritūros, afiliacijos ir garbės vardų komisija" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Svarsto ir teikia Senatui tvirtinti kandidatūras
+gauti Universiteto profesoriaus emerito, afiliuotojo profesoriaus, docento, mokslo darbuotojo bei garbės
+daktaro, alumni, mecenato vardus. <hr> <a target='_blank'
+href='https://www.vu.lt/site_files/Emerituros_afiliacijos_ir_garbes_vardu_nuostatai.pdf'>Nuostatai</a>">
 			<g>
-				<path fill="#333333" d="M2812.384,1540.873c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12h-256.163
-					c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H2812.384 M2812.384,1537.873h-256.163c-8.284,0-15,6.716-15,15v53.586
-					c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C2827.384,1544.588,2820.668,1537.873,2812.384,1537.873
-					L2812.384,1537.873z"/>
+				<path fill="#FFFFFF" d="M2906.22,1809.469c-7.444,0-13.5-6.056-13.5-13.5v-84.128c0-7.444,6.056-13.5,13.5-13.5h256.164
+					c7.444,0,13.5,6.056,13.5,13.5v84.128c0,7.444-6.056,13.5-13.5,13.5H2906.22z"/>
+				<g>
+					<path fill="#333333" d="M3162.384,1699.841c6.617,0,12,5.383,12,12v84.127c0,6.617-5.383,12-12,12h-256.163
+						c-6.617,0-12-5.383-12-12v-84.127c0-6.617,5.383-12,12-12H3162.384 M3162.384,1696.841h-256.163c-8.284,0-15,6.716-15,15v84.127
+						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-84.127C3177.384,1703.557,3170.668,1696.841,3162.384,1696.841
+						L3162.384,1696.841z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 2561.8394 1574.0979)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Akademinio protokolo</tspan><tspan x="75.598" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">komisija</tspan></text>
-	</g>
-	<g>
-		<g>
-			<path fill="#FFFFFF" d="M2906.22,1809.469c-7.444,0-13.5-6.056-13.5-13.5v-84.128c0-7.444,6.056-13.5,13.5-13.5h256.164
-				c7.444,0,13.5,6.056,13.5,13.5v84.128c0,7.444-6.056,13.5-13.5,13.5H2906.22z"/>
-			<g>
-				<path fill="#333333" d="M3162.384,1699.841c6.617,0,12,5.383,12,12v84.127c0,6.617-5.383,12-12,12h-256.163
-					c-6.617,0-12-5.383-12-12v-84.127c0-6.617,5.383-12,12-12H3162.384 M3162.384,1696.841h-256.163c-8.284,0-15,6.716-15,15v84.127
-					c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-84.127C3177.384,1703.557,3170.668,1696.841,3162.384,1696.841
-					L3162.384,1696.841z"/>
-			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 2914.708 1733.0664)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Emeritūros, afiliacijos</tspan><tspan x="33.752" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">ir garbės vardų </tspan><tspan x="72.729" y="60" fill="#111111" font-family="'Roboto'" font-size="25px">komisija</tspan></text>
-	</g>
-	<g>
-		<g>
-			<path fill="#FFFFFF" d="M2906.22,1983.708c-7.444,0-13.5-6.056-13.5-13.5v-84.127c0-7.444,6.056-13.5,13.5-13.5h256.164
-				c7.444,0,13.5,6.056,13.5,13.5v84.127c0,7.444-6.056,13.5-13.5,13.5H2906.22z"/>
-			<g>
-				<path fill="#333333" d="M3162.384,1874.081c6.617,0,12,5.383,12,12v84.127c0,6.617-5.383,12-12,12h-256.163
-					c-6.617,0-12-5.383-12-12v-84.127c0-6.617,5.383-12,12-12H3162.384 M3162.384,1871.081h-256.163c-8.284,0-15,6.716-15,15v84.127
-					c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-84.127C3177.384,1877.797,3170.668,1871.081,3162.384,1871.081
-					L3162.384,1871.081z"/>
-			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 2934.3369 1907.306)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">VU profesoriaus ir</tspan><tspan x="-17.224" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">docento pedagoginių</tspan><tspan x="-25.305" y="60" fill="#111111" font-family="'Roboto'" font-size="25px">vardų teikimo komisija</tspan></text>
+			<text transform="matrix(1 0 0 1 2914.708 1733.0664)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Emeritūros, afiliacijos</tspan><tspan x="33.752" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">ir garbės vardų </tspan><tspan x="72.729" y="60" fill="#111111" font-family="'Roboto'" font-size="25px">komisija</tspan></text>
+		</a>
 	</g>
 	<g>
 		<g>
@@ -118,81 +175,139 @@
 	</g>
 </g>
 <g id="Rektoriaus_komitetai">
-	<g>
+	<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Rektoriaus sudaromos darbo grupės" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Rektorius taip pat gali steigti darbo grupes tam tikriems klausimams spręsti. Darbo grupės yra trumpalaikės ir sudarytos iki reikiamo sprendimo priėmimo (pavyzdžiui, Statuto parengimo, modulinių studijų įvedimo ir
+kt.).">
 		<g>
-			<path fill="#FFFFFF" d="M984.56,1160.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H984.56z"/>
 			<g>
-				<path fill="#333333" d="M1240.426,1114.752c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H984.56
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1240.426 M1240.426,1111.752H984.56c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1255.426,1118.467,1248.71,1111.752,1240.426,1111.752
-					L1240.426,1111.752z"/>
+				<path fill="#FFFFFF" d="M984.56,1160.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H984.56z"/>
+				<g>
+					<path fill="#333333" d="M1240.426,1114.752c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H984.56
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1240.426 M1240.426,1111.752H984.56c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1255.426,1118.467,1248.71,1111.752,1240.426,1111.752
+						L1240.426,1111.752z"/>
+				</g>
+			</g>
+			<text transform="matrix(1 0 0 1 1037.5769 1146.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Darbo grupės</text>
+		</g>
+	</a>
+	<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Rektoriaus sudaromos komisijos ir komitetai" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Rektorius gali formuoti komisijas ir komitetus svarbiems Universiteto klausimams spręsti. <hr> <a href='/#rektoriaus-komisijos'>Daugiau</a>">
+		<g>
+			<path fill="#FFFFFF" d="M197.718,1754c-17.642,0-31.994-14.353-31.994-31.994v-446.012c0-17.642,14.353-31.994,31.994-31.994
+				h1024.012c17.642,0,31.994,14.353,31.994,31.994v446.012c0,17.642-14.353,31.994-31.994,31.994H197.718z"/>
+			<g>
+				<path fill="#333333" d="M1221.729,1246c16.539,0,29.994,13.455,29.994,29.994v446.012c0,16.539-13.455,29.994-29.994,29.994
+					H197.717c-16.539,0-29.994-13.455-29.994-29.994v-446.012c0-16.539,13.455-29.994,29.994-29.994H1221.729 M1221.729,1242H197.717
+					c-18.774,0-33.994,15.22-33.994,33.994v446.012c0,18.774,15.22,33.994,33.994,33.994h1024.012
+					c18.774,0,33.994-15.22,33.994-33.994v-446.012C1255.723,1257.22,1240.504,1242,1221.729,1242L1221.729,1242z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1037.5769 1146.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Darbo grupės</text>
-	</g>
+		<text transform="matrix(0 -1 1 0 263.197 1683.166)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Komisijos / </tspan><tspan x="20.392" y="45.6" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">komitetai</tspan></text>
+	</a>
 	<g>
-		<path fill="#FFFFFF" d="M197.718,1754c-17.642,0-31.994-14.353-31.994-31.994v-446.012c0-17.642,14.353-31.994,31.994-31.994
-			h1024.012c17.642,0,31.994,14.353,31.994,31.994v446.012c0,17.642-14.353,31.994-31.994,31.994H197.718z"/>
-		<g>
-			<path fill="#333333" d="M1221.729,1246c16.539,0,29.994,13.455,29.994,29.994v446.012c0,16.539-13.455,29.994-29.994,29.994
-				H197.717c-16.539,0-29.994-13.455-29.994-29.994v-446.012c0-16.539,13.455-29.994,29.994-29.994H1221.729 M1221.729,1242H197.717
-				c-18.774,0-33.994,15.22-33.994,33.994v446.012c0,18.774,15.22,33.994,33.994,33.994h1024.012
-				c18.774,0,33.994-15.22,33.994-33.994v-446.012C1255.723,1257.22,1240.504,1242,1221.729,1242L1221.729,1242z"/>
-		</g>
-	</g>
-	<text transform="matrix(0 -1 1 0 263.197 1683.166)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Komisijos / </tspan><tspan x="20.392" y="45.6" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">komitetai</tspan></text>
-	<g>
-		<g>
-			<path fill="#FFFFFF" d="M828.56,1692.685c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h344.164
-				c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H828.56z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Vienkartinių tikslinių stipendijų skirstymo komisija" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Sprendžia, kam ir kokio dydžio skirti vienkartines
+tikslines stipendijas už pasiekimus kultūros, sporto, mokslo ar visuomeninėje veikloje. <hr> <a target='_blank'
+href='https://vusa.lt/lt/vienkartines-tikslines-stipendijos'>Veikimo principai</a>">
 			<g>
-				<path fill="#333333" d="M1172.723,1613.599c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H828.56
-					c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H1172.723 M1172.723,1610.599H828.56c-8.284,0-15,6.716-15,15v53.586
-					c0,8.284,6.716,15,15,15h344.163c8.284,0,15-6.716,15-15v-53.586C1187.723,1617.315,1181.008,1610.599,1172.723,1610.599
-					L1172.723,1610.599z"/>
+				<path fill="#FFFFFF" d="M828.56,1692.685c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h344.164
+					c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H828.56z"/>
+				<g>
+					<path fill="#333333" d="M1172.723,1613.599c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H828.56
+						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H1172.723 M1172.723,1610.599H828.56c-8.284,0-15,6.716-15,15v53.586
+						c0,8.284,6.716,15,15,15h344.163c8.284,0,15-6.716,15-15v-53.586C1187.723,1617.315,1181.008,1610.599,1172.723,1610.599
+						L1172.723,1610.599z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 888.8048 1646.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Vienkartinių tikslinių</tspan><tspan x="-49.841" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">stipendijų skirstymo komisija</tspan></text>
+			<text transform="matrix(1 0 0 1 888.8048 1646.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Vienkartinių tikslinių</tspan><tspan x="-49.841" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">stipendijų skirstymo komisija</tspan></text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M828.56,1543.185c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h344.164
-				c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H828.56z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Vienkartinių socialinių stipendijų skirstymo komisija" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Nagrinėja gautus prašymus, susijusius su studento
+materialinės ir / ar socialinės padėties pablogėjimu (susirgus sunkia liga, patyrus traumą, avariją, gaisrą,
+rimtą vagystę, artimojo mirtį, vienam iš tėvų praradus darbą ir pan.). <hr> <a target='_blank'
+href='https://vusa.lt/lt/vienkartines-socialines-stipendijos'>Veikimo principai</a>">
 			<g>
-				<path fill="#333333" d="M1172.723,1464.099c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H828.56
-					c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H1172.723 M1172.723,1461.099H828.56c-8.284,0-15,6.716-15,15v53.586
-					c0,8.284,6.716,15,15,15h344.163c8.284,0,15-6.716,15-15v-53.586C1187.723,1467.815,1181.008,1461.099,1172.723,1461.099
-					L1172.723,1461.099z"/>
+				<path fill="#FFFFFF" d="M828.56,1543.185c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h344.164
+					c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H828.56z"/>
+				<g>
+					<path fill="#333333" d="M1172.723,1464.099c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H828.56
+						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H1172.723 M1172.723,1461.099H828.56c-8.284,0-15,6.716-15,15v53.586
+						c0,8.284,6.716,15,15,15h344.163c8.284,0,15-6.716,15-15v-53.586C1187.723,1467.815,1181.008,1461.099,1172.723,1461.099
+						L1172.723,1461.099z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 878.7526 1497.3243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Vienkartinių socialinių</tspan><tspan x="-39.789" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">stipendijų skirstymo komisija</tspan></text>
+			<text transform="matrix(1 0 0 1 878.7526 1497.3243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Vienkartinių socialinių</tspan><tspan x="-39.789" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">stipendijų skirstymo komisija</tspan></text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M239.56,1393.685c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.164
-				c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H239.56z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="VU priėmimo komisija" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Komisija svarsto ir teikia Universiteto rektoriui tvirtinti dėstytojų ir mokslo
+darbuotojų kandidatūras akademinėms pareigoms užimti. <hr> <a target='_blank'
+href='https://www.vu.lt/apiemus/karjera/akademinis-personalas/6546-konkursu-organizavimo-nuostatai-ir-kiti-susije-dokumentai'>Plačiau apie procedūrą </a>">
 			<g>
-				<path fill="#333333" d="M495.723,1314.599c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H239.56
-					c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H495.723 M495.723,1311.599H239.56c-8.284,0-15,6.716-15,15v53.586
-					c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C510.723,1318.315,504.008,1311.599,495.723,1311.599
-					L495.723,1311.599z"/>
+				<path fill="#FFFFFF" d="M239.56,1393.685c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.164
+					c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H239.56z"/>
+				<g>
+					<path fill="#333333" d="M495.723,1314.599c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H239.56
+						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H495.723 M495.723,1311.599H239.56c-8.284,0-15,6.716-15,15v53.586
+						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C510.723,1318.315,504.008,1311.599,495.723,1311.599
+						L495.723,1311.599z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 294.4952 1347.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">VU Priėmimo</tspan><tspan x="26.282" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">komisija</tspan></text>
+			<text transform="matrix(1 0 0 1 294.4952 1347.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">VU Priėmimo</tspan><tspan x="26.282" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">komisija</tspan></text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M381.56,1542.685c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h344.164
-				c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H381.56z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="VU geriausių dėstytojų pripažinimo komisija" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Komisija svarsto kandidatų veiklą ir teikia Rektoriui
+rekomendacijas dėl kandidatų pripažinimo geriausiais metų dėstytojais. <hr> <a target='_blank'
+href='https://www.vu.lt/site_files/Isak_VU_geriausiu_destytoju_rinkimo_aprasas_1.pdf'>Plačiau apie procedūrą </a>">
 			<g>
-				<path fill="#333333" d="M725.723,1463.599c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H381.56
-					c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H725.723 M725.723,1460.599H381.56c-8.284,0-15,6.716-15,15v53.586
-					c0,8.284,6.716,15,15,15h344.163c8.284,0,15-6.716,15-15v-53.586C740.723,1467.315,734.008,1460.599,725.723,1460.599
-					L725.723,1460.599z"/>
+				<path fill="#FFFFFF" d="M381.56,1542.685c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h344.164
+					c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H381.56z"/>
+				<g>
+					<path fill="#333333" d="M725.723,1463.599c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H381.56
+						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H725.723 M725.723,1460.599H381.56c-8.284,0-15,6.716-15,15v53.586
+						c0,8.284,6.716,15,15,15h344.163c8.284,0,15-6.716,15-15v-53.586C740.723,1467.315,734.008,1460.599,725.723,1460.599
+						L725.723,1460.599z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 429.0851 1496.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">VU geriausių dėstytojų</tspan><tspan x="9.266" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">pripažinimo komisija</tspan></text>
+			<text transform="matrix(1 0 0 1 429.0851 1496.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">VU geriausių dėstytojų</tspan><tspan x="9.266" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">pripažinimo komisija</tspan></text>
+		</a>
 	</g>
 	<g>
 		<g>
@@ -208,149 +323,248 @@
 		<text transform="matrix(1 0 0 1 408.2408 1643.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">VU išskirtinio profesoriaus</tspan><tspan x="-22.986" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">kategorijos suteikimo komisija</tspan></text>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M568.56,1393.685c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h602.164
-				c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H568.56z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Partnerystės profesorių ir partnerystės docentų pareigų suteikimo patariamasis komitetas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Komitetas VU
+rektoriui teikia nuomonę dėl VU partnerystės profesorių ir partnerystės docentų pareigybių suteikimo. <hr> <a target='_blank'
+href='https://www.vu.lt/site_files/Reguliaminas/Dėl_partnerystės_profesoriaus_ir_partnerystės_docento_pareigybių.pdf'>Nuostatai </a>">
 			<g>
-				<path fill="#333333" d="M1170.723,1314.599c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H568.56
-					c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H1170.723 M1170.723,1311.599H568.56c-8.284,0-15,6.716-15,15v53.586
-					c0,8.284,6.716,15,15,15h602.163c8.284,0,15-6.716,15-15v-53.586C1185.723,1318.315,1179.008,1311.599,1170.723,1311.599
-					L1170.723,1311.599z"/>
+				<path fill="#FFFFFF" d="M568.56,1393.685c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h602.164
+					c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H568.56z"/>
+				<g>
+					<path fill="#333333" d="M1170.723,1314.599c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H568.56
+						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H1170.723 M1170.723,1311.599H568.56c-8.284,0-15,6.716-15,15v53.586
+						c0,8.284,6.716,15,15,15h602.163c8.284,0,15-6.716,15-15v-53.586C1185.723,1318.315,1179.008,1311.599,1170.723,1311.599
+						L1170.723,1311.599z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 643.9625 1347.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">VU partnerystės profesorių ir partnerystės</tspan><tspan x="-50.116" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">docentų pareigų suteikimo patariamasis komitetas</tspan></text>
+			<text transform="matrix(1 0 0 1 643.9625 1347.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">VU partnerystės profesorių ir partnerystės</tspan><tspan x="-50.116" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">docentų pareigų suteikimo patariamasis komitetas</tspan></text>
+		</a>
 	</g>
 </g>
 <g id="Senato_kolegija">
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M2210.008,694.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H2210.008z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Senato kolegija" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Senato veiklai organizuoti sudaroma Senato kolegija, susidedanti iš Senato pirmininko,
+Senato pirmininko pavaduotojo (-ų) ir Komitetų pirmininkų ir Studentų atstovo. <hr> <a target='_blank'
+href='https://www.vu.lt/apiemus/struktura/senatas/senato-reglamentas'>Plačiau </a>">
 			<g>
-				<path fill="#333333" d="M2465.873,648.752c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12h-255.866
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H2465.873 M2465.873,645.752h-255.866c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C2480.873,652.467,2474.157,645.752,2465.873,645.752
-					L2465.873,645.752z"/>
+				<path fill="#FFFFFF" d="M2210.008,694.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H2210.008z"/>
+				<g>
+					<path fill="#333333" d="M2465.873,648.752c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12h-255.866
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H2465.873 M2465.873,645.752h-255.866c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C2480.873,652.467,2474.157,645.752,2465.873,645.752
+						L2465.873,645.752z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 2252.7102 680.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Senato kolegija</text>
+			<text transform="matrix(1 0 0 1 2252.7102 680.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Senato kolegija</text>
+		</a>
 	</g>
 </g>
 <g id="Senato_komitetai">
-	<g>
-		<path fill="#FFFFFF" d="M2637.634,1202c-17.642,0-31.994-14.353-31.994-31.994V822.421c0-17.642,14.353-31.994,31.994-31.994
-			h419.096c17.642,0,31.994,14.353,31.994,31.994v347.585c0,17.642-14.353,31.994-31.994,31.994H2637.634z"/>
+	<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Senato komitetai" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Itin svarbiems su mokslu, menu ir studijomis susijusiems Universiteto veiklos klausimams
+spręsti yra sudaryti trys Senato komitetai: Mokslo, Studijų bei Kokybės ir plėtros. Kiekvienas komitetas
+nagrinėja atitinkamos srities klausimus bei teikia išvadas Senatui. <hr> <a
+href='/#senato-komitetai'>Plačiau </a>">
 		<g>
-			<path fill="#333333" d="M3056.729,792.427c16.539,0,29.994,13.455,29.994,29.994v347.585c0,16.539-13.455,29.994-29.994,29.994
-				h-419.095c-16.539,0-29.994-13.455-29.994-29.994V822.421c0-16.539,13.455-29.994,29.994-29.994H3056.729 M3056.729,788.427
-				h-419.095c-18.774,0-33.994,15.22-33.994,33.994v347.585c0,18.774,15.219,33.994,33.994,33.994h419.095
-				c18.774,0,33.994-15.22,33.994-33.994V822.421C3090.723,803.647,3075.504,788.427,3056.729,788.427L3056.729,788.427z"/>
-		</g>
-	</g>
-	<g>
-		<path fill="#FFFFFF" d="M2685.56,1043.685c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.163
-			c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H2685.56z"/>
-		<g>
-			<path fill="#333333" d="M2941.723,964.599c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H2685.56
-				c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H2941.723 M2941.723,961.599H2685.56c-8.284,0-15,6.716-15,15v53.586
-				c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C2956.723,968.315,2950.008,961.599,2941.723,961.599
-				L2941.723,961.599z"/>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 2714.189 997.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Kokybės ir plėtros</tspan><tspan x="43.817" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">komitetas</tspan></text>
-	<g>
-		<g>
-			<path fill="#FFFFFF" d="M2685.56,903.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.865
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H2685.56z"/>
+			<path fill="#FFFFFF" d="M2637.634,1202c-17.642,0-31.994-14.353-31.994-31.994V822.421c0-17.642,14.353-31.994,31.994-31.994
+				h419.096c17.642,0,31.994,14.353,31.994,31.994v347.585c0,17.642-14.353,31.994-31.994,31.994H2637.634z"/>
 			<g>
-				<path fill="#333333" d="M2941.426,857.752c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H2685.56
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H2941.426 M2941.426,854.752H2685.56c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C2956.426,861.467,2949.71,854.752,2941.426,854.752
-					L2941.426,854.752z"/>
+				<path fill="#333333" d="M3056.729,792.427c16.539,0,29.994,13.455,29.994,29.994v347.585c0,16.539-13.455,29.994-29.994,29.994
+					h-419.095c-16.539,0-29.994-13.455-29.994-29.994V822.421c0-16.539,13.455-29.994,29.994-29.994H3056.729 M3056.729,788.427
+					h-419.095c-18.774,0-33.994,15.22-33.994,33.994v347.585c0,18.774,15.219,33.994,33.994,33.994h419.095
+					c18.774,0,33.994-15.22,33.994-33.994V822.421C3090.723,803.647,3075.504,788.427,3056.729,788.427L3056.729,788.427z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 2716.324 889.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Studijų komitetas</text>
-	</g>
-	<g>
+		<text transform="matrix(0 1 -1 0 3010.1824 857.562)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Senato komitetai</text>
+	</a>
+	<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Kokybės ir plėtros komitetas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Kontroliuoja, kaip veikia studijų kokybės užtikrinimo sistema, nagrinėja
+su Vilniaus universiteto vidaus išteklių paskirstymu, plėtra susijusius klausimus.">
 		<g>
-			<path fill="#FFFFFF" d="M2685.56,1150.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.865
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H2685.56z"/>
+			<path fill="#FFFFFF" d="M2685.56,1043.685c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.163
+				c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H2685.56z"/>
 			<g>
-				<path fill="#333333" d="M2941.426,1104.752c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H2685.56
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H2941.426 M2941.426,1101.752H2685.56c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C2956.426,1108.467,2949.71,1101.752,2941.426,1101.752
-					L2941.426,1101.752z"/>
+				<path fill="#333333" d="M2941.723,964.599c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H2685.56
+					c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H2941.723 M2941.723,961.599H2685.56c-8.284,0-15,6.716-15,15v53.586
+					c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C2956.723,968.315,2950.008,961.599,2941.723,961.599
+					L2941.723,961.599z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 2713.6873 1136.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Mokslo komitetas</text>
+		<text transform="matrix(1 0 0 1 2714.189 997.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Kokybės ir plėtros</tspan><tspan x="43.817" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">komitetas</tspan></text>
+	</a>
+	<g>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Studijų komitetas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Nagrinėja klausimus, susijusius su studijų vykdymu ir kokybe Vilniaus universitete">
+			<g>
+				<path fill="#FFFFFF" d="M2685.56,903.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.865
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H2685.56z"/>
+				<g>
+					<path fill="#333333" d="M2941.426,857.752c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H2685.56
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H2941.426 M2941.426,854.752H2685.56c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C2956.426,861.467,2949.71,854.752,2941.426,854.752
+						L2941.426,854.752z"/>
+				</g>
+			</g>
+			<text transform="matrix(1 0 0 1 2716.324 889.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Studijų komitetas</text>
+		</a>
 	</g>
-	<text transform="matrix(0 1 -1 0 3010.1824 857.562)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Senato komitetai</text>
+	<g>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Mokslo komitetas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Nagrinėja klausimus, susijusius su mokslo vykdymu bei plėtra Vilniaus universitete">
+			<g>
+				<path fill="#FFFFFF" d="M2685.56,1150.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.865
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H2685.56z"/>
+				<g>
+					<path fill="#333333" d="M2941.426,1104.752c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H2685.56
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H2941.426 M2941.426,1101.752H2685.56c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C2956.426,1108.467,2949.71,1101.752,2941.426,1101.752
+						L2941.426,1101.752z"/>
+				</g>
+			</g>
+			<text transform="matrix(1 0 0 1 2713.6873 1136.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Mokslo komitetas</text>
+		</a>
+	</g>
 </g>
 <g id="Didysis_rektoratas">
-	<g>
+	<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Didysis rektoratas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Rektoriaus patariamasis darinys, sudarytas iš visų Universiteto kamieninių akademinių ir
+neakademinių padalinių vadovų bei Studentų atstovybės prezidento. <hr> <a href='/#didysis-rektoratas'>Daugiau</a>">
 		<g>
-			<path fill="#FFFFFF" d="M1478.205,1675.793c-7.444,0-13.5-6.056-13.5-13.5v-30.541c0-7.444,6.056-13.5,13.5-13.5h313.164
-				c7.444,0,13.5,6.056,13.5,13.5v30.541c0,7.444-6.056,13.5-13.5,13.5H1478.205z"/>
 			<g>
-				<path fill="#333333" d="M1791.369,1619.752c6.617,0,12,5.383,12,12v30.542c0,6.617-5.383,12-12,12h-313.163
-					c-6.617,0-12-5.383-12-12v-30.542c0-6.617,5.383-12,12-12H1791.369 M1791.369,1616.752h-313.163c-8.284,0-15,6.716-15,15v30.542
-					c0,8.284,6.716,15,15,15h313.163c8.284,0,15-6.716,15-15v-30.542C1806.369,1623.467,1799.653,1616.752,1791.369,1616.752
-					L1791.369,1616.752z"/>
+				<path fill="#FFFFFF" d="M1478.205,1675.793c-7.444,0-13.5-6.056-13.5-13.5v-30.541c0-7.444,6.056-13.5,13.5-13.5h313.164
+					c7.444,0,13.5,6.056,13.5,13.5v30.541c0,7.444-6.056,13.5-13.5,13.5H1478.205z"/>
+				<g>
+					<path fill="#333333" d="M1791.369,1619.752c6.617,0,12,5.383,12,12v30.542c0,6.617-5.383,12-12,12h-313.163
+						c-6.617,0-12-5.383-12-12v-30.542c0-6.617,5.383-12,12-12H1791.369 M1791.369,1616.752h-313.163c-8.284,0-15,6.716-15,15v30.542
+						c0,8.284,6.716,15,15,15h313.163c8.284,0,15-6.716,15-15v-30.542C1806.369,1623.467,1799.653,1616.752,1791.369,1616.752
+						L1791.369,1616.752z"/>
+				</g>
 			</g>
+			<text transform="matrix(1 0 0 1 1512.1339 1659.0371)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="30.0109px">Didysis rektoratas</text>
 		</g>
-		<text transform="matrix(1 0 0 1 1512.1339 1659.0371)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="30.0109px">Didysis rektoratas</text>
-	</g>
+	</a>
 </g>
 <g id="Mažasis_rektoratas">
-	<g>
-		<path fill="#FFFFFF" d="M1623.393,1474c-17.642,0-31.994-14.353-31.994-31.994v-239.585c0-17.642,14.353-31.994,31.994-31.994
-			h699.095c17.642,0,31.994,14.353,31.994,31.994v239.585c0,17.642-14.353,31.994-31.994,31.994H1623.393z"/>
+	<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Mažasis rektoratas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a href='/#mazasis-rektoratas'>Daugiau</a>">
 		<g>
-			<path fill="#333333" d="M2322.489,1172.427c16.539,0,29.994,13.455,29.994,29.994v239.585c0,16.539-13.455,29.994-29.994,29.994
-				h-699.096c-16.539,0-29.994-13.455-29.994-29.994v-239.585c0-16.539,13.455-29.994,29.994-29.994H2322.489 M2322.489,1168.427
-				h-699.096c-18.774,0-33.994,15.22-33.994,33.994v239.585c0,18.774,15.22,33.994,33.994,33.994h699.096
-				c18.774,0,33.994-15.22,33.994-33.994v-239.585C2356.482,1183.647,2341.263,1168.427,2322.489,1168.427L2322.489,1168.427z"/>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 1808.9448 1440.9473)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Mažasis rektoratas</text>
-	<g>
-		<g>
-			<path fill="#FFFFFF" d="M1669.319,1283.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H1669.319z"/>
+			<path fill="#FFFFFF" d="M1623.393,1474c-17.642,0-31.994-14.353-31.994-31.994v-239.585c0-17.642,14.353-31.994,31.994-31.994
+				h699.095c17.642,0,31.994,14.353,31.994,31.994v239.585c0,17.642-14.353,31.994-31.994,31.994H1623.393z"/>
 			<g>
-				<path fill="#333333" d="M1925.185,1237.752c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12h-255.866
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1925.185 M1925.185,1234.752h-255.866c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1940.185,1241.467,1933.469,1234.752,1925.185,1234.752
-					L1925.185,1234.752z"/>
+				<path fill="#333333" d="M2322.489,1172.427c16.539,0,29.994,13.455,29.994,29.994v239.585c0,16.539-13.455,29.994-29.994,29.994
+					h-699.096c-16.539,0-29.994-13.455-29.994-29.994v-239.585c0-16.539,13.455-29.994,29.994-29.994H2322.489 M2322.489,1168.427
+					h-699.096c-18.774,0-33.994,15.22-33.994,33.994v239.585c0,18.774,15.22,33.994,33.994,33.994h699.096
+					c18.774,0,33.994-15.22,33.994-33.994v-239.585C2356.482,1183.647,2341.263,1168.427,2322.489,1168.427L2322.489,1168.427z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1702.0786 1269.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Vicerektorius (-ė)</text>
+		<text transform="matrix(1 0 0 1 1808.9448 1440.9473)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Mažasis rektoratas</text>
+	</a>
+	<g>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Vicerektorius (-ė)" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Rektoriaus teikimu vieną iš prorektorių Taryba skiria eiti pirmojo
+prorektoriaus – vicerektoriaus – pareigas.">
+			<g>
+				<path fill="#FFFFFF" d="M1669.319,1283.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H1669.319z"/>
+				<g>
+					<path fill="#333333" d="M1925.185,1237.752c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12h-255.866
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1925.185 M1925.185,1234.752h-255.866c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1940.185,1241.467,1933.469,1234.752,1925.185,1234.752
+						L1925.185,1234.752z"/>
+				</g>
+			</g>
+			<text transform="matrix(1 0 0 1 1702.0786 1269.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Vicerektorius (-ė)</text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M2021.319,1283.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.865
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H2021.319z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Kancleris" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Kancleris padeda Rektoriui valdyti Universiteto išteklius, tvarkyti finansus, užtikrinti Universiteto vidaus
+tvarką ir reikiamas materialines bei organizacines sąlygas Universiteto Senato ir Tarybos veiklai.">
 			<g>
-				<path fill="#333333" d="M2277.185,1237.752c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12h-255.866
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H2277.185 M2277.185,1234.752h-255.866c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C2292.185,1241.467,2285.469,1234.752,2277.185,1234.752
-					L2277.185,1234.752z"/>
+				<path fill="#FFFFFF" d="M2021.319,1283.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.865
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H2021.319z"/>
+				<g>
+					<path fill="#333333" d="M2277.185,1237.752c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12h-255.866
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H2277.185 M2277.185,1234.752h-255.866c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C2292.185,1241.467,2285.469,1234.752,2277.185,1234.752
+						L2277.185,1234.752z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 2075.7891 1269.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Kancleris (-ė)</text>
+			<text transform="matrix(1 0 0 1 2075.7891 1269.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Kancleris (-ė)</text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M1845.319,1371.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.865
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H1845.319z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Prorektoriai" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Prorektoriai – administruoja Rektoriaus jiems pavestą Universiteto veiklos ar valdymo sritį. <hr> <a href='/#mazasis-rektoratas'>Daugiau</a>">
 			<g>
-				<path fill="#333333" d="M2101.185,1325.752c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12h-255.866
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H2101.185 M2101.185,1322.752h-255.866c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C2116.185,1329.467,2109.469,1322.752,2101.185,1322.752
-					L2101.185,1322.752z"/>
+				<path fill="#FFFFFF" d="M1845.319,1371.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.865
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H1845.319z"/>
+				<g>
+					<path fill="#333333" d="M2101.185,1325.752c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12h-255.866
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H2101.185 M2101.185,1322.752h-255.866c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C2116.185,1329.467,2109.469,1322.752,2101.185,1322.752
+						L2101.185,1322.752z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 1908.2725 1357.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Prorektoriai</text>
+			<text transform="matrix(1 0 0 1 1908.2725 1357.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Prorektoriai</text>
+		</a>
 	</g>
 	<g>
 		<g>
@@ -389,172 +603,277 @@
 	</g>
 </g>
 <g id="KNAP">
-	<g>
-		<path fill="#FFFFFF" d="M1408.718,2756c-17.642,0-31.994-14.353-31.994-31.994v-872.012c0-17.642,14.353-31.994,31.994-31.994
-			h852.012c17.642,0,31.994,14.353,31.994,31.994v872.012c0,17.642-14.353,31.994-31.994,31.994H1408.718z"/>
+	<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Vilniaus universiteto kamieniniai neakademiniai padaliniai" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Jie steigiami paslaugoms,
+užtikrinančioms akademinių padalinių veiklą, teikti ir kitoms neakademinėms Universiteto funkcijoms atlikti. <hr> <a href='/#vu-knap'>Daugiau</a>">
 		<g>
-			<path fill="#333333" d="M2260.729,1822c16.539,0,29.994,13.455,29.994,29.994v872.012c0,16.539-13.455,29.994-29.994,29.994
-				h-852.012c-16.539,0-29.994-13.455-29.994-29.994v-872.012c0-16.539,13.455-29.994,29.994-29.994H2260.729 M2260.729,1818
-				h-852.012c-18.774,0-33.994,15.22-33.994,33.994v872.012c0,18.774,15.22,33.994,33.994,33.994h852.012
-				c18.774,0,33.994-15.22,33.994-33.994v-872.012C2294.723,1833.22,2279.504,1818,2260.729,1818L2260.729,1818z"/>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 1517.1227 1901.5764)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Kamieniniai neakademiniai padaliniai</text>
-	<g>
-		<g>
-			<path fill="#FFFFFF" d="M1486.221,2063.261c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
-				c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H1486.221z"/>
+			<path fill="#FFFFFF" d="M1408.718,2756c-17.642,0-31.994-14.353-31.994-31.994v-872.012c0-17.642,14.353-31.994,31.994-31.994
+				h852.012c17.642,0,31.994,14.353,31.994,31.994v872.012c0,17.642-14.353,31.994-31.994,31.994H1408.718z"/>
 			<g>
-				<path fill="#333333" d="M1742.384,1984.175c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12h-256.163
-					c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H1742.384 M1742.384,1981.175h-256.163c-8.284,0-15,6.716-15,15v53.586
-					c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C1757.384,1987.891,1750.668,1981.175,1742.384,1981.175
-					L1742.384,1981.175z"/>
+				<path fill="#333333" d="M2260.729,1822c16.539,0,29.994,13.455,29.994,29.994v872.012c0,16.539-13.455,29.994-29.994,29.994
+					h-852.012c-16.539,0-29.994-13.455-29.994-29.994v-872.012c0-16.539,13.455-29.994,29.994-29.994H2260.729 M2260.729,1818
+					h-852.012c-18.774,0-33.994,15.22-33.994,33.994v872.012c0,18.774,15.22,33.994,33.994,33.994h852.012
+					c18.774,0,33.994-15.22,33.994-33.994v-872.012C2294.723,1833.22,2279.504,1818,2260.729,1818L2260.729,1818z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1544.403 2017.4006)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Bendrabučių</tspan><tspan x="28.131" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">centras</tspan></text>
+		<text transform="matrix(1 0 0 1 1517.1227 1901.5764)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Kamieniniai neakademiniai padaliniai</text>
+	</a>
+	<g>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Bendrabučių centras" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.bustas.vu.lt/'>bustas.vu.lt/</a>">
+			<g>
+				<path fill="#FFFFFF" d="M1486.221,2063.261c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
+					c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H1486.221z"/>
+				<g>
+					<path fill="#333333" d="M1742.384,1984.175c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12h-256.163
+						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H1742.384 M1742.384,1981.175h-256.163c-8.284,0-15,6.716-15,15v53.586
+						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C1757.384,1987.891,1750.668,1981.175,1742.384,1981.175
+						L1742.384,1981.175z"/>
+				</g>
+			</g>
+			<text transform="matrix(1 0 0 1 1544.403 2017.4006)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Bendrabučių</tspan><tspan x="28.131" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">centras</tspan></text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M1486.56,2174.314c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H1486.56z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Biblioteka" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.mb.vu.lt/'>mb.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M1742.426,2128.381c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H1486.56
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1742.426 M1742.426,2125.381H1486.56c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1757.426,2132.097,1750.71,2125.381,1742.426,2125.381
-					L1742.426,2125.381z"/>
+				<path fill="#FFFFFF" d="M1486.56,2174.314c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H1486.56z"/>
+				<g>
+					<path fill="#333333" d="M1742.426,2128.381c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H1486.56
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1742.426 M1742.426,2125.381H1486.56c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1757.426,2132.097,1750.71,2125.381,1742.426,2125.381
+						L1742.426,2125.381z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 1559.3894 2160.6067)" fill="#111111" font-family="'Roboto'" font-size="25px">Biblioteka</text>
+			<text transform="matrix(1 0 0 1 1559.3894 2160.6067)" fill="#111111" font-family="'Roboto'" font-size="25px">Biblioteka</text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M1492.56,2285.898c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H1492.56z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Botanikos sodas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.botanikos-sodas.vu.lt/'>botanikos-sodas.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M1748.426,2239.966c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H1492.56
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1748.426 M1748.426,2236.966H1492.56c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1763.426,2243.681,1756.71,2236.966,1748.426,2236.966
-					L1748.426,2236.966z"/>
+				<path fill="#FFFFFF" d="M1492.56,2285.898c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H1492.56z"/>
+				<g>
+					<path fill="#333333" d="M1748.426,2239.966c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H1492.56
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1748.426 M1748.426,2236.966H1492.56c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1763.426,2243.681,1756.71,2236.966,1748.426,2236.966
+						L1748.426,2236.966z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 1527.657 2272.1907)" fill="#111111" font-family="'Roboto'" font-size="25px">Botanikos sodas</text>
+			<text transform="matrix(1 0 0 1 1527.657 2272.1907)" fill="#111111" font-family="'Roboto'" font-size="25px">Botanikos sodas</text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M1917.465,2403.831c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H1917.465z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Planetariumas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://planetarium.tfai.vu.lt/'>planetarium.tfai.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M2173.33,2357.898c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12h-255.866
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H2173.33 M2173.33,2354.898h-255.866c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C2188.33,2361.614,2181.615,2354.898,2173.33,2354.898
-					L2173.33,2354.898z"/>
+				<path fill="#FFFFFF" d="M1917.465,2403.831c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H1917.465z"/>
+				<g>
+					<path fill="#333333" d="M2173.33,2357.898c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12h-255.866
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H2173.33 M2173.33,2354.898h-255.866c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C2188.33,2361.614,2181.615,2354.898,2173.33,2354.898
+						L2173.33,2354.898z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 1964.6838 2390.1235)" fill="#111111" font-family="'Roboto'" font-size="25px">Planetariumas</text>
+			<text transform="matrix(1 0 0 1 1964.6838 2390.1235)" fill="#111111" font-family="'Roboto'" font-size="25px">Planetariumas</text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M1917.465,2285.898c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H1917.465z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Muziejus" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.muziejus.vu.lt/lt'>muziejus.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M2173.33,2239.966c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12h-255.866
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H2173.33 M2173.33,2236.966h-255.866c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C2188.33,2243.681,2181.615,2236.966,2173.33,2236.966
-					L2173.33,2236.966z"/>
+				<path fill="#FFFFFF" d="M1917.465,2285.898c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H1917.465z"/>
+				<g>
+					<path fill="#333333" d="M2173.33,2239.966c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12h-255.866
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H2173.33 M2173.33,2236.966h-255.866c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C2188.33,2243.681,2181.615,2236.966,2173.33,2236.966
+						L2173.33,2236.966z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 1995.1829 2272.1907)" fill="#111111" font-family="'Roboto'" font-size="25px">Muziejus</text>
+			<text transform="matrix(1 0 0 1 1995.1829 2272.1907)" fill="#111111" font-family="'Roboto'" font-size="25px">Muziejus</text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M1492.56,2653.708c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H1492.56z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Kultūros centras" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.kultura.vu.lt/'>kultura.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M1748.426,2607.775c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H1492.56
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1748.426 M1748.426,2604.775H1492.56c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1763.426,2611.491,1756.71,2604.775,1748.426,2604.775
-					L1748.426,2604.775z"/>
+				<path fill="#FFFFFF" d="M1492.56,2653.708c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H1492.56z"/>
+				<g>
+					<path fill="#333333" d="M1748.426,2607.775c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H1492.56
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1748.426 M1748.426,2604.775H1492.56c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1763.426,2611.491,1756.71,2604.775,1748.426,2604.775
+						L1748.426,2604.775z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 1528.9998 2640.0005)" fill="#111111" font-family="'Roboto'" font-size="25px">Kultūros centras</text>
+			<text transform="matrix(1 0 0 1 1528.9998 2640.0005)" fill="#111111" font-family="'Roboto'" font-size="25px">Kultūros centras</text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M1917.465,2046.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H1917.465z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Leidykla" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/leidyba/'>vu.lt/leidyba</a>">
 			<g>
-				<path fill="#333333" d="M2173.33,2000.752c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12h-255.866
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H2173.33 M2173.33,1997.752h-255.866c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C2188.33,2004.467,2181.615,1997.752,2173.33,1997.752
-					L2173.33,1997.752z"/>
+				<path fill="#FFFFFF" d="M1917.465,2046.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H1917.465z"/>
+				<g>
+					<path fill="#333333" d="M2173.33,2000.752c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12h-255.866
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H2173.33 M2173.33,1997.752h-255.866c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C2188.33,2004.467,2181.615,1997.752,2173.33,1997.752
+						L2173.33,1997.752z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 1999.6448 2032.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Leidykla</text>
+			<text transform="matrix(1 0 0 1 1999.6448 2032.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Leidykla</text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M1492.221,2435.679c-7.444,0-13.5-6.056-13.5-13.5v-84.128c0-7.444,6.056-13.5,13.5-13.5h256.163
-				c7.444,0,13.5,6.056,13.5,13.5v84.128c0,7.444-6.056,13.5-13.5,13.5H1492.221z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Informacinių technologijų paslaugų centras" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/it/epaslaugos/'>vu.lt/it/epaslaugos/</a>">
 			<g>
-				<path fill="#333333" d="M1748.384,2326.051c6.617,0,12,5.383,12,12v84.127c0,6.617-5.383,12-12,12h-256.163
-					c-6.617,0-12-5.383-12-12v-84.127c0-6.617,5.383-12,12-12H1748.384 M1748.384,2323.051h-256.163c-8.284,0-15,6.716-15,15v84.127
-					c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-84.127C1763.384,2329.767,1756.668,2323.051,1748.384,2323.051
-					L1748.384,2323.051z"/>
+				<path fill="#FFFFFF" d="M1492.221,2435.679c-7.444,0-13.5-6.056-13.5-13.5v-84.128c0-7.444,6.056-13.5,13.5-13.5h256.163
+					c7.444,0,13.5,6.056,13.5,13.5v84.128c0,7.444-6.056,13.5-13.5,13.5H1492.221z"/>
+				<g>
+					<path fill="#333333" d="M1748.384,2326.051c6.617,0,12,5.383,12,12v84.127c0,6.617-5.383,12-12,12h-256.163
+						c-6.617,0-12-5.383-12-12v-84.127c0-6.617,5.383-12,12-12H1748.384 M1748.384,2323.051h-256.163c-8.284,0-15,6.716-15,15v84.127
+						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-84.127C1763.384,2329.767,1756.668,2323.051,1748.384,2323.051
+						L1748.384,2323.051z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 1550.0065 2359.2761)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Informacinių</tspan><tspan x="1.904" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">technologijų</tspan><tspan x="-25.452" y="60" fill="#111111" font-family="'Roboto'" font-size="25px">paslaugų centras</tspan></text>
+			<text transform="matrix(1 0 0 1 1550.0065 2359.2761)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Informacinių</tspan><tspan x="1.904" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">technologijų</tspan><tspan x="-25.452" y="60" fill="#111111" font-family="'Roboto'" font-size="25px">paslaugų centras</tspan></text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M1917.316,2670.284c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
-				c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H1917.316z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Turto valdymo ir paslaugų centras" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=6'>Kontaktai</a>">
 			<g>
-				<path fill="#333333" d="M2173.479,2591.199c6.617,0,12,5.383,12,12v53.585c0,6.617-5.383,12-12,12h-256.163
-					c-6.617,0-12-5.383-12-12v-53.585c0-6.617,5.383-12,12-12H2173.479 M2173.479,2588.199h-256.163c-8.284,0-15,6.716-15,15v53.585
-					c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.585C2188.479,2594.915,2181.763,2588.199,2173.479,2588.199
-					L2173.479,2588.199z"/>
+				<path fill="#FFFFFF" d="M1917.316,2670.284c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
+					c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H1917.316z"/>
+				<g>
+					<path fill="#333333" d="M2173.479,2591.199c6.617,0,12,5.383,12,12v53.585c0,6.617-5.383,12-12,12h-256.163
+						c-6.617,0-12-5.383-12-12v-53.585c0-6.617,5.383-12,12-12H2173.479 M2173.479,2588.199h-256.163c-8.284,0-15,6.716-15,15v53.585
+						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.585C2188.479,2594.915,2181.763,2588.199,2173.479,2588.199
+						L2173.479,2588.199z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 1955.0695 2624.4241)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Turto valdymo ir</tspan><tspan x="-5.42" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">paslaugų centras</tspan></text>
+			<text transform="matrix(1 0 0 1 1955.0695 2624.4241)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Turto valdymo ir</tspan><tspan x="-5.42" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">paslaugų centras</tspan></text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M1917.316,2549.419c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
-				c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H1917.316z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Sveikatos ir sporto centras" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.ssc.vu.lt/'>ssc.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M2173.479,2470.334c6.617,0,12,5.383,12,12v53.585c0,6.617-5.383,12-12,12h-256.163
-					c-6.617,0-12-5.383-12-12v-53.585c0-6.617,5.383-12,12-12H2173.479 M2173.479,2467.334h-256.163c-8.284,0-15,6.716-15,15v53.585
-					c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.585C2188.479,2474.049,2181.763,2467.334,2173.479,2467.334
-					L2173.479,2467.334z"/>
+				<path fill="#FFFFFF" d="M1917.316,2549.419c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
+					c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H1917.316z"/>
+				<g>
+					<path fill="#333333" d="M2173.479,2470.334c6.617,0,12,5.383,12,12v53.585c0,6.617-5.383,12-12,12h-256.163
+						c-6.617,0-12-5.383-12-12v-53.585c0-6.617,5.383-12,12-12H2173.479 M2173.479,2467.334h-256.163c-8.284,0-15,6.716-15,15v53.585
+						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.585C2188.479,2474.049,2181.763,2467.334,2173.479,2467.334
+						L2173.479,2467.334z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 1941.8497 2503.5588)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Sveikatos ir sporto</tspan><tspan x="61.779" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">centras</tspan></text>
+			<text transform="matrix(1 0 0 1 1941.8497 2503.5588)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Sveikatos ir sporto</tspan><tspan x="61.779" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">centras</tspan></text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M1917.316,2190.891c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
-				c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H1917.316z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Mokymo ir praktikų bazių centras" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=63'>Kontaktai</a>">
 			<g>
-				<path fill="#333333" d="M2173.479,2111.805c6.617,0,12,5.383,12,12v53.585c0,6.617-5.383,12-12,12h-256.163
-					c-6.617,0-12-5.383-12-12v-53.585c0-6.617,5.383-12,12-12H2173.479 M2173.479,2108.805h-256.163c-8.284,0-15,6.716-15,15v53.585
-					c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.585C2188.479,2115.521,2181.763,2108.805,2173.479,2108.805
-					L2173.479,2108.805z"/>
+				<path fill="#FFFFFF" d="M1917.316,2190.891c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
+					c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H1917.316z"/>
+				<g>
+					<path fill="#333333" d="M2173.479,2111.805c6.617,0,12,5.383,12,12v53.585c0,6.617-5.383,12-12,12h-256.163
+						c-6.617,0-12-5.383-12-12v-53.585c0-6.617,5.383-12,12-12H2173.479 M2173.479,2108.805h-256.163c-8.284,0-15,6.716-15,15v53.585
+						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.585C2188.479,2115.521,2181.763,2108.805,2173.479,2108.805
+						L2173.479,2108.805z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 1938.7003 2145.0305)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Mokymo ir praktikų</tspan><tspan x="31.903" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">bazių centras</tspan></text>
+			<text transform="matrix(1 0 0 1 1938.7003 2145.0305)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Mokymo ir praktikų</tspan><tspan x="31.903" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">bazių centras</tspan></text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M1492.56,2532.843c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H1492.56z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Konfucijaus institutas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.konfucijus.vu.lt/'>konfucijus.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M1748.426,2486.91c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H1492.56
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1748.426 M1748.426,2483.91H1492.56c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1763.426,2490.626,1756.71,2483.91,1748.426,2483.91
-					L1748.426,2483.91z"/>
+				<path fill="#FFFFFF" d="M1492.56,2532.843c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H1492.56z"/>
+				<g>
+					<path fill="#333333" d="M1748.426,2486.91c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H1492.56
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1748.426 M1748.426,2483.91H1492.56c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1763.426,2490.626,1756.71,2483.91,1748.426,2483.91
+						L1748.426,2483.91z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 1499.575 2519.1353)" fill="#111111" font-family="'Roboto'" font-size="25px">Konfucijaus institutas</text>
+			<text transform="matrix(1 0 0 1 1499.575 2519.1353)" fill="#111111" font-family="'Roboto'" font-size="25px">Konfucijaus institutas</text>
+		</a>
 	</g>
 	<g>
 		<g>
@@ -571,19 +890,28 @@
 	<text transform="matrix(1 0 0 1 1750.8386 1755.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Įeina</text>
 </g>
 <g id="Taryba">
-	<g>
+	<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Taryba" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Universiteto valdymo organas atsakingas už strateginę Universiteto plėtrą, veiklos
+kokybę, finansus bei struktūros pokyčius. <hr> <a href='VU-taryba'>Daugiau</a>">
 		<g>
-			<path fill="#FFFFFF" d="M1468.205,1044.805c-7.444,0-13.5-6.056-13.5-13.5v-64.748c0-7.444,6.056-13.5,13.5-13.5h295.47
-				c7.444,0,13.5,6.056,13.5,13.5v64.748c0,7.444-6.056,13.5-13.5,13.5H1468.205z"/>
 			<g>
-				<path fill="#333333" d="M1763.676,954.557c6.617,0,12,5.383,12,12v64.747c0,6.617-5.383,12-12,12h-295.47
-					c-6.617,0-12-5.383-12-12v-64.747c0-6.617,5.383-12,12-12H1763.676 M1763.676,951.557h-295.47c-8.284,0-15,6.716-15,15v64.747
-					c0,8.284,6.716,15,15,15h295.47c8.284,0,15-6.716,15-15v-64.747C1778.676,958.273,1771.96,951.557,1763.676,951.557
-					L1763.676,951.557z"/>
+				<path fill="#FFFFFF" d="M1468.205,1044.805c-7.444,0-13.5-6.056-13.5-13.5v-64.748c0-7.444,6.056-13.5,13.5-13.5h295.47
+					c7.444,0,13.5,6.056,13.5,13.5v64.748c0,7.444-6.056,13.5-13.5,13.5H1468.205z"/>
+				<g>
+					<path fill="#333333" d="M1763.676,954.557c6.617,0,12,5.383,12,12v64.747c0,6.617-5.383,12-12,12h-295.47
+						c-6.617,0-12-5.383-12-12v-64.747c0-6.617,5.383-12,12-12H1763.676 M1763.676,951.557h-295.47c-8.284,0-15,6.716-15,15v64.747
+						c0,8.284,6.716,15,15,15h295.47c8.284,0,15-6.716,15-15v-64.747C1778.676,958.273,1771.96,951.557,1763.676,951.557
+						L1763.676,951.557z"/>
+				</g>
 			</g>
+			<text transform="matrix(1 0 0 1 1545.7268 1012.0814)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="45px">Taryba</text>
 		</g>
-		<text transform="matrix(1 0 0 1 1545.7268 1012.0814)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="45px">Taryba</text>
-	</g>
+	</a>
 	<g>
 		<g>
 			<g>
@@ -634,18 +962,28 @@
 	<text transform="matrix(1 0 0 1 1702.8386 178.9795)" fill="#FBB01B" font-family="'Roboto'" font-style="italic" font-size="20px">Teikia siūlymus</text>
 </g>
 <g id="Rektorius">
-	<g>
+	<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Rektorius" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus"
+data-bs-content="Vienasmenis Universiteto valdymo organas ir Universiteto vadovas. Rektorius
+veikia Universiteto vardu ir jam atstovauja, atsako už Universiteto veiklos tikslų įgyvendinimą, kokybišką
+darbų organizavimą, Universiteto finansinę veiklą, tinkamą lėšų ir turto valdymą. <hr> <a target='_blank' href='https://www.vu.lt/apiemus/struktura/rektorius'>Daugiau</a>">
 		<g>
-			<path fill="#FFFFFF" d="M1825.205,810.247c-7.444,0-13.5-6.056-13.5-13.5v-61c0-7.444,6.056-13.5,13.5-13.5h295.47
-				c7.444,0,13.5,6.056,13.5,13.5v61c0,7.444-6.056,13.5-13.5,13.5H1825.205z"/>
 			<g>
-				<path fill="#333333" d="M2120.676,723.747c6.617,0,12,5.383,12,12v61c0,6.617-5.383,12-12,12h-295.47c-6.617,0-12-5.383-12-12
-					v-61c0-6.617,5.383-12,12-12H2120.676 M2120.676,720.747h-295.47c-8.284,0-15,6.716-15,15v61c0,8.284,6.716,15,15,15h295.47
-					c8.284,0,15-6.716,15-15v-61C2135.676,727.463,2128.96,720.747,2120.676,720.747L2120.676,720.747z"/>
+				<path fill="#FFFFFF" d="M1825.205,810.247c-7.444,0-13.5-6.056-13.5-13.5v-61c0-7.444,6.056-13.5,13.5-13.5h295.47
+					c7.444,0,13.5,6.056,13.5,13.5v61c0,7.444-6.056,13.5-13.5,13.5H1825.205z"/>
+				<g>
+					<path fill="#333333" d="M2120.676,723.747c6.617,0,12,5.383,12,12v61c0,6.617-5.383,12-12,12h-295.47c-6.617,0-12-5.383-12-12
+						v-61c0-6.617,5.383-12,12-12H2120.676 M2120.676,720.747h-295.47c-8.284,0-15,6.716-15,15v61c0,8.284,6.716,15,15,15h295.47
+						c8.284,0,15-6.716,15-15v-61C2135.676,727.463,2128.96,720.747,2120.676,720.747L2120.676,720.747z"/>
+				</g>
 			</g>
+			<text transform="matrix(1 0 0 1 1875.7444 781.0814)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="45px">Rektorius</text>
 		</g>
-		<text transform="matrix(1 0 0 1 1875.7444 781.0814)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="45px">Rektorius</text>
-	</g>
+	</a>
 	<g>
 		<g>
 			<g>
@@ -728,26 +1066,36 @@
 	<g>
 		
 			<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="5014.6401" y1="1869.238" x2="5014.6401" y2="1921.238" gradientTransform="matrix(4.489700e-11 -1 1 4.489700e-11 -288.5147 5766.6401)">
-			<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
-			<stop  offset="0.5" style="stop-color:#FFFFFF"/>
-			<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+			<stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+			<stop offset="0.5" style="stop-color:#FFFFFF"/>
+			<stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
 		</linearGradient>
 		<rect x="1580.723" y="736" fill="url(#SVGID_4_)" width="52" height="32"/>
 	</g>
 </g>
 <g id="Senatas">
-	<g>
+	<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Senatas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Užtikrina kultūros, mokslo, tyrimų ir dėstymo laisvę Universitete, Universiteto
+bendrųjų akademinių reikalų ir kitų tiesiogiai su viso Universiteto akademine veikla susijusių klausimų
+kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą. <a href='#VU-senatas'>Daugiau</a>">
 		<g>
-			<path fill="#FFFFFF" d="M2190.206,1040.247c-7.444,0-13.5-6.056-13.5-13.5v-61c0-7.444,6.056-13.5,13.5-13.5h295.47
-				c7.444,0,13.5,6.056,13.5,13.5v61c0,7.444-6.056,13.5-13.5,13.5H2190.206z"/>
 			<g>
-				<path fill="#333333" d="M2485.676,953.747c6.617,0,12,5.383,12,12v61c0,6.617-5.383,12-12,12h-295.47c-6.617,0-12-5.383-12-12
-					v-61c0-6.617,5.383-12,12-12H2485.676 M2485.676,950.747h-295.47c-8.284,0-15,6.716-15,15v61c0,8.284,6.716,15,15,15h295.47
-					c8.284,0,15-6.716,15-15v-61C2500.676,957.463,2493.96,950.747,2485.676,950.747L2485.676,950.747z"/>
+				<path fill="#FFFFFF" d="M2190.206,1040.247c-7.444,0-13.5-6.056-13.5-13.5v-61c0-7.444,6.056-13.5,13.5-13.5h295.47
+					c7.444,0,13.5,6.056,13.5,13.5v61c0,7.444-6.056,13.5-13.5,13.5H2190.206z"/>
+				<g>
+					<path fill="#333333" d="M2485.676,953.747c6.617,0,12,5.383,12,12v61c0,6.617-5.383,12-12,12h-295.47c-6.617,0-12-5.383-12-12
+						v-61c0-6.617,5.383-12,12-12H2485.676 M2485.676,950.747h-295.47c-8.284,0-15,6.716-15,15v61c0,8.284,6.716,15,15,15h295.47
+						c8.284,0,15-6.716,15-15v-61C2500.676,957.463,2493.96,950.747,2485.676,950.747L2485.676,950.747z"/>
+				</g>
 			</g>
+			<text transform="matrix(1 0 0 1 2256.0486 1012.0814)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="45px">Senatas</text>
 		</g>
-		<text transform="matrix(1 0 0 1 2256.0486 1012.0814)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="45px">Senatas</text>
-	</g>
+	</a>
 	<g>
 		<g>
 			<g>
@@ -1651,211 +1999,341 @@
 	</g>
 </g>
 <g id="KAP">
-	<g>
-		<path fill="#FFFFFF" d="M197.718,1008c-17.642,0-31.994-14.353-31.994-31.994V293.994c0-17.642,14.353-31.994,31.994-31.994
-			h1024.012c17.642,0,31.994,14.353,31.994,31.994v682.012c0,17.642-14.353,31.994-31.994,31.994H197.718z"/>
+	<a tabindex="0" 
+data-bs-toggle="popover" 
+title="VU kamieniniai akademiniai padaliniai" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="Fakultetai, institutai, centrai,
+mokyklos – tai vidiniai organizaciniai Universiteto dariniai, kuriuose vykdoma visų rūšių pagrindinė
+Universiteto veikla. <hr> <a href='vu-kap'>Daugiau</a>">
 		<g>
-			<path fill="#333333" d="M1221.729,264c16.539,0,29.994,13.455,29.994,29.994v682.012c0,16.539-13.455,29.994-29.994,29.994
-				H197.717c-16.539,0-29.994-13.455-29.994-29.994V293.994c0-16.539,13.455-29.994,29.994-29.994H1221.729 M1221.729,260H197.717
-				c-18.774,0-33.994,15.22-33.994,33.994v682.012c0,18.774,15.22,33.994,33.994,33.994h1024.012
-				c18.774,0,33.994-15.22,33.994-33.994V293.994C1255.723,275.22,1240.504,260,1221.729,260L1221.729,260z"/>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 413.0338 347.681)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Kamieniniai akademiniai padaliniai</text>
-	<g>
-		<g>
-			<path fill="#FFFFFF" d="M247.735,480.471c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
-				c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H247.735z"/>
+			<path fill="#FFFFFF" d="M197.718,1008c-17.642,0-31.994-14.353-31.994-31.994V293.994c0-17.642,14.353-31.994,31.994-31.994
+				h1024.012c17.642,0,31.994,14.353,31.994,31.994v682.012c0,17.642-14.353,31.994-31.994,31.994H197.718z"/>
 			<g>
-				<path fill="#333333" d="M503.898,401.385c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H247.735
-					c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H503.898 M503.898,398.385H247.735c-8.284,0-15,6.716-15,15v53.586
-					c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C518.898,405.101,512.183,398.385,503.898,398.385
-					L503.898,398.385z"/>
+				<path fill="#333333" d="M1221.729,264c16.539,0,29.994,13.455,29.994,29.994v682.012c0,16.539-13.455,29.994-29.994,29.994
+					H197.717c-16.539,0-29.994-13.455-29.994-29.994V293.994c0-16.539,13.455-29.994,29.994-29.994H1221.729 M1221.729,260H197.717
+					c-18.774,0-33.994,15.22-33.994,33.994v682.012c0,18.774,15.22,33.994,33.994,33.994h1024.012
+					c18.774,0,33.994-15.22,33.994-33.994V293.994C1255.723,275.22,1240.504,260,1221.729,260L1221.729,260z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 313.1194 434.6106)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Chemijos ir</tspan><tspan x="-57.532" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">geomokslų fakultetas</tspan></text>
+		<text transform="matrix(1 0 0 1 413.0338 347.681)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Kamieniniai akademiniai padaliniai</text>
+	</a>
+	<g>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Chemijos ir geomokslų fakultetas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.chgf.vu.lt/'>chgf.vu.lt</a>">
+			<g>
+				<path fill="#FFFFFF" d="M247.735,480.471c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
+					c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H247.735z"/>
+				<g>
+					<path fill="#333333" d="M503.898,401.385c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H247.735
+						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H503.898 M503.898,398.385H247.735c-8.284,0-15,6.716-15,15v53.586
+						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C518.898,405.101,512.183,398.385,503.898,398.385
+						L503.898,398.385z"/>
+				</g>
+			</g>
+			<text transform="matrix(1 0 0 1 313.1194 434.6106)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Chemijos ir</tspan><tspan x="-57.532" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">geomokslų fakultetas</tspan></text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M583.254,947.261c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
-				c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H583.254z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Matematikos ir informatikos fakultetas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.mif.vu.lt/'>mif.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M839.417,868.175c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H583.254
-					c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H839.417 M839.417,865.175H583.254c-8.284,0-15,6.716-15,15v53.586
-					c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C854.417,871.891,847.702,865.175,839.417,865.175
-					L839.417,865.175z"/>
+				<path fill="#FFFFFF" d="M583.254,947.261c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
+					c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H583.254z"/>
+				<g>
+					<path fill="#333333" d="M839.417,868.175c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H583.254
+						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H839.417 M839.417,865.175H583.254c-8.284,0-15,6.716-15,15v53.586
+						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C854.417,871.891,847.702,865.175,839.417,865.175
+						L839.417,865.175z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 627.6301 901.4006)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Matematikos ir</tspan><tspan x="-45.379" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">informatikos fakultetas</tspan></text>
+			<text transform="matrix(1 0 0 1 627.6301 901.4006)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Matematikos ir</tspan><tspan x="-45.379" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">informatikos fakultetas</tspan></text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M247.884,707.497c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5H503.75
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H247.884z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Filologijos fakultetas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.flf.vu.lt/'>flf.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M503.749,661.564c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H247.884
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H503.749 M503.749,658.564H247.884c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C518.75,665.279,512.034,658.564,503.749,658.564
-					L503.749,658.564z"/>
+				<path fill="#FFFFFF" d="M247.884,707.497c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5H503.75
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H247.884z"/>
+				<g>
+					<path fill="#333333" d="M503.749,661.564c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H247.884
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H503.749 M503.749,658.564H247.884c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C518.75,665.279,512.034,658.564,503.749,658.564
+						L503.749,658.564z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 260.1781 693.7888)" fill="#111111" font-family="'Roboto'" font-size="25px">Filologijos fakultetas</text>
+			<text transform="matrix(1 0 0 1 260.1781 693.7888)" fill="#111111" font-family="'Roboto'" font-size="25px">Filologijos fakultetas</text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M247.735,616.344c-7.444,0-13.5-6.056-13.5-13.5v-84.127c0-7.444,6.056-13.5,13.5-13.5h256.163
-				c7.444,0,13.5,6.056,13.5,13.5v84.127c0,7.444-6.056,13.5-13.5,13.5H247.735z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Ekonomikos ir verslo administravimo fakultetas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.evaf.vu.lt/'>evaf.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M503.898,506.716c6.617,0,12,5.383,12,12v84.127c0,6.617-5.383,12-12,12H247.735
-					c-6.617,0-12-5.383-12-12v-84.127c0-6.617,5.383-12,12-12H503.898 M503.898,503.716H247.735c-8.284,0-15,6.716-15,15v84.127
-					c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-84.127C518.898,510.432,512.183,503.716,503.898,503.716
-					L503.898,503.716z"/>
+				<path fill="#FFFFFF" d="M247.735,616.344c-7.444,0-13.5-6.056-13.5-13.5v-84.127c0-7.444,6.056-13.5,13.5-13.5h256.163
+					c7.444,0,13.5,6.056,13.5,13.5v84.127c0,7.444-6.056,13.5-13.5,13.5H247.735z"/>
+				<g>
+					<path fill="#333333" d="M503.898,506.716c6.617,0,12,5.383,12,12v84.127c0,6.617-5.383,12-12,12H247.735
+						c-6.617,0-12-5.383-12-12v-84.127c0-6.617,5.383-12,12-12H503.898 M503.898,503.716H247.735c-8.284,0-15,6.716-15,15v84.127
+						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-84.127C518.898,510.432,512.183,503.716,503.898,503.716
+						L503.898,503.716z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 260.2082 539.9418)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Ekonomikos ir verslo</tspan><tspan x="28.961" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">administravimo</tspan><tspan x="60.028" y="60" fill="#111111" font-family="'Roboto'" font-size="25px">fakultetas</tspan></text>
+			<text transform="matrix(1 0 0 1 260.2082 539.9418)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Ekonomikos ir verslo</tspan><tspan x="28.961" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">administravimo</tspan><tspan x="60.028" y="60" fill="#111111" font-family="'Roboto'" font-size="25px">fakultetas</tspan></text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M247.884,820.771c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5H503.75
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H247.884z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Filosofijos fakultetas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.fsf.vu.lt/'>fsf.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M503.749,774.838c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H247.884
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H503.749 M503.749,771.838H247.884c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C518.75,778.554,512.034,771.838,503.749,771.838
-					L503.749,771.838z"/>
+				<path fill="#FFFFFF" d="M247.884,820.771c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5H503.75
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H247.884z"/>
+				<g>
+					<path fill="#333333" d="M503.749,774.838c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H247.884
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H503.749 M503.749,771.838H247.884c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C518.75,778.554,512.034,771.838,503.749,771.838
+						L503.749,771.838z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 259.4398 807.0635)" fill="#111111" font-family="'Roboto'" font-size="25px">Filosofijos fakultetas</text>
+			<text transform="matrix(1 0 0 1 259.4398 807.0635)" fill="#111111" font-family="'Roboto'" font-size="25px">Filosofijos fakultetas</text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M583.254,480.471c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
-				c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H583.254z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Gyvybės mokslų centras" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.gmc.vu.lt/'>gmc.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M839.417,401.385c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H583.254
-					c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H839.417 M839.417,398.385H583.254c-8.284,0-15,6.716-15,15v53.586
-					c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C854.417,405.101,847.702,398.385,839.417,398.385
-					L839.417,398.385z"/>
+				<path fill="#FFFFFF" d="M583.254,480.471c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
+					c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H583.254z"/>
+				<g>
+					<path fill="#333333" d="M839.417,401.385c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H583.254
+						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H839.417 M839.417,398.385H583.254c-8.284,0-15,6.716-15,15v53.586
+						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C854.417,405.101,847.702,398.385,839.417,398.385
+						L839.417,398.385z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 617.7302 434.6106)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Gyvybės mokslų </tspan><tspan x="51.837" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">centras</tspan></text>
+			<text transform="matrix(1 0 0 1 617.7302 434.6106)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Gyvybės mokslų </tspan><tspan x="51.837" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">centras</tspan></text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M918.922,463.895c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H918.922z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Medicinos fakultetas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.mf.vu.lt/'>mf.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M1174.788,417.962c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H918.922
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1174.788 M1174.788,414.962H918.922c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1189.788,421.677,1183.072,414.962,1174.788,414.962
-					L1174.788,414.962z"/>
+				<path fill="#FFFFFF" d="M918.922,463.895c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H918.922z"/>
+				<g>
+					<path fill="#333333" d="M1174.788,417.962c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H918.922
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1174.788 M1174.788,414.962H918.922c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1189.788,421.677,1183.072,414.962,1174.788,414.962
+						L1174.788,414.962z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 930.4232 450.1868)" fill="#111111" font-family="'Roboto'" font-size="25px">Medicinos fakultetas</text>
+			<text transform="matrix(1 0 0 1 930.4232 450.1868)" fill="#111111" font-family="'Roboto'" font-size="25px">Medicinos fakultetas</text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M918.922,820.771c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H918.922z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Teisės fakultetas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.tf.vu.lt/'>tf.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M1174.788,774.838c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H918.922
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1174.788 M1174.788,771.838H918.922c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1189.788,778.554,1183.072,771.838,1174.788,771.838
-					L1174.788,771.838z"/>
+				<path fill="#FFFFFF" d="M918.922,820.771c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H918.922z"/>
+				<g>
+					<path fill="#333333" d="M1174.788,774.838c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H918.922
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1174.788 M1174.788,771.838H918.922c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1189.788,778.554,1183.072,771.838,1174.788,771.838
+						L1174.788,771.838z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 951.4618 807.0635)" fill="#111111" font-family="'Roboto'" font-size="25px">Teisės fakultetas</text>
+			<text transform="matrix(1 0 0 1 951.4618 807.0635)" fill="#111111" font-family="'Roboto'" font-size="25px">Teisės fakultetas</text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M918.922,930.314c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H918.922z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Verslo mokykla" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.vm.vu.lt/'>vm.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M1174.788,884.382c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H918.922
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1174.788 M1174.788,881.382H918.922c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1189.788,888.097,1183.072,881.382,1174.788,881.382
-					L1174.788,881.382z"/>
+				<path fill="#FFFFFF" d="M918.922,930.314c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H918.922z"/>
+				<g>
+					<path fill="#333333" d="M1174.788,884.382c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H918.922
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1174.788 M1174.788,881.382H918.922c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1189.788,888.097,1183.072,881.382,1174.788,881.382
+						L1174.788,881.382z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 961.6058 916.6067)" fill="#111111" font-family="'Roboto'" font-size="25px">Verslo mokykla</text>
+			<text transform="matrix(1 0 0 1 961.6058 916.6067)" fill="#111111" font-family="'Roboto'" font-size="25px">Verslo mokykla</text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M247.884,930.314c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5H503.75
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H247.884z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Fizikos fakultetas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.ff.vu.lt/'>ff.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M503.749,884.382c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H247.884
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H503.749 M503.749,881.382H247.884c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C518.75,888.097,512.034,881.382,503.749,881.382
-					L503.749,881.382z"/>
+				<path fill="#FFFFFF" d="M247.884,930.314c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5H503.75
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H247.884z"/>
+				<g>
+					<path fill="#333333" d="M503.749,884.382c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H247.884
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H503.749 M503.749,881.382H247.884c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C518.75,888.097,512.034,881.382,503.749,881.382
+						L503.749,881.382z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 277.9701 916.6067)" fill="#111111" font-family="'Roboto'" font-size="25px">Fizikos fakultetas</text>
+			<text transform="matrix(1 0 0 1 277.9701 916.6067)" fill="#111111" font-family="'Roboto'" font-size="25px">Fizikos fakultetas</text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M918.922,584.497c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H918.922z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Šiaulių akademija" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.sa.vu.lt/'>sa.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M1174.788,538.564c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H918.922
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1174.788 M1174.788,535.564H918.922c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1189.788,542.279,1183.072,535.564,1174.788,535.564
-					L1174.788,535.564z"/>
+				<path fill="#FFFFFF" d="M918.922,584.497c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H918.922z"/>
+				<g>
+					<path fill="#333333" d="M1174.788,538.564c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H918.922
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1174.788 M1174.788,535.564H918.922c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1189.788,542.279,1183.072,535.564,1174.788,535.564
+						L1174.788,535.564z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 949.0448 570.7888)" fill="#111111" font-family="'Roboto'" font-size="25px">Šiaulių akademija</text>
+			<text transform="matrix(1 0 0 1 949.0448 570.7888)" fill="#111111" font-family="'Roboto'" font-size="25px">Šiaulių akademija</text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M583.403,584.497c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H583.403z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Istorijos fakultetas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.if.vu.lt/'>if.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M839.269,538.564c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H583.403
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H839.269 M839.269,535.564H583.403c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C854.269,542.279,847.553,535.564,839.269,535.564
-					L839.269,535.564z"/>
+				<path fill="#FFFFFF" d="M583.403,584.497c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H583.403z"/>
+				<g>
+					<path fill="#333333" d="M839.269,538.564c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H583.403
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H839.269 M839.269,535.564H583.403c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C854.269,542.279,847.553,535.564,839.269,535.564
+						L839.269,535.564z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 607.6907 570.7888)" fill="#111111" font-family="'Roboto'" font-size="25px">Istorijos fakultetas</text>
+			<text transform="matrix(1 0 0 1 607.6907 570.7888)" fill="#111111" font-family="'Roboto'" font-size="25px">Istorijos fakultetas</text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M583.254,837.348c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.163
-				c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H583.254z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Komunikacijos fakultetas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.kf.vu.lt/'>kf.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M839.417,758.262c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H583.254
-					c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H839.417 M839.417,755.262H583.254c-8.284,0-15,6.716-15,15v53.586
-					c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C854.417,761.978,847.702,755.262,839.417,755.262
-					L839.417,755.262z"/>
+				<path fill="#FFFFFF" d="M583.254,837.348c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.163
+					c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H583.254z"/>
+				<g>
+					<path fill="#333333" d="M839.417,758.262c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H583.254
+						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H839.417 M839.417,755.262H583.254c-8.284,0-15,6.716-15,15v53.586
+						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C854.417,761.978,847.702,755.262,839.417,755.262
+						L839.417,755.262z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 629.1745 791.4872)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Komunikacijos</tspan><tspan x="26.581" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">fakultetas</tspan></text>
+			<text transform="matrix(1 0 0 1 629.1745 791.4872)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Komunikacijos</tspan><tspan x="26.581" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">fakultetas</tspan></text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M918.773,739.344c-7.444,0-13.5-6.056-13.5-13.5v-84.127c0-7.444,6.056-13.5,13.5-13.5h256.163
-				c7.444,0,13.5,6.056,13.5,13.5v84.127c0,7.444-6.056,13.5-13.5,13.5H918.773z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Tarptautinių santykių ir politikos mokslų institutas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.tspmi.vu.lt/'>tspmi.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M1174.936,629.716c6.617,0,12,5.383,12,12v84.127c0,6.617-5.383,12-12,12H918.773
-					c-6.617,0-12-5.383-12-12v-84.127c0-6.617,5.383-12,12-12H1174.936 M1174.936,626.716H918.773c-8.284,0-15,6.716-15,15v84.127
-					c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-84.127C1189.936,633.432,1183.221,626.716,1174.936,626.716
-					L1174.936,626.716z"/>
+				<path fill="#FFFFFF" d="M918.773,739.344c-7.444,0-13.5-6.056-13.5-13.5v-84.127c0-7.444,6.056-13.5,13.5-13.5h256.163
+					c7.444,0,13.5,6.056,13.5,13.5v84.127c0,7.444-6.056,13.5-13.5,13.5H918.773z"/>
+				<g>
+					<path fill="#333333" d="M1174.936,629.716c6.617,0,12,5.383,12,12v84.127c0,6.617-5.383,12-12,12H918.773
+						c-6.617,0-12-5.383-12-12v-84.127c0-6.617,5.383-12,12-12H1174.936 M1174.936,626.716H918.773c-8.284,0-15,6.716-15,15v84.127
+						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-84.127C1189.936,633.432,1183.221,626.716,1174.936,626.716
+						L1174.936,626.716z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 930.0012 662.9418)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Tarptautinių santykių</tspan><tspan x="15.228" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">ir politikos mokslų</tspan><tspan x="64.911" y="60" fill="#111111" font-family="'Roboto'" font-size="25px">institutas</tspan></text>
+			<text transform="matrix(1 0 0 1 930.0012 662.9418)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Tarptautinių santykių</tspan><tspan x="15.228" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">ir politikos mokslų</tspan><tspan x="64.911" y="60" fill="#111111" font-family="'Roboto'" font-size="25px">institutas</tspan></text>
+		</a>
 	</g>
 	<g>
-		<g>
-			<path fill="#FFFFFF" d="M583.403,707.497c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
-				c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H583.403z"/>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Kauno fakultetas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='http://www.knf.vu.lt/'>knf.vu.lt</a>">
 			<g>
-				<path fill="#333333" d="M839.269,661.564c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H583.403
-					c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H839.269 M839.269,658.564H583.403c-8.284,0-15,6.716-15,15v20.433
-					c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C854.269,665.279,847.553,658.564,839.269,658.564
-					L839.269,658.564z"/>
+				<path fill="#FFFFFF" d="M583.403,707.497c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
+					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H583.403z"/>
+				<g>
+					<path fill="#333333" d="M839.269,661.564c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H583.403
+						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H839.269 M839.269,658.564H583.403c-8.284,0-15,6.716-15,15v20.433
+						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C854.269,665.279,847.553,658.564,839.269,658.564
+						L839.269,658.564z"/>
+				</g>
 			</g>
-		</g>
-		<text transform="matrix(1 0 0 1 617.0169 693.7888)" fill="#111111" font-family="'Roboto'" font-size="25px">Kauno fakultetas</text>
+			<text transform="matrix(1 0 0 1 617.0169 693.7888)" fill="#111111" font-family="'Roboto'" font-size="25px">Kauno fakultetas</text>
+		</a>
 	</g>
 	<g>
 		<g>
@@ -1884,226 +2362,362 @@
 	</g>
 	<text transform="matrix(1 0 0 1 504.0337 1911.9473)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Centrinė administracija</text>
 	<g>
-		<g>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Rektoriaus biuras" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=15'>Kontaktai</a>">
 			<g>
-				<path fill="#FFFFFF" d="M228.713,2039.382c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
-					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H228.713z"/>
 				<g>
-					<path fill="#333333" d="M484.579,1993.449c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H228.713
-						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H484.579 M484.579,1990.449H228.713c-8.284,0-15,6.716-15,15v20.433
-						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C499.579,1997.165,492.863,1990.449,484.579,1990.449
-						L484.579,1990.449z"/>
+					<path fill="#FFFFFF" d="M228.713,2039.382c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
+						c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H228.713z"/>
+					<g>
+						<path fill="#333333" d="M484.579,1993.449c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H228.713
+							c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H484.579 M484.579,1990.449H228.713c-8.284,0-15,6.716-15,15v20.433
+							c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C499.579,1997.165,492.863,1990.449,484.579,1990.449
+							L484.579,1990.449z"/>
+					</g>
 				</g>
+				<text transform="matrix(1 0 0 1 259.6355 2025.6741)" fill="#111111" font-family="'Roboto'" font-size="25px">Rektoriaus biuras</text>
 			</g>
-			<text transform="matrix(1 0 0 1 259.6355 2025.6741)" fill="#111111" font-family="'Roboto'" font-size="25px">Rektoriaus biuras</text>
+		</a>
+		<g>
+			<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Finansų departamentas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=57'>Kontaktai</a>">
+				<g>
+					<path fill="#FFFFFF" d="M228.713,2169.958c-7.444,0-13.5-6.056-13.5-13.5v-20.434c0-7.444,6.056-13.5,13.5-13.5h255.866
+						c7.444,0,13.5,6.056,13.5,13.5v20.434c0,7.444-6.056,13.5-13.5,13.5H228.713z"/>
+					<g>
+						<path fill="#333333" d="M484.579,2124.025c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H228.713
+							c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H484.579 M484.579,2121.025H228.713c-8.284,0-15,6.716-15,15v20.433
+							c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C499.579,2127.74,492.863,2121.025,484.579,2121.025
+							L484.579,2121.025z"/>
+					</g>
+				</g>
+				<text transform="matrix(1 0 0 1 225.0408 2156.25)" fill="#111111" font-family="'Roboto'" font-size="25px">Finansų departamentas</text>
+			</a>
 		</g>
 		<g>
-			<g>
-				<path fill="#FFFFFF" d="M228.713,2169.958c-7.444,0-13.5-6.056-13.5-13.5v-20.434c0-7.444,6.056-13.5,13.5-13.5h255.866
-					c7.444,0,13.5,6.056,13.5,13.5v20.434c0,7.444-6.056,13.5-13.5,13.5H228.713z"/>
+			<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Plėtros departamentas" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=49'>Kontaktai</a>">
 				<g>
-					<path fill="#333333" d="M484.579,2124.025c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H228.713
-						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H484.579 M484.579,2121.025H228.713c-8.284,0-15,6.716-15,15v20.433
-						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C499.579,2127.74,492.863,2121.025,484.579,2121.025
-						L484.579,2121.025z"/>
+					<path fill="#FFFFFF" d="M574.77,2300.533c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
+						c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H574.77z"/>
+					<g>
+						<path fill="#333333" d="M830.635,2254.601c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H574.77
+							c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H830.635 M830.635,2251.601H574.77c-8.284,0-15,6.716-15,15v20.433
+							c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C845.635,2258.316,838.92,2251.601,830.635,2251.601
+							L830.635,2251.601z"/>
+					</g>
 				</g>
-			</g>
-			<text transform="matrix(1 0 0 1 225.0408 2156.25)" fill="#111111" font-family="'Roboto'" font-size="25px">Finansų departamentas</text>
+				<text transform="matrix(1 0 0 1 575.5404 2286.8257)" fill="#111111" font-family="'Roboto'" font-size="25px">Plėtros departamentas</text>
+			</a>
 		</g>
 		<g>
-			<g>
-				<path fill="#FFFFFF" d="M574.77,2300.533c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
-					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H574.77z"/>
+			<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Teisėkuros skyrius" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=59'>Kontaktai</a>">
 				<g>
-					<path fill="#333333" d="M830.635,2254.601c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H574.77
-						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H830.635 M830.635,2251.601H574.77c-8.284,0-15,6.716-15,15v20.433
-						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C845.635,2258.316,838.92,2251.601,830.635,2251.601
-						L830.635,2251.601z"/>
+					<path fill="#FFFFFF" d="M920.826,2300.533c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
+						c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H920.826z"/>
+					<g>
+						<path fill="#333333" d="M1176.692,2254.601c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H920.826
+							c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1176.692 M1176.692,2251.601H920.826c-8.284,0-15,6.716-15,15v20.433
+							c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1191.692,2258.316,1184.976,2251.601,1176.692,2251.601
+							L1176.692,2251.601z"/>
+					</g>
 				</g>
-			</g>
-			<text transform="matrix(1 0 0 1 575.5404 2286.8257)" fill="#111111" font-family="'Roboto'" font-size="25px">Plėtros departamentas</text>
+				<text transform="matrix(1 0 0 1 944.9185 2286.8257)" fill="#111111" font-family="'Roboto'" font-size="25px">Teisėkuros skyrius</text>
+			</a>
 		</g>
 		<g>
-			<g>
-				<path fill="#FFFFFF" d="M920.826,2300.533c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
-					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H920.826z"/>
+			<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Personalo skyrius" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=63'>Kontaktai</a>">
 				<g>
-					<path fill="#333333" d="M1176.692,2254.601c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H920.826
-						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H1176.692 M1176.692,2251.601H920.826c-8.284,0-15,6.716-15,15v20.433
-						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C1191.692,2258.316,1184.976,2251.601,1176.692,2251.601
-						L1176.692,2251.601z"/>
+					<path fill="#FFFFFF" d="M228.713,2300.533c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
+						c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H228.713z"/>
+					<g>
+						<path fill="#333333" d="M484.579,2254.601c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H228.713
+							c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H484.579 M484.579,2251.601H228.713c-8.284,0-15,6.716-15,15v20.433
+							c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C499.579,2258.316,492.863,2251.601,484.579,2251.601
+							L484.579,2251.601z"/>
+					</g>
 				</g>
-			</g>
-			<text transform="matrix(1 0 0 1 944.9185 2286.8257)" fill="#111111" font-family="'Roboto'" font-size="25px">Teisėkuros skyrius</text>
+				<text transform="matrix(1 0 0 1 257.8474 2286.8257)" fill="#111111" font-family="'Roboto'" font-size="25px">Personalo skyrius</text>
+			</a>
 		</g>
 		<g>
-			<g>
-				<path fill="#FFFFFF" d="M228.713,2300.533c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
-					c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H228.713z"/>
+			<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Civilinės ir darbų saugos tarnyba" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=47'>Kontaktai</a>">
 				<g>
-					<path fill="#333333" d="M484.579,2254.601c6.617,0,12,5.383,12,12v20.433c0,6.617-5.383,12-12,12H228.713
-						c-6.617,0-12-5.383-12-12v-20.433c0-6.617,5.383-12,12-12H484.579 M484.579,2251.601H228.713c-8.284,0-15,6.716-15,15v20.433
-						c0,8.284,6.716,15,15,15h255.866c8.284,0,15-6.716,15-15v-20.433C499.579,2258.316,492.863,2251.601,484.579,2251.601
-						L484.579,2251.601z"/>
+					<path fill="#FFFFFF" d="M920.677,2055.958c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.164
+						c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H920.677z"/>
+					<g>
+						<path fill="#333333" d="M1176.84,1976.873c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H920.677
+							c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H1176.84 M1176.84,1973.873H920.677c-8.284,0-15,6.716-15,15v53.586
+							c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C1191.84,1980.588,1185.125,1973.873,1176.84,1973.873
+							L1176.84,1973.873z"/>
+					</g>
 				</g>
-			</g>
-			<text transform="matrix(1 0 0 1 257.8474 2286.8257)" fill="#111111" font-family="'Roboto'" font-size="25px">Personalo skyrius</text>
+				<text transform="matrix(1 0 0 1 956.8867 2010.0978)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Civilinės ir darbų</tspan><tspan x="6.171" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">saugos tarnyba</tspan></text>
+			</a>
 		</g>
 		<g>
-			<g>
-				<path fill="#FFFFFF" d="M920.677,2055.958c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.164
-					c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H920.677z"/>
+			<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Bendruomenės vystymo skyrius" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=45'>Kontaktai</a>">
 				<g>
-					<path fill="#333333" d="M1176.84,1976.873c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H920.677
-						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H1176.84 M1176.84,1973.873H920.677c-8.284,0-15,6.716-15,15v53.586
-						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C1191.84,1980.588,1185.125,1973.873,1176.84,1973.873
-						L1176.84,1973.873z"/>
+					<path fill="#FFFFFF" d="M574.621,2055.958c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
+						c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H574.621z"/>
+					<g>
+						<path fill="#333333" d="M830.784,1976.873c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H574.621
+							c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H830.784 M830.784,1973.873H574.621c-8.284,0-15,6.716-15,15v53.586
+							c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C845.784,1980.588,839.068,1973.873,830.784,1973.873
+							L830.784,1973.873z"/>
+					</g>
 				</g>
-			</g>
-			<text transform="matrix(1 0 0 1 956.8867 2010.0978)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Civilinės ir darbų</tspan><tspan x="6.171" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">saugos tarnyba</tspan></text>
+				<text transform="matrix(1 0 0 1 618.4109 2010.0979)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Bendruomenės</tspan><tspan x="-4.743" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">vystymo skyrius</tspan></text>
+			</a>
 		</g>
 		<g>
-			<g>
-				<path fill="#FFFFFF" d="M574.621,2055.958c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
-					c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H574.621z"/>
+			<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Mokslo ir inovacijų skyrius" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=56'>Kontaktai</a>">
 				<g>
-					<path fill="#333333" d="M830.784,1976.873c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H574.621
-						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H830.784 M830.784,1973.873H574.621c-8.284,0-15,6.716-15,15v53.586
-						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C845.784,1980.588,839.068,1973.873,830.784,1973.873
-						L830.784,1973.873z"/>
+					<path fill="#FFFFFF" d="M920.677,2186.534c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.164
+						c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H920.677z"/>
+					<g>
+						<path fill="#333333" d="M1176.84,2107.448c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H920.677
+							c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H1176.84 M1176.84,2104.448H920.677c-8.284,0-15,6.716-15,15v53.586
+							c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C1191.84,2111.164,1185.125,2104.448,1176.84,2104.448
+							L1176.84,2104.448z"/>
+					</g>
 				</g>
-			</g>
-			<text transform="matrix(1 0 0 1 618.4109 2010.0979)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Bendruomenės</tspan><tspan x="-4.743" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">vystymo skyrius</tspan></text>
+				<text transform="matrix(1 0 0 1 944.8076 2140.6736)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Mokslo ir inovacijų</tspan><tspan x="19.403" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">departamentas</tspan></text>
+			</a>
 		</g>
 		<g>
-			<g>
-				<path fill="#FFFFFF" d="M920.677,2186.534c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.164
-					c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H920.677z"/>
+			<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Studijų administravimo skyrius" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=61'>Kontaktai</a>">
 				<g>
-					<path fill="#333333" d="M1176.84,2107.448c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H920.677
-						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H1176.84 M1176.84,2104.448H920.677c-8.284,0-15,6.716-15,15v53.586
-						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C1191.84,2111.164,1185.125,2104.448,1176.84,2104.448
-						L1176.84,2104.448z"/>
+					<path fill="#FFFFFF" d="M574.621,2447.686c-7.444,0-13.5-6.056-13.5-13.5V2380.6c0-7.444,6.056-13.5,13.5-13.5h256.163
+						c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H574.621z"/>
+					<g>
+						<path fill="#333333" d="M830.784,2368.6c6.617,0,12,5.383,12,12v53.585c0,6.617-5.383,12-12,12H574.621
+							c-6.617,0-12-5.383-12-12V2380.6c0-6.617,5.383-12,12-12H830.784 M830.784,2365.6H574.621c-8.284,0-15,6.716-15,15v53.585
+							c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15V2380.6C845.784,2372.316,839.068,2365.6,830.784,2365.6
+							L830.784,2365.6z"/>
+					</g>
 				</g>
-			</g>
-			<text transform="matrix(1 0 0 1 944.8076 2140.6736)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Mokslo ir inovacijų</tspan><tspan x="19.403" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">departamentas</tspan></text>
+				<text transform="matrix(1 0 0 1 571.5178 2401.8252)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Studijų administravimo </tspan><tspan x="91.742" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">skyrius</tspan></text>
+			</a>
 		</g>
 		<g>
-			<g>
-				<path fill="#FFFFFF" d="M574.621,2447.686c-7.444,0-13.5-6.056-13.5-13.5V2380.6c0-7.444,6.056-13.5,13.5-13.5h256.163
-					c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H574.621z"/>
+			<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Viešųjų pirkimų skyrius" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=48'>Kontaktai</a>">
 				<g>
-					<path fill="#333333" d="M830.784,2368.6c6.617,0,12,5.383,12,12v53.585c0,6.617-5.383,12-12,12H574.621
-						c-6.617,0-12-5.383-12-12V2380.6c0-6.617,5.383-12,12-12H830.784 M830.784,2365.6H574.621c-8.284,0-15,6.716-15,15v53.585
-						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15V2380.6C845.784,2372.316,839.068,2365.6,830.784,2365.6
-						L830.784,2365.6z"/>
+					<path fill="#FFFFFF" d="M574.621,2708.837c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
+						c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H574.621z"/>
+					<g>
+						<path fill="#333333" d="M830.784,2629.752c6.617,0,12,5.383,12,12v53.585c0,6.617-5.383,12-12,12H574.621
+							c-6.617,0-12-5.383-12-12v-53.585c0-6.617,5.383-12,12-12H830.784 M830.784,2626.752H574.621c-8.284,0-15,6.716-15,15v53.585
+							c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.585C845.784,2633.468,839.068,2626.752,830.784,2626.752
+							L830.784,2626.752z"/>
+					</g>
 				</g>
-			</g>
-			<text transform="matrix(1 0 0 1 571.5178 2401.8252)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Studijų administravimo </tspan><tspan x="91.742" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">skyrius</tspan></text>
+				<text transform="matrix(1 0 0 1 617.1477 2662.9771)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Viešųjų pirkimų</tspan><tspan x="46.112" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">skyrius</tspan></text>
+			</a>
 		</g>
 		<g>
-			<g>
-				<path fill="#FFFFFF" d="M574.621,2708.837c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
-					c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H574.621z"/>
+			<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Studentų paslaugų ir karjeros skyrius" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=54'>Kontaktai</a>">
 				<g>
-					<path fill="#333333" d="M830.784,2629.752c6.617,0,12,5.383,12,12v53.585c0,6.617-5.383,12-12,12H574.621
-						c-6.617,0-12-5.383-12-12v-53.585c0-6.617,5.383-12,12-12H830.784 M830.784,2626.752H574.621c-8.284,0-15,6.716-15,15v53.585
-						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.585C845.784,2633.468,839.068,2626.752,830.784,2626.752
-						L830.784,2626.752z"/>
+					<path fill="#FFFFFF" d="M228.564,2447.686c-7.444,0-13.5-6.056-13.5-13.5V2380.6c0-7.444,6.056-13.5,13.5-13.5h256.164
+						c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H228.564z"/>
+					<g>
+						<path fill="#333333" d="M484.728,2368.6c6.617,0,12,5.383,12,12v53.585c0,6.617-5.383,12-12,12H228.564
+							c-6.617,0-12-5.383-12-12V2380.6c0-6.617,5.383-12,12-12H484.728 M484.728,2365.6H228.564c-8.284,0-15,6.716-15,15v53.585
+							c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15V2380.6C499.728,2372.316,493.012,2365.6,484.728,2365.6
+							L484.728,2365.6z"/>
+					</g>
 				</g>
-			</g>
-			<text transform="matrix(1 0 0 1 617.1477 2662.9771)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Viešųjų pirkimų</tspan><tspan x="46.112" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">skyrius</tspan></text>
+				<text transform="matrix(1 0 0 1 252.5857 2401.8252)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Studentų paslaugų</tspan><tspan x="6.39" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">ir karjeros skyrius</tspan></text>
+			</a>
 		</g>
 		<g>
-			<g>
-				<path fill="#FFFFFF" d="M228.564,2447.686c-7.444,0-13.5-6.056-13.5-13.5V2380.6c0-7.444,6.056-13.5,13.5-13.5h256.164
-					c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H228.564z"/>
+			<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Vidaus audito skyrius" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=30'>Kontaktai</a>">
 				<g>
-					<path fill="#333333" d="M484.728,2368.6c6.617,0,12,5.383,12,12v53.585c0,6.617-5.383,12-12,12H228.564
-						c-6.617,0-12-5.383-12-12V2380.6c0-6.617,5.383-12,12-12H484.728 M484.728,2365.6H228.564c-8.284,0-15,6.716-15,15v53.585
-						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15V2380.6C499.728,2372.316,493.012,2365.6,484.728,2365.6
-						L484.728,2365.6z"/>
+					<path fill="#FFFFFF" d="M228.564,2708.837c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.164
+						c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H228.564z"/>
+					<g>
+						<path fill="#333333" d="M484.728,2629.752c6.617,0,12,5.383,12,12v53.585c0,6.617-5.383,12-12,12H228.564
+							c-6.617,0-12-5.383-12-12v-53.585c0-6.617,5.383-12,12-12H484.728 M484.728,2626.752H228.564c-8.284,0-15,6.716-15,15v53.585
+							c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.585C499.728,2633.468,493.012,2626.752,484.728,2626.752
+							L484.728,2626.752z"/>
+					</g>
 				</g>
-			</g>
-			<text transform="matrix(1 0 0 1 252.5857 2401.8252)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Studentų paslaugų</tspan><tspan x="6.39" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">ir karjeros skyrius</tspan></text>
+				<text transform="matrix(1 0 0 1 280.2468 2662.9771)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Vidaus audito</tspan><tspan x="36.957" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">skyrius</tspan></text>
+			</a>
 		</g>
 		<g>
-			<g>
-				<path fill="#FFFFFF" d="M228.564,2708.837c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.164
-					c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H228.564z"/>
+			<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Teisės taikymo skyrius" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=60'>Kontaktai</a>">
 				<g>
-					<path fill="#333333" d="M484.728,2629.752c6.617,0,12,5.383,12,12v53.585c0,6.617-5.383,12-12,12H228.564
-						c-6.617,0-12-5.383-12-12v-53.585c0-6.617,5.383-12,12-12H484.728 M484.728,2626.752H228.564c-8.284,0-15,6.716-15,15v53.585
-						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.585C499.728,2633.468,493.012,2626.752,484.728,2626.752
-						L484.728,2626.752z"/>
+					<path fill="#FFFFFF" d="M920.677,2578.262c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.164
+						c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H920.677z"/>
+					<g>
+						<path fill="#333333" d="M1176.84,2499.176c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H920.677
+							c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H1176.84 M1176.84,2496.176H920.677c-8.284,0-15,6.716-15,15v53.586
+							c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C1191.84,2502.892,1185.125,2496.176,1176.84,2496.176
+							L1176.84,2496.176z"/>
+					</g>
 				</g>
+				<text transform="matrix(1 0 0 1 964.6382 2532.4011)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Teisės taikymo</tspan><tspan x="44.678" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">skyrius</tspan></text>
+			</a>
+		</g>
+		<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Strateginio planavimo skyrius" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=58'>Kontaktai</a>">
+			<g>
+				<g>
+					<path fill="#FFFFFF" d="M228.564,2578.262c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.164
+						c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H228.564z"/>
+					<g>
+						<path fill="#333333" d="M484.728,2499.176c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H228.564
+							c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H484.728 M484.728,2496.176H228.564c-8.284,0-15,6.716-15,15v53.586
+							c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C499.728,2502.892,493.012,2496.176,484.728,2496.176
+							L484.728,2496.176z"/>
+					</g>
+				</g>
+				<text transform="matrix(1 0 0 1 235.3492 2532.4011)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Strateginio planavimo</tspan><tspan x="81.854" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">skyrius</tspan></text>
 			</g>
-			<text transform="matrix(1 0 0 1 280.2468 2662.9771)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Vidaus audito</tspan><tspan x="36.957" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">skyrius</tspan></text>
+		</a>
+		<g>
+			<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Studijų kokybės ir plėtros skyrius" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=62'>Kontaktai</a>">
+				<g>
+					<path fill="#FFFFFF" d="M920.677,2447.686c-7.444,0-13.5-6.056-13.5-13.5V2380.6c0-7.444,6.056-13.5,13.5-13.5h256.164
+						c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H920.677z"/>
+					<g>
+						<path fill="#333333" d="M1176.84,2368.6c6.617,0,12,5.383,12,12v53.585c0,6.617-5.383,12-12,12H920.677
+							c-6.617,0-12-5.383-12-12V2380.6c0-6.617,5.383-12,12-12H1176.84 M1176.84,2365.6H920.677c-8.284,0-15,6.716-15,15v53.585
+							c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15V2380.6C1191.84,2372.316,1185.125,2365.6,1176.84,2365.6
+							L1176.84,2365.6z"/>
+					</g>
+				</g>
+				<text transform="matrix(1 0 0 1 951.0151 2401.8252)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Studijų kokybės ir</tspan><tspan x="16.65" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">plėtros skyrius</tspan></text>
+			</a>
 		</g>
 		<g>
-			<g>
-				<path fill="#FFFFFF" d="M920.677,2578.262c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.164
-					c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H920.677z"/>
+			<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Komunikacijos ir rinkodaros skyrius" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=50'>Kontaktai</a>">
 				<g>
-					<path fill="#333333" d="M1176.84,2499.176c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H920.677
-						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H1176.84 M1176.84,2496.176H920.677c-8.284,0-15,6.716-15,15v53.586
-						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C1191.84,2502.892,1185.125,2496.176,1176.84,2496.176
-						L1176.84,2496.176z"/>
+					<path fill="#FFFFFF" d="M574.621,2186.534c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.163
+						c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H574.621z"/>
+					<g>
+						<path fill="#333333" d="M830.784,2107.448c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H574.621
+							c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H830.784 M830.784,2104.448H574.621c-8.284,0-15,6.716-15,15v53.586
+							c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C845.784,2111.164,839.068,2104.448,830.784,2104.448
+							L830.784,2104.448z"/>
+					</g>
 				</g>
-			</g>
-			<text transform="matrix(1 0 0 1 964.6382 2532.4011)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Teisės taikymo</tspan><tspan x="44.678" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">skyrius</tspan></text>
+				<text transform="matrix(1 0 0 1 607.0891 2140.6736)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Komunikacijos ir </tspan><tspan x="-6.201" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">rinkodaros skyrius</tspan></text>
+			</a>
 		</g>
 		<g>
-			<g>
-				<path fill="#FFFFFF" d="M228.564,2578.262c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.164
-					c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H228.564z"/>
+			<a tabindex="0" 
+data-bs-toggle="popover" 
+title="Tarptautinių ryšių skyrius" 
+data-bs-html="true" 
+role="button" 
+data-bs-trigger="focus" 
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=55'>Kontaktai</a>">
 				<g>
-					<path fill="#333333" d="M484.728,2499.176c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H228.564
-						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H484.728 M484.728,2496.176H228.564c-8.284,0-15,6.716-15,15v53.586
-						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C499.728,2502.892,493.012,2496.176,484.728,2496.176
-						L484.728,2496.176z"/>
+					<path fill="#FFFFFF" d="M574.621,2578.262c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.163
+						c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H574.621z"/>
+					<g>
+						<path fill="#333333" d="M830.784,2499.176c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H574.621
+							c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H830.784 M830.784,2496.176H574.621c-8.284,0-15,6.716-15,15v53.586
+							c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C845.784,2502.892,839.068,2496.176,830.784,2496.176
+							L830.784,2496.176z"/>
+					</g>
 				</g>
-			</g>
-			<text transform="matrix(1 0 0 1 235.3492 2532.4011)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Strateginio planavimo</tspan><tspan x="81.854" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">skyrius</tspan></text>
-		</g>
-		<g>
-			<g>
-				<path fill="#FFFFFF" d="M920.677,2447.686c-7.444,0-13.5-6.056-13.5-13.5V2380.6c0-7.444,6.056-13.5,13.5-13.5h256.164
-					c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H920.677z"/>
-				<g>
-					<path fill="#333333" d="M1176.84,2368.6c6.617,0,12,5.383,12,12v53.585c0,6.617-5.383,12-12,12H920.677
-						c-6.617,0-12-5.383-12-12V2380.6c0-6.617,5.383-12,12-12H1176.84 M1176.84,2365.6H920.677c-8.284,0-15,6.716-15,15v53.585
-						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15V2380.6C1191.84,2372.316,1185.125,2365.6,1176.84,2365.6
-						L1176.84,2365.6z"/>
-				</g>
-			</g>
-			<text transform="matrix(1 0 0 1 951.0151 2401.8252)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Studijų kokybės ir</tspan><tspan x="16.65" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">plėtros skyrius</tspan></text>
-		</g>
-		<g>
-			<g>
-				<path fill="#FFFFFF" d="M574.621,2186.534c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.163
-					c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H574.621z"/>
-				<g>
-					<path fill="#333333" d="M830.784,2107.448c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H574.621
-						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H830.784 M830.784,2104.448H574.621c-8.284,0-15,6.716-15,15v53.586
-						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C845.784,2111.164,839.068,2104.448,830.784,2104.448
-						L830.784,2104.448z"/>
-				</g>
-			</g>
-			<text transform="matrix(1 0 0 1 607.0891 2140.6736)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Komunikacijos ir </tspan><tspan x="-6.201" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">rinkodaros skyrius</tspan></text>
-		</g>
-		<g>
-			<g>
-				<path fill="#FFFFFF" d="M574.621,2578.262c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.163
-					c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H574.621z"/>
-				<g>
-					<path fill="#333333" d="M830.784,2499.176c6.617,0,12,5.383,12,12v53.586c0,6.617-5.383,12-12,12H574.621
-						c-6.617,0-12-5.383-12-12v-53.586c0-6.617,5.383-12,12-12H830.784 M830.784,2496.176H574.621c-8.284,0-15,6.716-15,15v53.586
-						c0,8.284,6.716,15,15,15h256.163c8.284,0,15-6.716,15-15v-53.586C845.784,2502.892,839.068,2496.176,830.784,2496.176
-						L830.784,2496.176z"/>
-				</g>
-			</g>
-			<text transform="matrix(1 0 0 1 605.7336 2532.4011)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Tarptautinių ryšių</tspan><tspan x="57.526" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">skyrius</tspan></text>
+				<text transform="matrix(1 0 0 1 605.7336 2532.4011)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Tarptautinių ryšių</tspan><tspan x="57.526" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">skyrius</tspan></text>
+			</a>
 		</g>
 	</g>
 </g>
