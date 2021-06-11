@@ -2,8 +2,8 @@
 <html>
 	<head>
 		@yield("html-title")
+		@include('head')
 		<link type='text/css' rel='stylesheet' href='quiz/quiz.css'/>
-		<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
 	</head>
 	<body>
 		<div id='container'>
