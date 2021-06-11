@@ -178,5 +178,6 @@
         </section>
 
     </section>
-
+    <p><strong>Metas žinių pasitikrinimui!</strong></p>
+    <iframe src="/quiz1" title="Pasitikrink žinias apie VU" width="1000" height="400"></iframe>
 </section>
