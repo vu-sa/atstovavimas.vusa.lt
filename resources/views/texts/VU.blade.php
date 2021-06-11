@@ -305,11 +305,11 @@
                 mokyklos – tai vidiniai organizaciniai Universiteto dariniai, kuriuose vykdoma visų rūšių pagrindinė
                 Universiteto veikla.</p>
     
-            <p>Veikla grindžiama pavyzdiniais <a
+            <p>Veikla grindžiama pavyzdiniais <a target="_blank"
                     href="https://www.vu.lt/site_files/Senatas_Taryba/S-2016-2/KAP_pavyzdiniai_nuostatai_PATVIRTINTI_po_redagavimo.pdf">VU
-                    KAP nuostatais</a>.</p>
+                    KAP nuostatais</a></p>
     
-            <p>Šiuo metu Universitete yra <a href="https://www.vu.lt/apiemus/struktura/padaliniai">15 VU KAP</a>.</p>
+            <p>Šiuo metu Universitete yra <a target="_blank" href="https://www.vu.lt/apiemus/struktura/padaliniai">penkiolika VU KAP</a></p>
     
             <p>Išsamiau apie VU KAP - <a href="#VU-schema">VU schemoje</a> (paspausk schemoje ant KAP ir galėsi nueiti į jo puslapį)</p>
         </section>
@@ -320,10 +320,10 @@
                 užtikrinančioms akademinių padalinių veiklą, teikti ir kitoms neakademinėms Universiteto funkcijoms atlikti. Šių organizacinių darinių vieta Universiteto valdymo struktūroje nustatyta Pavyzdiniuose Vilniaus
                 universiteto kamieninių neakademinių padalinių nuostatuose, kuriuos tvirtina Rektorius.</p>
     
-            <p>Visi VU KNAP pateikiami <a href="https://www.vu.lt/apiemus/struktura/padaliniai">čia</a>.</p>
+            <p>Visi VU KNAP pateikiami <a target="_blank" href="https://www.vu.lt/apiemus/struktura/padaliniai">čia</a>.</p>
         
 
-        <p><a
+        <p><a target="_blank"
             href="https://www.vu.lt/site_files/Reguliaminas/Pavyzdiniai_VU_kamieninio_neakademinio_padalinio_nuostatai_2019-10-16.pdf">VU KNAP pavyzdiniai nuostatai</a>
         </p>
     </section>
@@ -342,4 +342,79 @@
     <hr>
     <p><strong>Metas žinių pasitikrinimui!</strong></p>
     <iframe src="/quiz2" title="Pasitikrink žinias apie VU" width="1000" height="300"></iframe>
+
+    <section id='sp-kelias'> 
+        <h3>Studijų programos kelias</h3>
+
+        <p>Šiame skyriuje yra pateiktas pokyčių studijų programose priėmimo procesas Vilniaus universitete. </p>
+
+        <p>Skyrius susidaro iš trijų poskyrių. Pirmajame sužinosite, koks Vilniaus universiteto organas yra tiesiogiai atsakingas už studijų programų valdymą ir į kokias dvi kategorijas yra skirstomi programų pakeitimai. Antrasis poskyris supažindins, kokie vidiniai ar išoriniai faktoriai žymi poreikį inicijuoti studijų programos tobulinimo procesą. Paskutinysis poskyris pristato esminių ir neesminių pakeitimų studijų programose scenarijus atkreipiant dėmesį į Vilniaus universiteto organus, atsakingus už planuojamų pakeitimų patvirtinimą.</p>
+
+        <h4>Kas atsakingas už studijų programos pakeitimus? </h4>
+
+        <p>Studijų programa, tam, kad ji atlieptų šalyje vykstančius pokyčius ir studentų bei dėstytojų lūkesčius, yra nuolatos tobulinama. Studijų programos tobulinimas gali apimti įvairius procesus, pradedant studentų atsiliepimų apie programą analizėmis, kurios yra reikalingos įsivertinimo tikslams, baigiant studijų programos dalykų, dėstytojų ar net pavadinimo keitimu. Vilniaus universitete yra reglamentuota, jog studijų programų komitetai (toliau – SPK), kurie yra tiesiogiai atsakingi už studijų programas, bent kartą per semestrą susirinktų į posėdžius, kuriuose būtų aptariama kryptis kokybiškesnės programos link.</p>
+
+        <p>Plačiau su SPK funkcijomis galite susipažinti <a target="_blank" href="https://www.vu.lt/site_files/Reguliaminas/SPK_nuostatai_galutinis_2018.pdf">čia</a>.</p>
+
+        <p>Pokyčiai studijų programoje skirstomi į esminius ir neesminius. Žemiau pateikiami pokyčių pavyzdžiai:</p>
+
+        <table class="table mt-3 table-bordered">
+            <caption></caption>
+            <thead class="table-light">
+                <tr>
+                    <th>Esminiai pakeitimai</th>
+                    <th>Neesminiai pakeitimai</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Studijų programos pavadinimas</td>
+                    <td>Studijų dalyko pavadinimas</td>
+                </tr>
+                <tr>
+                    <td>Studijų programos tikslas, siekiniai</td>
+                    <td>Studijų dalyko tikslas, siekiniai</td>
+                </tr>
+                <tr>
+                    <td>Studijų programos apimtis kreditais</td>
+                    <td>Studijų dalyko apimtis kreditais</td>
+                </tr>
+                <tr>
+                    <td>Studijų programos vykdymo trukmė</td>
+                    <td>Studijų dalyko perkėlimas į kitą semestrą</td>
+                </tr>
+                <tr>
+                    <td>Studijų kryptis ar kvalifikacinis laipsnis</td>
+                    <td>–</td>
+                </tr>
+                <tr>
+                    <td>Studijų forma</td>
+                    <td>–</td>
+                </tr>
+                <tr>
+                    <td>Studijų programos vykdymo kalba</td>
+                    <td>Studijų dalyko vykdymo kalba</td>
+                </tr>
+                <tr>
+                    <td>–</td>
+                    <td>Studijų dalyko dėstytojas, turinys, vertinimo strategija, literatūra</td>
+                </tr>
+                <tr>
+                    <td>–</td>
+                    <td>Naujo studijų dalyko įvedimas, studijų dalyko pašalinimas arba studijų dalyko tipo keitimas (iš pasirenkamojo į privalomąjį ir atvirkščiai)</td>
+                </tr>
+
+            </tbody>
+        </table>
+        <p>Tada, kai yra svarstomi esminiai pokyčiai studijų programoje, SPK sprendimo neužtenka, jiems turi pritarti ir kiti už studijas atsakingi Universiteto dariniai (pavaizduoti šio skyriaus paskutiniame poskyryje esančioje schemoje).  </p>
+        <h4>Kaip inicijuoti pokytį?</h4>
+        <p>Kiekvienas inicijuojamas pokytis privalo turėti aiškų pagrindą, kuriuo remiantis reikėtų tobulinti programą:</p>
+        <img class="img-fluid" src="/img/sp1.png">
+        <p>Studentas, kuris mato savo studijų programos problemas arba turi pasiūlymų jos tobulinimui, gali perduoti savo nuomonę tiesiogiai SPK pirmininkui arba studentų atstovui tame SPK. Komitetas studentų pasiūlymus gali vertinti ne tik kokybiškai, bet ir kiekybiškai. Todėl patariama kreiptis dėl didesnei daliai studentų grupės aktualių klausimų, suderinus juos su studentų atstovu. Studentų atstovas atliks visus reikiamus veiksmus nuo problemos identifikavimo iki pasiūlymo parengimo nunešimo į komitetą ir atstovavimo studentų interesams posėdžio metu.</p>
+        <h4>Koks studijų programos pakeitimo iniciatyvos kelias iki jos įgyvendinimo?</h4>
+        <img class="img-fluid" src="/img/sp2.png">
+        <p>Jeigu planuojamas studijų programos pakeitimas yra neesminis, SPK posėdžio metu yra aptariama konkreti problema, vyksta diskusija dėl geriausio jos sprendimo ir galiausiai yra priimamas nutarimas. Tam tikrų KAP atvejais šie nutarimai turi būti patvirtinti KAP taryboje.</p>
+        <p>Jeigu inicijuojamas programos pakeitimas yra esminis, tada studijų programos komitete priimtas nutarimas turi būti patvirtintas KAP taryboje, o po to nutarimas pakyla iki Universiteto centrinio darinio – Senato. Senato Studijų komitete pakeitimas yra peržiūrimas ir tvirtinamas, o vėliau galutinai patvirtinamas Senato posėdžio metu. Tuo atveju, jeigu bet kuriame iš darinių siūlomam programos esminiam pokyčiui nėra pritariama, šis yra grąžinamas koreguoti ankstesniam dariniui. Pavyzdžiui, nepatvirtinus KAP tarybai, klausimas grįžta į SPK, o nepritarus Senato studijų komitetui, klausimas grįžta į KAP tarybą, o ši neretai svarstymą vėl grąžina į SPK.</p>
+    </section>
 </section>
+
