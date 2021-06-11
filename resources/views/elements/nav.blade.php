@@ -13,12 +13,14 @@
                 <li class="navbar-text">
                     <a style="font-size:1em" class="nav-link"><strong>I dalis</strong></a>
                   </li>
-                @include('elements.nav.schemos')
                 <li class="navbar-link">
                     <a class="nav-link" aria-current="page" href="#KAP">Kamieninis akademinis padalinys</a>
                 </li>
                 <li class="navbar-link">
                     <a class="nav-link" aria-current="page" href="#VU">Vilniaus universitetas</a>
+                </li>
+                <li class="navbar-link">
+                    <a class="nav-link" aria-current="page" href="#miestas">Miestas</a>
                 </li>
                 <li class="navbar-link">
                     <a class="nav-link" aria-current="page" href="#aukstasis-mokslas">Aukštasis mokslas</a>
@@ -32,6 +34,8 @@
                 <li class="navbar-link">
                     <a class="nav-link" aria-current="page" href="#procesai">Įstatymų leidyba</a>
                 </li>
+                <div class="dropdown-divider"></div>
+                @include('elements.nav.schemos')
                 {{-- @include('elements.nav.AM')
                 @include('elements.nav.Seimas')
                 @include('elements.nav.LRV')
