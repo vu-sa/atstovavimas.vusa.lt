@@ -9,6 +9,6 @@
         <li><a target="_blank" class="dropdown-item" href="schema-am">Aukštasis mokslas</a></li>
         <li><a target="_blank" class="dropdown-item" href="schema-lrv">Vyriausybė</a></li>
         <li><a target="_blank" class="dropdown-item" href="schema-smsm">ŠMSM</a></li>
-        <li><a target="_blank" class="dropdown-item" href="#seimo-nutarimu-trumpoji-schema">Įstatymų leidyba</a></li>
+        <li><a class="dropdown-item" href="#seimo-nutarimu-trumpoji-schema">Įstatymų leidyba</a></li>
     </ul>
 </li>
