@@ -5,5 +5,5 @@
 @endsection
 
 @section("graph")
-    @include("graphs.ŠMSM")
+    @include("graphs.SMSM")
 @endsection

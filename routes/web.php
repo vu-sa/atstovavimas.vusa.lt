@@ -49,7 +49,7 @@ Route::get('/schema-am', function () {
     return view('separate-graphs.AM');
 });
 
-Route::get('/schema-vyriausybe', function () {
+Route::get('/schema-lrv', function () {
     return view('separate-graphs.LRV');
 });
 
