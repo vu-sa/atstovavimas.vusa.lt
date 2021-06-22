@@ -56,3 +56,8 @@ Route::get('/schema-lrv', function () {
 Route::get('/schema-smsm', function () {
     return view('separate-graphs.SMSM');
 });
+
+Route::get('/schema-seimas', function () {
+    return view('separate-graphs.Seimas');
+});
+
