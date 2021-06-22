@@ -1082,7 +1082,7 @@ role="button"
 data-bs-trigger="focus" 
 data-bs-content="Užtikrina kultūros, mokslo, tyrimų ir dėstymo laisvę Universitete, Universiteto
 bendrųjų akademinių reikalų ir kitų tiesiogiai su viso Universiteto akademine veikla susijusių klausimų
-kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą. <a href='#VU-senatas'>Daugiau</a>">
+kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą. <a href='/#VU-senatas'>Daugiau</a>">
 		<g>
 			<g>
 				<path fill="#FFFFFF" d="M2190.206,1040.247c-7.444,0-13.5-6.056-13.5-13.5v-61c0-7.444,6.056-13.5,13.5-13.5h295.47

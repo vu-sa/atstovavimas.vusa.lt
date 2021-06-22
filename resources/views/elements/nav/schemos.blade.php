@@ -4,11 +4,11 @@
         <strong>Interaktyvios schemos</strong>
     </a>
     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-        <li><a class="dropdown-item" href="#kap-schema">VU KAP</a></li>
-        <li><a class="dropdown-item" href="#VU-schema">Vilniaus universitetas</a></li>
-        <li><a class="dropdown-item" href="#aukstojo-mokslo-schema">Aukštasis mokslas</a></li>
-        <li><a class="dropdown-item" href="#vyriausybe">Vyriausybė</a></li>
-        <li><a class="dropdown-item" href="#smsm">ŠMSM</a></li>
-        <li><a class="dropdown-item" href="#seimo-nutarimu-trumpoji-schema">Įstatymų leidyba</a></li>
+        <li><a target="_blank" class="dropdown-item" href="schema-kap">VU KAP</a></li>
+        <li><a target="_blank" class="dropdown-item" href="schema-vu">Vilniaus universitetas</a></li>
+        <li><a target="_blank" class="dropdown-item" href="schema-am">Aukštasis mokslas</a></li>
+        <li><a target="_blank" class="dropdown-item" href="schema-lrv">Vyriausybė</a></li>
+        <li><a target="_blank" class="dropdown-item" href="schema-smsm">ŠMSM</a></li>
+        <li><a target="_blank" class="dropdown-item" href="#seimo-nutarimu-trumpoji-schema">Įstatymų leidyba</a></li>
     </ul>
 </li>

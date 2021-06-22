@@ -39,7 +39,7 @@
       </linearGradient>
     </defs>
     <g id="VSF">
-      <a tabindex="0" data-bs-toggle="popover" title="Valstybinis studijų fondas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Valstybinis studijų fondas (VSF) - Švietimo mokslo ir sporto ministerijai pavaldi valstybės biudžetinė įstaiga administruojanti valstybės paskolas, valstybės remiamas paskolas studentams ir mokiniams, teikianti kitą finansinę paramą studentams ir profesiniam mokymui vykdyti <hr> <a href='#vsf'>Daugiau</a>">
+      <a tabindex="0" data-bs-toggle="popover" title="Valstybinis studijų fondas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Valstybinis studijų fondas (VSF) - Švietimo mokslo ir sporto ministerijai pavaldi valstybės biudžetinė įstaiga administruojanti valstybės paskolas, valstybės remiamas paskolas studentams ir mokiniams, teikianti kitą finansinę paramą studentams ir profesiniam mokymui vykdyti <hr> <a href='/#vsf'>Daugiau</a>">
           <g>
             <g>
               <rect x="1959.071" y="1543.002" width="519.4141" height="218.0869" rx="13" fill="#fff"/>
@@ -49,7 +49,7 @@
             <image width="800" height="426" transform="translate(2035.1081 1570.002) scale(0.1939)" xlink:href="img/AM1.png"/>
           </g>
         </a>
-      <a tabindex="0" data-bs-toggle="popover" title="VSF valdyba" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Fondo valdyba paskirsto Fondui skirtas valstybės biudžeto lėšas valstybės paskoloms teikti, valstybės remiamų paskolų palūkanoms apmokėti. <hr> <a href='#vsf-valdyba'>Daugiau</a>">
+      <a tabindex="0" data-bs-toggle="popover" title="VSF valdyba" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Fondo valdyba paskirsto Fondui skirtas valstybės biudžeto lėšas valstybės paskoloms teikti, valstybės remiamų paskolų palūkanoms apmokėti. <hr> <a href='/#vsf-valdyba'>Daugiau</a>">
           <g>
             <g>
               <rect x="2105.9997" y="1678.6699" width="223.0176" height="51.6689" rx="13.5" fill="#fff"/>
@@ -61,7 +61,7 @@
     </g>
     <g id="AEPK">
       <a tabindex="0" data-bs-toggle="popover" title="AEPK tarnyba" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Valstybės biudžetinė įstaiga, kurios veiklos tikslas – užtikrinti Lietuvos Respublikos akademinės etikos
-ir procedūrų kontrolieriaus darbą. <hr> <a href='#kontrolieriaus-tarnyba'>Daugiau</a>">
+ir procedūrų kontrolieriaus darbą. <hr> <a href='/#kontrolieriaus-tarnyba'>Daugiau</a>">
         <g>
           <g>
             <rect x="2.0002" y="1493.3955" width="623.9907" height="204.6064" rx="13" fill="#fff"/>
@@ -81,7 +81,7 @@ ir procedūrų kontrolieriaus darbą. <hr> <a href='#kontrolieriaus-tarnyba'>Dau
       </a>
       <a tabindex="0" data-bs-toggle="popover" title="Akademinės etikos ir procedūrų kontrolierius" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Akademinės etikos ir procedūrų kontrolierius yra valstybės pareigūnas, nagrinėjantis skundus,
       pranešimus ir savo iniciatyva atliekantis tyrimus dėl galimų akademinės etikos ir procedūrų
-      pažeidimų. <hr> <a href='#kontrolierius'>Daugiau</a>">
+      pažeidimų. <hr> <a href='/#kontrolierius'>Daugiau</a>">
           <g>
             <g>
               <rect x="278.6081" y="1543.2666" width="325.7988" height="105.0283" rx="13.5" fill="#fff"/>
@@ -128,7 +128,7 @@ ir procedūrų kontrolieriaus darbą. <hr> <a href='#kontrolieriaus-tarnyba'>Dau
     <g id="SKVC">
       <a tabindex="0" data-bs-toggle="popover" title="Studijų kokybės ir vertinimo centras" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Studijų kokybės vertinimo centras teisės aktų nustatyta tvarka skatina aukštųjų mokyklų veiklos
       kokybę per išorinį vertinimą, užsienyje įgytų kvalifikacijų, suteikiančių teisę į aukštąjį mokslą,
-      bei aukštojo mokslo kvalifikacijų, vertinimą <hr> <a href='#skvc'>Daugiau</a>">
+      bei aukštojo mokslo kvalifikacijų, vertinimą <hr> <a href='/#skvc'>Daugiau</a>">
           <g>
             <g>
               <rect x="1348.7936" y="1543.002" width="498.3145" height="216.4121" rx="13" fill="#fff"/>
@@ -140,7 +140,7 @@ ir procedūrų kontrolieriaus darbą. <hr> <a href='#kontrolieriaus-tarnyba'>Dau
             </g>
           </g>
         </a>
-      <a tabindex="0" data-bs-toggle="popover" title="Studijų kokybės ir vertinimo centro taryba" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Svarbiausios tarybos funkcijos – renka centro direktorių, tvirtina centro viziją, miziją ir direktoriaus parengtą strateginį planą, teikia siūlymus dėl centro metinių veiklos planų, tvirtina metinę centro direktoriaus ataskaitą, rengia centro metinę ataskaitą. <hr> <a href='#skvc-taryba'>Daugiau</a>">
+      <a tabindex="0" data-bs-toggle="popover" title="Studijų kokybės ir vertinimo centro taryba" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Svarbiausios tarybos funkcijos – renka centro direktorių, tvirtina centro viziją, miziją ir direktoriaus parengtą strateginį planą, teikia siūlymus dėl centro metinių veiklos planų, tvirtina metinę centro direktoriaus ataskaitą, rengia centro metinę ataskaitą. <hr> <a href='/#skvc-taryba'>Daugiau</a>">
           <g>
             <g>
               <rect x="1496.9919" y="1678.1865" width="223.0176" height="51.6689" rx="13.5" fill="#fff"/>
@@ -155,7 +155,7 @@ ir procedūrų kontrolieriaus darbą. <hr> <a href='#kontrolieriaus-tarnyba'>Dau
       <a tabindex="0" data-bs-toggle="popover" title="Aukštojo mokslo taryba" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Aukštojo mokslo taryba svarsto aukštojo mokslo būklės apžvalgas ir teikia siūlymus, išvadas bei
       rekomendacijas Vyriausybei, ŠMSM ir kitoms aukštojo mokslo politiką įgyvendinančioms institucijoms
       dėl aukštojo mokslo strateginių tikslų ir pažangos uždavinių nustatymo Nacionaliniame pažangos
-      plane. <hr> <a href='#amt'>Daugiau</a>">
+      plane. <hr> <a href='/#amt'>Daugiau</a>">
           <g>
             <g>
               <rect x="1352.0134" y="1435.46" width="386.9795" height="56.1689" rx="13.5" fill="#fff"/>
@@ -192,7 +192,7 @@ ir procedūrų kontrolieriaus darbą. <hr> <a href='#kontrolieriaus-tarnyba'>Dau
       </g>
       <a tabindex="0" data-bs-toggle="popover" title="Universitetas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Universitetas – aukštoji mokykla, kurioje vykdomos universitetinės studijos, atliekami moksliniai
       tyrimai, eksperimentinė plėtra ir (arba) plėtojamas aukšto lygio profesionalusis
-      menas. <hr> <a href='#universitetas'>Daugiau</a>">
+      menas. <hr> <a href='/#universitetas'>Daugiau</a>">
           <g>
             <g>
               <rect x="574.8005" y="1870.2275" width="191.9746" height="51.6689" rx="13.5" fill="#fff"/>
@@ -202,7 +202,7 @@ ir procedūrų kontrolieriaus darbą. <hr> <a href='#kontrolieriaus-tarnyba'>Dau
           </g>
       </a>
       <a tabindex="0" data-bs-toggle="popover" title="Kolegijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Kolegija – tai aukštoji mokykla, kurioje vykdomos koleginės studijos, plėtojami taikomieji moksliniai
-      tyrimai ir (arba) profesionalusis menas. <hr> <a href='#kolegija'>Daugiau</a>">
+      tyrimai ir (arba) profesionalusis menas. <hr> <a href='/#kolegija'>Daugiau</a>">
           <g>
             <g>
               <rect x="791.3132" y="1870.2275" width="191.9746" height="51.6689" rx="13.5" fill="#fff"/>
@@ -212,7 +212,7 @@ ir procedūrų kontrolieriaus darbą. <hr> <a href='#kontrolieriaus-tarnyba'>Dau
           </g>
       </a>
       <a tabindex="0" data-bs-toggle="popover" title="Mokslinių tyrimų institutas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Mokslinių tyrimų institutas – juridinis asmuo, kurio pagrindinė veikla – moksliniai tyrimai ir
-      eksperimentinė plėtra. <hr> <a href='#moksliniu-tyrimu-institutas'>Daugiau</a>">
+      eksperimentinė plėtra. <hr> <a href='/#moksliniu-tyrimu-institutas'>Daugiau</a>">
           <g>
             <g>
               <rect x="122.7302" y="1935.0244" width="373.54" height="51.6689" rx="13.5" fill="#fff"/>
@@ -321,7 +321,7 @@ valstybės
     <g id="LMA">
       <polyline points="203.608 1360.502 203.608 1420.502 1233.16 1420.502 1233.16 908.708" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
       <a tabindex="0" data-bs-toggle="popover" title="Lietuvos mokslo taryba" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Lietuvos mokslo taryba yra patariamoji institucija Lietuvos Respublikos Seimui ir Vyriausybei
-        mokslo, studijų ir eksperimentinės plėtros politikos klausimais. <hr> <a href='#lma'>Daugiau</a>">
+        mokslo, studijų ir eksperimentinės plėtros politikos klausimais. <hr> <a href='/#lma'>Daugiau</a>">
           <g>
             <g>
               <rect x="13.4977" y="1212.252" width="367.9775" height="146.7646" rx="13.5" fill="#fff"/>
@@ -342,7 +342,7 @@ valstybės
       </g>
     </g>
     <g id="AMK">
-      <a tabindex="0" data-bs-toggle="popover" title="Lietuvos kolegijų direktorių konferencija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Tai konferencija vienijanti visus Lietuvos kolegijų direktorius. <hr> <a href='#lkdk'>Daugiau</a>">
+      <a tabindex="0" data-bs-toggle="popover" title="Lietuvos kolegijų direktorių konferencija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Tai konferencija vienijanti visus Lietuvos kolegijų direktorius. <hr> <a href='/#lkdk'>Daugiau</a>">
           <g>
             <g>
               <rect x="819.5534" y="1613.5332" width="252.9521" height="83.3105" rx="13.5" fill="#fff"/>
@@ -359,7 +359,7 @@ valstybės
         <polygon points="1448.216 1717.206 1495.932 1704.484 1448.249 1691.639 1448.216 1717.206" fill="#bd2835"/>
       </g>
       <polyline points="1071.239 1549.139 1093.789 1549.139 1093.789 1600.964 1232.971 1600.964 1232.971 911.631" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
-      <a tabindex="0" data-bs-toggle="popover" title="Lietuvos universitetų rektorių konferencija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Tai konferencija, vienijanti visus Lietuvos universitetų rektorius. <hr> <a href='#lurk'>Daugiau</a>">
+      <a tabindex="0" data-bs-toggle="popover" title="Lietuvos universitetų rektorių konferencija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Tai konferencija, vienijanti visus Lietuvos universitetų rektorius. <hr> <a href='/#lurk'>Daugiau</a>">
           <g>
             <g>
               <rect x="701.695" y="1489.7178" width="368.834" height="87.5098" rx="13.5" fill="#fff"/>
@@ -381,7 +381,7 @@ valstybės
       </g>
     </g>
     <g id="SAO">
-      <a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#sao'>Daugiau</a>"><rect x="1397.1081" y="1830.002" width="52" height="32" fill="url(#linear-gradient)"/></a>
+      <a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#sao'>Daugiau</a>"><rect x="1397.1081" y="1830.002" width="52" height="32" fill="url(#linear-gradient)"/></a>
       <text transform="matrix(1, -0.0012, 0.0012, 1, 1240.245, 2169.8887)" font-size="14" fill="#fbb01b" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan letter-spacing="-0.0483em">T</tspan><tspan x="7.4922" y="0">eikia siūlymus</tspan></text>
       <g opacity="0.33">
         <g>
@@ -391,7 +391,7 @@ valstybės
         </g>
       </g>
       <g>
-        <a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#sao'>Daugiau</a>">
+        <a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#sao'>Daugiau</a>">
           <g>
             <path d="M1538.448,2449.0147c-18.1094,0-33.9942-14.95-33.9942-31.9941V2098.8213c0-17.0439,15.8848-31.9941,33.9942-31.9941h885.3154a32.03,32.03,0,0,1,31.9941,31.9941v318.1993a32.03,32.03,0,0,1-31.9941,31.9941Z" transform="translate(-151.6524 -124.0127)" fill="#fff"/>
             <path d="M2423.7634,2068.8277a30.028,30.028,0,0,1,29.9941,29.9939v318.1992a30.028,30.028,0,0,1-29.9941,29.9939H1538.448c-17.0436,0-31.9939-14.0159-31.9939-29.9939V2098.8216c0-15.978,14.95-29.9939,31.9939-29.9939h885.3154m0-4H1538.448c-18.7743,0-35.9939,15.22-35.9939,33.9939v318.1992c0,18.7742,17.22,33.9939,35.9939,33.9939h885.3154a33.9941,33.9941,0,0,0,33.9941-33.9939V2098.8216a33.994,33.994,0,0,0-33.9941-33.9939Z" transform="translate(-151.6524 -124.0127)" fill="#333"/>
@@ -401,7 +401,7 @@ valstybės
       </g>
       <g>
         <a tabindex="0" data-bs-toggle="popover" title="Lietuvos studentų sąjunga" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Lietuvos studentų sąjunga yra nacionalinė, demokratinė, nepriklausoma ir nevyriausybinė organizacija,
-        atstovaujanti Lietuvos studentų interesams, jungianti Lietuvos aukštųjų mokyklų Studentų savivaldas. <hr> <a href='#lss'>Daugiau</a>">
+        atstovaujanti Lietuvos studentų interesams, jungianti Lietuvos aukštųjų mokyklų Studentų savivaldas. <hr> <a href='/#lss'>Daugiau</a>">
           <g>
             <rect x="1873.0993" y="2051.6865" width="353.043" height="118.3154" rx="13.5" fill="#fff"/>
             <path d="M2364.2944,2177.2a12.0135,12.0135,0,0,1,12,12v91.3152a12.0135,12.0135,0,0,1-12,12H2038.2517a12.0134,12.0134,0,0,1-12-12V2189.2a12.0134,12.0134,0,0,1,12-12h326.0427m0-3H2038.2517a15,15,0,0,0-15,15v91.3152a15,15,0,0,0,15,15h326.0427a15,15,0,0,0,15-15V2189.2a15,15,0,0,0-15-15Z" transform="translate(-151.6524 -124.0127)" fill="#333"/>
@@ -413,7 +413,7 @@ valstybės
         <a tabindex="0" data-bs-toggle="popover" title="Vilniaus universiteto Studentų atstovybė" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Vilniaus universiteto Studentų atstovybė (VU SA) – seniausia ir didžiausia Lietuvoje visuomeninė, ne
         pelno siekianti, nepolitinė, ekspertinė švietimo organizacija, atstovaujanti studentų interesams
         Vilniaus universitete bei už jo ribų, puoselėjanti universitetinę kultūrą ir kurianti palankiausias
-        sąlygas studentų saviraiškai. <hr> <a href='#vusa'>Daugiau</a>">
+        sąlygas studentų saviraiškai. <hr> <a href='/#vusa'>Daugiau</a>">
           <g>
             <rect x="1409.8073" y="2051.502" width="390" height="118" rx="13.5" fill="#fff"/>
             <path d="M1937.96,2177.0147a12.0134,12.0134,0,0,1,12,12v91a12.0134,12.0134,0,0,1-12,12h-363a12.0135,12.0135,0,0,1-12-12v-91a12.0135,12.0135,0,0,1,12-12h363m0-3h-363a15,15,0,0,0-15,15v91a15,15,0,0,0,15,15h363a15,15,0,0,0,15-15v-91a15,15,0,0,0-15-15Z" transform="translate(-151.6524 -124.0127)" fill="#333"/>
@@ -502,7 +502,7 @@ valstybės
       </g>
     </g>
     <g id="LMT">
-      <a tabindex="0" data-bs-toggle="popover" title="Lietuvos mokslo taryba" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Lietuvos mokslo taryba yra patariamoji institucija Lietuvos Respublikos Seimui ir Vyriausybei mokslo, studijų ir eksperimentinės plėtros politikos klausimais. <hr> <a href='#lmt'>Daugiau</a>">
+      <a tabindex="0" data-bs-toggle="popover" title="Lietuvos mokslo taryba" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Lietuvos mokslo taryba yra patariamoji institucija Lietuvos Respublikos Seimui ir Vyriausybei mokslo, studijų ir eksperimentinės plėtros politikos klausimais. <hr> <a href='/#lmt'>Daugiau</a>">
           <g>
             <g>
               <rect x="485.8517" y="1089.6074" width="610.0981" height="269.3945" rx="13" fill="#fff"/>
@@ -513,7 +513,7 @@ valstybės
           </g>
       </a>
       <polyline points="779.108 1361.002 779.108 1419.502 1233.16 1419.502 1233.16 909.497" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
-      <a tabindex="0" data-bs-toggle="popover" title="Lietuvos mokslo tarybos pirmininkas ir pavaduotojai" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Valdybą sudaro Lietuvos mokslo tarybos pirmininkas ir jo pavaduotojai <hr> <a href='#lmt-pirmininkas-pavaduotojai'>Daugiau</a>">
+      <a tabindex="0" data-bs-toggle="popover" title="Lietuvos mokslo tarybos pirmininkas ir pavaduotojai" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Valdybą sudaro Lietuvos mokslo tarybos pirmininkas ir jo pavaduotojai <hr> <a href='/#lmt-pirmininkas-pavaduotojai'>Daugiau</a>">
         <g>
           <g>
             <rect x="536.5163" y="1247.7109" width="251.6572" height="80.9033" rx="13.5" fill="#fff"/>
@@ -551,7 +551,7 @@ vyriausybės teikimu tvirtina Seimas.">
       </g>
     </g>
     <g id="LRV">
-      <a tabindex="0" data-bs-toggle="popover" title="LR Vyriausybė" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Vyriausybė – tai Lietuvos Respublikos įstatymų vykdomoji valdžia. <hr> <a href='#am-vyriausybe'>Daugiau</a>">
+      <a tabindex="0" data-bs-toggle="popover" title="LR Vyriausybė" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Vyriausybė – tai Lietuvos Respublikos įstatymų vykdomoji valdžia. <hr> <a href='/#am-vyriausybe'>Daugiau</a>">
           <g>
             <g>
               <rect x="1364.0046" y="719.002" width="970.1035" height="373.374" rx="31.9941" fill="#fff"/>
@@ -575,7 +575,7 @@ vyriausybės teikimu tvirtina Seimas.">
           </g>
         </a>
           <a tabindex="0" data-bs-toggle="popover" title="Švietimo, mokslo ir sporto ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="LR valstybės įstaiga, kuri savo veiklos tikslų perspektyvoje formuoja valstybės politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą, o
-          įstatymų nustatytais atvejais – ją ŠMSM ministrui pavestose valdymo srityse. <hr> <a href='#smsm'>Daugiau</a>">
+          įstatymų nustatytais atvejais – ją ŠMSM ministrui pavestose valdymo srityse. <hr> <a href='/#smsm'>Daugiau</a>">
               <g>
                 <g>
                   <rect x="1754.9782" y="863.502" width="520.415" height="183.6416" rx="13.5" fill="#fff"/>
@@ -585,7 +585,7 @@ vyriausybės teikimu tvirtina Seimas.">
                 <image width="337" height="117" transform="translate(1786.1081 877.002) scale(0.6028)" xlink:href="img/AM6.png"/>
               </g>
           </a>
-          <a tabindex="0" data-bs-toggle="popover" title="Kitos ministerijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#vyriausybe'>Eiti į Vyriausybės dalį</a>">
+          <a tabindex="0" data-bs-toggle="popover" title="Kitos ministerijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#vyriausybe'>Eiti į Vyriausybės dalį</a>">
         <g>
           <g>
             <rect x="1450.1218" y="996.4482" width="247.4668" height="51.668" rx="13.5" fill="#fff"/>
@@ -682,7 +682,7 @@ vyriausybės teikimu tvirtina Seimas.">
     </g>
     <g id="Seimas">
       <a tabindex="0" data-bs-toggle="popover" title="LR Seimas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimas – tai Lietuvos Respublikos įstatymų leidžiamoji valdžia. Seimą sudaro 141 Tautos atstovas,
-      išrinktas ketverių metų kadencijai. <hr> <a href='#am-seimas'>Daugiau</a>">
+      išrinktas ketverių metų kadencijai. <hr> <a href='/#am-seimas'>Daugiau</a>">
           <g>
             <g>
               <path d="M160.9313,767.584H1013.95a31.9932,31.9932,0,0,1,31.9932,31.9932v214.792a31.9941,31.9941,0,0,1-31.9941,31.9941H160.9318a31.9941,31.9941,0,0,1-31.9941-31.9941V799.5776A31.9937,31.9937,0,0,1,160.9313,767.584Z" fill="#fff"/>
@@ -694,7 +694,7 @@ vyriausybės teikimu tvirtina Seimas.">
       </a>
       <a tabindex="0" data-bs-toggle="popover" title="Švietimo ir mokslo komitetas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Švietimo ir mokslo komitetas (ŠMK) rengia ir svarsto reglamentuojančius įstatymus, nutarimus bei pasiūlymus,
 susijusius su valstybės švietimo, mokslo, informacinių technologijų, tautos istorinės atminties, valstybinės
-kalbos politikos formavimo klausimais. <hr> <a href='#seimas-smk'>Daugiau</a>">
+kalbos politikos formavimo klausimais. <hr> <a href='/#seimas-smk'>Daugiau</a>">
         <g>
           <g>
             <rect x="592.9606" y="947.6143" width="373.5391" height="51.668" rx="13.5" fill="#fff"/>
