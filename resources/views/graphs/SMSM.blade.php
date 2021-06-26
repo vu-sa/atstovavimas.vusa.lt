@@ -1,7 +1,7 @@
 <svg id="Vyriausybė" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1643 1718.8634">
   <g id="Patarėjai">
     <a tabindex="0" data-bs-toggle="popover" title="Švietimo, mokslo ir sporto ministro patarėjai" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Švietimo, mokslo ir sporto ministro patarėjai – padeda ministrui suformuoti politines nuostatas ir
-prioritetus, priimti sprendimus ir juos įgyvendinti. <hr> <a href='#smsm-patarejai'>Daugiau</a>">
+prioritetus, priimti sprendimus ir juos įgyvendinti. <hr> <a href='/#smsm-patarejai'>Daugiau</a>">
       <g>
         <rect x="844.6348" y="964.9303" width="180.8652" height="47.4331" rx="13.5" fill="#fff"/>
         <path d="M1106,1045.567a12.0136,12.0136,0,0,1,12,12V1078a12.0136,12.0136,0,0,1-12,12H952.1343a12.0136,12.0136,0,0,1-12-12v-20.433a12.0136,12.0136,0,0,1,12-12H1106m0-3H952.1343a15,15,0,0,0-15,15V1078a15,15,0,0,0,15,15H1106a15,15,0,0,0,15-15v-20.433a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
@@ -30,7 +30,7 @@ Lietuvos studentų sąjungos). <hr><a href='smsm-komisijos-ir-darbo-grupes'>Daug
   <g id="ŠMSM_ministras" data-name="ŠMSM ministras">
     <a tabindex="0" data-bs-toggle="popover" title="Švietimo, mokslo ir sporto ministras" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Švietimo, mokslo ir sporto ministras – remiantis LR Vyriausybės įstatymu ir LR Vyriausybės nutarimu „Dėl
 ministrams pavedamų valdymo sričių“, ŠMSM ministras yra atsakingas už švietimo, mokslo bei sporto sritis ir
-vadovauja ministerijai. <hr> <a href='#smsm-ministras'>Daugiau</a>">
+vadovauja ministerijai. <hr> <a href='/#smsm-ministras'>Daugiau</a>">
       <g>
         <rect x="529.6343" y="1036.3634" width="266.8657" height="88" rx="13.5" fill="#fff"/>
         <path d="M877,1117a12.0136,12.0136,0,0,1,12,12v61a12.0136,12.0136,0,0,1-12,12H637.1343a12.0136,12.0136,0,0,1-12-12v-61a12.0136,12.0136,0,0,1,12-12H877m0-3H637.1343a15,15,0,0,0-15,15v61a15,15,0,0,0,15,15H877a15,15,0,0,0,15-15v-61a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
@@ -74,7 +74,7 @@ vadovauja ministerijai. <hr> <a href='#smsm-ministras'>Daugiau</a>">
   </g>
   <g id="Studentai">
     <g>
-      <a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#sao'>Daugiau</a>">
+      <a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#sao'>Daugiau</a>">
         <g>
           <rect x="1.5" y="1032.9303" width="344.2295" height="80.5859" rx="13.5" fill="#fff"/>
           <path d="M426.2294,1113.567a12.0136,12.0136,0,0,1,12,12v53.5856a12.0136,12.0136,0,0,1-12,12H109a12.0136,12.0136,0,0,1-12-12V1125.567a12.0136,12.0136,0,0,1,12-12H426.2294m0-3H109a15,15,0,0,0-15,15v53.5856a15,15,0,0,0,15,15H426.2294a15,15,0,0,0,15-15V1125.567a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
@@ -108,7 +108,7 @@ vadovauja ministerijai. <hr> <a href='#smsm-ministras'>Daugiau</a>">
       <text transform="translate(877.4644 1329.8107)" font-size="30" fill="#111" font-family="Roboto-Bold, Roboto" font-weight="700">Depa<tspan x="68.6865" y="0" letter-spacing="0.0244em">r</tspan><tspan x="80.3613" y="0">tamentai</tspan></text>
     </a>
     <g>
-      <a tabindex="0" data-bs-toggle="popover" title="Bendrojo ugdymo departamentas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#smsm-bendrojo-ugdymo-departamentas'>Veiklos sritys</a>">
+      <a tabindex="0" data-bs-toggle="popover" title="Bendrojo ugdymo departamentas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#smsm-bendrojo-ugdymo-departamentas'>Veiklos sritys</a>">
         <g>
           <rect x="407.4048" y="1371.9308" width="321.3247" height="80.585" rx="13.5" fill="#fff"/>
           <path d="M809.2294,1452.567a12.0136,12.0136,0,0,1,12,12v53.5856a12.0136,12.0136,0,0,1-12,12H514.9049a12.0136,12.0136,0,0,1-12-12V1464.567a12.0136,12.0136,0,0,1,12-12H809.2294m0-3H514.9049a15,15,0,0,0-15,15v53.5856a15,15,0,0,0,15,15H809.2294a15,15,0,0,0,15-15V1464.567a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
@@ -117,7 +117,7 @@ vadovauja ministerijai. <hr> <a href='#smsm-ministras'>Daugiau</a>">
       </a>
     </g>
     <g>
-      <a tabindex="0" data-bs-toggle="popover" title="Švietimo kokybės ir regioninės politikos departamentas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#smsm-svietimo-kokybes-ir-regionines-pletros-departamentas'>Veiklos sritys</a>">
+      <a tabindex="0" data-bs-toggle="popover" title="Švietimo kokybės ir regioninės politikos departamentas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#smsm-svietimo-kokybes-ir-regionines-pletros-departamentas'>Veiklos sritys</a>">
         <g>
           <rect x="1152.6348" y="1490.9308" width="388.8652" height="80.585" rx="13.5" fill="#fff"/>
           <path d="M1622,1571.567a12.0136,12.0136,0,0,1,12,12v53.5856a12.0136,12.0136,0,0,1-12,12H1260.1343a12.0136,12.0136,0,0,1-12-12V1583.567a12.0136,12.0136,0,0,1,12-12H1622m0-3H1260.1343a15,15,0,0,0-15,15v53.5856a15,15,0,0,0,15,15H1622a15,15,0,0,0,15-15V1583.567a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
@@ -126,7 +126,7 @@ vadovauja ministerijai. <hr> <a href='#smsm-ministras'>Daugiau</a>">
       </a>
     </g>
     <g>
-      <a tabindex="0" data-bs-toggle="popover" title="Ekonomikos departamentas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#ekonomikos-departamentas'>Veiklos sritys</a>">
+      <a tabindex="0" data-bs-toggle="popover" title="Ekonomikos departamentas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#ekonomikos-departamentas'>Veiklos sritys</a>">
         <g>
           <rect x="810.6348" y="1371.9308" width="267.8652" height="80.585" rx="13.5" fill="#fff"/>
           <path d="M1159,1452.567a12.0136,12.0136,0,0,1,12,12v53.5856a12.0136,12.0136,0,0,1-12,12H918.1343a12.0136,12.0136,0,0,1-12-12V1464.567a12.0136,12.0136,0,0,1,12-12H1159m0-3H918.1343a15,15,0,0,0-15,15v53.5856a15,15,0,0,0,15,15H1159a15,15,0,0,0,15-15V1464.567a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
@@ -135,7 +135,7 @@ vadovauja ministerijai. <hr> <a href='#smsm-ministras'>Daugiau</a>">
       </>
     </g>
     <g>
-      <a tabindex="0" data-bs-toggle="popover" title="Studijų, mokslo ir technologijų departamentas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#studiju-mokslo-ir-technologiju-departamentas'>Veiklos sritys</a>">
+      <a tabindex="0" data-bs-toggle="popover" title="Studijų, mokslo ir technologijų departamentas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#studiju-mokslo-ir-technologiju-departamentas'>Veiklos sritys</a>">
         <g>
           <rect x="758.1348" y="1490.9308" width="360.8652" height="80.585" rx="13.5" fill="#fff"/>
           <path d="M1199.5,1571.567a12.0136,12.0136,0,0,1,12,12v53.5856a12.0136,12.0136,0,0,1-12,12H865.6343a12.0136,12.0136,0,0,1-12-12V1583.567a12.0136,12.0136,0,0,1,12-12H1199.5m0-3H865.6343a15,15,0,0,0-15,15v53.5856a15,15,0,0,0,15,15H1199.5a15,15,0,0,0,15-15V1583.567a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
@@ -144,7 +144,7 @@ vadovauja ministerijai. <hr> <a href='#smsm-ministras'>Daugiau</a>">
       </a>
     </g>
     <g>
-      <a tabindex="0" data-bs-toggle="popover" title="Tarptautinio bendradarbiavimo ir Europos integracijos departamentas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#tarpt-bendr-ir-europos-integracijos-departamentas'>Veiklos sritys</a>">
+      <a tabindex="0" data-bs-toggle="popover" title="Tarptautinio bendradarbiavimo ir Europos integracijos departamentas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#tarpt-bendr-ir-europos-integracijos-departamentas'>Veiklos sritys</a>">
         <g>
           <rect x="487.4048" y="1599.9308" width="502.8657" height="81.4326" rx="13.5" fill="#fff"/>
           <path d="M1070.7706,1680.567a12.0135,12.0135,0,0,1,12,12V1747a12.0135,12.0135,0,0,1-12,12H594.9049a12.0135,12.0135,0,0,1-12-12v-54.433a12.0135,12.0135,0,0,1,12-12h475.8657m0-3H594.9049a15,15,0,0,0-15,15V1747a15,15,0,0,0,15,15h475.8657a15,15,0,0,0,15-15v-54.433a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
@@ -153,7 +153,7 @@ vadovauja ministerijai. <hr> <a href='#smsm-ministras'>Daugiau</a>">
       </a>
     </g>
     <g>
-      <a tabindex="0" data-bs-toggle="popover" title="Europos Sąjungos paramos koordinavimo departamentas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#ES-paramos-koordinavimo-departamentas'>Veiklos sritys</a>">
+      <a tabindex="0" data-bs-toggle="popover" title="Europos Sąjungos paramos koordinavimo departamentas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#ES-paramos-koordinavimo-departamentas'>Veiklos sritys</a>">
         <g>
           <rect x="1173.6348" y="1371.9308" width="346.8652" height="80.585" rx="13.5" fill="#fff"/>
           <path d="M1601,1452.567a12.0136,12.0136,0,0,1,12,12v53.5856a12.0136,12.0136,0,0,1-12,12H1281.1343a12.0136,12.0136,0,0,1-12-12V1464.567a12.0136,12.0136,0,0,1,12-12H1601m0-3H1281.1343a15,15,0,0,0-15,15v53.5856a15,15,0,0,0,15,15H1601a15,15,0,0,0,15-15V1464.567a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
@@ -162,7 +162,7 @@ vadovauja ministerijai. <hr> <a href='#smsm-ministras'>Daugiau</a>">
       </a>
     </g>
     <g>
-      <a tabindex="0" data-bs-toggle="popover" title="Teisės ir administravimo departamentas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#teises-ir-administravimo-departamentas'>Veiklos sritys</a>">
+      <a tabindex="0" data-bs-toggle="popover" title="Teisės ir administravimo departamentas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#teises-ir-administravimo-departamentas'>Veiklos sritys</a>">
         <g>
           <rect x="1029.6348" y="1599.9308" width="360.8652" height="80.585" rx="13.5" fill="#fff"/>
           <path d="M1471,1680.567a12.0136,12.0136,0,0,1,12,12v53.5856a12.0136,12.0136,0,0,1-12,12H1137.1343a12.0136,12.0136,0,0,1-12-12V1692.567a12.0136,12.0136,0,0,1,12-12H1471m0-3H1137.1343a15,15,0,0,0-15,15v53.5856a15,15,0,0,0,15,15H1471a15,15,0,0,0,15-15V1692.567a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
@@ -171,7 +171,7 @@ vadovauja ministerijai. <hr> <a href='#smsm-ministras'>Daugiau</a>">
       </a>
     </g>
     <g>
-      <a tabindex="0" data-bs-toggle="popover" title="Mokymosi visą gyvenimą departamentas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#mokymosi-visa-gyvenima-departamentas'>Veiklos sritys</a>">
+      <a tabindex="0" data-bs-toggle="popover" title="Mokymosi visą gyvenimą departamentas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#mokymosi-visa-gyvenima-departamentas'>Veiklos sritys</a>">
         <g>
           <rect x="397.4048" y="1490.9308" width="334.8657" height="80.585" rx="13.5" fill="#fff"/>
           <path d="M812.7706,1571.567a12.0136,12.0136,0,0,1,12,12v53.5856a12.0136,12.0136,0,0,1-12,12H504.9049a12.0136,12.0136,0,0,1-12-12V1583.567a12.0136,12.0136,0,0,1,12-12H812.7706m0-3H504.9049a15,15,0,0,0-15,15v53.5856a15,15,0,0,0,15,15H812.7706a15,15,0,0,0,15-15V1583.567a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
@@ -182,7 +182,7 @@ vadovauja ministerijai. <hr> <a href='#smsm-ministras'>Daugiau</a>">
   </g>
   <g id="ŠMSM_viceministrai" data-name="ŠMSM viceministrai">
     <a tabindex="0" data-bs-toggle="popover" title="Švietimo, mokslo ir sporto viceministrai" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Švietimo, mokslo ir sporto viceministrai – viceministrai ŠMSM ministro nustatytose veiklos srityse atlieka
-Vyriausybės įstatyme nustatytas funkcijas. <hr> <a href='#smsm-viceministrai'>Daugiau</a>">
+Vyriausybės įstatyme nustatytas funkcijas. <hr> <a href='/#smsm-viceministrai'>Daugiau</a>">
       <g>
         <g>
           <rect x="844.6343" y="1158.9303" width="266.8657" height="47.4331" rx="13.5" fill="#fff"/>
@@ -201,7 +201,7 @@ Vyriausybės įstatyme nustatytas funkcijas. <hr> <a href='#smsm-viceministrai'>
     <text transform="translate(999.7606 1245.6583)" font-size="20" fill="#bd2835" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan letter-spacing="-0.0225em">V</tspan><tspan x="11.9922" y="0">ad</tspan><tspan x="33.6816" y="0" letter-spacing="-0.0073em">ov</tspan><tspan x="54.043" y="0">auja</tspan></text>
   </g>
   <g id="Pavaldžios_institucijos" data-name="Pavaldžios institucijos">
-    <a tabindex="0" data-bs-toggle="popover" title="ŠMSM pavaldžios institucijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#smsm-pavaldzios-institucijos'>Daugiau</a>">
+    <a tabindex="0" data-bs-toggle="popover" title="ŠMSM pavaldžios institucijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#smsm-pavaldzios-institucijos'>Daugiau</a>">
       <g>
         <path d="M396.9942,2H1564.0064A31.9937,31.9937,0,0,1,1596,33.9938V858.8082a31.9941,31.9941,0,0,1-31.9941,31.9941H396.9942A31.9941,31.9941,0,0,1,365,858.8082V33.9943A31.9941,31.9941,0,0,1,396.9942,2Z" fill="#fff"/>
         <path d="M1658.006,83.1366A30.028,30.028,0,0,1,1688,113.1306V937.9453a30.0281,30.0281,0,0,1-29.994,29.994H490.994A30.0281,30.0281,0,0,1,461,937.9453V113.1306a30.028,30.028,0,0,1,29.994-29.994H1658.006m0-4H490.994A33.9941,33.9941,0,0,0,457,113.1306V937.9453a33.9941,33.9941,0,0,0,33.994,33.994H1658.006A33.9941,33.9941,0,0,0,1692,937.9453V113.1306a33.9941,33.9941,0,0,0-33.994-33.994Z" transform="translate(-94 -79.1366)" fill="#333"/>
@@ -221,7 +221,7 @@ pradinio, pagrindinio, vidurinio ir papildomo ugdymo programas, orientuota į u�
     <g id="ESFA">
       <a tabindex="0" data-bs-toggle="popover" title="Europos socialinio fondo agentūra (ESFA)" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Europos socialinio fondo agentūra (ESFA) – Agentūra siekia pagerinti galimybes įsidarbinti padedant jauniems
 žmonėms baigus mokyklą integruotis į darbo rinką arba apmokant mažiau kvalifikuotus darbo ieškančius
-asmenis. <hr><a href='#esfa'>Daugiau</a>">
+asmenis. <hr><a href='/#esfa'>Daugiau</a>">
         <g>
           <rect x="412" y="132.6105" width="371" height="145.5903" rx="13.5" fill="#fff"/>
           <path d="M863.5,213.2472a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12h-344a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12h344m0-3h-344a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15h344a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
@@ -232,7 +232,7 @@ asmenis. <hr><a href='#esfa'>Daugiau</a>">
     <g id="KPMPC">
       <a tabindex="0" data-bs-toggle="popover" title="Kvalifikacijų ir profesinio mokymo plėtros centras" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Kvalifikacijų ir profesinio mokymo plėtros centras – švietimo pagalbos įstaiga, teikianti informacinę,
 ekspertinę, konsultacinę ir kvalifikacijos tobulinimo pagalbą, įgyvendinanti valstybinę profesinio mokymo ir
-mokymosi visą gyvenimą sistemų plėtros politiką. <hr> <a href='#kpmpc'>Daugiau</a>">
+mokymosi visą gyvenimą sistemų plėtros politiką. <hr> <a href='/#kpmpc'>Daugiau</a>">
         <g>
           <rect x="819.9268" y="132.6105" width="355.0889" height="145.5903" rx="13.5" fill="#fff"/>
           <path d="M1255.5156,213.2472a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12H927.4266a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12h328.089m0-3H927.4266a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15h328.089a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
@@ -282,7 +282,7 @@ bei tarptautinius renginius vaikams ir jaunimui. <hr><a target='_blank' href='ht
       <a tabindex="0" data-bs-toggle="popover" title="Nacionalinė švietimo agentūra (NŠA)" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Nacionalinė švietimo agentūra dalyvauja įgyvendinant valstybinę ikimokyklinio, priešmokyklinio, bendrojo
 ugdymo politiką, skatina švietimo įstaigas (išskyrus aukštąsias mokyklas), kitus švietimo teikėjus
 užtikrinti švietimo veiklos kokybę, teikiant informacinę, konsultacinę, kvalifikacijos tobulinimo,
-ugdymo(si) aplinkos kūrimo pagalbą. <hr><a href='#nsa'>Daugiau</a>">
+ugdymo(si) aplinkos kūrimo pagalbą. <hr><a href='/#nsa'>Daugiau</a>">
         <g>
           <rect x="412" y="518.944" width="371" height="145.5898" rx="13.5" fill="#fff"/>
           <path d="M863.5,599.5805a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12h-344a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12h344m0-3h-344a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15h344a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
@@ -305,7 +305,7 @@ specialistus. <hr><a target='_blank' href='https://www.nvi.lt/'>Daugiau</a>">
     </g>
     <g id="SKVC">
       <a tabindex="0" data-bs-toggle="popover" title="Studijų kokybės vertinimo centras" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Studijų kokybės vertinimo centras (SKVC), tai LR valstybės biudžetinė įstaiga, įgyvendinanti aukštojo mokslo
-kokybės priežiūros politiką ir prisidedanti gerinant laisvo asmenų judėjimo sąlygas. <hr><a href='#smsm-skvc'>Daugiau</a>">
+kokybės priežiūros politiką ir prisidedanti gerinant laisvo asmenų judėjimo sąlygas. <hr><a href='/#smsm-skvc'>Daugiau</a>">
         <g>
           <rect x="818.5537" y="518.944" width="357.835" height="145.5898" rx="13.5" fill="#fff"/>
           <path d="M1256.8884,599.5805a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12H926.0538a12.0136,12.0136,0,0,1-12-12v-118.59a12.0136,12.0136,0,0,1,12-12h330.8346m0-3H926.0538a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15h330.8346a15,15,0,0,0,15-15v-118.59a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>
@@ -329,7 +329,7 @@ iniciatyvas švietimo ir mokymo srityje.  <hr><a target='_blank' href='https://w
       <a tabindex="0" data-bs-toggle="popover" title="Valstybinis studijų fondas (VSF)" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Valstybinis studijų fondas (VSF) – biudžetinė įstaiga, administruojanti valstybės paskolas, valstybės
 remiamas paskolas studentams ir mokiniams, kurie mokosi pagal formaliojo profesinio mokymo programas, kitą
 finansinę paramą studentams ir profesiniam mokymui vykdyti, lėšas studentų pilietiniams, moksliniams,
-verslumo, kūrybiniams ir sportiniams projektams vykdyti. <hr><a href='#smsm-vsf'>Daugiau</a>">
+verslumo, kūrybiniams ir sportiniams projektams vykdyti. <hr><a href='/#smsm-vsf'>Daugiau</a>">
         <g>
           <rect x="628.4141" y="702.5192" width="339.5859" height="145.5903" rx="13.5" fill="#fff"/>
           <path d="M1048.5,783.156a12.0136,12.0136,0,0,1,12,12v118.59a12.0136,12.0136,0,0,1-12,12H735.9139a12.0136,12.0136,0,0,1-12-12V795.156a12.0136,12.0136,0,0,1,12-12H1048.5m0-3H735.9139a15,15,0,0,0-15,15v118.59a15,15,0,0,0,15,15H1048.5a15,15,0,0,0,15-15V795.156a15,15,0,0,0-15-15Z" transform="translate(-94 -79.1366)" fill="#333"/>

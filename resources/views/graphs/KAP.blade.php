@@ -60,7 +60,7 @@ title="KAP vadovas"
 data-bs-html="true" 
 role="button" 
 data-bs-trigger="focus" 
-data-bs-content="VU KAP vadovas yra renkamas KAP Tarybos 5 metams ir atsako už vadovavimą KAP.<hr> <a href='#vu-kap-vadovas'>Daugiau</a>">
+data-bs-content="VU KAP vadovas yra renkamas KAP Tarybos 5 metams ir atsako už vadovavimą KAP.<hr> <a href='/#vu-kap-vadovas'>Daugiau</a>">
 			<g>
 				<path fill="#FFFFFF" d="M1403.485,459.5c-7.444,0-13.5-6.056-13.5-13.5v-26.249c0-7.444,6.056-13.5,13.5-13.5H1619
 					c7.444,0,13.5,6.056,13.5,13.5V446c0,7.444-6.056,13.5-13.5,13.5H1403.485z"/>
@@ -119,7 +119,7 @@ title="ŠAP vadovas"
 data-bs-html="true" 
 role="button" 
 data-bs-trigger="focus" 
-data-bs-content="ŠAP vadovas atsako už vadovavimą ŠAP, ŠAP veiklos plano parengimą ir įgyvendinimą.<hr> <a href='#vu-sap-vadovas'>Daugiau</a>">
+data-bs-content="ŠAP vadovas atsako už vadovavimą ŠAP, ŠAP veiklos plano parengimą ir įgyvendinimą.<hr> <a href='/#vu-sap-vadovas'>Daugiau</a>">
 			<g>
 				<path fill="#FFFFFF" d="M1403.485,317.984c-7.444,0-13.5-6.056-13.5-13.5v-26.248c0-7.444,6.056-13.5,13.5-13.5H1619
 					c7.444,0,13.5,6.056,13.5,13.5v26.248c0,7.444-6.056,13.5-13.5,13.5H1403.485z"/>
@@ -296,7 +296,7 @@ data-bs-html="true"
 role="button" 
 data-bs-trigger="focus" 
 data-bs-content="Studijų programų komitetai (toliau – SPK) studijų programų valdymo dariniai, atsakingi už studijų
-programų kokybę bei jų siekinių įgyvendinimą.<hr> <a href='#studiju-programu-komitetai'>Daugiau</a>">
+programų kokybę bei jų siekinių įgyvendinimą.<hr> <a href='/#studiju-programu-komitetai'>Daugiau</a>">
 			<g>
 				<path fill="#FFFFFF" d="M726.5,699.652c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h152.729
 					c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H726.5z"/>
@@ -332,7 +332,7 @@ data-bs-html="true"
 role="button" 
 data-bs-trigger="focus" 
 data-bs-content="Vykdo dėstytojų ir mokslo darbuotojų konkursą pareigoms eiti bei jų atestavimą – sprendžia dėstytojų
-priėmimo ir sutarčių su Universitetu pratęsimo klausimus.<hr> <a href='#vu-kap-pak'>Daugiau</a>">
+priėmimo ir sutarčių su Universitetu pratęsimo klausimus.<hr> <a href='/#vu-kap-pak'>Daugiau</a>">
 			<g>
 				<path fill="#FFFFFF" d="M190.5,709.653c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h152.729
 					c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H190.5z"/>
@@ -377,7 +377,7 @@ title="VU KAP ginčų nagrinėjimo komisija"
 data-bs-html="true" 
 role="button" 
 data-bs-trigger="Komisija nagrinėja pareiškimus dėl ginčų, susijusių su mokslo ir studijų veikla, tarp Padalinio vykdomus
-studijų dalykus (modulius) studijuojančiųjų ir kitų bendruomenės narių, dirbančių Padalinyje.<hr> <a href='#vu-kap-gnk'>Daugiau</a>">
+studijų dalykus (modulius) studijuojančiųjų ir kitų bendruomenės narių, dirbančių Padalinyje.<hr> <a href='/#vu-kap-gnk'>Daugiau</a>">
 		<g>
 			<g>
 				<path fill="#FFFFFF" d="M190.5,591.653c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h152.729
@@ -399,7 +399,7 @@ title="VU KAP taryba"
 data-bs-html="true" 
 role="button" 
 data-bs-trigger="focus" 
-data-bs-content="VU KAP Taryba – kolegialus VU KAP valdymo organas, renkamas 4 metams.<hr> <a href='#vu-taryba'>Daugiau</a>">
+data-bs-content="VU KAP Taryba – kolegialus VU KAP valdymo organas, renkamas 4 metams.<hr> <a href='/#vu-taryba'>Daugiau</a>">
 		<g>
 			<g>
 				<path fill="#FFFFFF" d="M615.5,473.653c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h212.729

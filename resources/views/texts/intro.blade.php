@@ -40,4 +40,4 @@
         atsiskaityti studentams.</p>
 </section>
 
-<img class="img-fluid" src="/img/main/image007.png">
+<img class="img-fluid" src="/img/main/image007.jpg">

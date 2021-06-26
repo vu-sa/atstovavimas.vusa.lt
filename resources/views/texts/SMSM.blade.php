@@ -108,7 +108,7 @@
                 čia</a> </p>
     </section>
 
-    <img class="img-fluid" src="/img/main/image050.png">
+    <img class="img-fluid" src="/img/main/image050.jpg">
 
     <section id="smsm-departamentai">
         <h3>ŠMSM departamentai</h3>

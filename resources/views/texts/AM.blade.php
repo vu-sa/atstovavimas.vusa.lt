@@ -69,7 +69,7 @@
                 veiklą</a></p>
     </section>
 
-    <img class="img-fluid" src="/img/main/image013.png">
+    <img class="img-fluid" src="/img/main/image013.jpg">
 
     <section id="am-smsm">
         <h3>Švietimo, mokslo ir sporto ministerija</h3>

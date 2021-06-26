@@ -44,7 +44,7 @@
 	  </g>
 	</g>
 	<g id="Komisijos">
-		<a tabindex="0" data-bs-toggle="popover" title="Komisijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimas įstatymams nagrinėti ir kitiems klausimams spręsti sudaro komisijas. <hr> <a href='#seimo-komisijos'>Daugiau</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Komisijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimas įstatymams nagrinėti ir kitiems klausimams spręsti sudaro komisijas. <hr> <a href='/#seimo-komisijos'>Daugiau</a>">
 	  	<g>
 			<g>
 			  <path d="M530.879,1062.4093H788.73a13.5,13.5,0,0,1,13.5,13.5v24.668a13.5,13.5,0,0,1-13.5,13.5h-257.85a13.5,13.5,0,0,1-13.5-13.5v-24.6685A13.5,13.5,0,0,1,530.879,1062.4093Z" fill="#fff"/>
@@ -55,7 +55,7 @@
 	  </a>
 	</g>
 	<g id="Laikinosios_darbo_grupės" data-name="Laikinosios darbo grupės">
-		<a tabindex="0" data-bs-toggle="popover" title="Laikinosios darbo grupės" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Konkretiems klausimams spręsti Seimo nariai (mažiausiai penki) gali jungtis į laikinąsias darbo grupes. <hr> <a href='#https://www.lrs.lt/sip/portal.show?p_r=38270&p_k=1'>Daugiau</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Laikinosios darbo grupės" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Konkretiems klausimams spręsti Seimo nariai (mažiausiai penki) gali jungtis į laikinąsias darbo grupes. <hr> <a href='/#https://www.lrs.lt/sip/portal.show?p_r=38270&p_k=1'>Daugiau</a>">
 	  	<g>
 			<g>
 			  <rect x="523.1445" y="794.5566" width="279.085" height="83.5859" rx="13.5" fill="#fff"/>
@@ -67,7 +67,7 @@
 	</g>
 	<g id="Studentai">
 	  <g>
-		<a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#sao'>Daugiau</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#sao'>Daugiau</a>">
 			<g>
 			  <rect x="1.5" y="795.6221" width="339.7295" height="80.585" rx="13.5" fill="#fff"/>
 			  <path d="M548.2294,936.567a12.0136,12.0136,0,0,1,12,12v53.5856a12.0136,12.0136,0,0,1-12,12H235.5a12.0136,12.0136,0,0,1-12-12V948.567a12.0136,12.0136,0,0,1,12-12H548.2294m0-3H235.5a15,15,0,0,0-15,15v53.5856a15,15,0,0,0,15,15H548.2294a15,15,0,0,0,15-15V948.567a15,15,0,0,0-15-15Z" transform="translate(-220.5 -139.4453)" fill="#333"/>
@@ -106,7 +106,7 @@
 	<g id="LRS_frakcijų_sueiga" data-name="LRS frakcijų sueiga">
 	  <rect x="885.1607" y="449.9277" width="52" height="32" fill="url(#linear-gradient)"/>
 	  <a tabindex="0" data-bs-toggle="popover" title="Seniūnų sueiga" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seime veikia Seniūnų sueiga, į kurią įeina Seimo valdybos nariai ir frakcijų atstovai, kurių skaičius
-proporcingas frakcijų narių skaičiui. <hr> <a href='#seniunu-sueiga'>Daugiau</a>">
+proporcingas frakcijų narių skaičiui. <hr> <a href='/#seniunu-sueiga'>Daugiau</a>">
 	  	<g>
 			<g>
 			  <rect x="1114.9766" y="649.189" width="282.8457" height="80.5854" rx="13.5" fill="#fff"/>
@@ -248,7 +248,7 @@ ministras pirmininkas, Seimo paskirti ketverių metų kadencijai. <hr> <a target
 	</g>
 	<g id="LRS_valdyba" data-name="LRS valdyba">
 		<a tabindex="0" data-bs-toggle="popover" title="Seimo valdyba" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimo valdybą sudaro Seimo Pirmininkas, jo pavaduotojai ir Seimo opozicijos lyderis. Valdyba sprendžia
-		organizacinius Seimo darbo klausimus ir teikia patarimus Seimo Pirmininkui. <hr> <a href='#seimo-valdyba'>Daugiau</a>">
+		organizacinius Seimo darbo klausimus ir teikia patarimus Seimo Pirmininkui. <hr> <a href='/#seimo-valdyba'>Daugiau</a>">
 	  	<g>
 			<g>
 			  <rect x="1509.8652" y="531.8291" width="282.8457" height="51.6685" rx="13.5" fill="#fff"/>
@@ -267,7 +267,7 @@ ministras pirmininkas, Seimo paskirti ketverių metų kadencijai. <hr> <a target
 	  <text transform="translate(1467.3914 540.7898)" font-size="16" fill="#bd2835" font-family="Roboto-Italic, Roboto" font-style="italic">Įeina</text>
 	</g>
 	<g id="Seimo_nariai" data-name="Seimo nariai">
-		<a tabindex="0" data-bs-toggle="popover" title="Seimo nariai" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimo nariais tampa 141 demokratiškuose rinkimuose išrinkti Lietuvos piliečiai. <hr> <a target='_blank' href='#seimo-nariai'>Daugiau</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Seimo nariai" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimo nariais tampa 141 demokratiškuose rinkimuose išrinkti Lietuvos piliečiai. <hr> <a target='_blank' href='/#seimo-nariai'>Daugiau</a>">
 	  	<g>
 			<g>
 			  <rect x="524.1446" y="487.6218" width="282.8457" height="51.668" rx="13.5" fill="#fff"/>
@@ -313,7 +313,7 @@ ministras pirmininkas, Seimo paskirti ketverių metų kadencijai. <hr> <a target
 	<g id="LRS_frakcijos" data-name="LRS frakcijos">
 	  <rect x="895.1607" y="548.9772" width="32" height="52" fill="url(#linear-gradient-2)"/>
 	  <a tabindex="0" data-bs-toggle="popover" title="Frakcijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimo nariai pagal politines partijas ar vertybines nuostatas gali jungtis į frakcijas sudarytas iš ne mažiau
-kaip 7 narių, kuriose siekia politinių tikslų įgyvendinimo. <hr> <a href='#seimo-frakcijos'>Daugiau</a>">
+kaip 7 narių, kuriose siekia politinių tikslų įgyvendinimo. <hr> <a href='/#seimo-frakcijos'>Daugiau</a>">
 	  	<g>
 			<g>
 			  <rect x="524.1445" y="649.5688" width="282.8457" height="51.668" rx="13.5" fill="#fff"/>
@@ -401,7 +401,7 @@ kaip 7 narių, kuriose siekia politinių tikslų įgyvendinimo. <hr> <a href='#s
 	</g>
 	<g id="Komitetai">
 		<a tabindex="0" data-bs-toggle="popover" title="Komitetai" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimas įstatymams nagrinėti ir kitiems klausimams spręsti sudaro komitetus. Komitetai svarbiausioms veiklos
-		kryptims iš savo narių gali sudaryti pakomitečius. <hr> <a href='#seimo-komitetai'>Daugiau</a>">
+		kryptims iš savo narių gali sudaryti pakomitečius. <hr> <a href='/#seimo-komitetai'>Daugiau</a>">
 	  	<g>
 			<g>
 			  <rect x="521.2617" y="941.4629" width="280.9678" height="51.668" rx="13.5" fill="#fff"/>

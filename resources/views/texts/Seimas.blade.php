@@ -151,6 +151,6 @@
         <p>Išsamiau galite susipažinti <a target="_blank" href="https://www.lrs.lt/sip/portal.show?p_r=35381&p_k=1">čia</a></p>
     </section>
 
-    <img class="img-fluid" src="/img/main/image036.png">
+    <img class="img-fluid" src="/img/main/image036.jpg">
 
 </section>

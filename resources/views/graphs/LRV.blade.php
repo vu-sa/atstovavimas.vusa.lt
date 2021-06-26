@@ -22,7 +22,7 @@
 	</defs>
 	<g id="Ministerijos">
 		<a tabindex="0" data-bs-toggle="popover" title="Lietuvos Respublikos ministerijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Ministerija steigiama formuoti valstybės politiką ir koordinuoti jos įgyvendinimą ministrui pavestose
-		srityse. <hr> <a href='#lrv-ministerijos'>Daugiau</a>">
+		srityse. <hr> <a href='/#lrv-ministerijos'>Daugiau</a>">
 	  	<g>
 			<rect x="301" y="1.9999" width="1680" height="901.2959" rx="31.9941" fill="#fff"/>
 			<path d="M2046.6818,138.7472a30.0279,30.0279,0,0,1,29.9939,29.9939V1006.049a30.0279,30.0279,0,0,1-29.9939,29.9939H430.67a30.0279,30.0279,0,0,1-29.9939-29.9939V168.7411A30.0279,30.0279,0,0,1,430.67,138.7472H2046.6818m0-4H430.67a33.9939,33.9939,0,0,0-33.9939,33.9939V1006.049a33.9939,33.9939,0,0,0,33.9939,33.9939H2046.6818a33.9939,33.9939,0,0,0,33.9939-33.9939V168.7411a33.9939,33.9939,0,0,0-33.9939-33.9939Z" transform="translate(-97.6757 -134.7472)" fill="#333"/>
@@ -31,7 +31,7 @@
 	  <text transform="translate(976.7606 963.2324)" font-size="20" fill="#faaf1b" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan letter-spacing="-0.0483em">T</tspan><tspan x="10.7031" y="0">eikia siūlymus,</tspan><tspan x="0" y="24">iš</tspan><tspan x="14.9023" y="24" letter-spacing="-0.0073em">v</tspan><tspan x="24.248" y="24">adas</tspan></text>
 	  <text transform="translate(1006.3076 95.5888)" font-size="50" fill="#111" font-family="Roboto-Black, Roboto" font-weight="800">Ministerijos</text>
 	  <g id="ŽUM">
-		<a tabindex="0" data-bs-toggle="popover" title="Žemės ūkio ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#zemes-ukio-ministerija'>Veiklos sritys</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Žemės ūkio ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#zemes-ukio-ministerija'>Veiklos sritys</a>">
 			<g>
 			  <g>
 				<rect x="1170.0713" y="704.4999" width="334.0957" height="145.5903" rx="13.5" fill="#fff"/>
@@ -42,7 +42,7 @@
 		</a>
 	  </g>
 	  <g id="Vidaus">
-		<a tabindex="0" data-bs-toggle="popover" title="Vidaus reikalų ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#vidaus-reikalu-ministerija'>Veiklos sritys</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Vidaus reikalų ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#vidaus-reikalu-ministerija'>Veiklos sritys</a>">
 			<g>
 			  <g>
 				<rect x="777.7383" y="704.4999" width="334.0947" height="145.5903" rx="13.5" fill="#fff"/>
@@ -53,7 +53,7 @@
 		</a>
 	  </g>
 	  <g id="URM">
-		<a tabindex="0" data-bs-toggle="popover" title="Užsienio reikalų ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#uzsienio-reikalu-ministerija'>Veiklos sritys</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Užsienio reikalų ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#uzsienio-reikalu-ministerija'>Veiklos sritys</a>">
 			<g>
 			  <g>
 				<rect x="1562.4053" y="521.9999" width="334.0947" height="145.5903" rx="13.5" fill="#fff"/>
@@ -65,7 +65,7 @@
 		</a>
 	  </g>
 	  <g id="Teisingumo">
-		<a tabindex="0" data-bs-toggle="popover" title="Teisingumo ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#teisingumo-ministerija'>Veiklos sritys</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Teisingumo ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#teisingumo-ministerija'>Veiklos sritys</a>">
 			<g>
 			  <g>
 				<rect x="1170.0713" y="521.9999" width="334.0957" height="145.5903" rx="13.5" fill="#fff"/>
@@ -76,7 +76,7 @@
 		</a>
 	  </g>
 	  <g id="ŠMSM">
-		<a tabindex="0" data-bs-toggle="popover" title="Švietimo, mokslo ir sporto ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#lrv-smsm'>Veiklos sritys</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Švietimo, mokslo ir sporto ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#lrv-smsm'>Veiklos sritys</a>">
 			<g>
 			  <g>
 				<rect x="777.7383" y="521.9999" width="334.0947" height="145.5903" rx="13.5" fill="#fff"/>
@@ -87,7 +87,7 @@
 		</a>
 	  </g>
 	  <g id="SAM">
-		<a tabindex="0" data-bs-toggle="popover" title="Sveikatos apsaugos ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#sveikatos-apsaugos-ministerija'>Veiklos sritys</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Sveikatos apsaugos ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#sveikatos-apsaugos-ministerija'>Veiklos sritys</a>">
 			<g>
 			  <g>
 				<rect x="385.4048" y="521.9999" width="334.0952" height="145.5903" rx="13.5" fill="#fff"/>
@@ -98,7 +98,7 @@
 		</a>
 	  </g>
 	  <g id="Susisiekimo">
-		<a tabindex="0" data-bs-toggle="popover" title="Susisiekimo ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#susisiekimo-ministerija'>Veiklos sritys</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Susisiekimo ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#susisiekimo-ministerija'>Veiklos sritys</a>">
 			<g>
 			  <g>
 				<rect x="1562.4053" y="337.7499" width="334.0947" height="145.5903" rx="13.5" fill="#fff"/>
@@ -109,7 +109,7 @@
 		</a>
 	  </g>
 	  <g id="SADM">
-		<a tabindex="0" data-bs-toggle="popover" title="Socialinės apsaugos ir darbo ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#socialines-apsaugos-ir-darbo-ministerija'>Veiklos sritys</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Socialinės apsaugos ir darbo ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#socialines-apsaugos-ir-darbo-ministerija'>Veiklos sritys</a>">
 			<g>
 			  <g>
 				<rect x="1170.0713" y="337.7499" width="334.0957" height="145.5903" rx="13.5" fill="#fff"/>
@@ -120,7 +120,7 @@
 		</a>
 	  </g>
 	  <g id="Kultūros">
-		<a tabindex="0" data-bs-toggle="popover" title="Kultūros ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#kulturos-ministerija'>Veiklos sritys</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Kultūros ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#kulturos-ministerija'>Veiklos sritys</a>">
 			<g>
 			  <g>
 				<g>
@@ -134,7 +134,7 @@
 		</a>
 	  </g>
 	  <g id="KAM">
-		<a tabindex="0" data-bs-toggle="popover" title="Krašto apsaugos ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#krasto-apsaugos-ministerija'>Veiklos sritys</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Krašto apsaugos ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#krasto-apsaugos-ministerija'>Veiklos sritys</a>">
 			<g>
 			  <g>
 				<rect x="385.4048" y="337.7499" width="334.0952" height="145.5903" rx="13.5" fill="#fff"/>
@@ -145,7 +145,7 @@
 		</a>
 	  </g>
 	  <g id="Finansų">
-		<a tabindex="0" data-bs-toggle="popover" title="Finansų ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#finansu-ministerija'>Veiklos sritys</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Finansų ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#finansu-ministerija'>Veiklos sritys</a>">
 			<g>
 			  <g>
 				<rect x="1562.4053" y="151.9999" width="334.0947" height="145.5903" rx="13.5" fill="#fff"/>
@@ -156,7 +156,7 @@
 		</a>
 	  </g>
 	  <g id="Energetikos">
-		<a tabindex="0" data-bs-toggle="popover" title="Energetikos ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#energetikos-ministerija'>Veiklos sritys</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Energetikos ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#energetikos-ministerija'>Veiklos sritys</a>">
 			<g>
 			  <g>
 				<rect x="1170.0713" y="151.9999" width="334.0957" height="145.5903" rx="13.5" fill="#fff"/>
@@ -167,7 +167,7 @@
 		</a>
 	  </g>
 	  <g id="Ekonomikos">
-		<a tabindex="0" data-bs-toggle="popover" title="Ekonomikos ir inovacijų ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#ekonomikos-ir-inovaciju-ministerija'>Veiklos sritys</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Ekonomikos ir inovacijų ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#ekonomikos-ir-inovaciju-ministerija'>Veiklos sritys</a>">
 			<g>
 			  <g>
 				<g>
@@ -181,7 +181,7 @@
 		</a>
 	  </g>
 	  <g id="Aplinkos">
-		<a tabindex="0" data-bs-toggle="popover" title="Aplinkos ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#aplinkos-ministerija'>Veiklos sritys</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Aplinkos ministerija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#aplinkos-ministerija'>Veiklos sritys</a>">
 			<g>
 			  <g>
 				<g>
@@ -220,7 +220,7 @@
 	  <text transform="translate(1206.7606 1535.2324)" font-size="20" fill="#faaf1b" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan letter-spacing="-0.0483em">T</tspan><tspan x="10.7031" y="0">eikia </tspan><tspan x="0" y="24">iš</tspan><tspan x="14.9023" y="24" letter-spacing="-0.0073em">v</tspan><tspan x="24.248" y="24">adas</tspan></text>
 	</g>
 	<g id="Vyriausybės_komisijos" data-name="Vyriausybės komisijos">
-		<a tabindex="0" data-bs-toggle="popover" title="Vyriausybės komitetai ir komisijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Vyriausybės komitetai yra Vyriausybės patariamosios institucijos. <hr> <a href='#lrv-komitetai-komisijos'>Daugiau</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Vyriausybės komitetai ir komisijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Vyriausybės komitetai yra Vyriausybės patariamosios institucijos. <hr> <a href='/#lrv-komitetai-komisijos'>Daugiau</a>">
 	  	<g>
 			<g>
 			  <rect x="1292.3848" y="1428.5048" width="360.8652" height="80.585" rx="13.5" fill="#fff"/>
@@ -315,7 +315,7 @@
 	</g>
 	<g id="Studentai">
 	  <g>
-		<a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='#sao'>Daugiau</a>">
+		<a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#sao'>Daugiau</a>">
 			<g>
 			  <rect x="1.5" y="1045.5043" width="344.2295" height="80.5859" rx="13.5" fill="#fff"/>
 			  <path d="M429.905,1181.7517a12.0136,12.0136,0,0,1,12,12v53.5856a12.0136,12.0136,0,0,1-12,12H112.6757a12.0136,12.0136,0,0,1-12-12v-53.5856a12.0136,12.0136,0,0,1,12-12H429.905m0-3H112.6757a15,15,0,0,0-15,15v53.5856a15,15,0,0,0,15,15H429.905a15,15,0,0,0,15-15v-53.5856a15,15,0,0,0-15-15Z" transform="translate(-97.6757 -134.7472)" fill="#333"/>
@@ -388,7 +388,7 @@
 	</g>
 	<g id="Ministras_Pirmininkas" data-name="Ministras Pirmininkas">
 		<a tabindex="0" data-bs-toggle="popover" title="Ministras Pirmininkas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Ministras Pirmininkas atstovauja Vyriausybei ir vadovauja jos veiklai, teikia Seimui svarstyti Vyriausybės
-		programą, pirmininkauja Vyriausybės posėdžiams. <hr> <a href='#mp'>Daugiau</a>">
+		programą, pirmininkauja Vyriausybės posėdžiams. <hr> <a href='/#mp'>Daugiau</a>">
 	  	<g>
 			<rect x="645.0298" y="1240.4999" width="322.4702" height="88" rx="13.5" fill="#fff"/>
 			<path d="M1051.6757,1376.7472a12.0136,12.0136,0,0,1,12,12v61a12.0136,12.0136,0,0,1-12,12h-295.47a12.0136,12.0136,0,0,1-12-12v-61a12.0136,12.0136,0,0,1,12-12h295.47m0-3h-295.47a15,15,0,0,0-15,15v61a15,15,0,0,0,15,15h295.47a15,15,0,0,0,15-15v-61a15,15,0,0,0-15-15Z" transform="translate(-97.6757 -134.7472)" fill="#333"/>
@@ -449,7 +449,7 @@
 		<path d="M1342.6816,1154.1925a31.029,31.029,0,0,1,30.9941,30.9939v84.48a31.029,31.029,0,0,1-30.9941,30.9939H727.0092a31.029,31.029,0,0,1-30.994-30.9939v-84.48a31.029,31.029,0,0,1,30.994-30.9939h615.6724m0-3H727.0092a33.9939,33.9939,0,0,0-33.994,33.9939v84.48a33.9939,33.9939,0,0,0,33.994,33.9939h615.6724a33.994,33.994,0,0,0,33.9941-33.9939v-84.48a33.994,33.994,0,0,0-33.9941-33.9939Z" transform="translate(-97.6757 -134.7472)" fill="#333"/>
 	  </g>
 	  <a tabindex="0" data-bs-toggle="popover" title="Vyriausybė" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Vyriausybė – tai Lietuvos Respublikos įstatymų vykdomoji valdžia. Vyriausybė sudaro 14 ministerijų ministrai
-ir ministras pirmininkas, Seimo paskirti ketverių metų kadencijai. <hr> <a href='#lrv'>Daugiau</a>">
+ir ministras pirmininkas, Seimo paskirti ketverių metų kadencijai. <hr> <a href='/#lrv'>Daugiau</a>">
 	  	<g>
 			<text transform="translate(910.7929 1108.8867)" font-size="43.9432" fill="#111" font-family="Roboto-Black, Roboto" font-weight="800">LR <tspan x="63.4258" y="0" letter-spacing="-0.0054em">V</tspan><tspan x="92.2207" y="0">yriausybė</tspan></text>
 			<g>
