@@ -1,7 +1,7 @@
 <section id="miestas">
     <h2>Miesto lygmuo</h2>
     
-    <video width="1000" height="440" controls>
+    <video width="800" height="352" controls>
         <source src="video/Studentai_miestas.mp4" type="video/mp4">
       Jūsų naršyklė nepalaiko šio vaizdo klipo.
       </video>
