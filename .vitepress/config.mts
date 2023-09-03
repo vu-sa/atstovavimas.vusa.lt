@@ -4,7 +4,23 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Atstovavimo gidas",
   lang: "lt",
+  // add font pr
+  head: [
+    [
+      'link',
+      { rel: 'preconnect', href: 'https://fonts.googleapis.com' }
+    ],
+    [
+      'link',
+      { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }
+    ],
+    [
+      'link',
+      { href: 'https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,200;0,300;0,400;0,500;0,700;1,200;1,400;1,500&display=swap', rel: 'stylesheet' }
+    ]
+  ],
   description: "Vieningai Už Studentų Ateitį",
+  srcDir: 'src',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 
@@ -66,9 +82,10 @@ export default defineConfig({
           { text: 'Vilniaus universitetas', link: '/vu' },
           { text: 'Miestas', link: '/miestas' },
           { text: 'Aukštasis mokslas', link: '/aukstasis-mokslas' },
+          { text: 'Seimas', link: '/seimas' },
           { text: 'Vyriausybė', link: '/vyriausybe' },
           { text: 'ŠMSM', link: '/smsm' },
-          { text: 'Įstatymų leidyba', link: '/seimas' },
+          { text: 'Įstatymų leidyba', link: '/istatymu-leidyba' },
         ]
       },
       {
