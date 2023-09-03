@@ -61,9 +61,9 @@ export default defineConfig({
             label: 'Šiame puslapyje...',
         },
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' },
-      { text: 'Schemos', link: '/schemos' }
+      { text: 'I dalis', link: '/kap' },
+      { text: 'II dalis', link: '/studentams-atstovaujancios-organizacijos' },
+      { text: 'Interaktyvios schemos', link: '/schemos' }
     ],
 
     sidebar: [
@@ -103,7 +103,9 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      // { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'facebook', link: 'https://facebook.com' },
+      { icon: 'instagram', link: 'https://instagram.com' },
+      { icon: 'youtube', link: 'https://youtube.com' },
     ]
   }
 })
