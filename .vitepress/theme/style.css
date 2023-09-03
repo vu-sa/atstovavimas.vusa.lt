@@ -140,5 +140,10 @@
 /* Custom */
 
 abbr {
-  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-line: underline;
+}
+
+abbr:hover {
+  cursor: help;
 }
