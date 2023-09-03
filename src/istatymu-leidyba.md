@@ -1,25 +1,18 @@
-::: {#procesai .section}
-## Įstatymų leidybos procesas
+# Įstatymų leidybos procesas
 
-::: {#seimo-nutarimu-trumpoji-schema .section}
-### Apibendrinta įstatymo iniciavimo struktūra
+## Apibendrinta įstatymo iniciavimo struktūra
 
 \@include(\'graphs.SeimasProcesasTrumpai\')
-:::
 
-::: {#istatymo-iniciavimo-struktura .section}
-### Įstatymo iniciavimo struktūra
+## Įstatymo iniciavimo struktūra
 
 \@include(\'graphs.SeimasProcesas\')
-:::
-:::
 
-::: {#lrv-nutarimu-schema .section}
-### Vyriausybės nutarimo priėmimo procesas
+## Vyriausybės nutarimo priėmimo procesas
 
 \@include(\'graphs.VyriausybeProcesas\')
 
-### Vyriausybės nutarimo priėmimo proceso aprašas
+## Vyriausybės nutarimo priėmimo proceso aprašas
 
 Teisės aktų projektai registruojami Vyriausybės kanceliarijoje.
 
@@ -77,8 +70,7 @@ išvadose pateiktas pastabas ir pasiūlymus, teikiamas Vyriausybei.
 Ministras Pirmininkas gali siūlyti svarstyti teisės akto projektą
 atitinkamame Vyriausybės komitete arba Vyriausybės pasitarime.
 
-::: {#vyriausybes-pasitarimai-ir-posedziai .section}
-### Vyriausybės pasitarimai ir posėdžiai
+## Vyriausybės pasitarimai ir posėdžiai
 
 Vyriausybės kancleris teikia Ministrui Pirmininkui pasiūlymus dėl
 Vyriausybės pasitarimo ir posėdžio darbotvarkių sudarymo. Ministras
@@ -87,29 +79,21 @@ ir laiką. Vyriausybės pasitarimams ir Vyriausybės posėdžiams
 pirmininkauja Ministras pirmininkas. Vyriausybės pasitarimuose ir
 Vyriausybės posėdžiuose dalyvauja Vyriausybės nariai.
 
-::: {#vyriausybes-pasitarimas .section}
-#### Vyriausybės pasitarimas
+### Vyriausybės pasitarimas
 
 Pasitarimai vyksta prieš Vyriausybės posėdžius, kuriuose aptariami
 svarbiausi klausimai. Vyriausybės pasitarimuose svarstomi ir priimami
 Vyriausybės sprendimai ir rezoliucijos.
-:::
 
-::: {#vyriausybes-posedis .section}
-#### Vyriausybės posėdis
+### Vyriausybės posėdis
 
 Vyriausybės pasitarime suderinti klausimai svarstomi Vyriausybės
 posėdyje. Vyriausybės nutarimai priimami Vyriausybės narių balsų
 dauguma.
-:::
 
-::: {#vyriausybes-nutarimai .section}
-#### Vyriausybės nutarimai
+### Vyriausybės nutarimai
 
 Vyriausybės nutarimai perduodami atsakingoms institucijoms: Seimui,
 Respublikos prezidentui.
-:::
-:::
 
 ![](/img/main/image062.jpg){.img-fluid}
-:::

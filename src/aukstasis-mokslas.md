@@ -1,12 +1,10 @@
-::: {#aukstasis-mokslas .section title="Aukštasis mokslas"}
-## Aukštasis mokslas
+# Aukštasis mokslas
 
-::: {#aukstojo-mokslo-schema .section}
-### Aukštojo mokslo politikos schema
+## Aukštojo mokslo politikos schema
 
 \@include(\'graphs.AM\')
 
-### Aukštojo mokslo politikos schemos aprašas
+## Aukštojo mokslo politikos schemos aprašas
 
 Šioje schemoje yra vaizduojama visa Lietuvos aukštojo mokslo sistemos
 dalyviai. Atstovaudamos studentams aktualius klausimus aukštojo mokslo
@@ -35,17 +33,13 @@ asociacijos, profesinės sąjungos ir pan.
 
 Schemoje matoma, kaip įstatyme įvardytos struktūros veikia tarpusavyje,
 plačiau apie kiekvieną iš jų skaitykite paspaudus nuorodas.
-:::
 
-::: {#lr-pilieciai .section}
-### LR piliečiai
+## LR piliečiai
 
 Asmenys, turintys Lietuvos Respublikos pilietybę ir su ja suteiktas
 teises bei pareigas.
-:::
 
-::: {#prezidentas .section}
-### Prezidentas
+## Prezidentas
 
 Prezidentas yra valstybės vadovas. Prezidentas sprendžia pagrindinius
 užsienio politikos klausimus ir kartu su Vyriausybe vykdo užsienio
@@ -54,10 +48,8 @@ vetuoti Seimo priimtus įstatymus.
 
 [Išsamiau apie Prezidento
 funkcijas](https://www.lrp.lt/lt/prezidento-funkcijos)
-:::
 
-::: {#am-seimas .section}
-### Seimas
+## Seimas
 
 Seimas -- tai Lietuvos Respublikos įstatymų leidžiamoji valdžia. Seimą
 sudaro 141 Tautos atstovas, išrinktas ketverių metų kadencijai. Seimo
@@ -68,10 +60,8 @@ tvirtinami.
 
 [Išsamiau apie Seimo
 veiklą](https://www.lrs.lt/sip/portal.show?p_r=35354&p_k=1)
-:::
 
-::: {#am-vyriausybe .section}
-### Vyriausybė
+## Vyriausybė
 
 Vyriausybė -- tai Lietuvos Respublikos įstatymų vykdomoji valdžia.
 Vyriausybė sudaro 14 ministerijų ministrai ir ministras pirmininkas,
@@ -91,12 +81,10 @@ klausimų.
 
 [Išsamiau apie Vyriausybės
 veiklą](https://lrv.lt/lt/aktuali-informacija/apie-vyriausybe/vyriausybe)
-:::
 
 ![](/img/main/image013.jpg){.img-fluid}
 
-::: {#am-smsm .section}
-### Švietimo, mokslo ir sporto ministerija
+## Švietimo, mokslo ir sporto ministerija
 
 Švietimo, mokslo ir sporto ministerija (toliau -- ŠMSM) yra LR valstybės
 įstaiga, kuri savo veiklos tikslų perspektyvoje formuoja valstybės
@@ -107,18 +95,14 @@ srityse.
 [Išsamiau apie Švietimo, mokslo ir sporto ministerijos
 funkcijas](https://www.smm.lt/web/lt/administracine-informacija/nuostatai)
 
-::: {#am-smsm-ministras .section}
-#### Švietimo, mokslo ir sporto Ministras
+### Švietimo, mokslo ir sporto Ministras
 
 Ministras vadovauja ministerijai, sprendžia ministerijos kompetencijai
 priklausančius klausimus ir yra tiesiogiai atsakingas už Vyriausybės
 programos ir kasmetinių Vyriausybės veiklos prioritetų bei planuojamų
 pasiekti rezultatų jam pavestose valdymo srityse įgyvendinimą.
-:::
-:::
 
-::: {#lmt .section}
-### Lietuvos mokslo taryba
+## Lietuvos mokslo taryba
 
 Lietuvos mokslo taryba yra **patariamoji institucija Seimui ir
 Vyriausybei mokslo, studijų ir eksperimentinės plėtros politikos
@@ -134,15 +118,12 @@ mokslinius projektus, prie kurių prisideda ir studentai.
 [Išsamiau apie
 LMT](https://www.e-tar.lt/portal/lt/legalAct/fdc30c905a6311e7846ef01bfffb9b64)
 
-::: {#lmt-nariai .section}
-#### Lietuvos mokslo tarybos nariai
+### Lietuvos mokslo tarybos nariai
 
 Lietuvos mokslo tarybą sudaro 29 nariai, renkami 5 m. kadencijai.
 Lietuvos mokslo tarybos sudėtį vyriausybės teikimu tvirtina Seimas.
-:::
 
-::: {#lmt-pirmininkas-pavaduotojai .section}
-#### Lietuvos mokslo tarybos pirmininkas ir pavaduotojai
+### Lietuvos mokslo tarybos pirmininkas ir pavaduotojai
 
 Valdybą sudaro Lietuvos mokslo tarybos pirmininkas ir jo pavaduotojai --
 komitetų pirmininkai, Lietuvos mokslo tarybos mokslinis sekretorius,
@@ -152,11 +133,8 @@ akademijos atstovai.
 
 [Išsamiau apie Lietuvos mokslo tarybos
 pirmininką](https://www.lmt.lt/lt/apie-taryba/pirmininkas/122%20)
-:::
-:::
 
-::: {#vsf .section}
-### Valstybinis studijų fondas
+## Valstybinis studijų fondas
 
 Valstybinis studijų fondas (VSF) - Švietimo mokslo ir sporto
 ministerijai pavaldi valstybės biudžetinė įstaiga administruojanti
@@ -177,8 +155,7 @@ Išsamiau apie VSF:
 
 ![](/img/main/image015.jpg){.img-fluid}
 
-::: {#vsf-valdyba .section}
-#### Valstybinio studijų fondo valdyba
+### Valstybinio studijų fondo valdyba
 
 Fondo valdyba paskirsto Fondui skirtas valstybės biudžeto lėšas
 valstybės paskoloms teikti, valstybės remiamų paskolų palūkanoms
@@ -190,11 +167,8 @@ Valdybą tvirtina ŠMSM ministras, ji yra sudaryta iš 11 asmenų.
 
 [Išsamiau apie Valstybinio studijų fondo
 valdybą](https://vsf.lrv.lt/lt/struktura-ir-kontaktai/valdyba-1)
-:::
-:::
 
-::: {#lma .section}
-### Lietuvos mokslų akademija
+## Lietuvos mokslų akademija
 
 Lietuvos mokslų akademija (LMA) - nepriklausoma Seimo, Vyriausybės ir
 jai pavaldžių institucijų **ekspertė ir patarėja mokslo bei studijų,
@@ -211,10 +185,8 @@ Prie Lietuvos mokslų akademijos taip pat veikia ir LMA Jaunoji akademija
 
 [Išsamiau apie LMA veiklą rasite
 čia:](http://www.lma.lt/statutas)
-:::
 
-::: {#amt .section}
-### Aukštojo mokslo taryba
+## Aukštojo mokslo taryba
 
 Aukštojo mokslo taryba yra ekspertinė institucija aukštojo mokslo raidos
 klausimais.
@@ -234,10 +206,8 @@ Aukštojo mokslo tarybos nuostatus tvirtina Vyriausybė.
 
 [Išsamiau apie Aukštojo mokslo
 tarybą](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.343430/asr)
-:::
 
-::: {#skvc .section}
-### Studijų kokybės ir vertinimo centras
+## Studijų kokybės ir vertinimo centras
 
 Studijų kokybės vertinimo centras teisės aktų nustatyta tvarka skatina
 aukštųjų mokyklų veiklos kokybę per išorinį vertinimą, užsienyje įgytų
@@ -257,8 +227,7 @@ programas ar aukštąsias mokyklas.
 [Išsamiau apie SKVC
 veiklą](https://www.skvc.lt/default/lt/apie-mus)
 
-::: {#skvc-taryba .section}
-#### Studijų kokybės ir vertinimo centro taryba
+### Studijų kokybės ir vertinimo centro taryba
 
 Studijų kokybės vertinimo centro taryba (Taryba) -- yra kolegialus
 valdymo organas, sudarytas iš 11 narių. Tarybos sudėtį tvirtina ŠMSM
@@ -271,11 +240,8 @@ direktoriaus ataskaitą, rengia centro metinę ataskaitą.
 
 [Išsamiau apie Studių kokybės vertinimo centro
 tarybą](https://www.skvc.lt/default/lt/taryba)
-:::
-:::
 
-::: {#strata .section}
-### Vyriausybės strateginės analizės centras
+## Vyriausybės strateginės analizės centras
 
 Vyriausybės strateginės analizės centras (STRATA) yra ekspertinė
 institucija, teikianti Vyriausybei ir ministerijoms nepriklausomą,
@@ -284,10 +250,8 @@ viešosios politikos sprendimams priimti.
 
 [Išsamiau apie STRATA
 veiklą](https://strata.gov.lt/lt/apie-mus/apie)
-:::
 
-::: {#kontrolierius .section}
-### Lietuvos Respublikos akademinės etikos ir procedūrų kontrolierius
+## Lietuvos Respublikos akademinės etikos ir procedūrų kontrolierius
 
 Akademinės etikos ir procedūrų kontrolierius yra valstybės pareigūnas,
 įgyvendinantis aukštojo mokslo politiką, nagrinėjantis skundus,
@@ -305,8 +269,7 @@ Išsamiau su akademinės etikos ir procedūrų kontrolieriaus veikla galite
 susipažinti
 [čia.](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.406672/)
 
-::: {#kontrolieriaus-tarnyba .section}
-#### Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnyba
+### Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnyba
 
 Valstybės biudžetinė įstaiga, kurios veiklos tikslas -- užtikrinti
 Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus
@@ -316,11 +279,8 @@ akademinės etikos nuostatos ir procedūros.
 
 Daugiau apie kontrolierių ir tarnybą galima pasiskaityti
 [čia](https://etikostarnyba.lt/apie-istaiga/)
-:::
-:::
 
-::: {#universitetas .section}
-### Universitetas
+## Universitetas
 
 Universitetas -- aukštoji mokykla, kurioje vykdomos universitetinės
 studijos, atliekami moksliniai tyrimai, eksperimentinė (socialinė,
@@ -335,10 +295,8 @@ Išsamiau galite paskaityti:
     įstatymas](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.343430)
 -   [Universitetų Lietuvoje
     sąrašas](http://lms.lt/archyvas/?q=lt/LietuvosUniversitetai)
-:::
 
-::: {#kolegija .section}
-### Kolegija
+## Kolegija
 
 Kolegija -- tai aukštoji mokykla, kurioje vykdomos koleginės studijos,
 plėtojami taikomieji moksliniai tyrimai ir (arba) profesionalusis menas.
@@ -352,10 +310,8 @@ Išsamiau galite paskaityti:
     įstatymas](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.343430)
 -   [Kolegijų Lietuvoje
     sąrašas](http://lms.lt/archyvas/?q=lt/Kolegijos)
-:::
 
-::: {#moksliniu-tyrimu-institutas .section}
-### Mokslinių tyrimų institutas
+## Mokslinių tyrimų institutas
 
 Mokslinių tyrimų institutas -- juridinis asmuo, kurio pagrindinė veikla
 -- moksliniai tyrimai ir eksperimentinė plėtra.
@@ -365,10 +321,8 @@ yra patariamoji.
 
 Lietuvoje veikiantys mokslo institutai nurodyti
 [čia](http://lms.lt/archyvas/?q=lt/MoksloInstitutai)
-:::
 
-::: {#lst .section}
-### Lietuvos švietimo taryba
+## Lietuvos švietimo taryba
 
 Lietuvos švietimo taryba (toliau -- Taryba) yra Lietuvos Respublikos
 Seimo sudaryta ir jam atskaitinga valstybės švietimo savivaldos
@@ -377,12 +331,10 @@ strateginiais Lietuvos švietimo plėtros klausimais.
 
 [Išsamiau apie Tarybos funkcijas ir narių
 skyrimą](https://www.lrs.lt/sip/portal.show?p_r=9258&p_k=1)
-:::
 
 ![](/img/main/image022.jpg){.img-fluid}
 
-::: {#lurk .section}
-### Lietuvos universitetų rektorių konferencija (LURK)
+## Lietuvos universitetų rektorių konferencija (LURK)
 
 Tai konferencija, vienijanti visus Lietuvos universitetų rektorius. Ji
 teikia siūlymus studijų, mokslinių tyrimų ir eksperimentinės plėtros
@@ -397,10 +349,8 @@ aukštuoju mokslu.
 
 [Išsamiau apie
 LURK](https://lurk.lt/index.php/apie-mus/istatai/)
-:::
 
-::: {#lkdk .section}
-### Lietuvos kolegijų direktorių konferencija (LKDK)
+## Lietuvos kolegijų direktorių konferencija (LKDK)
 
 Tai konferencija vienijanti visus Lietuvos kolegijų direktorius. Jos
 pagrindinės veiklos: atstovauti kolegijų interesus, teikti pasiūlymus
@@ -414,5 +364,3 @@ ar komisijas, kurios susijusios su aukštuoju mokslu.
 
 [Išsamiau apie
 LKDK](https://www.kolegijos.lt/lt/apie-konferencija/istatai/)
-:::
-:::

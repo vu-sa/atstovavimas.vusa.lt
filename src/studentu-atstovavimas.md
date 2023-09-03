@@ -1,7 +1,4 @@
-::: {#atstovu-kompetencijos .section}
-## Studentų atstovo veikla ir kompetencijos
-
-Jūsų naršyklė nepalaiko šio vaizdo klipo.
+# Studentų atstovo veikla ir kompetencijos
 
 Studentų atstovo veiklą galime apibrėžti skirtingai instituciniu ir
 nacionaliniu lygmenimis. Tačiau, neatsižvelgiant į šias skirtingas
@@ -15,8 +12,7 @@ savišvietą arba mokantis iš patirties.
 
 Toliau šiame gide yra aprašoma problemos sprendimo eiga.
 
-::: {#problemos-sprendimo-eiga .section}
-### 1. Problemos sprendimo eiga
+## 1. Problemos sprendimo eiga
 
 Šiame skyriuje yra pristatomas problemos sprendimo procesas nuo pat jo
 susiplanavimo iki atsiskaitymo studentams už atliktą veiklą remiantis
@@ -45,10 +41,8 @@ poskyriuose atkreipiamas dėmesys į šiuos žingsnius:
 1.  Problemos identifikavimas ir sprendimo kelio planavimas
 2.  Duomenų rinkimas, analizavimas ir apipavidalinimas
 3.  Pasiūlymo rengimas, nešimas ir atsiskaitymas studentams
-:::
 
-::: {#problemos-identifikavimas-ir-sprendimo-kelias .section}
-### 2. Problemos identifikavimas ir sprendimo kelio planavimas
+## 2. Problemos identifikavimas ir sprendimo kelio planavimas
 
 Studentams atstovaujanti organizacija inicijuojamų pakeitimų
 nacionalinėje erdvėje gali imtis trimis būdais: kai į organizaciją
@@ -62,8 +56,7 @@ alt="Problemos sprendimo eiga" />
 <figcaption>Problemos sprendimo eiga.</figcaption>
 </figure>
 
-::: {#situacijos-analize .section}
-#### 2.1. Situacijos analizė ir problemos identifikavimas
+### 2.1. Situacijos analizė ir problemos identifikavimas
 
 Pirmiausia atliekama situacijos analizė -- identifikuojama jau esama
 teisinė bazė, bandoma surasti naudingos informacijos, bendraujama su
@@ -75,10 +68,8 @@ Surenkama visa svarbiausia su pasirinkta problema susijusi informacija
 susisteminama bei panaudojama keliantis tikslą ir sudarinėjant problemos
 planą. Šiame etape svarbu išsikelti potencialius klausimus, kurie
 reikalingi tyrimo atlikimui.
-:::
 
-::: {#tikslas .section}
-#### 2.2. Tikslas
+### 2.2. Tikslas
 
 Identifikavus problemą, atstovas turi keliauti prie tikslo išsikėlimo,
 kuris yra sąlygojamas suinteresuotųjų šalių. Šiame etape galima
@@ -98,10 +89,8 @@ reikalavimus, t.y., nurodo, koks turėtų būti tikslas:
 
 Tikslas turi būti tik **vienas**. Rekomenduojama tikslą formuluoti taip,
 kad jis būtų kuo mažiau kintantis.
-:::
 
-::: {#veiksmu-planas .section}
-#### 2.3. Veiksmų planas
+### 2.3. Veiksmų planas
 
 Turint aiškią problemą ir suformulavus tikslą, turi būti nustatyti
 problemos sprendimo veiksmai ir jų rezultatai, todėl šioje dalyje
@@ -111,14 +100,12 @@ informaciją surinktą pirmą žingsnyje.
 
   Nr.   Veikla problemai spręsti   Terminas, iki kada veikla atlikta   Atsakingas už veiklą asmuo   Kaip įsitikinti, kad veikla padaryta?
   ----- -------------------------- ----------------------------------- ---------------------------- ---------------------------------------
-  1\.                                                                                               
-  2\.                                                                                               
+  1\.
+  2\.
 
   : Problemos sprendimų veiksmų plano lentelė.
-:::
 
-::: {#rizikos .section}
-#### 2.4. Rizikos
+### 2.4. Rizikos
 
 Sukūrus problemos sprendimo veiksmų planą svarbu įsivertinti, kokios
 rizikos gali iškilti įgyvendinant veiklas. Rizika -- įvykis, kuris su
@@ -132,23 +119,18 @@ koreguojamas problemos sprendimo veiksmų planas.
 
   Rizika   Galimas rizikos poveikis (didelis, mažas, vidutinis)   Tikimybė, kad rizika įvyks (didelė, maža, vidutinė)   Ką daryti, kad rizika nepasiteisintų (neįvyktų)?   Ką daryti, rizikai pasiteisinus (įvykus)?
   -------- ------------------------------------------------------ ----------------------------------------------------- -------------------------------------------------- -------------------------------------------
-  1\.                                                                                                                                                                      
-  2\.                                                                                                                                                                      
+  1\.
+  2\.
 
   : Rizikų lentelė.
-:::
 
-::: {#igyvendinimas .section}
-#### 2.5. Įgyvendinimas
+### 2.5. Įgyvendinimas
 
 Šioje dalyje pereiname prie kitų atstovo veiklai ir kompetencijai
 reikalingų etapų, t.y. duomenų rinkimo, analizavimo ir apipavidalinimo
 bei pasiūlymo rengimo, nešimo ir atsiskaitymo studentams.
-:::
-:::
 
-::: {#duomenys .section}
-### 3. Duomenų rinkimas, analizavimas ir apipavidalinimas
+## 3. Duomenų rinkimas, analizavimas ir apipavidalinimas
 
 Nagrinėjant problemą mes naudojame informaciją ir duomenis. Pirminei
 problemos analizei pasitelkiame antrinius duomenis iš jau esamų šaltinių
@@ -222,10 +204,8 @@ atstovų arba koordinuojančių asmenų peržiūrai, gauti iš jų grįžtamąj�
 ryšį ir pagal jį patobulinti parengtą medžiagą. Taip pat svarbu yra ją
 įkelti į studentų savivaldos administruojamą archyvą arba kitas duomenų
 talpyklas siekiant užtikrinti institucinę atmintį.
-:::
 
-::: {#pasiulymas-ir-atsiskaitymas .section}
-### 4. Pasiūlymo rengimas, nešimas ir atsiskaitymas studentams
+## 4. Pasiūlymo rengimas, nešimas ir atsiskaitymas studentams
 
 Turint apipavidalintus duomenis studentų atstovai turi suformuoti
 pristatymus, pasiūlymus ar rekomendacijas ir jas pateikti atitinkamai
@@ -239,29 +219,16 @@ Toliau yra pateikiamas advokacijos planas, kuris padės pasiruošti nešti
 studentų nuomonę ir daryti įtaką sprendimų priėmimui vietiniu,
 regioniniu ir nacionaliniu lygmeniu:
 
-::: {#accordionFlush .accordion .accordion-flush}
-::: {#pasiruosimas-pristatymui .section}
-::: accordion-item
-#### 1. Pasiruošimas problemos pristatymui {#flush-headingOne .accordion-header}
+### 1. Pasiruošimas problemos pristatymui {#flush-headingOne .accordion-header}
 
-::: {#flush-collapseOne .accordion-collapse .collapse aria-labelledby="flush-headingOne" bs-parent="#accordionFlush"}
-::: accordion-body
 Visų pirma reikia pasiruošti perteikti sprendžiamo klausimo problematiką
 -- kokia yra esama situacija, kuo ji yra netinkama ir ką tai lemia.
 Rekomenduotina atsakymus į šiuos klausimus pagrįsti surinktais
 duomenimis bei apklausų analize, taip pat įvardinti, kas šiuo metu
 trukdo turėti jūsų norimą situaciją.
-:::
-:::
-:::
-:::
 
-::: {#plano-minimum-maximum-susiformavimas .section}
-::: accordion-item
-#### 2. Plano „minimum" ir plano „maksimum" susiformavimas {#flush-headingTwo .accordion-header}
+### 2. Plano „minimum" ir plano „maksimum" susiformavimas {#flush-headingTwo .accordion-header}
 
-::: {#flush-collapseTwo .accordion-collapse .collapse aria-labelledby="flush-headingTwo" bs-parent="#accordionFlush"}
-::: accordion-body
 Ne visada pavyksta pasiekti nusimatyto pokyčio ir šiame momente gali
 kilti klausimas -- ar vadovautis logika „viskas arba nieko"? Tam, kad
 pateikus pasiūlymą suinteresuotoms institucijoms ir gavus iš jų neigiamą
@@ -276,17 +243,9 @@ planu „minimum" gali būti ir klausimo aptarimas atitinkamos institucijos
 posėdyje. Svarbiausia yra nebent tai, kad minimalus siekiamas rezultatas
 sukurtų galimybę su tam tikru klausimu dirbti ateityje, jeigu dabar to
 neįmanoma padaryti.
-:::
-:::
-:::
-:::
 
-::: {#tiksliniu-grupiu-nustatymas .section}
-::: accordion-item
-#### 3. Tikslinių grupių nustatymas {#flush-headingThree .accordion-header}
+### 3. Tikslinių grupių nustatymas {#flush-headingThree .accordion-header}
 
-::: {#flush-collapseThree .accordion-collapse .collapse aria-labelledby="flush-headingThree" bs-parent="#accordionFlush"}
-::: accordion-body
 Pasiekti vienam ar kitam pokyčiui dažnai reikia įtikinti tam tikrus
 asmenis ar jų grupes pritarti teikiamiems siūlymams, dėl to nešant
 studentų nuomonę yra svarbu įsivardinti, kas faktiškai gali priimti
@@ -300,15 +259,9 @@ kokia bebūtų išankstinė suinteresuotų asmenų nuomonė, pravartu nešant
 studentų nuomonę pasinaudoti visais kanalais, kuriuos turite tiems
 asmenims ar grupėms pasiekti (asmeninės pažintys, formalūs procesai,
 kita).
-:::
-:::
 
-::: {#paramos-kurimas .section}
-::: accordion-item
-#### 4. Paramos kūrimas {#flush-headingFour .accordion-header}
+### 4. Paramos kūrimas {#flush-headingFour .accordion-header}
 
-::: {#flush-collapseFour .accordion-collapse .collapse aria-labelledby="flush-headingFour" bs-parent="#accordionFlush"}
-::: accordion-body
 Nusistačius tikslines grupes galima įvertinti, kokį ir kokio stiprumo
 palaikymą savo tikslui galite mobilizuoti, taip pat ar galite remtis
 savo turimais ištekliais ir jau turimais paramos tinklais. Jeigu atrodo,
@@ -317,15 +270,9 @@ grupės pagalbos, atsižvelkite, ar jie jau yra jūsų sąjungininkai, ar vis
 dėlto juos dar reikia įtikinti. Ieškant naujų sąjungininkų pravartu
 žinoti, ką įtikinti lengviausia, o ką sunkiausia, kas prisijungs tik tuo
 atveju, jei pirma įtikinsite jų draugus.
-:::
-:::
 
-::: {#zinutes-formulavimas .section}
-::: accordion-item
-#### 5. Žinutės formulavimas {#flush-headingFive .accordion-header}
+### 5. Žinutės formulavimas {#flush-headingFive .accordion-header}
 
-::: {#flush-collapseFive .accordion-collapse .collapse aria-labelledby="flush-headingFive" bs-parent="#accordionFlush"}
-::: accordion-body
 Siekiant įtikinti palaikyti studentų atstovų poziciją kreipiantis į
 skirtingus asmenis bei grupes reikėtų įsivertinti žinutes, kurias nešate
 -- ar argumentai pakankamai svarūs ir įtikinantys, kaip jie atliepia
@@ -335,15 +282,9 @@ atrodys įgyvendinama ir naudinga. Formuojant žinutę pravartu nusimatyti,
 kaip auditorija reaguos į jūsų žinutes, ar jūsų naudojama kalba nesukels
 sunkumų atitinkamai auditorijai ją suprantant, ar nėra per daug (arba
 per mažai) emocinės kalbos ir faktų, paremiančių siūlymus.
-:::
-:::
 
-::: {#komunikacijos-kanalu-nustatymas .section}
-::: accordion-item
-#### 6. Komunikacijos kanalų nustatymas {#flush-headingSix .accordion-header}
+### 6. Komunikacijos kanalų nustatymas {#flush-headingSix .accordion-header}
 
-::: {#flush-collapseSix .accordion-collapse .collapse aria-labelledby="flush-headingSix" bs-parent="#accordionFlush"}
-::: accordion-body
 Tam, kad klausimas būtų aktualizuotas, būtų įtikinti skirtingi asmenys
 ar grupės ir būtų prieita prie keliamų problemų išsprendimo, gali tekti
 ne vieną kartą skirtingais būdais pristatyti savo poziciją ir
@@ -358,15 +299,9 @@ planuojami veiksmai turėtų atitikti ir jūsų organizacijos platesnį
 kontekstą. Nusimatant veiksmus svarbu žinoti, kiek laiko turėsite
 komunikacijai, kokie kanalai būtų labiausiai girdimi / matomi jūsų
 auditorijos bei kiek šiems veiksmams išteklių turite.
-:::
-:::
 
-::: {#veiksmu-plano-parengimas .section}
-::: accordion-item
-#### 7. Veiksmų plano parengimas {#flush-headingSeven .accordion-header}
+### 7. Veiksmų plano parengimas {#flush-headingSeven .accordion-header}
 
-::: {#flush-collapseSeven .accordion-collapse .collapse aria-labelledby="flush-headingSeven" bs-parent="#accordionFlush"}
-::: accordion-body
 Pristatant problematiką bei jos siūlomus sprendimus pagal atitinkamą
 instituciją reikėtų pasirinkti ir pačią pristatymo formą bei nusimatyti
 kitų savo veiksmų planą.
@@ -388,14 +323,10 @@ dokumentuose nepalikti gramatikos ar stiliaus klaidų, argumentuojant
 vengti emocinio krūvio, patartina nenaudoti absoliutinimų, subtiliai
 pateikti auditorijai jautrias temas ir išlikti profesionaliems bei
 turėti kuo paremti savo siūlymus bei argumentus.
-:::
-:::
-:::
 
 Susiplanavus visą savo veiklą galima imtis šio plano įgyvendinimo.
 
-::: {#rezultatu-ivertinimas .section}
-#### Rezultatų įvertinimas
+### Rezultatų įvertinimas
 
 Viso proceso eigoje svarbu vertinti, ar tinkamai atliekami suplanuoti
 veiksmai, ar jie pasiekia užsibrėžtus uždavinius, padeda judėti tikslo
@@ -406,10 +337,8 @@ pateikti savo pasiūlymus. Atlikę visus žingsnius įsivertinkite -- kaip
 buvo sureaguota į pateiktus argumentus ir siūlymus, kokie komentarai
 išsakyti, ar priimti sprendimai patenkina jūsų lūkesčius problemai
 spręsti, ar reikėtų veikti toliau.
-:::
 
-::: {#atsiskaitymas-studentams .section}
-#### Atsiskaitymas studentams
+### Atsiskaitymas studentams
 
 Kad ir kokie buvo įdėto darbo rezultatai, visada reikėtų tinkamai
 atsiskaityti studentams -- pristatyti, kokia problema buvo spręsta,
@@ -418,22 +347,9 @@ siūlyti pokyčiai ir kokie sprendimai (ne)buvo priimti. Jeigu galima
 dalintis informacija dar nepriėjus tam tikrų institucijų sprendimų
 klausimo atžvilgiu, būtų sveikintina realiu laiku aktualizuoti
 studentams sprendžiamą problemą ir informuoti apie jos sprendimo eigą.
-:::
-:::
 
 Šioje dalyje susipažinote su studentų atstovo veikla ir kompetencijomis,
 patarimais, kaip efektyviai atstovauti.
 
 Jei kiltų papildomų klausimų, susisiekite su savo studentams
 atstovaujančia organizacija.
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::

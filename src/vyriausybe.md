@@ -1,12 +1,10 @@
-::: {#vyriausybe .section}
-## Vyriausybė
+# LR Vyriausybė
 
-::: {.section title="Vyriausybės schema"}
-### LR Vyriausybės ir susijusių struktūrų schema
+## LR Vyriausybės ir susijusių struktūrų schema
 
 \@include(\'graphs.LRV\')
 
-### LR Vyriausybės ir susijusių struktūrų schemos aprašas
+## LR Vyriausybės ir susijusių struktūrų schemos aprašas
 
 Seimo ir su ja susijusių struktūrų schemoje nagrinėjome aukštojo mokslo
 politikos formavimą, o dabar pereiname prie jos įgyvendinimo. Valstybės
@@ -41,12 +39,10 @@ Už aukštojo mokslo ir studijų politiką tiesiogiai atsakinga yra
 
 Apie Vyriausybės nutarimų svarstymo procedūras išsamiau galite
 paskaityti [čia](lrv-nutarimai)
-:::
 
 ![](/img/main/image040.jpg){.img-fluid}
 
-::: {#lrv .section}
-### Vyriausybė
+## Vyriausybė
 
 Vyriausybė -- tai Lietuvos Respublikos įstatymų vykdomoji valdžia.
 Vyriausybė sudaro 14 ministerijų ministrai ir ministras pirmininkas,
@@ -69,10 +65,8 @@ Išsamiau apie Vyriausybės veiklą:
 -   [Apie
     Vyriausybę](https://lrv.lt/lt/aktuali-informacija/apie-vyriausybe/vyriausybe)
 -   [Ministrai](https://lrv.lt/lt/aktuali-informacija/apie-vyriausybe/ministrai)
-:::
 
-::: {#mp .section}
-### Ministras Pirmininkas
+## Ministras Pirmininkas
 
 Ministras Pirmininkas atstovauja Vyriausybei ir vadovauja jos veiklai,
 teikia Seimui svarstyti Vyriausybės programą, pirmininkauja Vyriausybės
@@ -84,20 +78,16 @@ Išsamiau galite susipažinti čia:
     įstatymas](https://www.e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82/asr)
 -   [Ministro Pirmininko
     puslapis](https://ministraspirmininkas.lrv.lt/lt/)
-:::
 
-::: {#mp-biuras .section}
-### Ministro Pirmininko biuras
+## Ministro Pirmininko biuras
 
 Organizuoja susitikimus ir renginius, kuriuose dalyvauja Ministras
 Pirmininkas.
 
 Išsamiau galite susipažinti
 [čia](https://lrvk.lrv.lt/lt/vyriausybes-kanceliarijos-struktura)
-:::
 
-::: {#mp-patarejai .section}
-### Ministro Pirmininko patarėjai
+## Ministro Pirmininko patarėjai
 
 Ministro Pirmininko patarėjai -- politinio pasitikėjimo valstybės
 tarnautojai, kurie pataria Ministrui Pirmininkui atitinkamų sričių
@@ -105,29 +95,23 @@ klausimais, pagal savo ekspertinius laukus.
 
 Ministro Pirmininko patarėjus galite rasti
 [čia](https://ministraspirmininkas.lrv.lt/lt/ministres-pirmininkes-komanda)
-:::
 
-::: {#mp-darbo-grupes .section}
-### Ministro Pirmininko sudaromos darbo grupės
+## Ministro Pirmininko sudaromos darbo grupės
 
 Ministras Pirmininkas gali sudaryti darbo grupes jo pavestoms užduotims
 atlikti. Šios darbo grupės gali būti sudaromos iš valstybės ir
 savivaldybių institucijų ir įstaigų, asociacijų, mokslo ir studijų
 institucijų atstovų, nepriklausomų ekspertų.
-:::
 
-::: {#lrv-kanceliarija .section}
-### Vyriausybės kanceliarija
+## Vyriausybės kanceliarija
 
 Vyriausybės kanceliarija padeda vykdyti Vyriausybės ir Ministro
 Pirmininko funkcijas.
 
 Išsamiau galite susipažinti
 [čia](https://lrvk.lrv.lt/lt/vyriausybes-kanceliarijos-struktura)
-:::
 
-::: {#lrv-kancleris .section}
-### Vyriausybės kancleris
+## Vyriausybės kancleris
 
 Vyriausybės kancleris organizuoja Vyriausybei ir Ministrui Pirmininkui
 pateiktų teisės aktų projektų analizę ir derinimą, organizuoja
@@ -135,10 +119,8 @@ Vyriausybės posėdžių rengimą ministerijų atstovų pasitarimus.
 
 Išsamiau galite susipažinti
 [čia](https://lrvk.lrv.lt/lt/vyriausybes-kancleris)
-:::
 
-::: {#lrv-komitetai-komisijos .section}
-### Vyriausybės komitetai ir komisijos
+## Vyriausybės komitetai ir komisijos
 
 Vyriausybės komitetai yra Vyriausybės patariamosios institucijos. Jų
 tikslas -- teikti pasiūlymus dėl jos veiklos prioritetų, politikos ir
@@ -155,10 +137,8 @@ Mokslo, technologijų ir inovacijų taryba (STRATA)
 
 Išsamiau galite susipažinti
 [čia](https://lrv.lt/lt/apie-vyriausybe/komitetai-ir-komisijos)
-:::
 
-::: {#lrv-ministerijos .section}
-### Lietuvos Respublikos ministerijos
+## Lietuvos Respublikos ministerijos
 
 Ministerija steigiama formuoti valstybės politiką ir koordinuoti jos
 įgyvendinimą ministrui pavestose srityse. Ministras vadovauja
@@ -168,7 +148,6 @@ klausimus.
 Išsamiau galite susipažinti
 [čia](https://lrv.lt/lt/ministerijos)
 
-::: {#aplinkos-ministerija .section}
 Aplinkos ministerija
 
 Formuoja ir prižiūri klimato kaitos valdymo politiką, susijusią
@@ -190,10 +169,8 @@ kryptyse.
 
 Gali steigti stipendijas studentų tiksliniam skatinimui, kurie
 studijuoja su aplinkos apsauga susijusiose studijų kryptyse.
-:::
 
-::: {#ekonomikos-ir-inovaciju-ministerija .section}
-#### Ekonomikos ir inovacijų ministerija
+### Ekonomikos ir inovacijų ministerija
 
 Formuoja institucijas ir projektus, nukreiptus į inovacijų ir verslo
 startuolių kūrimą (pvz., studentų startuoliai)
@@ -213,10 +190,8 @@ ekonomika ar inovacijomis susijusiose studijų programoje.
 Gali suteikti tikslinį finansavimą studentų verslumo iniciatyvoms ir su
 vadyba, ekonomika ar inovacijomis susijusiose studijų programų
 studentams.
-:::
 
-::: {#energetikos-ministerija .section}
-#### Energetikos ministerija
+### Energetikos ministerija
 
 Kuruoja klimato kaitos klausimą per atsinaujinančių energetinių išteklių
 plėtra. Valdo energetikos sektorių ir jame veikiančias valstybės įmones,
@@ -225,10 +200,8 @@ kuriose studentai iš gamtos mokslų studijų krypčių atlieka praktikas.
 Gali steigti stipendijas studentų tiksliniam skatinimui, kurie
 studijuoja fizinėse, technologinėse ar inžinerinėse studijų programose
 ir siejasi su energetika.
-:::
 
-::: {#finansu-ministerija .section}
-#### Finansų ministerija
+### Finansų ministerija
 
 Užsiima valstybės turto valdymu per ministerijos ir jai pavaldžių
 įstaigų veiklas (kai kurių bendrabučių nuosavybė yra Finansų
@@ -240,10 +213,8 @@ mokslui, konsultuoja dėl tikslingo jų panaudojimo ir tai vertina.
 Vertina finansinių rodiklių naudojimą priimamuose teisės aktuose
 (pavyzdžiui, susiję su švietimu - kaip apskaičiuojamos stipendijos) ir
 teikia išvadas jų korektiškumui.
-:::
 
-::: {#krasto-apsaugos-ministerija .section}
-#### Krašto apsaugos ministerija
+### Krašto apsaugos ministerija
 
 Formuoja karo prievolės politiką, nustato reikalavimus jos atlikimui ir
 šaukimui į kariuomenę.
@@ -255,10 +226,8 @@ Finansuoja specifines į karo studijas nukreiptas aukštąsias mokyklas
 (LKA)
 
 Organizuoja jaunesniųjų karininkų vadų mokymus.
-:::
 
-::: {#kulturos-ministerija .section}
-#### Kultūros ministerija
+### Kultūros ministerija
 
 Remia akademinės bendruomenės vystomus kultūros projektus. Aktualu menų
 ir humanitarinių mokslų studijų studentams.
@@ -275,10 +244,8 @@ Finansuoja ir remia jaunimo įgyvendinamus kultūrines ir / ar pilietines
 veiklas.
 
 Gali skirti stipendijas už kultūrinę ir visuomeninę veiklą studentams
-:::
 
-::: {#socialines-apsaugos-ir-darbo-ministerija .section}
-#### Socialinės apsaugos ir darbo ministerija
+### Socialinės apsaugos ir darbo ministerija
 
 Rūpinasi socialinės paramos skyrimo ir paskirstymo politika,
 kriterijais, pagal kuriuos nustatoma teisė gauti socialinę paramą
@@ -300,18 +267,14 @@ ir politika susijusiąs studijų programas.
 
 Gali plėtoti socialinės paramos ir stipendijų rūšys, teikiamos paramos
 kriterijų išplėtimą, su studentų darbų susijusių problemų sprendimą.
-:::
 
-::: {#susisiekimo-ministerija .section}
-#### Susisiekimo ministerija
+### Susisiekimo ministerija
 
 Atsako už keleivių vežimą, saugą ir nuolaidas geležinkelių, kelių, jūrų,
 vidaus vandenų, oro transporto srityje formuoja šiose sričių praktikas
 ir stipendijas.
-:::
 
-::: {#sveikatos-apsaugos-ministerija .section}
-#### Sveikatos apsaugos ministerija
+### Sveikatos apsaugos ministerija
 
 Ministerija rūpinasi gyventojų sveikatos stiprinimu ir saugojimu, jog
 būtų užtikrinta kokybiška, saugi ir visiems vienodai prieinama sveikatos
@@ -320,10 +283,8 @@ užsakymo suformavimą, rūpinasi pschikos sveikatos klausimais, sveikatos
 draudimo klausimu, e-sveikatos priežiūra, rūpinasi medicinos įstaigomis,
 rūpinasi skatinimo priemonėmis studentams, studijuojantiems sveikatos
 mokslų krypties programose.
-:::
 
-::: {#lrv-smsm .section}
-#### Švietimo, mokslo ir sporto ministerija
+### Švietimo, mokslo ir sporto ministerija
 
 Atsako už švietimo klausimus, stojimą į aukštąsias mokyklas, pedagogikos
 studijas ir jų vystymą, aukštųjų mokyklų finansavimo, studijų vietų
@@ -332,45 +293,32 @@ profesionalaus sporto klausimus. Rūpinasi skatinimo priemonėmis
 studentams, studijuojantiems susijusiose švietimo mokslų kryptyse.
 
 **Išsamiau į ŠMSM struktūrą nuoroda**.
-:::
 
-::: {#teisingumo-ministerija .section}
-#### Teisingumo ministerija
+### Teisingumo ministerija
 
 Koordinuoja teisės klausimus, rūpinasi skatinimo priemonėmis studentams,
 studijuojantiems susijusių mokslų krypties programose.
-:::
 
-::: {#uzsienio-reikalu-ministerija .section}
-#### Užsienio reikalų ministerija
+### Užsienio reikalų ministerija
 
 Koordinuoja ES klausimus, iš užsienio atvykusių studentų klausimų
 koordinavimą, mobilumo klausimus, rūpinasi skatinimo priemonėmis
 studentams, studijuojantiems susijusių mokslų krypties programose.
-:::
 
-::: {#vidaus-reikalu-ministerija .section}
-#### Vidaus reikalų ministerija
+### Vidaus reikalų ministerija
 
 Rūpinasi regionų plėtros klausimais, NVO koordinavimu, studentų
 migracijos, viešojo saugumo klausimais, koordinuoja skatinimo priemones
 studentams, studijuojantiems susijusių mokslų krypties programose.
-:::
 
-::: {#zemes-ukio-ministerija .section}
-#### Žemės ūkio ministerija
+### Žemės ūkio ministerija
 
 Rūpinasi žemės ūkio mokslų vystymu, rūpinasi skatinimo priemonėmis
 studentams, studijuojantiems susijusių mokslų krypties programose.
-:::
-:::
 
-::: {#lrv-pavaldzios-istaigos .section}
-### Pavaldžios įstaigos
+## Pavaldžios įstaigos
 
 Vyriausybė turi 17--a pavaldžių institucijų. Išsamiau galite susipažinti
 [čia](https://lrv.lt/lt/istaigos)
-:::
 
 ![](/img/main/image046.jpg){.img-fluid}
-:::

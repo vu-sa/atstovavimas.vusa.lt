@@ -1,10 +1,8 @@
-::: {#sao .section}
-## Nacionaliniu lygmeniu studentams atstovaujančios organizacijos
+# Nacionaliniu lygmeniu studentams atstovaujančios organizacijos
 
 ![](/img/main/image024.jpg){.img-fluid}
 
-::: {#vusa .section}
-### VU SA
+## VU SA
 
 Vilniaus universiteto Studentų atstovybė (VU SA) -- seniausia ir
 didžiausia Lietuvoje visuomeninė, ne pelno siekianti, nepolitinė,
@@ -16,10 +14,8 @@ VU SA yra vienintelė studentų atstovybė, kuri savo studentų interesams
 atstovauja nacionaliniu mastu.
 
 [Išsamiau apie VU SA veiklą](https://vusa.lt/lt)
-:::
 
-::: {#lss .section}
-### Lietuvos studentų sąjunga
+## Lietuvos studentų sąjunga
 
 Lietuvos studentų sąjunga yra nacionalinė, demokratinė, nepriklausoma ir
 nevyriausybinė organizacija, atstovaujanti Lietuvos studentų interesams,
@@ -31,5 +27,3 @@ renginius bei akcijas.
 
 [Išsamiau apie LSS
 veiklą](http://www.lss.lt/veikla-lietuvoje/)
-:::
-:::

@@ -1,8 +1,6 @@
-::: {#smsm .section}
-## Švietimo, mokslo ir sporto ministerija
+# Švietimo, mokslo ir sporto ministerija
 
-::: {.section title="Švietimo, mokslo ir sporto ministerijos schema"}
-### LR Švietimo, mokslo ir sporto ministerijos ir susijusių struktūrų schema
+## LR Švietimo, mokslo ir sporto ministerijos ir susijusių struktūrų schema
 
 \@include(\'graphs.SMSM\')
 
@@ -26,10 +24,8 @@ klausimus.
 Schemoje apibendrintai pavaizduoti visi departamentai, tačiau mums, kaip
 studentų atstovams, yra ypač svarbūs keli departamentų skyriai, nes jie
 daugiausia prisideda prie aukštojo mokslo politikos įgyvendinimo:
-:::
 
-::: {#smt-studiju-skyrius .section}
-### Studijų, mokslo ir technologijų departamento Studijų skyrius
+## Studijų, mokslo ir technologijų departamento Studijų skyrius
 
 Šis skyrius analizuoja aukštąjį mokslą reglamentuojančius įstatymus,
 Vyriausybės nutarimus, teikia išvadas aukštojo mokslo sistemos vystymo,
@@ -43,10 +39,8 @@ institucijomis, studentų atstovais.
 
 Išsamiau galite susipažinti
 [čia](https://www.smm.lt/uploads/contacts/docs/35_c84ac34e8fd28c86e657ac5d7d7a7b61.pdf)
-:::
 
-::: {#ekonomikos-departamento-ms-ekonomikos-skyrius .section}
-### Ekonomikos departamento mokslo ir studijų ekonomikos skyrius
+## Ekonomikos departamento mokslo ir studijų ekonomikos skyrius
 
 Šis skyrius dalyvauja formuojant bei įgyvendinant mokslo ir studijų
 sistemos finansavimo politiką ir siekia, kad būtų racionaliai
@@ -56,10 +50,8 @@ studijų finansavimą liečiančių įstatymų ar nutarimų rengime.
 
 Išsamiau galite susipažinti
 [čia](https://www.smm.lt/uploads/contacts/docs/43_0fb5f778a2fa662814f06d143800b9a7.pdf)
-:::
 
-::: {#mvs-neformalaus-svietimo-skyrius .section}
-### Mokymosi visą gyvenimą departamento neformalaus švietimo skyrius
+## Mokymosi visą gyvenimą departamento neformalaus švietimo skyrius
 
 Vienas iš skyriaus uždavinių yra dalyvauti formuojant ir įgyvendinant
 valstybinę mokymosi visą gyvenimą ir suaugusiųjų švietimo politiką.
@@ -77,10 +69,8 @@ Išsamiau galite susipažinti
 Šios įstaigos veikla yra planuojama -- yra tvirtinami strateginiai,
 metiniai veiklos planai bei kiti planavimo dokumentai, kurie yra viešai
 prieinami ministerijos interneto svetainėje.
-:::
 
-::: {#smsm-ministras .section}
-### Švietimo, mokslo ir sporto ministras
+## Švietimo, mokslo ir sporto ministras
 
 Švietimo, mokslo ir sporto ministras -- remiantis LR Vyriausybės
 įstatymu ir LR Vyriausybės nutarimu „Dėl ministrams pavedamų valdymo
@@ -99,10 +89,8 @@ Išsamiau su ministrų funkcijomis galite susipažinti
 Su LR Vyriausybės nutarimu „Dėl ministrams pavedamų valdymo sričių"
 galite susipažinti
 [čia](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.368484/asr)
-:::
 
-::: {#smsm-viceministrai .section}
-### Švietimo, mokslo ir sporto viceministrai
+## Švietimo, mokslo ir sporto viceministrai
 
 Švietimo, mokslo ir sporto viceministrai -- viceministrai ŠMSM ministro
 nustatytose veiklos srityse atlieka Vyriausybės įstatyme nustatytas
@@ -116,10 +104,8 @@ orientavimo klausimai.
 [Išsamiau su ŠMSM viceministrų funkcijomis galite susipažinti čia
 (ministerijos vadovybės
 skiltis)](https://www.smm.lt/web/lt/contacts)
-:::
 
-::: {#smsm-patarejai .section}
-### Švietimo, mokslo ir sporto ministro patarėjai
+## Švietimo, mokslo ir sporto ministro patarėjai
 
 Švietimo, mokslo ir sporto ministro patarėjai -- padeda ministrui
 suformuoti politines nuostatas ir prioritetus, priimti sprendimus ir
@@ -130,10 +116,8 @@ pasiūlymus, išvadas ir kitą informaciją.
 [Išsamiau su ŠMSM patarėjų ir padėjėjų funkcijomis galite susipažinti
 čia (ministro patarėjų ir
 padėjėjų](https://www.smm.lt/web/lt/contacts) skiltis.
-:::
 
-::: {#smsm-kancleris .section}
-### Švietimo, mokslo ir sporto ministerijos kancleris
+## Švietimo, mokslo ir sporto ministerijos kancleris
 
 Kancleris -- politinio (asmeninio) pasitikėjimo valstybės tarnautojas,
 pavaldus ministrui. Švietimo, mokslo ir sporto ministerijos kancleris
@@ -144,27 +128,22 @@ saugo ministerijos antspaudą ir atsako už jo naudojimą.
 
 [Išsamiau su kanclerio funkcijomis galite susipažinti ŠMSM
 nuostatuose](https://www.smm.lt/web/lt/administracine-informacija/nuostatai)
-:::
 
-::: {#smsm-kiti-skyriai-ir-grupes .section}
-### Kiti skyriai ir grupės
+## Kiti skyriai ir grupės
 
 Kiti skyriai ir grupės -- užtikrina pagrindinių ŠMSM procesų
 įgyvendinimą.
 
 [Plačiau galite susipažinti
 čia](https://www.smm.lt/web/lt/struktura-ir-kontaktai/ministerijos-struktura)
-:::
 
 ![](/img/main/image050.jpg){.img-fluid}
 
-::: {#smsm-departamentai .section}
-### ŠMSM departamentai
+## ŠMSM departamentai
 
 Toliau yra trumpai pristatomi ŠMSM struktūroje esantys departamentai:
 
-::: {#smsm-bendrojo-ugdymo-departamentas .section}
-#### Bendrojo ugdymo departamentas
+### Bendrojo ugdymo departamentas
 
 Formuoja ir įgyvendina valstybinę ikimokyklinio, priešmokyklinio ir
 bendrojo ugdymo politiką, švietimo pagalbos politiką ir dalyvauja
@@ -173,10 +152,8 @@ strategija.
 
 Išsamiau su departamentu galite susipažinti
 [čia](https://www.smm.lt/uploads/contacts/docs/5_daede736d9db353e114f44dade1e1da7.pdf)
-:::
 
-::: {#smsm-svietimo-kokybes-ir-regionines-pletros-departamentas .section}
-#### Švietimo kokybės ir regioninės politikos departamentas
+### Švietimo kokybės ir regioninės politikos departamentas
 
 Dalyvauja kuriant valstybinę švietimo politiką, kartu su savivaldybių
 administracijomis užtikrina švietimo prieinamumą, teikia metodinę
@@ -187,10 +164,8 @@ pertvarkymo, vidurinio ugdymo programų akreditavimo srityse.
 
 Išsamiau su departamentu galite susipažinti
 [čia](https://www.smm.lt/uploads/contacts/docs/11_3e5315a128a1358eb16310779dbb7de6.pdf)
-:::
 
-::: {#studiju-mokslo-ir-technologiju-departamentas .section}
-#### Studijų, mokslo ir technologijų departamentas
+### Studijų, mokslo ir technologijų departamentas
 
 Formuoja ir įgyvendina valstybinę studijų bei mokslinių tyrimų ir
 eksperimentinės plėtros (toliau -- MTEP) politiką, koordinuoja šių
@@ -200,10 +175,8 @@ funkcionavimą.
 
 Išsamiau su departamentu galite susipažinti
 [čia](https://www.smm.lt/uploads/contacts/docs/15_57b81ae1bcad5a4ce5363cdff7c6d82b.pdf)
-:::
 
-::: {#mokymosi-visa-gyvenima-departamentas .section}
-#### Mokymosi visą gyvenimą departamentas
+### Mokymosi visą gyvenimą departamentas
 
 formuoja ir įgyvendina valstybinę mokymosi visą gyvenimą, profesinio
 mokymosi, kvalifikacijų sistemos formavimo bei suaugusiųjų neformaliojo
@@ -211,10 +184,8 @@ mokymosi, kvalifikacijų sistemos formavimo bei suaugusiųjų neformaliojo
 
 Išsamiau su departamentu galite susipažinti
 [čia](https://www.smm.lt/uploads/contacts/docs/123_a83450582697747833d0b83f3b38e04e.pdf)
-:::
 
-::: {#ekonomikos-departamentas .section}
-#### Ekonomikos departamentas
+### Ekonomikos departamentas
 
 tobulina švietimo, mokslo ir studijų finansavimo sistemą, užtikrina
 racionalų išteklių paskirstymą bei naudojimą, įgyvendina veiksmingą
@@ -223,10 +194,8 @@ studijų institucijų materialinę bazę.
 
 Išsamiau su departamentu galite susipažinti
 [čia](https://www.smm.lt/uploads/contacts/docs/22_086ee1f6e951b25a85393232d7fe2761.pdf)
-:::
 
-::: {#tarpt-bendr-ir-europos-integracijos-departamentas .section}
-#### Tarptautinio bendradarbiavimo ir Europos integracijos departamentas
+### Tarptautinio bendradarbiavimo ir Europos integracijos departamentas
 
 koordinuoja tarptautinio bendradarbiavimo švietimo, studijų ir mokslo
 srityje politikos įgyvendinimą, teikia siūlymus dėl tarptautinio
@@ -237,10 +206,8 @@ kuriomis Lietuva glaudžiai bendradarbiauja tarptautinių programų
 
 Išsamiau su departamentu galite susipažinti
 [čia](https://www.smm.lt/uploads/contacts/docs/46_43f40490d14a7064b07cab9cea4065e2.pdf)
-:::
 
-::: {#ES-paramos-koordinavimo-departamentas .section}
-#### Europos Sąjungos paramos koordinavimo departamentas
+### Europos Sąjungos paramos koordinavimo departamentas
 
 formuoja bei įgyvendina ES struktūrinės paramos panaudojimo švietimui ir
 mokslui politiką ir dalyvauja formuojant ES struktūrinės paramos
@@ -248,10 +215,8 @@ programų įgyvendinimą Lietuvoje.
 
 Išsamiau su departamentu galite susipažinti
 [čia](https://www.smm.lt/uploads/contacts/docs/21_b309d70d38b5c77871d84a6d63b59d4f.pdf)
-:::
 
-::: {#teises-ir-administravimo-departamentas .section}
-#### Teisės ir administravimo departamentas
+### Teisės ir administravimo departamentas
 
 užtikrina pateiktų vertinti teisės aktų projektų atitikimą LR įstatymams
 ir kitiems teisės aktams, dalyvauja rengiant įstatymų, Vyriausybės
@@ -260,14 +225,10 @@ priskirtais klausimais.
 
 Išsamiau su departamentu galite susipažinti
 [čia](https://www.smm.lt/uploads/contacts/docs/142_8b331a55450da628852888134005f890.pdf)
-:::
-:::
 
-::: {#smsm-pavaldzios-institucijos .section}
-### ŠMSM pavaldžios institucijos
+## ŠMSM pavaldžios institucijos
 
-::: {#smsm-skvc .section}
-#### Studijų kokybės vertinimo centras
+### Studijų kokybės vertinimo centras
 
 Studijų kokybės vertinimo centras (SKVC), tai LR valstybės biudžetinė
 įstaiga, įgyvendinanti aukštojo mokslo kokybės priežiūros politiką ir
@@ -286,8 +247,7 @@ Išsamiau su SKVC galite susipažinti
 
 Atstovavimo procese verta žinoti ir patariančiąsias SKVC institucijas:
 
-::: {#skvc-apeliacine-komisija .section}
-##### Studijų kokybės vertinimo centro apeliacinė komisija
+#### Studijų kokybės vertinimo centro apeliacinė komisija
 
 Apeliacinė komisija nagrinėja aukštųjų mokyklų pateiktas apeliacijas dėl
 SKVC priimtų sprendimų dėl studijų programų, studijų krypčių, paraiškos
@@ -300,10 +260,8 @@ vertinimą, registravimą, akreditavimą ir apeliavimo tvarką, tobulinimo.
 
 Išsamiau su šia komisija galite susipažinti
 [čia](https://www.e-tar.lt/portal/lt/legalAct/014819f0ebf811e99681cd81dcdca52c)
-:::
 
-::: {#studiju-vertinimo-komisija .section}
-##### Studijų vertinimo komisija
+#### Studijų vertinimo komisija
 
 Studijų vertinimo komisija svarsto ekspertų parengtas studijų programų
 išvadas ir pataria SKVC programų vertinimo klausimais. Komisija
@@ -313,10 +271,8 @@ atstovas.
 
 Išsamiau su šia komisija galite susipažinti
 [čia](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/41e025c2eeb911e99ab7ff5a9ea34fcc?jfwid=-zvxcz1ufq)
-:::
 
-::: {#aukstuju-mokyklu-vertinimo-komisija .section}
-##### Aukštųjų mokyklų vertinimo komisija
+#### Aukštųjų mokyklų vertinimo komisija
 
 Aukštųjų mokyklų vertinimo komisija (AMVK) svarsto SKVC ekspertų
 pateiktas išvadas dėl paraiškų leidimui vykdyti studijas ir su
@@ -329,11 +285,8 @@ studentų atstovas.
 
 Išsamiau su šia komisija galite susipažinti
 [čia](https://www.e-tar.lt/portal/lt/legalAct/c3c55b80321311eabe008ea93139d588/asr)
-:::
-:::
 
-::: {#smpf .section}
-#### Švietimo mainų ir paramos fondas (ŠMPF)
+### Švietimo mainų ir paramos fondas (ŠMPF)
 
 Švietimo mainų ir paramos fondas (ŠMPF) -- Lietuvos nacionalinė
 agentūra, kuriai pavesta administruoti programą „Erasmus+" ir kitas
@@ -345,10 +298,8 @@ Su ŠMPF įstatais galite susipažinti
 
 Išsamiau su ŠMPF galite susipažinti
 [čia](https://www.smpf.lt/lt/)
-:::
 
-::: {#smsm-vsf .section}
-#### Valstybinis studijų fondas (VSF)
+### Valstybinis studijų fondas (VSF)
 
 Valstybinis studijų fondas (VSF) -- biudžetinė įstaiga, administruojanti
 valstybės paskolas, valstybės remiamas paskolas studentams ir mokiniams,
@@ -364,10 +315,8 @@ Su VSF nuostatais galite susipažinti
 
 Išsamiau su VSF galite susipažinti
 [čia](https://vsf.lrv.lt/)
-:::
 
-::: {#nsa .section}
-#### Nacionalinė švietimo agentūra (NŠA)
+### Nacionalinė švietimo agentūra (NŠA)
 
 Nacionalinė švietimo agentūra dalyvauja įgyvendinant valstybinę
 ikimokyklinio, priešmokyklinio, bendrojo ugdymo politiką, skatina
@@ -378,10 +327,8 @@ pagalbą.
 
 Išsamiau su Nacionaline švietimo agentūra galite susipažinti
 [čia](https://www.nsa.smm.lt/)
-:::
 
-::: {#esfa .section}
-#### Europos socialinio fondo agentūra (ESFA)
+### Europos socialinio fondo agentūra (ESFA)
 
 Europos socialinio fondo agentūra (ESFA) -- Agentūra siekia pagerinti
 galimybes įsidarbinti padedant jauniems žmonėms baigus mokyklą
@@ -397,10 +344,8 @@ dirbantiems potencialiems verslininkams.
 
 Išsamiau su ESFA galite susipažinti
 [čia](https://www.esf.lt/lt/)
-:::
 
-::: {#kpmpc .section}
-#### Kvalifikacijų ir profesinio mokymo plėtros centras
+### Kvalifikacijų ir profesinio mokymo plėtros centras
 
 Kvalifikacijų ir profesinio mokymo plėtros centras -- švietimo pagalbos
 įstaiga, teikianti informacinę, ekspertinę, konsultacinę ir
@@ -412,10 +357,8 @@ mokymo dalyvių kvalifikacijos tobulinimą.
 
 Išsamiau su šiuo centru galite susipažinti
 [čia](https://www.kpmpc.lt/kpmpc/)
-:::
 
-::: {#lmnsc .section}
-#### Lietuvos mokinių neformaliojo švietimo centras
+### Lietuvos mokinių neformaliojo švietimo centras
 
 Lietuvos mokinių neformaliojo švietimo centras -- inicijuoja ir
 dalyvauja rengiant teisės aktus, teikia siūlymus, kuria, diegia ir
@@ -425,10 +368,8 @@ vykdymą, teikia metodinę pagalbą.
 
 Išsamiau su šiuo centru galite susipažinti
 [čia](https://www.lmnsc.lt/)
-:::
 
-::: section
-#### Lietuvos vaikų ir jaunimo centras
+### Lietuvos vaikų ir jaunimo centras
 
 Lietuvos vaikų ir jaunimo centras -- centras dalyvauja formuojant
 neformaliojo vaikų švietimo politiką ir ją įgyvendinant -- inicijuoja
@@ -439,20 +380,16 @@ renginius vaikams ir jaunimui.
 
 Išsamiau su šiuo centru galite susipažinti
 [čia](https://lvjc.lt/)
-:::
 
-::: {#melc .section}
-#### Mokslo ir enciklopedijų leidybos centras
+### Mokslo ir enciklopedijų leidybos centras
 
 Mokslo ir enciklopedijų leidybos centras -- valstybinė mokslo leidybos
 įstaiga.
 
 Išsamiau su šiuo centru galite susipažinti
 [čia](https://www.melc.lt/lt/)
-:::
 
-::: {#nvi .section}
-#### Nacionalinis vėžio institutas
+### Nacionalinis vėžio institutas
 
 Nacionalinis vėžio institutas -- instituto misija yra vykdyti valstybei,
 visuomenei, tarptautiniam bendradarbiavimui, ūkio subjektams svarbius
@@ -463,10 +400,8 @@ gretutinių krypčių mokslininkus ir aukštos kvalifikacijos specialistus.
 
 Išsamiau su Nacionaliniu vėžio institutu galite susipažinti
 [čia](https://www.nvi.lt/)
-:::
 
-::: {#vln .section}
-#### Vilniaus lietuvių namai
+### Vilniaus lietuvių namai
 
 Vilniaus lietuvių namai -- dieninė, savarankiško mokymosi bendrojo
 lavinimo gimnazija Vilniuje vykdanti pradinio, pagrindinio, vidurinio ir
@@ -474,10 +409,8 @@ papildomo ugdymo programas, orientuota į užsienio lietuvius.
 
 Išsamiau su Vilniaus lietuvių namais galite susipažinti
 [čia](http://www.lietuviunamai.vilnius.lm.lt/)
-:::
 
-::: {#aikos-svis .section}
-#### AIKOS ir ŠVIS
+### AIKOS ir ŠVIS
 
 AIKOS (atvira informavimo, konsultavimo ir orientavimo sistema) bei ŠVIS
 (Švietimo valdymo informacinė sistema). AIKOS funkcija -- teikti
@@ -492,11 +425,8 @@ AIKOS rasite
 [čia](https://www.aikos.smm.lt/Puslapiai/Pradinis.aspx)
 
 ŠVIS rasite [čia](http://www.svis.smm.lt/)
-:::
-:::
 
-::: {#smsm-komisijos-ir-darbo-grupes .section}
-### Komisijos ir darbo grupės
+## Komisijos ir darbo grupės
 
 Tam tikrais atvejais į ŠMSM formuojamas komisijas bei darbo grupes yra
 deleguojami studentų atstovai iš nacionalinių studentams atstovaujančių
@@ -516,5 +446,3 @@ pasiūlymus švietimo politikai.
 
 Išsamiau su ŠMSM komisijomis bei darbo grupėmis galite susipažinti
 [čia](https://www.smm.lt/web/lt/komisijos-ir-darbo-grupes)
-:::
-:::
