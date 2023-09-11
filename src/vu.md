@@ -1,7 +1,5 @@
 # Vilniaus universitetas
 
-## VU schema
-
 [VU schema](VU)
 
 ### Schemos aprašas
