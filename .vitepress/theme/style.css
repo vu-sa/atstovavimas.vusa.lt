@@ -50,9 +50,10 @@
   --vp-c-default-soft: var(--vp-c-gray-soft);
 
   --vp-c-brand-1: #bd2835;
-  --vp-c-brand-2: #fbb01b;
-  --vp-c-brand-3: #41d1ff;
-  --vp-c-brand-soft: rgba(65, 209, 255, 0.1);
+  --vp-c-brand-2: #a8242f;
+  --vp-c-brand-3: rgba(190, 44, 59, 1);
+  --vp-c-brand-4: #fbb01b;
+  --vp-c-brand-soft: rgba(210, 44, 59, 0.1);
 
   --vp-c-tip-1: var(--vp-c-brand-1);
   --vp-c-tip-2: var(--vp-c-brand-2);
@@ -94,8 +95,8 @@
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
     120deg,
-    #bd34fe 30%,
-    #41d1ff
+    #df9604 30%,
+    #7e1b23
   );
 
   --vp-home-hero-image-background-image: linear-gradient(
@@ -137,13 +138,31 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+/* Overriden */
+
+
+
 /* Custom */
 
 abbr {
   text-decoration-style: dotted;
   text-decoration-line: underline;
+  position: relative;
 }
 
 abbr:hover {
   cursor: help;
+}
+
+/* appear after on hover */
+
+abbr::after {
+  content: attr(title);
+  background-color: var(--vp-c-gray-2);
+  color: var(--vp-black);
+  @apply absolute p-2 rounded-sm -top-8 left-12 text-sm duration-100 invisible opacity-0;
+}
+
+abbr:hover::after {
+  @apply opacity-100 visible;
 }
