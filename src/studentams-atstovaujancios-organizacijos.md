@@ -4,7 +4,7 @@
 
 ## VU SA
 
-Vilniaus universiteto Studentų atstovybė (VU SA) -- seniausia ir
+Vilniaus universiteto Studentų atstovybė (VU SA) – seniausia ir
 didžiausia Lietuvoje visuomeninė, ne pelno siekianti, nepolitinė,
 ekspertinė švietimo organizacija, atstovaujanti studentų interesams
 Vilniaus universitete bei už jo ribų, puoselėjanti universitetinę

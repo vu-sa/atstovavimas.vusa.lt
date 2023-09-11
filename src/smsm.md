@@ -66,13 +66,13 @@ neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymo
 Išsamiau galite susipažinti
 [čia](https://www.smm.lt/uploads/contacts/docs/125_02e6278ec24278c874c9dfeb650070d7.pdf)
 
-Šios įstaigos veikla yra planuojama -- yra tvirtinami strateginiai,
+Šios įstaigos veikla yra planuojama – yra tvirtinami strateginiai,
 metiniai veiklos planai bei kiti planavimo dokumentai, kurie yra viešai
 prieinami ministerijos interneto svetainėje.
 
 ## Švietimo, mokslo ir sporto ministras
 
-Švietimo, mokslo ir sporto ministras -- remiantis LR Vyriausybės
+Švietimo, mokslo ir sporto ministras – remiantis LR Vyriausybės
 įstatymu ir LR Vyriausybės nutarimu „Dėl ministrams pavedamų valdymo
 sričių", ŠMSM ministras yra atsakingas už švietimo, mokslo bei sporto
 sritis ir vadovauja ministerijai, užtikrina teisės aktų įgyvendinimą,
@@ -92,11 +92,11 @@ galite susipažinti
 
 ## Švietimo, mokslo ir sporto viceministrai
 
-Švietimo, mokslo ir sporto viceministrai -- viceministrai ŠMSM ministro
+Švietimo, mokslo ir sporto viceministrai – viceministrai ŠMSM ministro
 nustatytose veiklos srityse atlieka Vyriausybės įstatyme nustatytas
 funkcijas. Kadangi viceministrų skaičius ir funkcijos gali skirtis tarp
 kadencijų, iliustruojant 2020--2024 m. pavyzdžiu keturių viceministrų
-veiklos laukai buvo šie -- studijų, mokslo ir technologijų klausimai;
+veiklos laukai buvo šie – studijų, mokslo ir technologijų klausimai;
 ikimokyklinio, priešmokyklinio ir bendrojo ugdymo klausimai; fizinio
 aktyvumo ir aukšto meistriškumo mokslo klausimai; profesinio mokymo ir
 orientavimo klausimai.
@@ -107,7 +107,7 @@ skiltis)](https://www.smm.lt/web/lt/contacts)
 
 ## Švietimo, mokslo ir sporto ministro patarėjai
 
-Švietimo, mokslo ir sporto ministro patarėjai -- padeda ministrui
+Švietimo, mokslo ir sporto ministro patarėjai – padeda ministrui
 suformuoti politines nuostatas ir prioritetus, priimti sprendimus ir
 juos įgyvendinti. Ministras savo įgaliojimų laikotarpiu gali turėti
 visuomeninių konsultantų, kurie jo prašymu teikia jam konsultacijas,
@@ -119,7 +119,7 @@ padėjėjų](https://www.smm.lt/web/lt/contacts) skiltis.
 
 ## Švietimo, mokslo ir sporto ministerijos kancleris
 
-Kancleris -- politinio (asmeninio) pasitikėjimo valstybės tarnautojas,
+Kancleris – politinio (asmeninio) pasitikėjimo valstybės tarnautojas,
 pavaldus ministrui. Švietimo, mokslo ir sporto ministerijos kancleris
 atlieka Vyriausybės įstatyme nustatytas, kitų įstatymų, Vyriausybės
 nutarimų ir ministro pavestas funkcijas. ŠMSM kancleris vadovauja
@@ -131,7 +131,7 @@ nuostatuose](https://www.smm.lt/web/lt/administracine-informacija/nuostatai)
 
 ## Kiti skyriai ir grupės
 
-Kiti skyriai ir grupės -- užtikrina pagrindinių ŠMSM procesų
+Kiti skyriai ir grupės – užtikrina pagrindinių ŠMSM procesų
 įgyvendinimą.
 
 [Plačiau galite susipažinti
@@ -168,7 +168,7 @@ Išsamiau su departamentu galite susipažinti
 ### Studijų, mokslo ir technologijų departamentas
 
 Formuoja ir įgyvendina valstybinę studijų bei mokslinių tyrimų ir
-eksperimentinės plėtros (toliau -- MTEP) politiką, koordinuoja šių
+eksperimentinės plėtros (toliau – MTEP) politiką, koordinuoja šių
 sričių veiklą, skatina bendradarbiavimą studijų ir MTEP srityse,
 užtikrina tęstinio mokymosi ir suaugusiųjų švietimo sistemos
 funkcionavimą.
@@ -288,7 +288,7 @@ Išsamiau su šia komisija galite susipažinti
 
 ### Švietimo mainų ir paramos fondas (ŠMPF)
 
-Švietimo mainų ir paramos fondas (ŠMPF) -- Lietuvos nacionalinė
+Švietimo mainų ir paramos fondas (ŠMPF) – Lietuvos nacionalinė
 agentūra, kuriai pavesta administruoti programą „Erasmus+" ir kitas
 Europos Komisijos (EK) ir Lietuvos Respublikos Vyriausybės finansuojamas
 iniciatyvas švietimo ir mokymo srityje.
@@ -301,12 +301,12 @@ Išsamiau su ŠMPF galite susipažinti
 
 ### Valstybinis studijų fondas (VSF)
 
-Valstybinis studijų fondas (VSF) -- biudžetinė įstaiga, administruojanti
+Valstybinis studijų fondas (VSF) – biudžetinė įstaiga, administruojanti
 valstybės paskolas, valstybės remiamas paskolas studentams ir mokiniams,
 kurie mokosi pagal formaliojo profesinio mokymo programas, kitą
 finansinę paramą studentams ir profesiniam mokymui vykdyti, lėšas
 studentų pilietiniams, moksliniams, verslumo, kūrybiniams ir sportiniams
-projektams vykdyti. Fondo veiklos uždaviniai -- įgyvendinti švietimo
+projektams vykdyti. Fondo veiklos uždaviniai – įgyvendinti švietimo
 politiką, siekti aukštojo mokslo ir profesinio mokymo kokybės ir
 prieinamumo, administruojant šiam tikslui skirtus valstybės išteklius.
 
@@ -330,7 +330,7 @@ Išsamiau su Nacionaline švietimo agentūra galite susipažinti
 
 ### Europos socialinio fondo agentūra (ESFA)
 
-Europos socialinio fondo agentūra (ESFA) -- Agentūra siekia pagerinti
+Europos socialinio fondo agentūra (ESFA) – Agentūra siekia pagerinti
 galimybes įsidarbinti padedant jauniems žmonėms baigus mokyklą
 integruotis į darbo rinką arba apmokant mažiau kvalifikuotus darbo
 ieškančius asmenis. Ji skelbia ministerijų patvirtintus kvietimus teikti
@@ -338,8 +338,8 @@ paraiškas, konsultuoja pareiškėjus, vertina paraiškas, rengia paramos
 sutartis, prižiūri projektų įgyvendinimą. Daugelio ESFA projektų
 pagrindinis tikslas yra profesinis mokymas ir mokymosi visą gyvenimą
 galimybės siekiant suteikti žmonėms naujų gebėjimų. ESFA projektai
-skirti švietimo sistemoms, mokytojams ir mokiniams, kiti -- jauniems ar
-pagyvenusiems darbo ieškantiems asmenims, treti -- įvairiomis sąlygomis
+skirti švietimo sistemoms, mokytojams ir mokiniams, kiti – jauniems ar
+pagyvenusiems darbo ieškantiems asmenims, treti – įvairiomis sąlygomis
 dirbantiems potencialiems verslininkams.
 
 Išsamiau su ESFA galite susipažinti
@@ -347,7 +347,7 @@ Išsamiau su ESFA galite susipažinti
 
 ### Kvalifikacijų ir profesinio mokymo plėtros centras
 
-Kvalifikacijų ir profesinio mokymo plėtros centras -- švietimo pagalbos
+Kvalifikacijų ir profesinio mokymo plėtros centras – švietimo pagalbos
 įstaiga, teikianti informacinę, ekspertinę, konsultacinę ir
 kvalifikacijos tobulinimo pagalbą, įgyvendinanti valstybinę profesinio
 mokymo ir mokymosi visą gyvenimą sistemų plėtros politiką. Ši įstaiga
@@ -360,7 +360,7 @@ Išsamiau su šiuo centru galite susipažinti
 
 ### Lietuvos mokinių neformaliojo švietimo centras
 
-Lietuvos mokinių neformaliojo švietimo centras -- inicijuoja ir
+Lietuvos mokinių neformaliojo švietimo centras – inicijuoja ir
 dalyvauja rengiant teisės aktus, teikia siūlymus, kuria, diegia ir
 skleidžia inovacijas neformaliojo vaikų švietimo politikos klausimais,
 rengia mokytojų kvalifikacijos tobulinimo programas ir organizuoja jų
@@ -371,8 +371,8 @@ Išsamiau su šiuo centru galite susipažinti
 
 ### Lietuvos vaikų ir jaunimo centras
 
-Lietuvos vaikų ir jaunimo centras -- centras dalyvauja formuojant
-neformaliojo vaikų švietimo politiką ir ją įgyvendinant -- inicijuoja
+Lietuvos vaikų ir jaunimo centras – centras dalyvauja formuojant
+neformaliojo vaikų švietimo politiką ir ją įgyvendinant – inicijuoja
 teisės aktų projektų rengimą neformaliojo vaikų švietimo srityje,
 koordinuoja šioje srityje dirbančių mokytojų kvalifikacijos tobulinimą,
 organizuoja neformaliojo švietimo nacionalinius bei tarptautinius
@@ -383,7 +383,7 @@ Išsamiau su šiuo centru galite susipažinti
 
 ### Mokslo ir enciklopedijų leidybos centras
 
-Mokslo ir enciklopedijų leidybos centras -- valstybinė mokslo leidybos
+Mokslo ir enciklopedijų leidybos centras – valstybinė mokslo leidybos
 įstaiga.
 
 Išsamiau su šiuo centru galite susipažinti
@@ -391,7 +391,7 @@ Išsamiau su šiuo centru galite susipažinti
 
 ### Nacionalinis vėžio institutas
 
-Nacionalinis vėžio institutas -- instituto misija yra vykdyti valstybei,
+Nacionalinis vėžio institutas – instituto misija yra vykdyti valstybei,
 visuomenei, tarptautiniam bendradarbiavimui, ūkio subjektams svarbius
 ilgalaikius mokslinius tyrimus ir eksperimentinę plėtrą, siekiant
 pagerinti onkologinių pacientų diagnostikos, gydymo ir profilaktikos
@@ -403,7 +403,7 @@ Išsamiau su Nacionaliniu vėžio institutu galite susipažinti
 
 ### Vilniaus lietuvių namai
 
-Vilniaus lietuvių namai -- dieninė, savarankiško mokymosi bendrojo
+Vilniaus lietuvių namai – dieninė, savarankiško mokymosi bendrojo
 lavinimo gimnazija Vilniuje vykdanti pradinio, pagrindinio, vidurinio ir
 papildomo ugdymo programas, orientuota į užsienio lietuvius.
 
@@ -413,7 +413,7 @@ Išsamiau su Vilniaus lietuvių namais galite susipažinti
 ### AIKOS ir ŠVIS
 
 AIKOS (atvira informavimo, konsultavimo ir orientavimo sistema) bei ŠVIS
-(Švietimo valdymo informacinė sistema). AIKOS funkcija -- teikti
+(Švietimo valdymo informacinė sistema). AIKOS funkcija – teikti
 informaciją apie mokymosi galimybes Lietuvoje. Tuo tarpu ŠVIS kaupiami
 duomenys apie ikimokyklinį, pradinį, pagrindinį, vidurinį ugdymą,
 profesinį mokymą bei studijas. Duomenys naudojami skaičiuoti rodikliams,

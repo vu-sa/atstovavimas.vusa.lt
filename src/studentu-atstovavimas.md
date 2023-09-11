@@ -26,7 +26,7 @@ reikalaujantis aiškaus tikslo, detalaus susiplanavimo, jau turimų bei
 papildomai surinktų duomenų analizės ir loginio mąstymo gebėjimų.
 
 Dažnu atveju, remiantis gerosiomis užsienio patirtimis, šis procesas
-vyksta koordinuotai -- studentų atstovai visuose žingsniuose
+vyksta koordinuotai – studentų atstovai visuose žingsniuose
 bendradarbiauja su jų veiklą koordinuojančiu asmeniu, kuris konsultuoja
 atstovavimo klausimais, teikia reikiamą metodinę medžiagą, pagal poreikį
 organizuoja kompetencijų kėlimo užsiėmimus ir stebi bei registruoja
@@ -58,7 +58,7 @@ alt="Problemos sprendimo eiga" />
 
 ### 2.1. Situacijos analizė ir problemos identifikavimas
 
-Pirmiausia atliekama situacijos analizė -- identifikuojama jau esama
+Pirmiausia atliekama situacijos analizė – identifikuojama jau esama
 teisinė bazė, bandoma surasti naudingos informacijos, bendraujama su
 studentų atstovais ir suinteresuotosiomis šalimis, kurios yra susijusios
 su inicijuojamu pakeitimu. Atlikus šią analizę matoma visa reali
@@ -76,15 +76,15 @@ kuris yra sąlygojamas suinteresuotųjų šalių. Šiame etape galima
 vadovautis SMART principu, kuris formuluojamam tikslui kelia šiuos
 reikalavimus, t.y., nurodo, koks turėtų būti tikslas:
 
--   Konkretus -- formuluotė aiški bei suprantama, yra akivaizdu, ko
+-   Konkretus – formuluotė aiški bei suprantama, yra akivaizdu, ko
     norima konkrečiai pasiekti;
--   Išmatuojamas -- aiškiai įvardinta, kokius rodiklius ar kriterijus
+-   Išmatuojamas – aiškiai įvardinta, kokius rodiklius ar kriterijus
     matuosime po numatyto termino. Kitaip tariant, turi būti aišku, kada
     tikslas bus pasiektas ne tik laiko, bet ir rezultato atžvilgiu;
--   Įgyvendinamas -- realus rezultato pasiekiamumas, t.y., realu
+-   Įgyvendinamas – realus rezultato pasiekiamumas, t.y., realu
     pasiekti išsikeltą tikslą;
--   Prasmingas -- siekiama aktualaus, esmingo pokyčio;
--   Apibrėžtas laike -- aiškiai apibrėžta tikslo įgyvendinimo pradžia ir
+-   Prasmingas – siekiama aktualaus, esmingo pokyčio;
+-   Apibrėžtas laike – aiškiai apibrėžta tikslo įgyvendinimo pradžia ir
     pabaiga.
 
 Tikslas turi būti tik **vienas**. Rekomenduojama tikslą formuluoti taip,
@@ -98,17 +98,17 @@ nusimatomi tikslo įgyvendinimo uždaviniai. Veiksmai, turėtų padėti
 panaikinti problemos kilimo priežastis, atitinkamai panaudojant
 informaciją surinktą pirmą žingsnyje.
 
-  Nr.   Veikla problemai spręsti   Terminas, iki kada veikla atlikta   Atsakingas už veiklą asmuo   Kaip įsitikinti, kad veikla padaryta?
-  ----- -------------------------- ----------------------------------- ---------------------------- ---------------------------------------
-  1\.
-  2\.
+| Nr. | Veikla problemai spręsti | Terminas, iki kada veikla atlikta | Atsakingas už veiklą asmuo | Kaip įsitikinti, kad veikla padaryta? |
+| --- | ------------------------ | --------------------------------- | -------------------------- | ------------------------------------- |
+| 1\. |                          |                                   |                            |
+| 2\. |                          |                                   |                            |
 
-  : Problemos sprendimų veiksmų plano lentelė.
+<small>Problemos sprendimų veiksmų plano lentelė.</small>
 
 ### 2.4. Rizikos
 
 Sukūrus problemos sprendimo veiksmų planą svarbu įsivertinti, kokios
-rizikos gali iškilti įgyvendinant veiklas. Rizika -- įvykis, kuris su
+rizikos gali iškilti įgyvendinant veiklas. Rizika – įvykis, kuris su
 tam tikra tikimybe gali įvykti problemos sprendimo vykdymo metu ir
 neigiamai paveikti problemos sprendimo veiksmų įgyvendinimą. Galima
 parašyti riziką kiekvienam veiksmui iš veiksmų lentelės arba nusimatyti
@@ -117,12 +117,12 @@ nusimatyti esmines. Rizikos, kurių galimas poveikis ir tikimybė yra
 dideli, neturėtų likti šioje lentelėje ir pagal tokias rizikas turi būti
 koreguojamas problemos sprendimo veiksmų planas.
 
-  Rizika   Galimas rizikos poveikis (didelis, mažas, vidutinis)   Tikimybė, kad rizika įvyks (didelė, maža, vidutinė)   Ką daryti, kad rizika nepasiteisintų (neįvyktų)?   Ką daryti, rizikai pasiteisinus (įvykus)?
-  -------- ------------------------------------------------------ ----------------------------------------------------- -------------------------------------------------- -------------------------------------------
-  1\.
-  2\.
+| Rizika | Galimas rizikos poveikis (didelis, mažas, vidutinis) | Tikimybė, kad rizika įvyks (didelė, maža, vidutinė) | Ką daryti, kad rizika nepasiteisintų (neįvyktų)? | Ką daryti, rizikai pasiteisinus (įvykus)? |
+| ------ | ---------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------ | ----------------------------------------- |
+| 1\.    |                                                      |                                                     |                                                  |                                           |
+| 2\.    |                                                      |                                                     |                                                  |                                           |
 
-  : Rizikų lentelė.
+<small>Rizikų lentelė.</small>
 
 ### 2.5. Įgyvendinimas
 
@@ -138,7 +138,7 @@ problemos analizei pasitelkiame antrinius duomenis iš jau esamų šaltinių
 poreikiui gilesnei problemos analizei inicijuojame pirminių duomenų
 rinkimą.
 
-Studentų nuomonės rinkimo iniciatyvumas gali būti dvejopas -- nuomonė
+Studentų nuomonės rinkimo iniciatyvumas gali būti dvejopas – nuomonė
 gali būti renkama reaktyviai (kai to reikalauja išorinės paskatos) arba
 proaktyviai (nepaisant išorinių paskatų siekiant patikrinti problemų
 (ne)buvimą tam tikru klausimu). Yra įvairių kiekybinių bei kokybinių
@@ -147,7 +147,7 @@ dažniausi studentų atstovavimo kontekste yra naudojami šie trys: focus
 grupė, anketavimas arba mišrusis būdas (focus grupės ir anketavimo
 derinys).
 
-Focus grupė -- tai yra fizinis (arba virtualus) susitikimas su
+Focus grupė – tai yra fizinis (arba virtualus) susitikimas su
 studentais, kurį moderuoja studentų atstovas ir kuris yra
 protokoluojamas siekiant pažymėti dalyvių išsakytas mintis. Šis formatas
 yra naudingas tuo, jog juo įmanoma užtikrinti daugiau kokybinių duomenų,
@@ -173,8 +173,8 @@ Surinkus duomenis galima pereiti prie jų analizavimo ir apipavidalinimo.
 Šie du veiksmai yra tiek ir susiję tarpusavyje, tiek ir priklausomi nuo
 taikyto duomenų rinkimo metodo. Be to, kadangi neretai gautų duomenų yra
 nemažai, analizuojant ir apipavidalinant duomenys yra pasitelkiama
-įvairi programinė įranga -- SPSS, „Microsoft Excel" ir t.t. Pirmasis
-žingsnis analizuojant duomenis būtų jų paruošimas apdorojimui -- taikius
+įvairi programinė įranga – SPSS, „Microsoft Excel" ir t.t. Pirmasis
+žingsnis analizuojant duomenis būtų jų paruošimas apdorojimui – taikius
 kiekybinius metodus šį etapą apima duomenų „valymas" ir filtravimas, o
 taikius kokybinius metodus yra transkribuojami įrašai (jeigu buvo
 įrašytas garsas) ir išplečiami užrašai. Pavyzdžiui, paprastoje
@@ -191,7 +191,7 @@ sakiniais, bet turi tą pačią pagrindinę mintį. Kokybinės duomenų analizė
 skirstoma į turinio ir diskurso analizę. Turinio analizėje duomenys yra
 skirstomi į kategorijas pagal panašius pasisakymus arba temas žodžių,
 frazių arba pastraipų lygmeniu. Diskurso analizėje yra akcentuojama
-išraiškų prasmė -- teigiama, kad net ir nedideli frazių skirtumai gali
+išraiškų prasmė – teigiama, kad net ir nedideli frazių skirtumai gali
 pakeisti prasmę, tad duomenys yra tiriami kur kas smulkiau.
 
 Kad ir koks duomenų analizavimo metodas būtų pasirinktas, apipavidalinti
@@ -210,7 +210,7 @@ talpyklas siekiant užtikrinti institucinę atmintį.
 Turint apipavidalintus duomenis studentų atstovai turi suformuoti
 pristatymus, pasiūlymus ar rekomendacijas ir jas pateikti atitinkamai
 institucijai. Atstovaujant studentų interesams dažnai studentų atstovams
-tenka pasitelkti advokaciją -- ją galime suprasti kaip bet kokius
+tenka pasitelkti advokaciją – ją galime suprasti kaip bet kokius
 veiksmus, kai pasisakoma už tam tikros socialinės grupės teises ir
 interesus, yra teikiamos rekomendacijos, palaikomos ar ginamos teisės,
 ar kalbama kurios nors konkrečios socialinės grupės vardu.
@@ -219,7 +219,7 @@ Toliau yra pateikiamas advokacijos planas, kuris padės pasiruošti nešti
 studentų nuomonę ir daryti įtaką sprendimų priėmimui vietiniu,
 regioniniu ir nacionaliniu lygmeniu:
 
-### 1. Pasiruošimas problemos pristatymui {#flush-headingOne .accordion-header}
+### 1. Pasiruošimas problemos pristatymui
 
 Visų pirma reikia pasiruošti perteikti sprendžiamo klausimo problematiką
 -- kokia yra esama situacija, kuo ji yra netinkama ir ką tai lemia.
@@ -227,24 +227,24 @@ Rekomenduotina atsakymus į šiuos klausimus pagrįsti surinktais
 duomenimis bei apklausų analize, taip pat įvardinti, kas šiuo metu
 trukdo turėti jūsų norimą situaciją.
 
-### 2. Plano „minimum" ir plano „maksimum" susiformavimas {#flush-headingTwo .accordion-header}
+### 2. Plano „minimum" ir plano „maksimum" susiformavimas
 
 Ne visada pavyksta pasiekti nusimatyto pokyčio ir šiame momente gali
-kilti klausimas -- ar vadovautis logika „viskas arba nieko"? Tam, kad
+kilti klausimas – ar vadovautis logika „viskas arba nieko"? Tam, kad
 pateikus pasiūlymą suinteresuotoms institucijoms ir gavus iš jų neigiamą
 atsakymą nebūtų iš karto nuleidžiamos rankos, rekomenduojama iš anksto
-nusimatyti du galimus scenarijų ekstremumus -- pirmasis iš jų yra ideali
+nusimatyti du galimus scenarijų ekstremumus – pirmasis iš jų yra ideali
 situacija (planas „maksimum"), o antrasis yra patenkinama situacija
 (planas „minimum"). Tokių rėmų nustatymas gali padėti kritiniuose
 taškuose pakreipti klausimo nagrinėjimą į vieną ar kitą pusę, kas padėtų
 pasiekti arba maksimalaus užsibrėžto rezultato, arba pasiekti bent kokį
-nors rezultatą. Šių planų sudarymui nėra griežtų taisyklių -- kartais
+nors rezultatą. Šių planų sudarymui nėra griežtų taisyklių – kartais
 planu „minimum" gali būti ir klausimo aptarimas atitinkamos institucijos
 posėdyje. Svarbiausia yra nebent tai, kad minimalus siekiamas rezultatas
 sukurtų galimybę su tam tikru klausimu dirbti ateityje, jeigu dabar to
 neįmanoma padaryti.
 
-### 3. Tikslinių grupių nustatymas {#flush-headingThree .accordion-header}
+### 3. Tikslinių grupių nustatymas
 
 Pasiekti vienam ar kitam pokyčiui dažnai reikia įtikinti tam tikrus
 asmenis ar jų grupes pritarti teikiamiems siūlymams, dėl to nešant
@@ -260,7 +260,7 @@ studentų nuomonę pasinaudoti visais kanalais, kuriuos turite tiems
 asmenims ar grupėms pasiekti (asmeninės pažintys, formalūs procesai,
 kita).
 
-### 4. Paramos kūrimas {#flush-headingFour .accordion-header}
+### 4. Paramos kūrimas
 
 Nusistačius tikslines grupes galima įvertinti, kokį ir kokio stiprumo
 palaikymą savo tikslui galite mobilizuoti, taip pat ar galite remtis
@@ -271,7 +271,7 @@ dėlto juos dar reikia įtikinti. Ieškant naujų sąjungininkų pravartu
 žinoti, ką įtikinti lengviausia, o ką sunkiausia, kas prisijungs tik tuo
 atveju, jei pirma įtikinsite jų draugus.
 
-### 5. Žinutės formulavimas {#flush-headingFive .accordion-header}
+### 5. Žinutės formulavimas
 
 Siekiant įtikinti palaikyti studentų atstovų poziciją kreipiantis į
 skirtingus asmenis bei grupes reikėtų įsivertinti žinutes, kurias nešate
@@ -283,7 +283,7 @@ kaip auditorija reaguos į jūsų žinutes, ar jūsų naudojama kalba nesukels
 sunkumų atitinkamai auditorijai ją suprantant, ar nėra per daug (arba
 per mažai) emocinės kalbos ir faktų, paremiančių siūlymus.
 
-### 6. Komunikacijos kanalų nustatymas {#flush-headingSix .accordion-header}
+### 6. Komunikacijos kanalų nustatymas
 
 Tam, kad klausimas būtų aktualizuotas, būtų įtikinti skirtingi asmenys
 ar grupės ir būtų prieita prie keliamų problemų išsprendimo, gali tekti
@@ -300,14 +300,14 @@ kontekstą. Nusimatant veiksmus svarbu žinoti, kiek laiko turėsite
 komunikacijai, kokie kanalai būtų labiausiai girdimi / matomi jūsų
 auditorijos bei kiek šiems veiksmams išteklių turite.
 
-### 7. Veiksmų plano parengimas {#flush-headingSeven .accordion-header}
+### 7. Veiksmų plano parengimas
 
 Pristatant problematiką bei jos siūlomus sprendimus pagal atitinkamą
 instituciją reikėtų pasirinkti ir pačią pristatymo formą bei nusimatyti
 kitų savo veiksmų planą.
 
 Ar tai būtų mažiau formalus pristatymas skaidrių pavidalu, ar formalus
-dokumentas, kaip antai raštas, pozicija ar rezoliucija -- pristatomas
+dokumentas, kaip antai raštas, pozicija ar rezoliucija – pristatomas
 dokumentas privalo turėti aiškią ir pastovią struktūrą, kurioje turėtų
 būti pateikiama esama situacija ir jos problematika, apibendrintas
 nuomonės rinkimo procesas (jeigu buvo rinkta studentų nuomonė), gauti
@@ -316,7 +316,7 @@ problemos. Jeigu yra galimybė ir norima kuo paveikiau pristatyti
 problemas, galima ir argumentuoti, kodėl kalbate būtent apie šias
 problemas argumentaciją pakreipiant taip, kad ji atlieptų suinteresuotų
 asmenų ir grupių vertybes bei interesus. Esminė pristatymo vieta --
-pasiūlymai problemoms spręsti -- turi būti aiškiai suprantami ir
+pasiūlymai problemoms spręsti – turi būti aiškiai suprantami ir
 logiški, atliepti pristatytų problemų sprendimą ir būti įgyvendinami.
 Pristatymo eigoje pravartu vengti buitinių žodžių, pateikiamuose
 dokumentuose nepalikti gramatikos ar stiliaus klaidų, argumentuojant
@@ -333,7 +333,7 @@ veiksmai, ar jie pasiekia užsibrėžtus uždavinius, padeda judėti tikslo
 link. Remiantis susidariusiomis situacijomis klausimo sprendimo eigoje
 koreguokite ir numatytus veiksmus, jeigu reikia, imkitės nenumatytų, bet
 naudingų priemonių argumentams pagrįsti ir aktualizuoti problematikai ir
-pateikti savo pasiūlymus. Atlikę visus žingsnius įsivertinkite -- kaip
+pateikti savo pasiūlymus. Atlikę visus žingsnius įsivertinkite – kaip
 buvo sureaguota į pateiktus argumentus ir siūlymus, kokie komentarai
 išsakyti, ar priimti sprendimai patenkina jūsų lūkesčius problemai
 spręsti, ar reikėtų veikti toliau.
@@ -341,7 +341,7 @@ spręsti, ar reikėtų veikti toliau.
 ### Atsiskaitymas studentams
 
 Kad ir kokie buvo įdėto darbo rezultatai, visada reikėtų tinkamai
-atsiskaityti studentams -- pristatyti, kokia problema buvo spręsta,
+atsiskaityti studentams – pristatyti, kokia problema buvo spręsta,
 kokie studentų nuomonės tyrimo rezultatai, kokie buvo studentų atstovų
 siūlyti pokyčiai ir kokie sprendimai (ne)buvo priimti. Jeigu galima
 dalintis informacija dar nepriėjus tam tikrų institucijų sprendimų

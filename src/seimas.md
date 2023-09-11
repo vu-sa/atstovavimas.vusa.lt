@@ -124,7 +124,7 @@ Išsamiau susipažinti galite
 
 Seime veikia Seniūnų sueiga, į kurią įeina Seimo valdybos nariai ir
 frakcijų atstovai, kurių skaičius proporcingas frakcijų narių skaičiui.
-Pagrindinis Seniūnų sueigos uždavinys --svarstyti Seimo sesijos darbų
+Pagrindinis Seniūnų sueigos uždavinys –svarstyti Seimo sesijos darbų
 programas bei posėdžių darbotvarkes, derinti Seimo komitetų ir frakcijų
 darbo organizavimo klausimus, teikti sprendimų šiais klausimais
 projektus Seimui bei valdybai, taip pat patarimus Seimo Pirmininkui.

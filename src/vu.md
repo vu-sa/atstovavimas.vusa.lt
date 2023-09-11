@@ -9,7 +9,7 @@ Statutu ir kitais vidiniais veiklos dokumentais ir teisės aktais, jie
 pasiekiami
 [čia](https://www.vu.lt/apiemus/dokumentai#strateginiai-veiklos-planai).
 
-Vilniaus universitetas -- seniausia šalies nacionalinės reikšmės mokslo
+Vilniaus universitetas – seniausia šalies nacionalinės reikšmės mokslo
 ir studijų institucija. Universitetas turi Lietuvos Respublikos
 Konstitucijos, Lietuvos Respublikos mokslo ir studijų įstatymo ir savo
 Statuto laiduojamą autonomiją, visais galimais teisėtais būdais ir
@@ -73,11 +73,11 @@ atitinkamos srities klausimus bei teikia išvadas Senatui.
 
 Šiuo metu Senate veikia 3 nuolatiniai komitetai:
 
--   **Studijų komitetas** -- nagrinėja klausimus, susijusius su studijų
+-   **Studijų komitetas** – nagrinėja klausimus, susijusius su studijų
     vykdymu ir kokybe Vilniaus universitete.
--   **Mokslo komitetas** -- nagrinėja klausimus, susijusius su mokslo
+-   **Mokslo komitetas** – nagrinėja klausimus, susijusius su mokslo
     vykdymu bei plėtra Vilniaus universitete.
--   **Kokybės ir plėtros komitetas** -- kontroliuoja, kaip veikia
+-   **Kokybės ir plėtros komitetas** – kontroliuoja, kaip veikia
     studijų kokybės užtikrinimo sistema, nagrinėja su Vilniaus
     universiteto vidaus išteklių paskirstymu, plėtra susijusius
     klausimus.
@@ -101,30 +101,30 @@ Senatui.
 
 Šiuo metu yra 7 Senato komisijos:
 
--   Centrinė rinkimų komisija -- kuria VU valdymo organų rinkimų tvarką
+-   Centrinė rinkimų komisija – kuria VU valdymo organų rinkimų tvarką
     ir užtikrina skaidrius bei tinkamus VU valdymo organų rinkimus.
     Veikloje vadovaujasi: [šiais
     nuostatais](https://www.vu.lt/site_files/VUCentrinesrinkimukomisijosnuostatai.pdf).
--   Centrinė akademinės etikos komisija -- sprendžia ginčus bei
+-   Centrinė akademinės etikos komisija – sprendžia ginčus bei
     klausimus, susijusius su akademinės etikos pažeidimais, kuria ir
     nuolatos atnaujina VU akademinės etikos kodeksą. Veikloje
     vadovaujasi: [šiais
     dokumentais](https://www.vu.lt/apiemus/dokumentai#akademine-etika).
--   Centrinė ginčų nagrinėjimo komisija -- nagrinėja skundus bei
+-   Centrinė ginčų nagrinėjimo komisija – nagrinėja skundus bei
     pareiškimus tarp Universiteto bendruomenės narių, nesusijusius su
     akademinės etikos pažeidimais. Veikloje vadovaujasi: [šiais
     dokumentais](https://www.vu.lt/apiemus/dokumentai#akademine-etika).
--   Akademinio protokolo komisija -- kuria ir nuolatos atnaujina
+-   Akademinio protokolo komisija – kuria ir nuolatos atnaujina
     akademinių apeigų protokolą bei akademinių renginių aprašus.
     Veikloje vadovaujasi [šiuo
     protokolu](https://www.vu.lt/site_files/Akademiniu_apeigu_protokolas.pdf).
--   Emeritūros, afiliacijos ir garbės vardų komisija -- svarsto ir
+-   Emeritūros, afiliacijos ir garbės vardų komisija – svarsto ir
     teikia Senatui tvirtinti kandidatūras gauti Universiteto
     profesoriaus emerito, afiliuotojo profesoriaus, docento, mokslo
     darbuotojo bei garbės daktaro, alumni, mecenato vardus. Veikloje
     vadovaujasi [šiais
     nuostatais](https://www.vu.lt/site_files/Emerituros_afiliacijos_ir_garbes_vardu_nuostatai.pdf).
--   Bendrųjų universitetinių studijų komisija -- nagrinėja naujai
+-   Bendrųjų universitetinių studijų komisija – nagrinėja naujai
     teikiamų bendrųjų universitetinių studijų modulius, teikia išvadas
     dėl jų atitikimo bendrųjų universitetinių studijų koncepcijai, kuri
     vėliau tvirtinimui yra teikiama Senatui ir atlieka šių modulių
@@ -134,9 +134,9 @@ Senatui.
 ### Rektoriaus komanda (Mažasis rektoratas)
 
 **Vicerektorius (-ė)** - Rektoriaus teikimu vieną iš prorektorių Taryba
-skiria eiti pirmojo prorektoriaus -- vicerektoriaus -- pareigas.
+skiria eiti pirmojo prorektoriaus – vicerektoriaus  – areigas.
 
-Prorektoriai -- administruoja Rektoriaus jiems pavestą Universiteto
+Prorektoriai – administruoja Rektoriaus jiems pavestą Universiteto
 veiklos ar valdymo sritį. Kiekvienas jų atitinkamoje srityje veikia
 Rektoriaus vardu ir padeda valdyti Universitetą. Šiuo metu Universitete
 yra 4 prorektoriai:
@@ -264,7 +264,7 @@ priima galutinius sprendimus.
 
 ## Vilniaus universiteto kamieniniai akademiniai padaliniai (VU KAP)
 
-Fakultetai, institutai, centrai, mokyklos -- tai vidiniai organizaciniai
+Fakultetai, institutai, centrai, mokyklos – tai vidiniai organizaciniai
 Universiteto dariniai, kuriuose vykdoma visų rūšių pagrindinė
 Universiteto veikla.
 
@@ -300,12 +300,10 @@ saviraiškai.
 VU SA yra vienintelė studentų atstovybė, kuri savo studentų interesams
 atstovauja nacionaliniu mastu.
 
-**Studentas** -- asmuo, studijuojantis aukštojoje mokykloje pagal tam
+**Studentas** – asmuo, studijuojantis aukštojoje mokykloje pagal tam
 tikrą studijų programą arba doktorantūroje.
 
-------------------------------------------------------------------------
-
-**Metas žinių pasitikrinimui!**
+<!-- **Metas žinių pasitikrinimui!** -->
 
 ## Studijų programos kelias
 
@@ -329,7 +327,7 @@ programos tobulinimas gali apimti įvairius procesus, pradedant studentų
 atsiliepimų apie programą analizėmis, kurios yra reikalingos
 įsivertinimo tikslams, baigiant studijų programos dalykų, dėstytojų ar
 net pavadinimo keitimu. Vilniaus universitete yra reglamentuota, jog
-studijų programų komitetai (toliau -- SPK), kurie yra tiesiogiai
+studijų programų komitetai (toliau – SPK), kurie yra tiesiogiai
 atsakingi už studijų programas, bent kartą per semestrą susirinktų į
 posėdžius, kuriuose būtų aptariama kryptis kokybiškesnės programos link.
 
@@ -339,17 +337,17 @@ Plačiau su SPK funkcijomis galite susipažinti
 Pokyčiai studijų programoje skirstomi į esminius ir neesminius. Žemiau
 pateikiami pokyčių pavyzdžiai:
 
-  Esminiai pakeitimai                          Neesminiai pakeitimai
-  -------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------
-  Studijų programos pavadinimas                Studijų dalyko pavadinimas
-  Studijų programos tikslas, siekiniai         Studijų dalyko tikslas, siekiniai
-  Studijų programos apimtis kreditais          Studijų dalyko apimtis kreditais
-  Studijų programos vykdymo trukmė             Studijų dalyko perkėlimas į kitą semestrą
-  Studijų kryptis ar kvalifikacinis laipsnis   --
-  Studijų forma                                --
-  Studijų programos vykdymo kalba              Studijų dalyko vykdymo kalba
-  --                                           Studijų dalyko dėstytojas, turinys, vertinimo strategija, literatūra
-  --                                           Naujo studijų dalyko įvedimas, studijų dalyko pašalinimas arba studijų dalyko tipo keitimas (iš pasirenkamojo į privalomąjį ir atvirkščiai)
+| Esminiai pakeitimai                  |          Neesminiai pakeitimai
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------
+| Studijų programos pavadinimas        |          Studijų dalyko pavadinimas
+| Studijų programos tikslas, siekiniai     |      Studijų dalyko tikslas, siekiniai
+| Studijų programos apimtis kreditais      |      Studijų dalyko apimtis kreditais
+| Studijų programos vykdymo trukmė         |      Studijų dalyko perkėlimas į kitą semestrą
+| Studijų kryptis ar kvalifikacinis laipsnis   |  –
+| Studijų forma                        |          –
+| Studijų programos vykdymo kalba       |         Studijų dalyko vykdymo kalba
+| –                                    |         Studijų dalyko dėstytojas, turinys, vertinimo strategija, literatūra
+| –                                    |         Naujo studijų dalyko įvedimas, studijų dalyko pašalinimas arba studijų dalyko tipo keitimas (iš pasirenkamojo į privalomąjį ir atvirkščiai)
 
 Tada, kai yra svarstomi esminiai pokyčiai studijų programoje, SPK
 sprendimo neužtenka, jiems turi pritarti ir kiti už studijas atsakingi
@@ -384,7 +382,7 @@ KAP atvejais šie nutarimai turi būti patvirtinti KAP taryboje.
 
 Jeigu inicijuojamas programos pakeitimas yra esminis, tada studijų
 programos komitete priimtas nutarimas turi būti patvirtintas KAP
-taryboje, o po to nutarimas pakyla iki Universiteto centrinio darinio --
+taryboje, o po to nutarimas pakyla iki Universiteto centrinio darinio –
 Senato. Senato Studijų komitete pakeitimas yra peržiūrimas ir
 tvirtinamas, o vėliau galutinai patvirtinamas Senato posėdžio metu. Tuo
 atveju, jeigu bet kuriame iš darinių siūlomam programos esminiam

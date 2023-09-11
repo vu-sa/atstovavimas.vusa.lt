@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Atstovavimo gidas",
-  lang: "lt",
+  lang: "lt-LT",
   // add font pr
   head: [
     [
@@ -23,11 +23,21 @@ export default defineConfig({
   srcDir: 'src',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    editLink: {
+      pattern: 'https://github.com/vu-sa/atstovavimas.vusa.lt/edit/main/src/:path'
+    },
+    lastUpdated: {
+      formatOptions: {
+        month: 'long',
+        year: 'numeric',
+        day: 'numeric',
+    },
+    text: 'Atnaujinta',
+    },
 
     search: {
       provider: 'local',
       options: {
-        disableDetailedView: true,
         locales: {
           root: {
             translations: {

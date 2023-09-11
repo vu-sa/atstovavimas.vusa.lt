@@ -25,7 +25,7 @@ būdais:**
     nevyriausybinės organizacijos).\
     Svarbu yra tai, jog Ministro Pirmininko teikiami teisės aktų
     projektai turi būti pasirašyti Ministro Pirmininko, ministro
-    teikiami teisės aktų projektai -- ministro.\
+    teikiami teisės aktų projektai – ministro.\
     O pavyzdžiui, savivaldybių tarybų ir socialinių partnerių teikiami
     teisės aktų projektai turi būti pasirašyti atitinkamos srities
     ministro. Vyriausybei teikiamas teisės akto projektas, kurį parengė

@@ -51,7 +51,7 @@ funkcijas](https://www.lrp.lt/lt/prezidento-funkcijos)
 
 ## Seimas
 
-Seimas -- tai Lietuvos Respublikos įstatymų leidžiamoji valdžia. Seimą
+Seimas – tai Lietuvos Respublikos įstatymų leidžiamoji valdžia. Seimą
 sudaro 141 Tautos atstovas, išrinktas ketverių metų kadencijai. Seimo
 įtaka aukštojo mokslo politikos procesuose sprendžiamoji: Seime
 registruojami su aukštojo mokslo politikos procesais susiję įstatymų
@@ -63,7 +63,7 @@ veiklą](https://www.lrs.lt/sip/portal.show?p_r=35354&p_k=1)
 
 ## Vyriausybė
 
-Vyriausybė -- tai Lietuvos Respublikos įstatymų vykdomoji valdžia.
+Vyriausybė – tai Lietuvos Respublikos įstatymų vykdomoji valdžia.
 Vyriausybė sudaro 14 ministerijų ministrai ir ministras pirmininkas,
 Seimo paskirti ketverių metų kadencijai.
 
@@ -86,10 +86,10 @@ veiklą](https://lrv.lt/lt/aktuali-informacija/apie-vyriausybe/vyriausybe)
 
 ## Švietimo, mokslo ir sporto ministerija
 
-Švietimo, mokslo ir sporto ministerija (toliau -- ŠMSM) yra LR valstybės
+Švietimo, mokslo ir sporto ministerija (toliau – ŠMSM) yra LR valstybės
 įstaiga, kuri savo veiklos tikslų perspektyvoje formuoja valstybės
 politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą, o
-įstatymų nustatytais atvejais -- ją ŠMSM ministrui pavestose valdymo
+įstatymų nustatytais atvejais – ją ŠMSM ministrui pavestose valdymo
 srityse.
 
 [Išsamiau apie Švietimo, mokslo ir sporto ministerijos
@@ -125,7 +125,7 @@ Lietuvos mokslo tarybos sudėtį vyriausybės teikimu tvirtina Seimas.
 
 ### Lietuvos mokslo tarybos pirmininkas ir pavaduotojai
 
-Valdybą sudaro Lietuvos mokslo tarybos pirmininkas ir jo pavaduotojai --
+Valdybą sudaro Lietuvos mokslo tarybos pirmininkas ir jo pavaduotojai –
 komitetų pirmininkai, Lietuvos mokslo tarybos mokslinis sekretorius,
 ministro pirmininko patarėjas, Seimo Švietimo, mokslo ir kultūros
 komiteto, Švietimo ir mokslo, Finansų ministerijų, Lietuvos mokslų
@@ -175,7 +175,7 @@ jai pavaldžių institucijų **ekspertė ir patarėja mokslo bei studijų,
 kultūros, socialinės raidos, ūkio, gamtosaugos, sveikatos apsaugos,
 technologijų** bei kitais klausimais.
 
-Kita svarbi LMA veiklos sritis -- skatinti talentingus mokslininkus ir
+Kita svarbi LMA veiklos sritis – skatinti talentingus mokslininkus ir
 mokslinius tyrimus. Greta įsteigtų vardinių, jaunųjų mokslininkų ir
 aukštųjų mokyklų studentų skatinimo premijų, LMA inicijuoja ir daug kitų
 šalies mokslininkus bei mokslinius tyrimus aktyvinančių priemonių.
@@ -215,7 +215,7 @@ kvalifikacijų, suteikiančių teisę į aukštąjį mokslą, bei aukštojo moks
 kvalifikacijų, vertinimą, teikia informaciją Centro veiklos klausimais
 bei vykdo kitas funkcijas.
 
-Pagrindinės sritys ties kuriomis dirba SKVC --vertina užsienyje įgytą
+Pagrindinės sritys ties kuriomis dirba SKVC –vertina užsienyje įgytą
 vidurinį ir aukštąjį išsilavinimą, informuoja apie aukštojo mokslo
 studijas Lietuvoje bei užsienyje, skatina aukštąsias mokyklas gerinti
 studijų kokybę bei rengia su mokslu ir studijomis susijusių teisės aktų
@@ -229,11 +229,11 @@ veiklą](https://www.skvc.lt/default/lt/apie-mus)
 
 ### Studijų kokybės ir vertinimo centro taryba
 
-Studijų kokybės vertinimo centro taryba (Taryba) -- yra kolegialus
+Studijų kokybės vertinimo centro taryba (Taryba) – yra kolegialus
 valdymo organas, sudarytas iš 11 narių. Tarybos sudėtį tvirtina ŠMSM
 ministras.
 
-Svarbiausios tarybos funkcijos -- renka centro direktorių, tvirtina
+Svarbiausios tarybos funkcijos – renka centro direktorių, tvirtina
 centro viziją, miziją ir direktoriaus parengtą strateginį planą, teikia
 siūlymus dėl centro metinių veiklos planų, tvirtina metinę centro
 direktoriaus ataskaitą, rengia centro metinę ataskaitą.
@@ -271,7 +271,7 @@ susipažinti
 
 ### Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnyba
 
-Valstybės biudžetinė įstaiga, kurios veiklos tikslas -- užtikrinti
+Valstybės biudžetinė įstaiga, kurios veiklos tikslas – užtikrinti
 Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus
 darbą, jam nagrinėjant skundus ir inicijuojant tyrimus dėl akademinės
 etikos ir procedūrų pažeidimo, prižiūrint, kad nebūtų pažeidžiamos
@@ -282,7 +282,7 @@ Daugiau apie kontrolierių ir tarnybą galima pasiskaityti
 
 ## Universitetas
 
-Universitetas -- aukštoji mokykla, kurioje vykdomos universitetinės
+Universitetas – aukštoji mokykla, kurioje vykdomos universitetinės
 studijos, atliekami moksliniai tyrimai, eksperimentinė (socialinė,
 kultūrinė) plėtra ir (arba) plėtojamas aukšto lygio profesionalusis
 menas. Universiteto įtaka aukštojo mokslo politikos procesuose
@@ -298,7 +298,7 @@ Išsamiau galite paskaityti:
 
 ## Kolegija
 
-Kolegija -- tai aukštoji mokykla, kurioje vykdomos koleginės studijos,
+Kolegija – tai aukštoji mokykla, kurioje vykdomos koleginės studijos,
 plėtojami taikomieji moksliniai tyrimai ir (arba) profesionalusis menas.
 Kolegijų įtaka aukštojo mokslo politikos procesuose patariamoji, kai
 kalbame apie nacionalinio lygmens sprendimus, nes vidiniai sprendimai
@@ -313,7 +313,7 @@ Išsamiau galite paskaityti:
 
 ## Mokslinių tyrimų institutas
 
-Mokslinių tyrimų institutas -- juridinis asmuo, kurio pagrindinė veikla
+Mokslinių tyrimų institutas – juridinis asmuo, kurio pagrindinė veikla
 -- moksliniai tyrimai ir eksperimentinė plėtra.
 
 Mokslinių tyrimų institutų įtaka aukštojo mokslo politikos procesuose
@@ -324,7 +324,7 @@ Lietuvoje veikiantys mokslo institutai nurodyti
 
 ## Lietuvos švietimo taryba
 
-Lietuvos švietimo taryba (toliau -- Taryba) yra Lietuvos Respublikos
+Lietuvos švietimo taryba (toliau – Taryba) yra Lietuvos Respublikos
 Seimo sudaryta ir jam atskaitinga valstybės švietimo savivaldos
 institucija, atliekanti ekspertinį vertinimą ir konsultuojanti
 strateginiais Lietuvos švietimo plėtros klausimais.

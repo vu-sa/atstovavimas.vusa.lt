@@ -34,7 +34,7 @@ atitinkamų ministerijų yra nurodyti su studentais susiję tų ministerijų
 kuruojami klausimai.
 
 Už aukštojo mokslo ir studijų politiką tiesiogiai atsakinga yra
-Švietimo, mokslo ir sporto ministerija. Išsamiau apie šią ministeriją --
+Švietimo, mokslo ir sporto ministerija. Išsamiau apie šią ministeriją –
 [čia](#smsm)
 
 Apie Vyriausybės nutarimų svarstymo procedūras išsamiau galite
@@ -44,7 +44,7 @@ paskaityti [čia](lrv-nutarimai)
 
 ## Vyriausybė
 
-Vyriausybė -- tai Lietuvos Respublikos įstatymų vykdomoji valdžia.
+Vyriausybė – tai Lietuvos Respublikos įstatymų vykdomoji valdžia.
 Vyriausybė sudaro 14 ministerijų ministrai ir ministras pirmininkas,
 Seimo paskirti ketverių metų kadencijai.
 
@@ -89,7 +89,7 @@ Išsamiau galite susipažinti
 
 ## Ministro Pirmininko patarėjai
 
-Ministro Pirmininko patarėjai -- politinio pasitikėjimo valstybės
+Ministro Pirmininko patarėjai – politinio pasitikėjimo valstybės
 tarnautojai, kurie pataria Ministrui Pirmininkui atitinkamų sričių
 klausimais, pagal savo ekspertinius laukus.
 
@@ -123,7 +123,7 @@ Išsamiau galite susipažinti
 ## Vyriausybės komitetai ir komisijos
 
 Vyriausybės komitetai yra Vyriausybės patariamosios institucijos. Jų
-tikslas -- teikti pasiūlymus dėl jos veiklos prioritetų, politikos ir
+tikslas – teikti pasiūlymus dėl jos veiklos prioritetų, politikos ir
 strategijos tam tikroje srityje pasirinkimo, prireikus derinti ministrų
 pozicijas sprendžiant valstybės valdymo reikalus.
 
