@@ -30,13 +30,13 @@ fondų lėšų.
 
 ## Projekto vykdytojas
 
-![](img/vusa.png){width="100"}
+![](/img/vusa.png){width="100"}
 
 ## Projekto partneriai
 
-![](img/partneriai/image002.png){style="margin:20px" width="200"}
-![](img/partneriai/image003.png){style="margin:20px" width="200"}
-![](img/partneriai/image004.png){style="margin:20px" width="200"}
+![](/img/partneriai/image002.png){style="margin:20px" width="200"}
+![](/img/partneriai/image003.png){style="margin:20px" width="200"}
+![](/img/partneriai/image004.png){style="margin:20px" width="200"}
 
 **Leidinį rengė:** Andrius Uždanavičius
 

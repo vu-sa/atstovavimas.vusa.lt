@@ -38,12 +38,12 @@ Vyriausybės nutarimų iniciavimo ar pakeitimo, todėl schemoje prie
 atitinkamų ministerijų yra nurodyti su studentais susiję tų ministerijų
 kuruojami klausimai.
 
-Už aukštojo mokslo ir studijų politiką tiesiogiai atsakinga yra
+<!-- Už aukštojo mokslo ir studijų politiką tiesiogiai atsakinga yra
 Švietimo, mokslo ir sporto ministerija. Išsamiau apie šią ministeriją –
 [čia](#smsm)
 
 Apie Vyriausybės nutarimų svarstymo procedūras išsamiau galite
-paskaityti [čia](lrv-nutarimai)
+paskaityti [čia](lrv-nutarimai) -->
 
 ![](/img/main/image040.jpg){.img-fluid}
 
