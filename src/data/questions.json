@@ -1,0 +1,97 @@
+{
+    "quiz1": [
+        {
+            "question": "Kurį iš šių vienasmenių VU KAP sprendimų priėmėjų renka KAP darbuotojai?",
+            "choices": [
+                "KAP vadovą",
+                "ŠAP vadovą",
+                "KAP Tarybos pirmininką",
+                "Nei vieno iš jų"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "Kuris KAP organas padeda suformuoti su studijomis susijusius sprendimus Pavaduotojui studijoms?",
+            "choices": [
+                "SPK",
+                "Studijų kolegija",
+                "Doktorantūros mokykla"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Kuriame iš šių KAP darinių nėra studentų atstovo?",
+            "choices": [
+                "Rinkimų komisijoje",
+                "Dekanate",
+                "ŠAP"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Kas gali nuspręsti sudaryti laikinąją darbo grupę KAP studijų programų strategijai parengti?",
+            "choices": [
+                "KAP Tarybos pirmininkas",
+                "KAP vadovo pavaduotojas studijų organizavimui",
+                "KAP vadovas"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Kas sprendžia Šakiniame akademiniame padalinyje su moksliniais tyrimais dirbančio mokslininko sutarties su Universitetu pratęsimo klausimą?",
+            "choices": [
+                "KAP Priėmimo-atestacinė komisija",
+                "ŠAP vadovas",
+                "KAP vadovas"
+            ],
+            "correctAnswer": 0
+        }
+    ],
+    "quiz2": [
+        {
+            "question": "Kas yra universiteto vadovas?",
+            "choices": [
+                "Dekanas",
+                "Rektorius",
+                "Direktorius"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Ką veikia VU neakademiniai kamieniniai padaliniai?",
+            "choices": [
+                "Užtikrina akademinių padalinių veiklą, teikia ir kitas neakademines Universiteto funkcijas",
+                "Yra atsakingi už Universiteto finansus ir išteklius",
+                "Pataria Rektoriui mokslo ir studijų klausimais"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Kas sudaro didįjį rektoratą?",
+            "choices": [
+                "Rektorius ir studentų atstovai",
+                "Prorektoriai ir rektoriaus patarėjai",
+                "Rektorius, VU KAP vadovai ir studentų atstovas"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Kas sudaro Rektoriaus komandą?",
+            "choices": [
+                "Studentų atstovybės deleguoti atstovai ir visuomenės lyderiai",
+                "Vicerektorius, prorektoriai ir Rektoriaus patarėjai",
+                "KAP vadovai"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Kas deleguoja studentų atstovus į įvairius VU darinius ir komisijas?",
+            "choices": [
+                "Rektorius",
+                "VU KAP vadovai",
+                "VU SA"
+            ],
+            "correctAnswer": 2
+        }
+    ]
+}
