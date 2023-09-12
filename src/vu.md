@@ -1,6 +1,11 @@
+<script setup lang="ts">
+import StructureGraph from './components/StructureGraph.vue'
+import VU from './graphs/VU.svg?component'
+</script>
+
 # Vilniaus universitetas
 
-[VU schema](VU)
+<StructureGraph :svg-object="VU" />
 
 ### Schemos aprašas
 
@@ -58,7 +63,7 @@ Universiteto bendrųjų akademinių reikalų ir kitų tiesiogiai su viso
 Universiteto akademine veikla susijusių klausimų kolegialų aptarimą bei
 jiems įgyvendinti reikalingų teisės aktų priėmimą.
 
-Universiteto Senatą sudaro 41 narys, iš kurių 8 yra VU SA deleguoti
+Universiteto Senatą sudaro 46 narys, iš kurių 9 yra VU SA deleguoti
 atstovai.
 
 [Plačiau apie Senato priimtus
@@ -337,17 +342,17 @@ Plačiau su SPK funkcijomis galite susipažinti
 Pokyčiai studijų programoje skirstomi į esminius ir neesminius. Žemiau
 pateikiami pokyčių pavyzdžiai:
 
-| Esminiai pakeitimai                  |          Neesminiai pakeitimai
-| ------------------------------------ | ---------------------------------------------------------------------------------------------------------
-| Studijų programos pavadinimas        |          Studijų dalyko pavadinimas
-| Studijų programos tikslas, siekiniai     |      Studijų dalyko tikslas, siekiniai
-| Studijų programos apimtis kreditais      |      Studijų dalyko apimtis kreditais
-| Studijų programos vykdymo trukmė         |      Studijų dalyko perkėlimas į kitą semestrą
-| Studijų kryptis ar kvalifikacinis laipsnis   |  –
-| Studijų forma                        |          –
-| Studijų programos vykdymo kalba       |         Studijų dalyko vykdymo kalba
-| –                                    |         Studijų dalyko dėstytojas, turinys, vertinimo strategija, literatūra
-| –                                    |         Naujo studijų dalyko įvedimas, studijų dalyko pašalinimas arba studijų dalyko tipo keitimas (iš pasirenkamojo į privalomąjį ir atvirkščiai)
+| Esminiai pakeitimai                        | Neesminiai pakeitimai                                                                                                                       |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Studijų programos pavadinimas              | Studijų dalyko pavadinimas                                                                                                                  |
+| Studijų programos tikslas, siekiniai       | Studijų dalyko tikslas, siekiniai                                                                                                           |
+| Studijų programos apimtis kreditais        | Studijų dalyko apimtis kreditais                                                                                                            |
+| Studijų programos vykdymo trukmė           | Studijų dalyko perkėlimas į kitą semestrą                                                                                                   |
+| Studijų kryptis ar kvalifikacinis laipsnis | –                                                                                                                                           |
+| Studijų forma                              | –                                                                                                                                           |
+| Studijų programos vykdymo kalba            | Studijų dalyko vykdymo kalba                                                                                                                |
+| –                                          | Studijų dalyko dėstytojas, turinys, vertinimo strategija, literatūra                                                                        |
+| –                                          | Naujo studijų dalyko įvedimas, studijų dalyko pašalinimas arba studijų dalyko tipo keitimas (iš pasirenkamojo į privalomąjį ir atvirkščiai) |
 
 Tada, kai yra svarstomi esminiai pokyčiai studijų programoje, SPK
 sprendimo neužtenka, jiems turi pritarti ir kiti už studijas atsakingi

@@ -264,7 +264,7 @@ ir procedūrų kontrolieriaus darbą. <hr> <a href='/#kontrolieriaus-tarnyba'>Da
         <a tabindex="0" data-bs-toggle="popover" title="Lietuvos švietimo taryba" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Lietuvos švietimo taryba (toliau – Taryba) yra Lietuvos Respublikos Seimo sudaryta ir jam atskaitinga
 valstybės
 švietimo savivaldos institucija, atliekanti ekspertinį vertinimą ir konsultuojanti strateginiais Lietuvos
-švietimo plėtros klausimais. <hr> <a target='_blank' href='https://www.lrs.lt/sip/portal.show?p_r=9258&p_k=1'>Daugiau</a>">
+švietimo plėtros klausimais. https://www.lrs.lt/sip/portal.show?p_r=9258'">
           <g>
             <g>
               <rect x="701.7985" y="650.3721" width="337.4424" height="51.5547" rx="13.5" fill="#fff"/>
@@ -811,4 +811,4 @@ vetuoti Seimo priimtus įstatymus. <hr> <a target='_blank' href='https://www.lrp
         </g>
       </g>
     </g>
-  </svg>  
+  </svg>

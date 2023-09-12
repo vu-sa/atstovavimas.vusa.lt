@@ -1,8 +1,14 @@
+<script setup lang="ts">
+import StructureGraph from './components/StructureGraph.vue'
+import SMSMSvg from './graphs/SMSM.svg?component'
+</script>
+
+
 # Švietimo, mokslo ir sporto ministerija
 
 ## LR Švietimo, mokslo ir sporto ministerijos ir susijusių struktūrų schema
 
-\@include(\'graphs.SMSM\')
+<StructureGraph :svg-object="SMSMSvg" />
 
 Vyriausybės ir su ja susijusių struktūrų schemoje nagrinėjome aukštojo
 mokslo politikos įgyvendinimą.

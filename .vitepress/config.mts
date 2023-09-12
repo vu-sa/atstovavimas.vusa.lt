@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import svgLoader from 'vite-svg-loader'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -16,15 +17,19 @@ export default defineConfig({
     ],
     [
       'link',
-      { href: 'https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,200;0,300;0,400;0,500;0,700;1,200;1,400;1,500&display=swap', rel: 'stylesheet' }
+      { href: 'https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,200;0,300;0,400;0,500;0,700;1,200;1,400;1,500&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap', rel: 'stylesheet' }
     ]
   ],
   description: "Vieningai Už Studentų Ateitį",
   srcDir: 'src',
+  vite: {
+    plugins: [svgLoader()],
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     editLink: {
-      pattern: 'https://github.com/vu-sa/atstovavimas.vusa.lt/edit/main/src/:path'
+      pattern: 'https://github.com/vu-sa/atstovavimas.vusa.lt/edit/main/src/:path',
+      text: 'Atnaujinti šį puslapį',
     },
     lastUpdated: {
       formatOptions: {
@@ -71,9 +76,9 @@ export default defineConfig({
             label: 'Šiame puslapyje...',
         },
     nav: [
-      { text: 'I dalis', link: '/kap' },
-      { text: 'II dalis', link: '/studentams-atstovaujancios-organizacijos' },
-      { text: 'Interaktyvios schemos', link: '/schemos' }
+      { text: 'Institucijos', link: '/kap' },
+      { text: 'Atstovavimas', link: '/studentams-atstovaujancios-organizacijos' },
+      { text: 'Schemos', link: '/schemos' }
     ],
 
     sidebar: [
@@ -82,11 +87,11 @@ export default defineConfig({
         link: '/ivadas'
       },
       {
-        text: 'Interaktyvios schemos',
+        text: 'Schemos',
         link: '/schemos'
       },
       {
-        text: 'I dalis',
+        text: 'Institucijos',
         items: [
           { text: 'Kamieninis akademinis padalinys', link: '/kap' },
           { text: 'Vilniaus universitetas', link: '/vu' },
@@ -99,7 +104,7 @@ export default defineConfig({
         ]
       },
       {
-        text: 'II dalis',
+        text: 'Atstovavimas',
         items: [
           { text: 'Studentams atstovaujančios organizacijos', link: '/studentams-atstovaujancios-organizacijos' },
           { text: 'Studentų atstovavimas', link: '/studentu-atstovavimas' },

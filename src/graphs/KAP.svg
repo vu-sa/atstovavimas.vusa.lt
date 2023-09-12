@@ -1,5 +1,6 @@
-<svg version="1.1" id="KAP" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 2170 958" enable-background="new 0 0 2170 958" xml:space="preserve">
+<svg version="1.1" id="KAP" xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	viewBox="0 0 2170 958" enable-background="new 0 0 2170 958" xml:space="preserve">
 <g id="Dekano_pavaduotojai">
 	<g>
 		<g>
@@ -48,18 +49,18 @@
 		<text transform="matrix(1 0 0 1 1694.9089 643.9769)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Bendrųjų reikalų / mokslo / </tspan><tspan x="61.75" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">kiti pavaduotojai</tspan></text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 1570.7489 569.7922)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="30px">Dekano pavaduotojai</text>
+		<text transform="matrix(1 0 0 1 1570.7489 569.7922)" fill="#111111" font-family="Roboto" font-weight="700" font-size="30px">Dekano pavaduotojai</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 1785.3285 353.7922)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="30px">Dekanatas / </tspan><tspan x="3.289" y="36" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="30px">direktoratas</tspan></text>
+		<text transform="matrix(1 0 0 1 1785.3285 353.7922)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="30px">Dekanatas / </tspan><tspan x="3.289" y="36" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="30px">direktoratas</tspan></text>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="KAP vadovas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="KAP vadovas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="VU KAP vadovas yra renkamas KAP Tarybos 5 metams ir atsako už vadovavimą KAP.<hr> <a href='/#vu-kap-vadovas'>Daugiau</a>">
 			<g>
 				<path fill="#FFFFFF" d="M1403.485,459.5c-7.444,0-13.5-6.056-13.5-13.5v-26.249c0-7.444,6.056-13.5,13.5-13.5H1619
@@ -76,7 +77,7 @@ data-bs-content="VU KAP vadovas yra renkamas KAP Tarybos 5 metams ir atsako už 
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BD2835" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" x1="1511.746" y1="461.294" x2="1511.746" y2="491.753"/>
 				<g>
 					<polygon fill="#BD2835" points="1500.561,484.124 1511.738,525.861 1522.931,484.124 					"/>
@@ -88,7 +89,7 @@ data-bs-content="VU KAP vadovas yra renkamas KAP Tarybos 5 metams ir atsako už 
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BD2835" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" x1="1510.401" y1="403.812" x2="1510.401" y2="353.354"/>
 				<g>
 					<polygon fill="#BD2835" points="1521.586,360.982 1510.408,319.245 1499.215,360.982 					"/>
@@ -113,12 +114,12 @@ data-bs-content="VU KAP vadovas yra renkamas KAP Tarybos 5 metams ir atsako už 
 	<text transform="matrix(1 0 0 1 1530.4363 381.9795)" fill="#BD2835" font-family="'Roboto'" font-style="italic" font-size="20px">Teikia</text>
 	<text transform="matrix(1 0 0 1 1542.4363 500.9795)" fill="#BD2835" font-family="'Roboto'" font-style="italic" font-size="20px">Teikia</text>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="ŠAP vadovas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="ŠAP vadovas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="ŠAP vadovas atsako už vadovavimą ŠAP, ŠAP veiklos plano parengimą ir įgyvendinimą.<hr> <a href='/#vu-sap-vadovas'>Daugiau</a>">
 			<g>
 				<path fill="#FFFFFF" d="M1403.485,317.984c-7.444,0-13.5-6.056-13.5-13.5v-26.248c0-7.444,6.056-13.5,13.5-13.5H1619
@@ -135,7 +136,7 @@ data-bs-content="ŠAP vadovas atsako už vadovavimą ŠAP, ŠAP veiklos plano pa
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BD2835" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" x1="1386.332" y1="291.226" x2="1294.874" y2="291.226"/>
 				<g>
 					<polygon fill="#BD2835" points="1302.503,280.04 1260.765,291.218 1302.503,302.411 					"/>
@@ -147,12 +148,12 @@ data-bs-content="ŠAP vadovas atsako už vadovavimą ŠAP, ŠAP veiklos plano pa
 	<text transform="matrix(1 0 0 1 1300.2249 271.4956)" fill="#BD2835" font-family="'Roboto'" font-style="italic" font-size="18px">Vadovauja</text>
 </g>
 <g id="VU_SA">
-	<a tabindex="0" 
-data-bs-toggle="popover" 
-title="VU Studentų atstovybė" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+	<a tabindex="0"
+data-bs-toggle="popover"
+title="VU Studentų atstovybė"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Vilniaus universiteto Studentų atstovybė (VU SA) – seniausia ir didžiausia Lietuvoje visuomeninė, ne pelno siekianti, nepolitinė, ekspertinė švietimo organizacija, atstovaujanti studentų interesams Vilniaus universitete bei už jo ribų <hr> <a target='_blank' href='https://vusa.lt'>Daugiau</a>">
 		<g>
 			<g>
@@ -164,13 +165,13 @@ data-bs-content="Vilniaus universiteto Studentų atstovybė (VU SA) – seniausi
 						h212.729c8.284,0,15-6.716,15-15v-53.586C843.229,771.283,836.514,764.567,828.229,764.567L828.229,764.567z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 670.1239 818.7922)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="36px">VU SA</text>
+			<text transform="matrix(1 0 0 1 670.1239 818.7922)" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="36px">VU SA</text>
 		</g>
 	</a>
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BD2835" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" x1="802.401" y1="763.812" x2="802.401" y2="736.354"/>
 				<g>
 					<polygon fill="#BD2835" points="813.586,743.982 802.408,702.245 791.215,743.982 					"/>
@@ -182,7 +183,7 @@ data-bs-content="Vilniaus universiteto Studentų atstovybė (VU SA) – seniausi
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BD2835" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" x1="638.401" y1="764.812" x2="638.401" y2="511.354"/>
 				<g>
 					<polygon fill="#BD2835" points="649.586,518.982 638.408,477.245 627.215,518.982 					"/>
@@ -217,7 +218,7 @@ data-bs-content="Vilniaus universiteto Studentų atstovybė (VU SA) – seniausi
 	</g>
 	<g>
 		<g>
-			
+
 				<line fill="none" stroke="#BD2835" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" x1="950.401" y1="800.812" x2="950.401" y2="361.052"/>
 			<g>
 				<polygon fill="#BD2835" points="958.536,366.6 950.406,336.245 942.266,366.6 				"/>
@@ -226,7 +227,7 @@ data-bs-content="Vilniaus universiteto Studentų atstovybė (VU SA) – seniausi
 	</g>
 	<g>
 		<g>
-			
+
 				<line fill="none" stroke="#BD2835" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" x1="1141.401" y1="805.812" x2="1141.401" y2="723.354"/>
 			<g>
 				<polygon fill="#BD2835" points="1152.586,730.982 1141.408,689.245 1130.215,730.982 				"/>
@@ -240,7 +241,7 @@ data-bs-content="Vilniaus universiteto Studentų atstovybė (VU SA) – seniausi
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BD2835" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" x1="92" y1="551.5" x2="141.392" y2="551.5"/>
 				<g>
 					<polygon fill="#BD2835" points="133.763,562.685 175.5,551.508 133.763,540.315 					"/>
@@ -251,7 +252,7 @@ data-bs-content="Vilniaus universiteto Studentų atstovybė (VU SA) – seniausi
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BD2835" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" x1="92" y1="673.5" x2="141.392" y2="673.5"/>
 				<g>
 					<polygon fill="#BD2835" points="133.763,684.685 175.5,673.508 133.763,662.315 					"/>
@@ -260,7 +261,7 @@ data-bs-content="Vilniaus universiteto Studentų atstovybė (VU SA) – seniausi
 		</g>
 	</g>
 	<g>
-		
+
 			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="4138" y1="1432" x2="4138" y2="1484" gradientTransform="matrix(1 0 0 1 -3187 -797)">
 			<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
 			<stop  offset="0.5" style="stop-color:#FFFFFF"/>
@@ -269,7 +270,7 @@ data-bs-content="Vilniaus universiteto Studentų atstovybė (VU SA) – seniausi
 		<rect x="935" y="635" fill="url(#SVGID_1_)" width="32" height="52"/>
 	</g>
 	<g>
-		
+
 			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="4137" y1="1323" x2="4137" y2="1375" gradientTransform="matrix(1 0 0 1 -3187 -797)">
 			<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
 			<stop  offset="0.5" style="stop-color:#FFFFFF"/>
@@ -278,7 +279,7 @@ data-bs-content="Vilniaus universiteto Studentų atstovybė (VU SA) – seniausi
 		<rect x="934" y="526" fill="url(#SVGID_2_)" width="32" height="52"/>
 	</g>
 	<g>
-		
+
 			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="4137" y1="1210" x2="4137" y2="1262" gradientTransform="matrix(1 0 0 1 -3187 -797)">
 			<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
 			<stop  offset="0.5" style="stop-color:#FFFFFF"/>
@@ -289,12 +290,12 @@ data-bs-content="Vilniaus universiteto Studentų atstovybė (VU SA) – seniausi
 </g>
 <g id="SPK">
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Studijų programų komitetai" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Studijų programų komitetai"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Studijų programų komitetai (toliau – SPK) studijų programų valdymo dariniai, atsakingi už studijų
 programų kokybę bei jų siekinių įgyvendinimą.<hr> <a href='/#studiju-programu-komitetai'>Daugiau</a>">
 			<g>
@@ -306,13 +307,13 @@ programų kokybę bei jų siekinių įgyvendinimą.<hr> <a href='/#studiju-progr
 						h152.729c8.284,0,15-6.716,15-15v-53.586C894.229,624.283,887.514,617.567,879.229,617.567L879.229,617.567z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 768.1132 671.7922)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="36px">SPK</text>
+			<text transform="matrix(1 0 0 1 768.1132 671.7922)" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="36px">SPK</text>
 		</a>
 	</g>
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BD2835" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" x1="896.814" y1="660.881" x2="980.273" y2="660.881"/>
 				<g>
 					<polygon fill="#BD2835" points="972.644,672.066 1014.381,660.888 972.644,649.695 					"/>
@@ -325,12 +326,12 @@ programų kokybę bei jų siekinių įgyvendinimą.<hr> <a href='/#studiju-progr
 </g>
 <g id="PAK">
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="VU KAP priėmimo-atestacinė komisija" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="VU KAP priėmimo-atestacinė komisija"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Vykdo dėstytojų ir mokslo darbuotojų konkursą pareigoms eiti bei jų atestavimą – sprendžia dėstytojų
 priėmimo ir sutarčių su Universitetu pratęsimo klausimus.<hr> <a href='/#vu-kap-pak'>Daugiau</a>">
 			<g>
@@ -342,17 +343,17 @@ priėmimo ir sutarčių su Universitetu pratęsimo klausimus.<hr> <a href='/#vu-
 						h152.729c8.284,0,15-6.716,15-15v-53.586C358.229,634.283,351.514,627.567,343.229,627.567L343.229,627.567z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 230.997 681.7922)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="36px">PAK</text>
+			<text transform="matrix(1 0 0 1 230.997 681.7922)" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="36px">PAK</text>
 		</a>
 	</g>
 </g>
 <g id="AEK">
-	<a tabindex="0" 
-data-bs-toggle="popover" 
-title="VU KAP akademinės etikos komisija" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+	<a tabindex="0"
+data-bs-toggle="popover"
+title="VU KAP akademinės etikos komisija"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Komisija nagrinėja kreipimusis dėl akademinės bendruomenės narių, dirbančių ar studijuojančių tame
 Padalinyje, veiksmų, galimai pažeidžiančių akademinę etiką.<hr> <a target='_blank'
 href='https://www.vu.lt/site_files/SPN-55_KAP_AEK_nuostatai.pdf'>Daugiau</a>">
@@ -366,16 +367,14 @@ href='https://www.vu.lt/site_files/SPN-55_KAP_AEK_nuostatai.pdf'>Daugiau</a>">
 						h152.729c8.284,0,15-6.716,15-15v-53.586C358.229,398.283,351.514,391.567,343.229,391.567L343.229,391.567z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 232.3241 445.7922)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="36px">AEK</text>
+			<text transform="matrix(1 0 0 1 232.3241 445.7922)" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="36px">AEK</text>
 		</g>
 	</a>
 </g>
 <g id="GNK">
-	<a tabindex="0" 
-data-bs-toggle="popover" 
-title="VU KAP ginčų nagrinėjimo komisija" 
-data-bs-html="true" 
-role="button" 
+	<a tabindex="0"
+data-bs-toggle="popover"
+title="VU KAP ginčų nagrinėjimo komisija"
 data-bs-trigger="Komisija nagrinėja pareiškimus dėl ginčų, susijusių su mokslo ir studijų veikla, tarp Padalinio vykdomus
 studijų dalykus (modulius) studijuojančiųjų ir kitų bendruomenės narių, dirbančių Padalinyje.<hr> <a href='/#vu-kap-gnk'>Daugiau</a>">
 		<g>
@@ -388,17 +387,17 @@ studijų dalykus (modulius) studijuojančiųjų ir kitų bendruomenės narių, d
 						h152.729c8.284,0,15-6.716,15-15v-53.586C358.229,516.283,351.514,509.567,343.229,509.567L343.229,509.567z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 229.4501 563.7922)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="36px">GNK</text>
+			<text transform="matrix(1 0 0 1 229.4501 563.7922)" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="36px">GNK</text>
 		</g>
-	<a/>
+	</a>
 </g>
 <g id="Taryba">
-	<a tabindex="0" 
-data-bs-toggle="popover" 
-title="VU KAP taryba" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+	<a tabindex="0"
+data-bs-toggle="popover"
+title="VU KAP taryba"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="VU KAP Taryba – kolegialus VU KAP valdymo organas, renkamas 4 metams.<hr> <a href='/#vu-taryba'>Daugiau</a>">
 		<g>
 			<g>
@@ -410,13 +409,13 @@ data-bs-content="VU KAP Taryba – kolegialus VU KAP valdymo organas, renkamas 4
 						h212.729c8.284,0,15-6.716,15-15v-53.586C843.229,398.283,836.514,391.567,828.229,391.567L828.229,391.567z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 665.202 445.7922)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="36px">Taryba</text>
+			<text transform="matrix(1 0 0 1 665.202 445.7922)" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="36px">Taryba</text>
 		</g>
 	</a>
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BD2835" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" x1="801.746" y1="473.294" x2="801.746" y2="582.753"/>
 				<g>
 					<polygon fill="#BD2835" points="790.561,575.124 801.738,616.861 812.931,575.124 					"/>
@@ -428,7 +427,7 @@ data-bs-content="VU KAP Taryba – kolegialus VU KAP valdymo organas, renkamas 4
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BD2835" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" x1="600.332" y1="433.226" x2="395.874" y2="433.226"/>
 				<g>
 					<polygon fill="#BD2835" points="403.503,422.04 361.765,433.218 403.503,444.411 					"/>
@@ -439,7 +438,7 @@ data-bs-content="VU KAP Taryba – kolegialus VU KAP valdymo organas, renkamas 4
 	</g>
 	<g>
 		<g>
-			<polyline fill="none" stroke="#BD2835" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" points="468.049,435 
+			<polyline fill="none" stroke="#BD2835" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" points="468.049,435
 				468.049,669.783 395.609,669.783 			"/>
 			<g>
 				<polygon fill="#BD2835" points="403.237,658.598 361.5,669.776 403.237,680.969 				"/>
@@ -449,7 +448,7 @@ data-bs-content="VU KAP Taryba – kolegialus VU KAP valdymo organas, renkamas 4
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BD2835" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" x1="465" y1="551.226" x2="394.109" y2="551.226"/>
 				<g>
 					<polygon fill="#BD2835" points="401.737,540.041 360,551.218 401.737,562.411 					"/>
@@ -458,12 +457,12 @@ data-bs-content="VU KAP Taryba – kolegialus VU KAP valdymo organas, renkamas 4
 		</g>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="VU KAP Tarybos pirmininkas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="VU KAP Tarybos pirmininkas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="VU KAP Tarybos pirmininkas – organizuoja sklandų VU KAP Tarybos darbą.">
 			<g>
 				<path fill="#FFFFFF" d="M333.977,321.929c-7.444,0-13.5-6.056-13.5-13.5v-24.668c0-7.444,6.056-13.5,13.5-13.5h255.846
@@ -493,7 +492,7 @@ data-bs-content="VU KAP Tarybos pirmininkas – organizuoja sklandų VU KAP Tary
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BD2835" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" x1="842.814" y1="424.881" x2="1350.273" y2="424.881"/>
 				<g>
 					<polygon fill="#BD2835" points="1342.644,436.066 1384.381,424.888 1342.644,413.695 					"/>
@@ -543,7 +542,7 @@ data-bs-content="VU KAP Tarybos pirmininkas – organizuoja sklandų VU KAP Tary
 					L1245.229,249.567z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1131.0414 303.7922)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="36px">ŠAP</tspan><tspan x="68.695" y="0" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="36px" letter-spacing="-4">	</tspan></text>
+		<text transform="matrix(1 0 0 1 1131.0414 303.7922)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="36px">ŠAP</tspan><tspan x="68.695" y="0" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="36px" letter-spacing="-4">	</tspan></text>
 	</g>
 	<g>
 		<g>
@@ -561,12 +560,12 @@ data-bs-content="VU KAP Tarybos pirmininkas – organizuoja sklandų VU KAP Tary
 </g>
 <g id="RK">
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="VU KAP rinkimų komisija" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="VU KAP rinkimų komisija"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Atsakinga už rinkimų organizavimą padalinyje. VU KAP rinkimų komisijoje posėdžiams gaunama informacija
 yra konfidenciali, todėl niekur nėra skelbiama.">
 			<g>
@@ -578,17 +577,17 @@ yra konfidenciali, todėl niekur nėra skelbiama.">
 						h152.729c8.284,0,15-6.716,15-15v-53.586C1033.229,256.283,1026.514,249.567,1018.229,249.567L1018.229,249.567z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 913.2382 303.7922)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="36px">RK</tspan><tspan x="45.158" y="0" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="36px" letter-spacing="1">	</tspan></text>
+			<text transform="matrix(1 0 0 1 913.2382 303.7922)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="36px">RK</tspan><tspan x="45.158" y="0" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="36px" letter-spacing="1">	</tspan></text>
 		</a>
 	</g>
 </g>
 <g id="Studijų_kolegija">
-	<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Studijų kolegija" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+	<a tabindex="0"
+data-bs-toggle="popover"
+title="Studijų kolegija"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Pataria už studijų organizavimą atsakingam VU KAP vadovo pavaduotojui studijų vykdymo ir jų kokybės
 gerinimo klausimais. Studijų kolegiją sudaro VU KAP veikiančių SPK pirmininkai ir VU SA deleguotas
 studentų atstovas.">
@@ -608,7 +607,7 @@ studentų atstovas.">
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#FBB01B" stroke-width="7" stroke-linecap="round" stroke-miterlimit="10" x1="1260.814" y1="658.881" x2="1352.273" y2="658.881"/>
 				<g>
 					<polygon fill="#FBB01B" points="1344.644,670.066 1386.381,658.888 1344.644,647.695 					"/>
@@ -620,12 +619,12 @@ studentų atstovas.">
 	<text transform="matrix(1 0 0 1 1263.4363 642.9795)" fill="#FBB01B" font-family="'Roboto'" font-style="italic" font-size="18px">Pataria</text>
 </g>
 <g id="Doktorantūros_mokykla">
-	<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Doktorantūros mokykla" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+	<a tabindex="0"
+data-bs-toggle="popover"
+title="Doktorantūros mokykla"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Doktorantūros mokykla – atsakinga už kelių gretutinių mokslo krypčių doktorantūros studijų ir
 doktorantų mokslinių tyrimų organizavimą Universitete. <hr> <a href='/#doktoranturos-mokykla'>Daugiau</a>">
 		<g>
@@ -640,6 +639,6 @@ doktorantų mokslinių tyrimų organizavimą Universitete. <hr> <a href='/#dokto
 			</g>
 			<text transform="matrix(1 0 0 1 1063.426 524.9769)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Doktorantūros</tspan><tspan x="33.075" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">mokykla</tspan></text>
 		</g>
-	<a/>
+	</a>
 </g>
 </svg>

@@ -1,6 +1,11 @@
+<script setup lang="ts">
+import StructureGraph from './components/StructureGraph.vue'
+import KAP from './graphs/KAP.svg?component'
+</script>
+
 # KAP
 
-[KAP schema](Kap)
+<StructureGraph :svg-object="KAP" />
 
 ## KAP schemos aprašymas
 

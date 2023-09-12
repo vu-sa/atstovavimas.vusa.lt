@@ -1,16 +1,24 @@
+<script setup lang="ts">
+import StructureGraph from './components/StructureGraph.vue'
+import SeimasProcesas from './graphs/SeimasProcesas.svg?component'
+import VyriausybeProcesas from './graphs/VyriausybeProcesas.svg?component'
+import SeimasProcesasTrumpai from './graphs/SeimasProcesasTrumpai.svg?component'
+</script>
+
+
 # Įstatymų leidybos procesas
 
 ## Apibendrinta įstatymo iniciavimo struktūra
 
-\@include(\'graphs.SeimasProcesasTrumpai\')
+<StructureGraph :svg-object="SeimasProcesasTrumpai" />
 
 ## Įstatymo iniciavimo struktūra
 
-\@include(\'graphs.SeimasProcesas\')
+<StructureGraph :svg-object="SeimasProcesas" />
 
 ## Vyriausybės nutarimo priėmimo procesas
 
-\@include(\'graphs.VyriausybeProcesas\')
+<StructureGraph :svg-object="VyriausybeProcesas" />
 
 ## Vyriausybės nutarimo priėmimo proceso aprašas
 

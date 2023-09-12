@@ -1,8 +1,13 @@
+<script setup lang="ts">
+import StructureGraph from './components/StructureGraph.vue'
+import Seimas from './graphs/Seimas.svg?component'
+</script>
+
 # LR Seimas ir susijusios struktūros
 
 ## LR Seimo ir susijusių struktūrų schema
 
-\@include(\'graphs.Seimas\')
+<StructureGraph :svg-object="Seimas" />
 
 ## LR Seimo ir susijusių struktūrų schemos aprašas
 

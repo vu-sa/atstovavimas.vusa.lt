@@ -1,8 +1,13 @@
+<script setup lang="ts">
+import StructureGraph from './components/StructureGraph.vue'
+import LRV from './graphs/LRV.svg?component'
+</script>
+
 # LR Vyriausybė
 
 ## LR Vyriausybės ir susijusių struktūrų schema
 
-\@include(\'graphs.LRV\')
+<StructureGraph :svg-object="LRV" />
 
 ## LR Vyriausybės ir susijusių struktūrų schemos aprašas
 

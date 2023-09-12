@@ -1,12 +1,14 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 3404.801 2931.106" enable-background="new 0 0 3404.801 2931.106" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0px" y="0px"
+	viewBox="0 0 3404.801 2931.106" enable-background="new 0 0 3404.801 2931.106"
+	xml:space="preserve">
 <g id="VU_Senato_komisijos">
-	<a tabindex="0" 
-data-bs-toggle="popover" 
-title="VU Senato komisijos" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+	<a tabindex="0"
+data-bs-toggle="popover"
+title="VU Senato komisijos"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Senato komisijos yra Senato sudarytos komisijos, padedančios įgyvendinti Universiteto tikslus bei uždavinius. <hr> <a href='/#senato-komisijos'>Daugiau</a>">
 		<g>
 			<path fill="#FFFFFF" d="M2510.634,2044c-17.642,0-31.994-14.353-31.994-31.994v-569.012c0-17.642,14.353-31.994,31.994-31.994
@@ -18,14 +20,14 @@ data-bs-content="Senato komisijos yra Senato sudarytos komisijos, padedančios �
 					c18.774,0,33.994-15.22,33.994-33.994v-569.012C3243.723,1424.22,3228.504,1409,3209.729,1409L3209.729,1409z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 2683.2161 1491.9473)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">VU Senato komisijos</text>
+		<text transform="matrix(1 0 0 1 2683.2161 1491.9473)" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="38px">VU Senato komisijos</text>
 	</a>
-	<a tabindex="0" 
-data-bs-toggle="popover" 
-title="BUS komisija" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+	<a tabindex="0"
+data-bs-toggle="popover"
+title="BUS komisija"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Nagrinėja naujai teikiamų bendrųjų universitetinių studijų
 modulius, teikia išvadas dėl jų atitikimo bendrųjų universitetinių studijų koncepcijai, kuri vėliau
 tvirtinimui yra teikiama Senatui ir atlieka šių modulių įgyvendinimo kokybės stebėseną. <hr> <a target='_blank'
@@ -45,12 +47,12 @@ href='https://www.vu.lt/site_files/BUS_koncepcija_2018-01-23_redakcija.pdf'>BUS 
 		</g>
 	</a>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Centrinė ginčų nagrinėjimo komisija" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Centrinė ginčų nagrinėjimo komisija"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Nagrinėja skundus bei pareiškimus tarp Universiteto bendruomenės
 narių, nesusijusius su akademinės etikos pažeidimais. <hr> <a target='_blank'
 href='https://www.vu.lt/apiemus/dokumentai#akademine-etika'>Daugiau</a>">
@@ -68,12 +70,12 @@ href='https://www.vu.lt/apiemus/dokumentai#akademine-etika'>Daugiau</a>">
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Centrinė akademinės etikos komisija" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Centrinė akademinės etikos komisija"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Sprendžia ginčus bei klausimus, susijusius su akademinės etikos
 pažeidimais, kuria ir nuolatos atnaujina VU akademinės etikos kodeksą. <hr> <a target='_blank'
 href='https://www.vu.lt/apiemus/dokumentai#akademine-etika'>Daugiau</a>">
@@ -91,12 +93,12 @@ href='https://www.vu.lt/apiemus/dokumentai#akademine-etika'>Daugiau</a>">
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Centrinė rinkimų komisija" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Centrinė rinkimų komisija"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Kuria VU valdymo organų rinkimų tvarką ir užtikrina skaidrius bei tinkamus
 VU valdymo organų rinkimus. <hr> <a target='_blank'
 href='https://www.vu.lt/site_files/VUCentrinesrinkimukomisijosnuostatai.pdf'>Daugiau</a>">
@@ -114,12 +116,12 @@ href='https://www.vu.lt/site_files/VUCentrinesrinkimukomisijosnuostatai.pdf'>Dau
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Akademinio protokolo komisija" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Akademinio protokolo komisija"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Kuria ir nuolatos atnaujina akademinių apeigų protokolą bei akademinių
 renginių aprašus. <hr> <a target='_blank'
 href='https://www.vu.lt/site_files/Akademiniu_apeigu_protokolas.pdf'>Protokolas</a>">
@@ -137,12 +139,12 @@ href='https://www.vu.lt/site_files/Akademiniu_apeigu_protokolas.pdf'>Protokolas<
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Emeritūros, afiliacijos ir garbės vardų komisija" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Emeritūros, afiliacijos ir garbės vardų komisija"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Svarsto ir teikia Senatui tvirtinti kandidatūras
 gauti Universiteto profesoriaus emerito, afiliuotojo profesoriaus, docento, mokslo darbuotojo bei garbės
 daktaro, alumni, mecenato vardus. <hr> <a target='_blank'
@@ -175,12 +177,12 @@ href='https://www.vu.lt/site_files/Emerituros_afiliacijos_ir_garbes_vardu_nuosta
 	</g>
 </g>
 <g id="Rektoriaus_komitetai">
-	<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Rektoriaus sudaromos darbo grupės" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+	<a tabindex="0"
+data-bs-toggle="popover"
+title="Rektoriaus sudaromos darbo grupės"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Rektorius taip pat gali steigti darbo grupes tam tikriems klausimams spręsti. Darbo grupės yra trumpalaikės ir sudarytos iki reikiamo sprendimo priėmimo (pavyzdžiui, Statuto parengimo, modulinių studijų įvedimo ir
 kt.).">
 		<g>
@@ -197,12 +199,12 @@ kt.).">
 			<text transform="matrix(1 0 0 1 1037.5769 1146.9769)" fill="#111111" font-family="'Roboto'" font-size="25px">Darbo grupės</text>
 		</g>
 	</a>
-	<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Rektoriaus sudaromos komisijos ir komitetai" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+	<a tabindex="0"
+data-bs-toggle="popover"
+title="Rektoriaus sudaromos komisijos ir komitetai"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Rektorius gali formuoti komisijas ir komitetus svarbiems Universiteto klausimams spręsti. <hr> <a href='/#rektoriaus-komisijos'>Daugiau</a>">
 		<g>
 			<path fill="#FFFFFF" d="M197.718,1754c-17.642,0-31.994-14.353-31.994-31.994v-446.012c0-17.642,14.353-31.994,31.994-31.994
@@ -214,15 +216,15 @@ data-bs-content="Rektorius gali formuoti komisijas ir komitetus svarbiems Univer
 					c18.774,0,33.994-15.22,33.994-33.994v-446.012C1255.723,1257.22,1240.504,1242,1221.729,1242L1221.729,1242z"/>
 			</g>
 		</g>
-		<text transform="matrix(0 -1 1 0 263.197 1683.166)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Komisijos / </tspan><tspan x="20.392" y="45.6" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">komitetai</tspan></text>
+		<text transform="matrix(0 -1 1 0 263.197 1683.166)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="38px">Komisijos / </tspan><tspan x="20.392" y="45.6" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="38px">komitetai</tspan></text>
 	</a>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Vienkartinių tikslinių stipendijų skirstymo komisija" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Vienkartinių tikslinių stipendijų skirstymo komisija"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Sprendžia, kam ir kokio dydžio skirti vienkartines
 tikslines stipendijas už pasiekimus kultūros, sporto, mokslo ar visuomeninėje veikloje. <hr> <a target='_blank'
 href='https://vusa.lt/lt/vienkartines-tikslines-stipendijos'>Veikimo principai</a>">
@@ -240,12 +242,12 @@ href='https://vusa.lt/lt/vienkartines-tikslines-stipendijos'>Veikimo principai</
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Vienkartinių socialinių stipendijų skirstymo komisija" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Vienkartinių socialinių stipendijų skirstymo komisija"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Nagrinėja gautus prašymus, susijusius su studento
 materialinės ir / ar socialinės padėties pablogėjimu (susirgus sunkia liga, patyrus traumą, avariją, gaisrą,
 rimtą vagystę, artimojo mirtį, vienam iš tėvų praradus darbą ir pan.). <hr> <a target='_blank'
@@ -264,12 +266,12 @@ href='https://vusa.lt/lt/vienkartines-socialines-stipendijos'>Veikimo principai<
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="VU priėmimo komisija" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="VU priėmimo komisija"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Komisija svarsto ir teikia Universiteto rektoriui tvirtinti dėstytojų ir mokslo
 darbuotojų kandidatūras akademinėms pareigoms užimti. <hr> <a target='_blank'
 href='https://www.vu.lt/apiemus/karjera/akademinis-personalas/6546-konkursu-organizavimo-nuostatai-ir-kiti-susije-dokumentai'>Plačiau apie procedūrą </a>">
@@ -287,12 +289,12 @@ href='https://www.vu.lt/apiemus/karjera/akademinis-personalas/6546-konkursu-orga
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="VU geriausių dėstytojų pripažinimo komisija" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="VU geriausių dėstytojų pripažinimo komisija"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Komisija svarsto kandidatų veiklą ir teikia Rektoriui
 rekomendacijas dėl kandidatų pripažinimo geriausiais metų dėstytojais. <hr> <a target='_blank'
 href='https://www.vu.lt/site_files/Isak_VU_geriausiu_destytoju_rinkimo_aprasas_1.pdf'>Plačiau apie procedūrą </a>">
@@ -323,12 +325,12 @@ href='https://www.vu.lt/site_files/Isak_VU_geriausiu_destytoju_rinkimo_aprasas_1
 		<text transform="matrix(1 0 0 1 408.2408 1643.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">VU išskirtinio profesoriaus</tspan><tspan x="-22.986" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">kategorijos suteikimo komisija</tspan></text>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Partnerystės profesorių ir partnerystės docentų pareigų suteikimo patariamasis komitetas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Partnerystės profesorių ir partnerystės docentų pareigų suteikimo patariamasis komitetas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Komitetas VU
 rektoriui teikia nuomonę dėl VU partnerystės profesorių ir partnerystės docentų pareigybių suteikimo. <hr> <a target='_blank'
 href='https://www.vu.lt/site_files/Reguliaminas/Dėl_partnerystės_profesoriaus_ir_partnerystės_docento_pareigybių.pdf'>Nuostatai </a>">
@@ -348,12 +350,12 @@ href='https://www.vu.lt/site_files/Reguliaminas/Dėl_partnerystės_profesoriaus_
 </g>
 <g id="Senato_kolegija">
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Senato kolegija" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Senato kolegija"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Senato veiklai organizuoti sudaroma Senato kolegija, susidedanti iš Senato pirmininko,
 Senato pirmininko pavaduotojo (-ų) ir Komitetų pirmininkų ir Studentų atstovo. <hr> <a target='_blank'
 href='https://www.vu.lt/apiemus/struktura/senatas/senato-reglamentas'>Plačiau </a>">
@@ -372,12 +374,12 @@ href='https://www.vu.lt/apiemus/struktura/senatas/senato-reglamentas'>Plačiau <
 	</g>
 </g>
 <g id="Senato_komitetai">
-	<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Senato komitetai" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+	<a tabindex="0"
+data-bs-toggle="popover"
+title="Senato komitetai"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Itin svarbiems su mokslu, menu ir studijomis susijusiems Universiteto veiklos klausimams
 spręsti yra sudaryti trys Senato komitetai: Mokslo, Studijų bei Kokybės ir plėtros. Kiekvienas komitetas
 nagrinėja atitinkamos srities klausimus bei teikia išvadas Senatui. <hr> <a
@@ -392,14 +394,14 @@ href='/#senato-komitetai'>Plačiau </a>">
 					c18.774,0,33.994-15.22,33.994-33.994V822.421C3090.723,803.647,3075.504,788.427,3056.729,788.427L3056.729,788.427z"/>
 			</g>
 		</g>
-		<text transform="matrix(0 1 -1 0 3010.1824 857.562)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Senato komitetai</text>
+		<text transform="matrix(0 1 -1 0 3010.1824 857.562)" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="38px">Senato komitetai</text>
 	</a>
-	<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Kokybės ir plėtros komitetas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+	<a tabindex="0"
+data-bs-toggle="popover"
+title="Kokybės ir plėtros komitetas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Kontroliuoja, kaip veikia studijų kokybės užtikrinimo sistema, nagrinėja
 su Vilniaus universiteto vidaus išteklių paskirstymu, plėtra susijusius klausimus.">
 		<g>
@@ -415,12 +417,12 @@ su Vilniaus universiteto vidaus išteklių paskirstymu, plėtra susijusius klaus
 		<text transform="matrix(1 0 0 1 2714.189 997.8243)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Kokybės ir plėtros</tspan><tspan x="43.817" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">komitetas</tspan></text>
 	</a>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Studijų komitetas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Studijų komitetas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Nagrinėja klausimus, susijusius su studijų vykdymu ir kokybe Vilniaus universitete">
 			<g>
 				<path fill="#FFFFFF" d="M2685.56,903.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.865
@@ -436,12 +438,12 @@ data-bs-content="Nagrinėja klausimus, susijusius su studijų vykdymu ir kokybe 
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Mokslo komitetas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Mokslo komitetas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Nagrinėja klausimus, susijusius su mokslo vykdymu bei plėtra Vilniaus universitete">
 			<g>
 				<path fill="#FFFFFF" d="M2685.56,1150.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.865
@@ -458,12 +460,12 @@ data-bs-content="Nagrinėja klausimus, susijusius su mokslo vykdymu bei plėtra 
 	</g>
 </g>
 <g id="Didysis_rektoratas">
-	<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Didysis rektoratas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+	<a tabindex="0"
+data-bs-toggle="popover"
+title="Didysis rektoratas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Rektoriaus patariamasis darinys, sudarytas iš visų Universiteto kamieninių akademinių ir
 neakademinių padalinių vadovų bei Studentų atstovybės prezidento. <hr> <a href='/#didysis-rektoratas'>Daugiau</a>">
 		<g>
@@ -477,17 +479,17 @@ neakademinių padalinių vadovų bei Studentų atstovybės prezidento. <hr> <a h
 						L1791.369,1616.752z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 1512.1339 1659.0371)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="30.0109px">Didysis rektoratas</text>
+			<text transform="matrix(1 0 0 1 1512.1339 1659.0371)" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="30.0109px">Didysis rektoratas</text>
 		</g>
 	</a>
 </g>
 <g id="Mažasis_rektoratas">
-	<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Mažasis rektoratas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+	<a tabindex="0"
+data-bs-toggle="popover"
+title="Mažasis rektoratas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a href='/#mazasis-rektoratas'>Daugiau</a>">
 		<g>
 			<path fill="#FFFFFF" d="M1623.393,1474c-17.642,0-31.994-14.353-31.994-31.994v-239.585c0-17.642,14.353-31.994,31.994-31.994
@@ -499,15 +501,15 @@ data-bs-content="<a href='/#mazasis-rektoratas'>Daugiau</a>">
 					c18.774,0,33.994-15.22,33.994-33.994v-239.585C2356.482,1183.647,2341.263,1168.427,2322.489,1168.427L2322.489,1168.427z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1808.9448 1440.9473)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Mažasis rektoratas</text>
+		<text transform="matrix(1 0 0 1 1808.9448 1440.9473)" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="38px">Mažasis rektoratas</text>
 	</a>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Vicerektorius (-ė)" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Vicerektorius (-ė)"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Rektoriaus teikimu vieną iš prorektorių Taryba skiria eiti pirmojo
 prorektoriaus – vicerektoriaus – pareigas.">
 			<g>
@@ -524,12 +526,12 @@ prorektoriaus – vicerektoriaus – pareigas.">
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Kancleris" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Kancleris"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Kancleris padeda Rektoriui valdyti Universiteto išteklius, tvarkyti finansus, užtikrinti Universiteto vidaus
 tvarką ir reikiamas materialines bei organizacines sąlygas Universiteto Senato ir Tarybos veiklai.">
 			<g>
@@ -546,12 +548,12 @@ tvarką ir reikiamas materialines bei organizacines sąlygas Universiteto Senato
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Prorektoriai" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Prorektoriai"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Prorektoriai – administruoja Rektoriaus jiems pavestą Universiteto veiklos ar valdymo sritį. <hr> <a href='/#mazasis-rektoratas'>Daugiau</a>">
 			<g>
 				<path fill="#FFFFFF" d="M1845.319,1371.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.865
@@ -569,7 +571,7 @@ data-bs-content="Prorektoriai – administruoja Rektoriaus jiems pavestą Univer
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BC2835" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="1727.838" y1="1476.054" x2="1727.838" y2="1589.385"/>
 				<g>
 					<polygon fill="#BC2835" points="1718.25,1582.846 1727.831,1618.621 1737.425,1582.846 					"/>
@@ -593,7 +595,7 @@ data-bs-content="Prorektoriai – administruoja Rektoriaus jiems pavestą Univer
 	</g>
 	<text transform="matrix(1 0 0 1 2000.8386 1537.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Vadovauja</text>
 	<g>
-		
+
 			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="5135.6401" y1="2904.238" x2="5135.6401" y2="2956.238" gradientTransform="matrix(4.489700e-11 -1 1 4.489700e-11 -1202.5148 6922.6401)">
 			<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
 			<stop  offset="0.5" style="stop-color:#FFFFFF"/>
@@ -603,12 +605,12 @@ data-bs-content="Prorektoriai – administruoja Rektoriaus jiems pavestą Univer
 	</g>
 </g>
 <g id="KNAP">
-	<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Vilniaus universiteto kamieniniai neakademiniai padaliniai" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+	<a tabindex="0"
+data-bs-toggle="popover"
+title="Vilniaus universiteto kamieniniai neakademiniai padaliniai"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Jie steigiami paslaugoms,
 užtikrinančioms akademinių padalinių veiklą, teikti ir kitoms neakademinėms Universiteto funkcijoms atlikti. <hr> <a href='/#vu-knap'>Daugiau</a>">
 		<g>
@@ -621,15 +623,15 @@ užtikrinančioms akademinių padalinių veiklą, teikti ir kitoms neakademinėm
 					c18.774,0,33.994-15.22,33.994-33.994v-872.012C2294.723,1833.22,2279.504,1818,2260.729,1818L2260.729,1818z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 1517.1227 1901.5764)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Kamieniniai neakademiniai padaliniai</text>
+		<text transform="matrix(1 0 0 1 1517.1227 1901.5764)" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="38px">Kamieniniai neakademiniai padaliniai</text>
 	</a>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Bendrabučių centras" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Bendrabučių centras"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.bustas.vu.lt/'>bustas.vu.lt/</a>">
 			<g>
 				<path fill="#FFFFFF" d="M1486.221,2063.261c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
@@ -645,12 +647,12 @@ data-bs-content="<a target='_blank' href='http://www.bustas.vu.lt/'>bustas.vu.lt
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Biblioteka" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Biblioteka"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.mb.vu.lt/'>mb.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M1486.56,2174.314c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
@@ -666,12 +668,12 @@ data-bs-content="<a target='_blank' href='http://www.mb.vu.lt/'>mb.vu.lt</a>">
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Botanikos sodas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Botanikos sodas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.botanikos-sodas.vu.lt/'>botanikos-sodas.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M1492.56,2285.898c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
@@ -687,12 +689,12 @@ data-bs-content="<a target='_blank' href='http://www.botanikos-sodas.vu.lt/'>bot
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Planetariumas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Planetariumas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://planetarium.tfai.vu.lt/'>planetarium.tfai.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M1917.465,2403.831c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
@@ -708,12 +710,12 @@ data-bs-content="<a target='_blank' href='http://planetarium.tfai.vu.lt/'>planet
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Muziejus" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Muziejus"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.muziejus.vu.lt/lt'>muziejus.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M1917.465,2285.898c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
@@ -729,12 +731,12 @@ data-bs-content="<a target='_blank' href='http://www.muziejus.vu.lt/lt'>muziejus
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Kultūros centras" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Kultūros centras"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.kultura.vu.lt/'>kultura.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M1492.56,2653.708c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
@@ -750,12 +752,12 @@ data-bs-content="<a target='_blank' href='http://www.kultura.vu.lt/'>kultura.vu.
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Leidykla" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Leidykla"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='https://www.vu.lt/leidyba/'>vu.lt/leidyba</a>">
 			<g>
 				<path fill="#FFFFFF" d="M1917.465,2046.685c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
@@ -771,12 +773,12 @@ data-bs-content="<a target='_blank' href='https://www.vu.lt/leidyba/'>vu.lt/leid
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Informacinių technologijų paslaugų centras" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Informacinių technologijų paslaugų centras"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='https://www.vu.lt/it/epaslaugos/'>vu.lt/it/epaslaugos/</a>">
 			<g>
 				<path fill="#FFFFFF" d="M1492.221,2435.679c-7.444,0-13.5-6.056-13.5-13.5v-84.128c0-7.444,6.056-13.5,13.5-13.5h256.163
@@ -792,12 +794,12 @@ data-bs-content="<a target='_blank' href='https://www.vu.lt/it/epaslaugos/'>vu.l
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Turto valdymo ir paslaugų centras" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Turto valdymo ir paslaugų centras"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=6'>Kontaktai</a>">
 			<g>
 				<path fill="#FFFFFF" d="M1917.316,2670.284c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
@@ -813,12 +815,12 @@ data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Sveikatos ir sporto centras" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Sveikatos ir sporto centras"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.ssc.vu.lt/'>ssc.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M1917.316,2549.419c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
@@ -834,12 +836,12 @@ data-bs-content="<a target='_blank' href='http://www.ssc.vu.lt/'>ssc.vu.lt</a>">
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Mokymo ir praktikų bazių centras" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Mokymo ir praktikų bazių centras"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=63'>Kontaktai</a>">
 			<g>
 				<path fill="#FFFFFF" d="M1917.316,2190.891c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
@@ -855,12 +857,12 @@ data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Konfucijaus institutas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Konfucijaus institutas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='https://www.konfucijus.vu.lt/'>konfucijus.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M1492.56,2532.843c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
@@ -878,7 +880,7 @@ data-bs-content="<a target='_blank' href='https://www.konfucijus.vu.lt/'>konfuci
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BC2835" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="1727.648" y1="1818.572" x2="1727.648" y2="1705.241"/>
 				<g>
 					<polygon fill="#BC2835" points="1737.235,1711.78 1727.654,1676.005 1718.061,1711.78 					"/>
@@ -890,12 +892,12 @@ data-bs-content="<a target='_blank' href='https://www.konfucijus.vu.lt/'>konfuci
 	<text transform="matrix(1 0 0 1 1750.8386 1755.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Įeina</text>
 </g>
 <g id="Taryba">
-	<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Taryba" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+	<a tabindex="0"
+data-bs-toggle="popover"
+title="Taryba"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Universiteto valdymo organas atsakingas už strateginę Universiteto plėtrą, veiklos
 kokybę, finansus bei struktūros pokyčius. <hr> <a href='VU-taryba'>Daugiau</a>">
 		<g>
@@ -909,7 +911,7 @@ kokybę, finansus bei struktūros pokyčius. <hr> <a href='VU-taryba'>Daugiau</a
 						L1763.676,951.557z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 1545.7268 1012.0814)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="45px">Taryba</text>
+			<text transform="matrix(1 0 0 1 1545.7268 1012.0814)" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="45px">Taryba</text>
 		</g>
 	</a>
 	<g>
@@ -928,7 +930,7 @@ kokybę, finansus bei struktūros pokyčius. <hr> <a href='VU-taryba'>Daugiau</a
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BC2835" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="1727.747" y1="1045.054" x2="1727.747" y2="1206.385"/>
 				<g>
 					<polygon fill="#BC2835" points="1718.16,1199.846 1727.741,1235.621 1737.335,1199.846 					"/>
@@ -939,7 +941,7 @@ kokybę, finansus bei struktūros pokyčius. <hr> <a href='VU-taryba'>Daugiau</a
 	</g>
 	<g>
 		<g>
-			<polyline fill="none" stroke="#BC2835" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" points="1727.723,1188 
+			<polyline fill="none" stroke="#BC2835" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" points="1727.723,1188
 				2160.723,1188 2160.723,1206.385 			"/>
 			<g>
 				<polygon fill="#BC2835" points="2151.136,1199.846 2160.717,1235.621 2170.311,1199.846 				"/>
@@ -962,11 +964,11 @@ kokybę, finansus bei struktūros pokyčius. <hr> <a href='VU-taryba'>Daugiau</a
 	<text transform="matrix(1 0 0 1 1702.8386 178.9795)" fill="#FBB01B" font-family="'Roboto'" font-style="italic" font-size="20px">Teikia siūlymus</text>
 </g>
 <g id="Rektorius">
-	<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Rektorius" 
-data-bs-html="true" 
-role="button" 
+	<a tabindex="0"
+data-bs-toggle="popover"
+title="Rektorius"
+data-bs-html="true"
+role="button"
 data-bs-trigger="focus"
 data-bs-content="Vienasmenis Universiteto valdymo organas ir Universiteto vadovas. Rektorius
 veikia Universiteto vardu ir jam atstovauja, atsako už Universiteto veiklos tikslų įgyvendinimą, kokybišką
@@ -981,13 +983,13 @@ darbų organizavimą, Universiteto finansinę veiklą, tinkamą lėšų ir turto
 						c8.284,0,15-6.716,15-15v-61C2135.676,727.463,2128.96,720.747,2120.676,720.747L2120.676,720.747z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 1875.7444 781.0814)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="45px">Rektorius</text>
+			<text transform="matrix(1 0 0 1 1875.7444 781.0814)" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="45px">Rektorius</text>
 		</g>
 	</a>
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BC2835" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="1981.838" y1="812.054" x2="1981.838" y2="1141.385"/>
 				<g>
 					<polygon fill="#BC2835" points="1972.25,1134.846 1981.831,1170.621 1991.425,1134.846 					"/>
@@ -1036,7 +1038,7 @@ darbų organizavimą, Universiteto finansinę veiklą, tinkamą lėšų ir turto
 	</g>
 	<g>
 		<g>
-			<polyline fill="none" stroke="#BC2835" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" points="1313.723,1138 
+			<polyline fill="none" stroke="#BC2835" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" points="1313.723,1138
 				1313.723,1497 1284.959,1497 			"/>
 			<g>
 				<polygon fill="#BC2835" points="1291.498,1487.413 1255.723,1496.994 1291.498,1506.587 				"/>
@@ -1046,7 +1048,7 @@ darbų organizavimą, Universiteto finansinę veiklą, tinkamą lėšų ir turto
 	<text transform="matrix(1 0 0 1 1718.8386 728.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Formuoja</text>
 	<text transform="matrix(1 0 0 1 2363.8386 736.9795)" fill="#FBB01B" font-family="'Roboto'" font-style="italic" font-size="20px">Teikia siūlymus</text>
 	<g>
-		
+
 			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="4721.6401" y1="2316.238" x2="4721.6401" y2="2368.238" gradientTransform="matrix(1 0 0 1 -3407.9167 -1143.238)">
 			<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
 			<stop  offset="0.5" style="stop-color:#FFFFFF"/>
@@ -1055,7 +1057,7 @@ darbų organizavimą, Universiteto finansinę veiklą, tinkamą lėšų ir turto
 		<rect x="1297.723" y="1173" fill="url(#SVGID_2_)" width="32" height="52"/>
 	</g>
 	<g>
-		
+
 			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="4946.6401" y1="1882.238" x2="4946.6401" y2="1934.238" gradientTransform="matrix(4.489700e-11 -1 1 4.489700e-11 -542.5147 5698.6401)">
 			<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
 			<stop  offset="0.5" style="stop-color:#FFFFFF"/>
@@ -1064,7 +1066,7 @@ darbų organizavimą, Universiteto finansinę veiklą, tinkamą lėšų ir turto
 		<rect x="1339.723" y="736" fill="url(#SVGID_3_)" width="52" height="32"/>
 	</g>
 	<g>
-		
+
 			<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="5014.6401" y1="1869.238" x2="5014.6401" y2="1921.238" gradientTransform="matrix(4.489700e-11 -1 1 4.489700e-11 -288.5147 5766.6401)">
 			<stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
 			<stop offset="0.5" style="stop-color:#FFFFFF"/>
@@ -1074,12 +1076,12 @@ darbų organizavimą, Universiteto finansinę veiklą, tinkamą lėšų ir turto
 	</g>
 </g>
 <g id="Senatas">
-	<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Senatas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+	<a tabindex="0"
+data-bs-toggle="popover"
+title="Senatas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Užtikrina kultūros, mokslo, tyrimų ir dėstymo laisvę Universitete, Universiteto
 bendrųjų akademinių reikalų ir kitų tiesiogiai su viso Universiteto akademine veikla susijusių klausimų
 kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą. <a href='/#VU-senatas'>Daugiau</a>">
@@ -1093,13 +1095,13 @@ kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą
 						c8.284,0,15-6.716,15-15v-61C2500.676,957.463,2493.96,950.747,2485.676,950.747L2485.676,950.747z"/>
 				</g>
 			</g>
-			<text transform="matrix(1 0 0 1 2256.0486 1012.0814)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="45px">Senatas</text>
+			<text transform="matrix(1 0 0 1 2256.0486 1012.0814)" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="45px">Senatas</text>
 		</g>
 	</a>
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BC2835" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="2337.648" y1="951.572" x2="2337.648" y2="724.241"/>
 				<g>
 					<polygon fill="#BC2835" points="2347.235,730.78 2337.654,695.005 2328.061,730.78 					"/>
@@ -1123,7 +1125,7 @@ kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BC2835" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="2499.984" y1="1011.652" x2="2576.315" y2="1011.652"/>
 				<g>
 					<polygon fill="#BC2835" points="2569.776,1021.24 2605.551,1011.659 2569.776,1002.065 					"/>
@@ -1160,7 +1162,7 @@ kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą
 					h313.163c8.284,0,15-6.716,15-15V137.752C2509.522,129.467,2502.806,122.752,2494.522,122.752L2494.522,122.752z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 2262.4871 165.0371)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="30.0109px">LR Seimas,</tspan><tspan x="0.125" y="36.013" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="30.0109px">Vyriausybė</tspan><tspan x="-5.51" y="72.026" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="30.0109px">Prezidentas</tspan></text>
+		<text transform="matrix(1 0 0 1 2262.4871 165.0371)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="30.0109px">LR Seimas,</tspan><tspan x="0.125" y="36.013" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="30.0109px">Vyriausybė</tspan><tspan x="-5.51" y="72.026" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="30.0109px">Prezidentas</tspan></text>
 	</g>
 </g>
 <g id="Studentai">
@@ -1885,7 +1887,7 @@ kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą
 		<path fill="#BC2835" stroke="#BC2835" stroke-linejoin="round" stroke-miterlimit="10" d="M2069.763,363.947h-193.645
 			c-7.278,0-13.177-5.9-13.177-13.177v-20.355c0-7.278,5.9-13.177,13.177-13.177h193.645c7.278,0,13.177,5.9,13.177,13.177v20.355
 			C2082.941,358.048,2077.041,363.947,2069.763,363.947z"/>
-		<text transform="matrix(1 0 0 1 1918.9978 347.8987)" fill="#FFFFFF" font-family="'Roboto'" font-weight=700 font-size="25px">Studentai</text>
+		<text transform="matrix(1 0 0 1 1918.9978 347.8987)" fill="#FFFFFF" font-family="'Roboto'" font-weight="700" font-size="25px">Studentai</text>
 	</g>
 	<g>
 		<g>
@@ -1925,7 +1927,7 @@ kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą
 	</g>
 	<g>
 		<g>
-			<polyline fill="none" stroke="#BC2835" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" points="1606.723,507 
+			<polyline fill="none" stroke="#BC2835" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" points="1606.723,507
 				1365.723,507 1365.723,1652 1433.969,1652 			"/>
 			<g>
 				<polygon fill="#BC2835" points="1427.431,1661.587 1463.205,1652.006 1427.431,1642.413 				"/>
@@ -1949,7 +1951,7 @@ kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BC2835" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="1775.502" y1="476.908" x2="1285.171" y2="476.908"/>
 				<g>
 					<polygon fill="#BC2835" points="1291.71,467.32 1255.935,476.901 1291.71,486.495 					"/>
@@ -1962,7 +1964,7 @@ kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BC2835" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="1972.838" y1="365.054" x2="1972.838" y2="420.385"/>
 				<g>
 					<polygon fill="#BC2835" points="1963.25,413.846 1972.831,449.621 1982.425,413.846 					"/>
@@ -1974,7 +1976,7 @@ kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą
 	<g>
 		<g>
 			<g>
-				
+
 					<line fill="none" stroke="#BC2835" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="1861.502" y1="339.908" x2="1286.171" y2="339.908"/>
 				<g>
 					<polygon fill="#BC2835" points="1292.71,330.32 1256.935,339.901 1292.71,349.495 					"/>
@@ -1989,7 +1991,7 @@ kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą
 	<text transform="matrix(1 0 0 1 2000.8386 400.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Renka</text>
 	<text transform="matrix(1 0 0 1 2234.8386 526.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Deleguoja</text>
 	<g>
-		
+
 			<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="4773.6401" y1="2316.238" x2="4773.6401" y2="2368.238" gradientTransform="matrix(1 0 0 1 -3407.9167 -1143.238)">
 			<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
 			<stop  offset="0.5" style="stop-color:#FFFFFF"/>
@@ -1999,12 +2001,12 @@ kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą
 	</g>
 </g>
 <g id="KAP">
-	<a tabindex="0" 
-data-bs-toggle="popover" 
-title="VU kamieniniai akademiniai padaliniai" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+	<a tabindex="0"
+data-bs-toggle="popover"
+title="VU kamieniniai akademiniai padaliniai"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="Fakultetai, institutai, centrai,
 mokyklos – tai vidiniai organizaciniai Universiteto dariniai, kuriuose vykdoma visų rūšių pagrindinė
 Universiteto veikla. <hr> <a href='vu-kap'>Daugiau</a>">
@@ -2018,15 +2020,15 @@ Universiteto veikla. <hr> <a href='vu-kap'>Daugiau</a>">
 					c18.774,0,33.994-15.22,33.994-33.994V293.994C1255.723,275.22,1240.504,260,1221.729,260L1221.729,260z"/>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 413.0338 347.681)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Kamieniniai akademiniai padaliniai</text>
+		<text transform="matrix(1 0 0 1 413.0338 347.681)" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="38px">Kamieniniai akademiniai padaliniai</text>
 	</a>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Chemijos ir geomokslų fakultetas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Chemijos ir geomokslų fakultetas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.chgf.vu.lt/'>chgf.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M247.735,480.471c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
@@ -2042,12 +2044,12 @@ data-bs-content="<a target='_blank' href='http://www.chgf.vu.lt/'>chgf.vu.lt</a>
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Matematikos ir informatikos fakultetas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Matematikos ir informatikos fakultetas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.mif.vu.lt/'>mif.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M583.254,947.261c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
@@ -2063,12 +2065,12 @@ data-bs-content="<a target='_blank' href='http://www.mif.vu.lt/'>mif.vu.lt</a>">
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Filologijos fakultetas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Filologijos fakultetas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.flf.vu.lt/'>flf.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M247.884,707.497c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5H503.75
@@ -2084,12 +2086,12 @@ data-bs-content="<a target='_blank' href='http://www.flf.vu.lt/'>flf.vu.lt</a>">
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Ekonomikos ir verslo administravimo fakultetas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Ekonomikos ir verslo administravimo fakultetas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.evaf.vu.lt/'>evaf.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M247.735,616.344c-7.444,0-13.5-6.056-13.5-13.5v-84.127c0-7.444,6.056-13.5,13.5-13.5h256.163
@@ -2105,12 +2107,12 @@ data-bs-content="<a target='_blank' href='http://www.evaf.vu.lt/'>evaf.vu.lt</a>
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Filosofijos fakultetas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Filosofijos fakultetas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.fsf.vu.lt/'>fsf.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M247.884,820.771c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5H503.75
@@ -2126,12 +2128,12 @@ data-bs-content="<a target='_blank' href='http://www.fsf.vu.lt/'>fsf.vu.lt</a>">
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Gyvybės mokslų centras" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Gyvybės mokslų centras"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.gmc.vu.lt/'>gmc.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M583.254,480.471c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
@@ -2147,12 +2149,12 @@ data-bs-content="<a target='_blank' href='http://www.gmc.vu.lt/'>gmc.vu.lt</a>">
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Medicinos fakultetas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Medicinos fakultetas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.mf.vu.lt/'>mf.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M918.922,463.895c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
@@ -2168,12 +2170,12 @@ data-bs-content="<a target='_blank' href='http://www.mf.vu.lt/'>mf.vu.lt</a>">
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Teisės fakultetas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Teisės fakultetas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.tf.vu.lt/'>tf.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M918.922,820.771c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
@@ -2189,12 +2191,12 @@ data-bs-content="<a target='_blank' href='http://www.tf.vu.lt/'>tf.vu.lt</a>">
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Verslo mokykla" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Verslo mokykla"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.vm.vu.lt/'>vm.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M918.922,930.314c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
@@ -2210,12 +2212,12 @@ data-bs-content="<a target='_blank' href='http://www.vm.vu.lt/'>vm.vu.lt</a>">
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Fizikos fakultetas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Fizikos fakultetas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.ff.vu.lt/'>ff.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M247.884,930.314c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5H503.75
@@ -2231,12 +2233,12 @@ data-bs-content="<a target='_blank' href='http://www.ff.vu.lt/'>ff.vu.lt</a>">
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Šiaulių akademija" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Šiaulių akademija"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.sa.vu.lt/'>sa.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M918.922,584.497c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
@@ -2252,12 +2254,12 @@ data-bs-content="<a target='_blank' href='http://www.sa.vu.lt/'>sa.vu.lt</a>">
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Istorijos fakultetas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Istorijos fakultetas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.if.vu.lt/'>if.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M583.403,584.497c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
@@ -2273,12 +2275,12 @@ data-bs-content="<a target='_blank' href='http://www.if.vu.lt/'>if.vu.lt</a>">
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Komunikacijos fakultetas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Komunikacijos fakultetas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.kf.vu.lt/'>kf.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M583.254,837.348c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.163
@@ -2294,12 +2296,12 @@ data-bs-content="<a target='_blank' href='http://www.kf.vu.lt/'>kf.vu.lt</a>">
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Tarptautinių santykių ir politikos mokslų institutas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Tarptautinių santykių ir politikos mokslų institutas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.tspmi.vu.lt/'>tspmi.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M918.773,739.344c-7.444,0-13.5-6.056-13.5-13.5v-84.127c0-7.444,6.056-13.5,13.5-13.5h256.163
@@ -2315,12 +2317,12 @@ data-bs-content="<a target='_blank' href='http://www.tspmi.vu.lt/'>tspmi.vu.lt</
 		</a>
 	</g>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Kauno fakultetas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Kauno fakultetas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
 data-bs-content="<a target='_blank' href='http://www.knf.vu.lt/'>knf.vu.lt</a>">
 			<g>
 				<path fill="#FFFFFF" d="M583.403,707.497c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
@@ -2360,15 +2362,15 @@ data-bs-content="<a target='_blank' href='http://www.knf.vu.lt/'>knf.vu.lt</a>">
 				c18.774,0,33.994-15.22,33.994-33.994v-867.585C1255.723,1846.647,1240.504,1831.427,1221.729,1831.427L1221.729,1831.427z"/>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 504.0337 1911.9473)" fill="#111111" font-family="'Roboto'" font-weight=700 font-size="38px">Centrinė administracija</text>
+	<text transform="matrix(1 0 0 1 504.0337 1911.9473)" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="38px">Centrinė administracija</text>
 	<g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Rektoriaus biuras" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
-data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=15'>Kontaktai</a>">
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Rektoriaus biuras"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1'>Kontaktai</a>">
 			<g>
 				<g>
 					<path fill="#FFFFFF" d="M228.713,2039.382c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
@@ -2384,13 +2386,13 @@ data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir
 			</g>
 		</a>
 		<g>
-			<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Finansų departamentas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
-data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=57'>Kontaktai</a>">
+			<a tabindex="0"
+data-bs-toggle="popover"
+title="Finansų departamentas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1'>Kontaktai</a>">
 				<g>
 					<path fill="#FFFFFF" d="M228.713,2169.958c-7.444,0-13.5-6.056-13.5-13.5v-20.434c0-7.444,6.056-13.5,13.5-13.5h255.866
 						c7.444,0,13.5,6.056,13.5,13.5v20.434c0,7.444-6.056,13.5-13.5,13.5H228.713z"/>
@@ -2405,13 +2407,13 @@ data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir
 			</a>
 		</g>
 		<g>
-			<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Plėtros departamentas" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
-data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=49'>Kontaktai</a>">
+			<a tabindex="0"
+data-bs-toggle="popover"
+title="Plėtros departamentas"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1'>Kontaktai</a>">
 				<g>
 					<path fill="#FFFFFF" d="M574.77,2300.533c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
 						c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H574.77z"/>
@@ -2426,13 +2428,13 @@ data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir
 			</a>
 		</g>
 		<g>
-			<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Teisėkuros skyrius" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
-data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=59'>Kontaktai</a>">
+			<a tabindex="0"
+data-bs-toggle="popover"
+title="Teisėkuros skyrius"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1'>Kontaktai</a>">
 				<g>
 					<path fill="#FFFFFF" d="M920.826,2300.533c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
 						c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H920.826z"/>
@@ -2447,13 +2449,13 @@ data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir
 			</a>
 		</g>
 		<g>
-			<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Personalo skyrius" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
-data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=63'>Kontaktai</a>">
+			<a tabindex="0"
+data-bs-toggle="popover"
+title="Personalo skyrius"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1'>Kontaktai</a>">
 				<g>
 					<path fill="#FFFFFF" d="M228.713,2300.533c-7.444,0-13.5-6.056-13.5-13.5v-20.433c0-7.444,6.056-13.5,13.5-13.5h255.866
 						c7.444,0,13.5,6.056,13.5,13.5v20.433c0,7.444-6.056,13.5-13.5,13.5H228.713z"/>
@@ -2468,13 +2470,13 @@ data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir
 			</a>
 		</g>
 		<g>
-			<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Civilinės ir darbų saugos tarnyba" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
-data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=47'>Kontaktai</a>">
+			<a tabindex="0"
+data-bs-toggle="popover"
+title="Civilinės ir darbų saugos tarnyba"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1'>Kontaktai</a>">
 				<g>
 					<path fill="#FFFFFF" d="M920.677,2055.958c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.164
 						c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H920.677z"/>
@@ -2489,13 +2491,13 @@ data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir
 			</a>
 		</g>
 		<g>
-			<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Bendruomenės vystymo skyrius" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
-data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=45'>Kontaktai</a>">
+			<a tabindex="0"
+data-bs-toggle="popover"
+title="Bendruomenės vystymo skyrius"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1'>Kontaktai</a>">
 				<g>
 					<path fill="#FFFFFF" d="M574.621,2055.958c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
 						c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H574.621z"/>
@@ -2510,13 +2512,13 @@ data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir
 			</a>
 		</g>
 		<g>
-			<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Mokslo ir inovacijų skyrius" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
-data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=56'>Kontaktai</a>">
+			<a tabindex="0"
+data-bs-toggle="popover"
+title="Mokslo ir inovacijų skyrius"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1'>Kontaktai</a>">
 				<g>
 					<path fill="#FFFFFF" d="M920.677,2186.534c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.164
 						c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H920.677z"/>
@@ -2531,13 +2533,13 @@ data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir
 			</a>
 		</g>
 		<g>
-			<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Studijų administravimo skyrius" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
-data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=61'>Kontaktai</a>">
+			<a tabindex="0"
+data-bs-toggle="popover"
+title="Studijų administravimo skyrius"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1'>Kontaktai</a>">
 				<g>
 					<path fill="#FFFFFF" d="M574.621,2447.686c-7.444,0-13.5-6.056-13.5-13.5V2380.6c0-7.444,6.056-13.5,13.5-13.5h256.163
 						c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H574.621z"/>
@@ -2552,13 +2554,13 @@ data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir
 			</a>
 		</g>
 		<g>
-			<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Viešųjų pirkimų skyrius" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
-data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=48'>Kontaktai</a>">
+			<a tabindex="0"
+data-bs-toggle="popover"
+title="Viešųjų pirkimų skyrius"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1'>Kontaktai</a>">
 				<g>
 					<path fill="#FFFFFF" d="M574.621,2708.837c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.163
 						c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H574.621z"/>
@@ -2573,13 +2575,13 @@ data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir
 			</a>
 		</g>
 		<g>
-			<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Studentų paslaugų ir karjeros skyrius" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
-data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=54'>Kontaktai</a>">
+			<a tabindex="0"
+data-bs-toggle="popover"
+title="Studentų paslaugų ir karjeros skyrius"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1'>Kontaktai</a>">
 				<g>
 					<path fill="#FFFFFF" d="M228.564,2447.686c-7.444,0-13.5-6.056-13.5-13.5V2380.6c0-7.444,6.056-13.5,13.5-13.5h256.164
 						c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H228.564z"/>
@@ -2594,13 +2596,13 @@ data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir
 			</a>
 		</g>
 		<g>
-			<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Vidaus audito skyrius" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
-data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=30'>Kontaktai</a>">
+			<a tabindex="0"
+data-bs-toggle="popover"
+title="Vidaus audito skyrius"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1'>Kontaktai</a>">
 				<g>
 					<path fill="#FFFFFF" d="M228.564,2708.837c-7.444,0-13.5-6.056-13.5-13.5v-53.585c0-7.444,6.056-13.5,13.5-13.5h256.164
 						c7.444,0,13.5,6.056,13.5,13.5v53.585c0,7.444-6.056,13.5-13.5,13.5H228.564z"/>
@@ -2615,13 +2617,13 @@ data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir
 			</a>
 		</g>
 		<g>
-			<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Teisės taikymo skyrius" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
-data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=60'>Kontaktai</a>">
+			<a tabindex="0"
+data-bs-toggle="popover"
+title="Teisės taikymo skyrius"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1'>Kontaktai</a>">
 				<g>
 					<path fill="#FFFFFF" d="M920.677,2578.262c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.164
 						c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H920.677z"/>
@@ -2635,13 +2637,13 @@ data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir
 				<text transform="matrix(1 0 0 1 964.6382 2532.4011)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">Teisės taikymo</tspan><tspan x="44.678" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">skyrius</tspan></text>
 			</a>
 		</g>
-		<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Strateginio planavimo skyrius" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
-data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=58'>Kontaktai</a>">
+		<a tabindex="0"
+data-bs-toggle="popover"
+title="Strateginio planavimo skyrius"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1'>Kontaktai</a>">
 			<g>
 				<g>
 					<path fill="#FFFFFF" d="M228.564,2578.262c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.164
@@ -2657,13 +2659,13 @@ data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir
 			</g>
 		</a>
 		<g>
-			<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Studijų kokybės ir plėtros skyrius" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
-data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=62'>Kontaktai</a>">
+			<a tabindex="0"
+data-bs-toggle="popover"
+title="Studijų kokybės ir plėtros skyrius"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1'>Kontaktai</a>">
 				<g>
 					<path fill="#FFFFFF" d="M920.677,2447.686c-7.444,0-13.5-6.056-13.5-13.5V2380.6c0-7.444,6.056-13.5,13.5-13.5h256.164
 						c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H920.677z"/>
@@ -2678,13 +2680,13 @@ data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir
 			</a>
 		</g>
 		<g>
-			<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Komunikacijos ir rinkodaros skyrius" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
-data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=50'>Kontaktai</a>">
+			<a tabindex="0"
+data-bs-toggle="popover"
+title="Komunikacijos ir rinkodaros skyrius"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1'>Kontaktai</a>">
 				<g>
 					<path fill="#FFFFFF" d="M574.621,2186.534c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.163
 						c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H574.621z"/>
@@ -2699,13 +2701,13 @@ data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir
 			</a>
 		</g>
 		<g>
-			<a tabindex="0" 
-data-bs-toggle="popover" 
-title="Tarptautinių ryšių skyrius" 
-data-bs-html="true" 
-role="button" 
-data-bs-trigger="focus" 
-data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1&kod2=55'>Kontaktai</a>">
+			<a tabindex="0"
+data-bs-toggle="popover"
+title="Tarptautinių ryšių skyrius"
+data-bs-html="true"
+role="button"
+data-bs-trigger="focus"
+data-bs-content="<a target='_blank' href='https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1'>Kontaktai</a>">
 				<g>
 					<path fill="#FFFFFF" d="M574.621,2578.262c-7.444,0-13.5-6.056-13.5-13.5v-53.586c0-7.444,6.056-13.5,13.5-13.5h256.163
 						c7.444,0,13.5,6.056,13.5,13.5v53.586c0,7.444-6.056,13.5-13.5,13.5H574.621z"/>
