@@ -1,3 +1,9 @@
+---
+next:
+    text: Kamieniniai akademiniai padaliniai
+    link: /kap
+---
+
 # Įvadas
 
 Prieš Jūsų akis – VU SA sukurtas atstovavimo gidas. Jo tikslas –
