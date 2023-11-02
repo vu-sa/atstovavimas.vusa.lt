@@ -16,5 +16,9 @@
       "tailwindcss": {},
       "autoprefixer": {}
     }
+  },
+  "dependencies": {
+    "@floating-ui/dom": "^1.5.3",
+    "@floating-ui/vue": "^1.0.2"
   }
 }
