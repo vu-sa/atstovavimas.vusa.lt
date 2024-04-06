@@ -1,63 +1,82 @@
 <template>
-  <!-- <ClientOnly>  -->
-  <div id="tooltip"></div>
-  <component ref="svgRef" :is="svgObject" />
-  <!-- </ClientOnly> -->
+  <div ref="wrapper">
+    <svgObject />
+  </div>
 </template>
 
 <script setup lang="ts">
 import { onMounted, ref } from "vue";
 import { computePosition } from "@floating-ui/dom";
+import { zoom, select, selectAll, zoomIdentity, pointer } from "d3"
 
 defineProps<{
   svgObject: object;
 }>();
 
-const svgRef = ref<SVGElement | null>(null);
+const wrapper = ref(null);
 
 onMounted(() => {
   // add zooming behavior on scheme-wrapper
 
-  // const svg = select(svgRef.value);
+  const svg = select(wrapper.value).select("svg");
 
-  // const zoomed = ({ transform }) => {
-  //   svg.attr("transform", transform);
-  // };
+  // Select all children
+  const graph = svg.selectAll("svg > *");
 
-  // const zoomBehavior = zoom().on("zoom", zoomed);
-  // svg.call(zoomBehavior);
+  // For every element in graph, reassign translate to x and y
 
-  const tooltip = document.getElementById("tooltip");
+  const zoomed = ({ transform }) => {
+    graph.attr("transform", transform);
+  };
 
-  const elements = document.querySelectorAll("svg a[data-content]");
+  const zoomBehavior = zoom().on("zoom", zoomed);
 
-  // add click listener to hide tooltip on click elsewhere
+  svg.call(zoomBehavior, zoomIdentity);
 
-  elements.forEach((element) => {
-    element.addEventListener("click", (event) => {
-      if (event.currentTarget === null) {
-        return;
-      }
-
-      computePosition(event.currentTarget, tooltip).then(({ x, y }) => {
-        tooltip.style.left = `${x}px`;
-        tooltip.style.top = `${y}px`;
-        tooltip.style.opacity = "1";
-        // add content and link to tooltip
-        tooltip.innerHTML = `
-        <span>${event.currentTarget.dataset.content}</span>
-          <a style="display: block" href="${event.currentTarget.dataset?.link}">
-            Daugiau
-          </a>
-        `;
-
-        setTimeout(() => {
-          tooltip.style.opacity = "0";
-        }, 10000);
-      });
+  svg.selectAll("text")
+    .on("mousedown", function (event) {
+      // Allow text selection to proceed without interference
+      event.stopImmediatePropagation();
     });
-  });
+
+
+  // add tooltip
+  const Tooltip = select(wrapper.value)
+    .append("div")
+    .style("opacity", 0)
+    .attr("class", "tooltip")
+    .style("background-color", "white")
+    .style("border", "solid")
+    .style("border-width", "2px")
+    .style("border-radius", "5px")
+    .style("padding", "5px")
+
+  const mouseover = function (d) {
+    Tooltip
+      .style("opacity", 1)
+    select(this)
+      .style("stroke", "black")
+      .style("opacity", 1)
+  }
+  const mousemove = function (d) {
+    Tooltip
+      .html(select(this).attr("data-content"))
+      .style("left", (pointer(this)[0] + 70) + "px")
+      .style("top", (pointer(this)[1]) + "px")
+  }
+
+  const elements = selectAll("svg a[data-content]");
+
+  elements
+    .on("mouseover", mouseover)
+    .on("mousemove", mousemove)
+
+
+
+
+
 });
+
 </script>
 
 <style>
@@ -70,23 +89,6 @@ svg:hover > a:hover {
   opacity: 1;
   transition: 0.1s;
 } */
-
-#tooltip {
-  position: absolute;
-  background-color: #fff;
-  border: 1px solid #000;
-  padding: 5px;
-  box-shadow: 0 0 5px #000;
-  border-radius: 5px;
-  opacity: 0;
-  font-weight: 500;
-  transition: opacity 0.2s;
-  width: fit-content;
-  max-width: 400px;
-  top: 0;
-  left: 0;
-  z-index: 1000;
-}
 
 svg a {
   cursor: pointer;

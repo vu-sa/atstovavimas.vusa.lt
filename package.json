@@ -19,6 +19,8 @@
   },
   "dependencies": {
     "@floating-ui/dom": "^1.5.3",
-    "@floating-ui/vue": "^1.0.2"
+    "@floating-ui/vue": "^1.0.2",
+    "@types/d3": "^7.4.3",
+    "d3": "^7.9.0"
   }
 }

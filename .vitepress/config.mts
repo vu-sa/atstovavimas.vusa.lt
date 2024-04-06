@@ -27,18 +27,18 @@ export default defineConfig({
   },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    editLink: {
+    /* editLink: {
       pattern: 'https://github.com/vu-sa/atstovavimas.vusa.lt/edit/main/src/:path',
       text: 'Atnaujinti šį puslapį',
-    },
-    lastUpdated: {
+    }, */
+    /* lastUpdated: {
       formatOptions: {
         month: 'long',
         year: 'numeric',
         day: 'numeric',
     },
     text: 'Atnaujinta',
-    },
+    }, */
 
     search: {
       provider: 'local',

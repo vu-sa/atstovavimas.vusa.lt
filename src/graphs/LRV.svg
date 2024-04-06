@@ -24,7 +24,7 @@
 		<linearGradient id="linear-gradient-2" x1="4429.6757" y1="2079.7472" x2="4429.6757"
 			y2="2131.7472" xlink:href="#linear-gradient" />
 	</defs>
-	<g id="Ministerijos">
+	<g class="grouping" id="Ministerijos">
 		<a tabindex="0" data-bs-toggle="popover" title="Lietuvos Respublikos ministerijos"
 			data-bs-html="true" role="button" data-bs-trigger="focus"
 			data-bs-content="Ministerija steigiama formuoti valstybės politiką ir koordinuoti jos įgyvendinimą ministrui pavestose
@@ -337,7 +337,7 @@
 				stroke-miterlimit="10" stroke-width="3" />
 		</g>
 	</g>
-	<g id="Pavaldžios_įstaigos" data-name="Pavaldžios įstaigos">
+	<g class="grouping" id="Pavaldžios_įstaigos" data-name="Pavaldžios įstaigos">
 		<g>
 			<g>
 				<rect x="1292.3848" y="1555.5048" width="282.8652" height="47.4326" rx="13.5"
@@ -373,7 +373,7 @@
 			<tspan x="24.248" y="24">adas</tspan>
 		</text>
 	</g>
-	<g id="Vyriausybės_komisijos" data-name="Vyriausybės komisijos">
+	<g class="grouping" id="Vyriausybės_komisijos" data-name="Vyriausybės komisijos">
 		<a tabindex="0" data-bs-toggle="popover" title="Vyriausybės komitetai ir komisijos"
 			data-bs-html="true" role="button" data-bs-trigger="focus"
 			data-bs-content="Vyriausybės komitetai yra Vyriausybės patariamosios institucijos. <hr> <a href='/#lrv-komitetai-komisijos'>Daugiau</a>">
@@ -394,7 +394,7 @@
 			</g>
 		</a>
 	</g>
-	<g id="MP_darbo_grupės" data-name="MP darbo grupės">
+	<g class="grouping" id="MP_darbo_grupės" data-name="MP darbo grupės">
 		<a tabindex="0" data-bs-toggle="popover" title="Ministro Pirmininko sudaromos darbo grupės"
 			data-bs-html="true" role="button" data-bs-trigger="focus"
 			data-bs-content="Ministras Pirmininkas gali sudaryti darbo grupes jo pavestoms užduotims atlikti. Šios darbo grupės gali būti
@@ -417,7 +417,7 @@
 			</g>
 		</a>
 	</g>
-	<g id="LR_Seimas" data-name="LR Seimas">
+	<g class="grouping" id="LR_Seimas" data-name="LR Seimas">
 		<a tabindex="0" data-bs-toggle="popover" title="LR Seimas" data-bs-html="true" role="button"
 			data-bs-trigger="focus"
 			data-bs-content="Lietuvos Respublikos Seimas yra įstatymų leidžiamoji valdžia. <hr> <a target='_blank' href='https://www.lrs.lt/sip/portal.show?p_r=35354'>Daugiau</a>">
@@ -466,7 +466,7 @@
 		<text transform="translate(1714.7606 1210.2324)" font-size="20" fill="#bc2835"
 			font-family="Roboto-Italic, Roboto" font-style="italic">Skiria</text>
 	</g>
-	<g id="MP_patarėjai" data-name="MP patarėjai">
+	<g class="grouping" id="MP_patarėjai" data-name="MP patarėjai">
 		<a tabindex="0" data-bs-toggle="popover" title="Ministro Pirmininko patarėjai"
 			data-bs-html="true" role="button" data-bs-trigger="focus"
 			data-bs-content="Ministro Pirmininko patarėjai – politinio pasitikėjimo valstybės tarnautojai, kurie pataria Ministrui
@@ -487,7 +487,7 @@
 			</g>
 		</a>
 	</g>
-	<g id="MP_biuras" data-name="MP biuras">
+	<g class="grouping" id="MP_biuras" data-name="MP biuras">
 		<a tabindex="0" data-bs-toggle="popover" title="Ministro Pirmininko biuras"
 			data-bs-html="true" role="button" data-bs-trigger="focus"
 			data-bs-content="Organizuoja susitikimus ir renginius, kuriuose dalyvauja Ministras Pirmininkas. <hr> <a target='_blank' href='https://lrvk.lrv.lt/lt/vyriausybes-kanceliarijos-struktura'>Daugiau</a>">
@@ -507,7 +507,7 @@
 			</g>
 		</a>
 	</g>
-	<g id="Kanceliarija">
+	<g class="grouping" id="Kanceliarija">
 		<a tabindex="0" data-bs-toggle="popover" title="Vyriausybės kanceliarija"
 			data-bs-html="true" role="button" data-bs-trigger="focus"
 			data-bs-content="Vyriausybės kanceliarija padeda vykdyti Vyriausybės ir Ministro Pirmininko funkcijas. <hr> <a target='_blank' href='https://lrvk.lrv.lt/lt/vyriausybes-kanceliarijos-struktura'>Daugiau</a>">
@@ -546,7 +546,7 @@
 			<tspan x="9.3652" y="48">eiklą</tspan>
 		</text>
 	</g>
-	<g id="Studentai">
+	<g class="grouping" id="Studentai">
 		<g>
 			<a tabindex="0" data-bs-toggle="popover"
 				title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button"
@@ -594,7 +594,7 @@
 				fill="#faaf1b" />
 		</g>
 	</g>
-	<g id="Kancleris">
+	<g class="grouping" id="Kancleris">
 		<a tabindex="0" data-bs-toggle="popover" title="Vyriausybės kancleris" data-bs-html="true"
 			role="button" data-bs-trigger="focus"
 			data-bs-content="Vyriausybės kancleris organizuoja Vyriausybei ir Ministrui Pirmininkui pateiktų teisės aktų projektų analizę
@@ -643,7 +643,7 @@
 		<text transform="translate(955.163 1408.2324)" font-size="20" fill="#bc2835"
 			font-family="Roboto-Italic, Roboto" font-style="italic">Skiria</text>
 	</g>
-	<g id="Legenda">
+	<g class="grouping" id="Legenda">
 		<g>
 			<g>
 				<g>
@@ -684,7 +684,7 @@
 			</g>
 		</g>
 	</g>
-	<g id="Ministras_Pirmininkas" data-name="Ministras Pirmininkas">
+	<g class="grouping" id="Ministras_Pirmininkas" data-name="Ministras Pirmininkas">
 		<g tabindex="0" data-bs-toggle="popover" title="Ministras Pirmininkas" data-bs-html="true"
 			role="button" data-bs-trigger="focus"
 			data-bs-content="Ministras Pirmininkas atstovauja Vyriausybei ir vadovauja jos veiklai, teikia Seimui svarstyti Vyriausybės
@@ -788,7 +788,7 @@
 		<rect x="1106" y="1357.9999" width="52" height="32" fill="url(#linear-gradient)" />
 		<rect x="1106" y="1268.9999" width="52" height="32" fill="url(#linear-gradient-2)" />
 	</g>
-	<g id="LRV">
+	<g class="grouping" id="LRV">
 		<g>
 			<path
 				d="M629.3335,1017.9453h615.6724a32.4941,32.4941,0,0,1,32.4941,32.4941v84.48a32.4941,32.4941,0,0,1-32.4941,32.4941H629.334a32.4946,32.4946,0,0,1-32.4946-32.4946v-84.48A32.4941,32.4941,0,0,1,629.3335,1017.9453Z"

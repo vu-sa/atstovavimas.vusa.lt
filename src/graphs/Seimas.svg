@@ -29,7 +29,7 @@
 		<linearGradient id="linear-gradient-4" x1="4371.5833" y1="1797.1849" x2="4371.5833"
 			y2="1849.1849" xlink:href="#linear-gradient" />
 	</defs>
-	<g id="LR_Seimo_kanceliarija" data-name="LR Seimo kanceliarija">
+	<g class="grouping" id="LR_Seimo_kanceliarija" data-name="LR Seimo kanceliarija">
 		<a tabindex="0" data-bs-toggle="popover" title="Seimo kanceliarija" data-bs-html="true"
 			role="button" data-bs-trigger="focus"
 			data-bs-content="Seimo kanceliarijos žmonės atlieka įvairias užduotis, kad užtikrintų sklandų Seimo darbą ir nepertraukiamą
@@ -63,7 +63,7 @@
 				stroke-miterlimit="10" stroke-width="3" />
 		</g>
 	</g>
-	<g id="Komisijos">
+	<g class="grouping" id="Komisijos">
 		<a tabindex="0" data-bs-toggle="popover" title="Komisijos" data-bs-html="true" role="button"
 			data-bs-trigger="focus"
 			data-bs-content="Seimas įstatymams nagrinėti ir kitiems klausimams spręsti sudaro komisijas. /seimo-komisijos">
@@ -84,7 +84,7 @@
 			</g>
 		</a>
 	</g>
-	<g id="Laikinosios_darbo_grupės" data-name="Laikinosios darbo grupės">
+	<g class="grouping" id="Laikinosios_darbo_grupės" data-name="Laikinosios darbo grupės">
 		<a tabindex="0" data-bs-toggle="popover" title="Laikinosios darbo grupės"
 			data-bs-html="true" role="button" data-bs-trigger="focus"
 			data-bs-content="Konkretiems klausimams spręsti Seimo nariai (mažiausiai penki) gali jungtis į laikinąsias darbo grupes. <hr> <a href='/#https://www.lrs.lt/sip/portal.show?p_r=38270'>Daugiau</a>">
@@ -102,7 +102,7 @@
 			</g>
 		</a>
 	</g>
-	<g id="Studentai">
+	<g class="grouping" id="Studentai">
 		<g>
 			<a tabindex="0" data-bs-toggle="popover"
 				title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button"
@@ -170,7 +170,7 @@
 				fill="#fbb01b" />
 		</g>
 	</g>
-	<g id="LRS_frakcijų_sueiga" data-name="LRS frakcijų sueiga">
+	<g class="grouping" id="LRS_frakcijų_sueiga" data-name="LRS frakcijų sueiga">
 		<rect x="885.1607" y="449.9277" width="52" height="32" fill="url(#linear-gradient)" />
 		<a tabindex="0" data-bs-toggle="popover" title="Seniūnų sueiga" data-bs-html="true"
 			role="button" data-bs-trigger="focus"
@@ -314,7 +314,7 @@ proporcingas frakcijų narių skaičiui. <hr> <a href='/#seniunu-sueiga'>Daugiau
 			<tspan x="74.6641" y="19.2002">ei</tspan>
 		</text>
 	</g>
-	<g id="LRV">
+	<g class="grouping" id="LRV">
 		<g>
 			<a tabindex="0" data-bs-toggle="popover" title="Vyriausybė" data-bs-html="true"
 				role="button" data-bs-trigger="focus"
@@ -392,7 +392,7 @@ ministras pirmininkas, Seimo paskirti ketverių metų kadencijai. <hr> <a target
 			<tspan x="140.8672" y="0">adas</tspan>
 		</text>
 	</g>
-	<g id="LR_Seimo_pirmininkas" data-name="LR Seimo pirmininkas">
+	<g class="grouping" id="LR_Seimo_pirmininkas" data-name="LR Seimo pirmininkas">
 
 		<g>
 			<a tabindex="0" data-bs-toggle="popover" title="Seimo pirmininkas" data-bs-html="true"
@@ -442,7 +442,7 @@ ministras pirmininkas, Seimo paskirti ketverių metų kadencijai. <hr> <a target
 		<circle cx="1362.8933" cy="433.5724" r="9.053" fill="#bd2835" stroke="#333"
 			stroke-miterlimit="10" stroke-width="3" />
 	</g>
-	<g id="LR_SP_pavaduotojai" data-name="LR SP pavaduotojai">
+	<g class="grouping" id="LR_SP_pavaduotojai" data-name="LR SP pavaduotojai">
 		<a tabindex="0" data-bs-toggle="popover" title="Seimo pirmininko pavaduotojai"
 			data-bs-html="true" role="button" data-bs-trigger="focus"
 			data-bs-content="Seimo Pirmininko pavaduotojai atlieka Seimo Pirmininko jiems pavestas funkcijas. <hr> <a target='_blank' href='https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.5734/OLtfmteOUm'>Daugiau</a>">
@@ -473,7 +473,7 @@ ministras pirmininkas, Seimo paskirti ketverių metų kadencijai. <hr> <a target
 		<text transform="translate(1384.1934 465.9277)" font-size="16" fill="#bd2835"
 			font-family="Roboto-Italic, Roboto" font-style="italic">Įeina</text>
 	</g>
-	<g id="LRS_valdyba" data-name="LRS valdyba">
+	<g class="grouping" id="LRS_valdyba" data-name="LRS valdyba">
 		<a tabindex="0" data-bs-toggle="popover" title="Seimo valdyba" data-bs-html="true"
 			role="button" data-bs-trigger="focus"
 			data-bs-content="Seimo valdybą sudaro Seimo Pirmininkas, jo pavaduotojai ir Seimo opozicijos lyderis. Valdyba sprendžia
@@ -506,7 +506,7 @@ ministras pirmininkas, Seimo paskirti ketverių metų kadencijai. <hr> <a target
 		<text transform="translate(1467.3914 540.7898)" font-size="16" fill="#bd2835"
 			font-family="Roboto-Italic, Roboto" font-style="italic">Įeina</text>
 	</g>
-	<g id="Seimo_nariai" data-name="Seimo nariai">
+	<g class="grouping" id="Seimo_nariai" data-name="Seimo nariai">
 		<a tabindex="0" data-bs-toggle="popover" title="Seimo nariai" data-bs-html="true"
 			role="button" data-bs-trigger="focus"
 			data-bs-content="Seimo nariais tampa 141 demokratiškuose rinkimuose išrinkti Lietuvos piliečiai. <hr> <a target='_blank' href='/#seimo-nariai'>Daugiau</a>">
@@ -551,7 +551,7 @@ ministras pirmininkas, Seimo paskirti ketverių metų kadencijai. <hr> <a target
 			<tspan x="8.4922" y="0">ormuoja</tspan>
 		</text>
 	</g>
-	<g id="LR_Frakcijos_seniūnas" data-name="LR Frakcijos seniūnas">
+	<g class="grouping" id="LR_Frakcijos_seniūnas" data-name="LR Frakcijos seniūnas">
 		<a tabindex="0" data-bs-toggle="popover" title="Seimo frakcijos seniūnas"
 			data-bs-html="true" role="button" data-bs-trigger="focus"
 			data-bs-content="Seimo narių frakcijai vadovauja ir jai Seime atstovauja frakcijos seniūnas ar seniūno pavaduotojas. <hr> <a target='_blank' href='https://www.lrs.lt/sip/portal.show?p_r=35342'>Daugiau</a>">
@@ -582,7 +582,7 @@ ministras pirmininkas, Seimo paskirti ketverių metų kadencijai. <hr> <a target
 		<text transform="translate(1279.1524 765.1382)" font-size="16" fill="#bd2835"
 			font-family="Roboto-Italic, Roboto" font-style="italic">Įeina</text>
 	</g>
-	<g id="LRS_frakcijos" data-name="LRS frakcijos">
+	<g class="grouping" id="LRS_frakcijos" data-name="LRS frakcijos">
 		<rect x="895.1607" y="548.9772" width="32" height="52" fill="url(#linear-gradient-2)" />
 		<a tabindex="0" data-bs-toggle="popover" title="Frakcijos" data-bs-html="true" role="button"
 			data-bs-trigger="focus"
@@ -643,7 +643,7 @@ kaip 7 narių, kuriose siekia politinių tikslų įgyvendinimo. <hr> <a href='/#
 		<text transform="translate(817.4368 659.5933)" font-size="16" fill="#bd2835"
 			font-family="Roboto-Italic, Roboto" font-style="italic">Skiria</text>
 	</g>
-	<g id="LR_Seimas" data-name="LR Seimas">
+	<g class="grouping" id="LR_Seimas" data-name="LR Seimas">
 		<rect x="850.6849" y="660.1883" width="52" height="32" fill="url(#linear-gradient-3)" />
 		<rect x="850.6849" y="726.9714" width="52" height="32" fill="url(#linear-gradient-4)" />
 		<a tabindex="0" data-bs-toggle="popover" title="LR Seimas" data-bs-html="true" role="button"
@@ -729,7 +729,7 @@ kaip 7 narių, kuriose siekia politinių tikslų įgyvendinimo. <hr> <a href='/#
 			<tspan x="8.4922" y="0">ormuoja</tspan>
 		</text>
 	</g>
-	<g id="Komitetai">
+	<g class="grouping" id="Komitetai">
 		<a tabindex="0" data-bs-toggle="popover" title="Komitetai" data-bs-html="true" role="button"
 			data-bs-trigger="focus"
 			data-bs-content="Seimas įstatymams nagrinėti ir kitiems klausimams spręsti sudaro komitetus. Komitetai svarbiausioms veiklos
@@ -750,7 +750,7 @@ kaip 7 narių, kuriose siekia politinių tikslų įgyvendinimo. <hr> <a href='/#
 			</g>
 		</a>
 	</g>
-	<g id="Legenda">
+	<g class="grouping" id="Legenda">
 		<g id="Legenda-2" data-name="Legenda">
 			<g>
 				<g>

@@ -2,7 +2,7 @@
 	x="0px" y="0px"
 	viewBox="0 0 3404.801 2931.106" enable-background="new 0 0 3404.801 2931.106"
 	xml:space="preserve">
-<g id="VU_Senato_komisijos">
+<g class="grouping" id="VU_Senato_komisijos">
 	<a tabindex="0"
 data-bs-toggle="popover"
 title="VU Senato komisijos"
@@ -176,7 +176,7 @@ href='https://www.vu.lt/site_files/Emerituros_afiliacijos_ir_garbes_vardu_nuosta
 		<text transform="matrix(1 0 0 1 2934.3369 1907.306)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-size="25px">VU profesoriaus ir</tspan><tspan x="-17.224" y="30" fill="#111111" font-family="'Roboto'" font-size="25px">docento pedagoginių</tspan><tspan x="-25.305" y="60" fill="#111111" font-family="'Roboto'" font-size="25px">vardų teikimo komisija</tspan></text>
 	</g>
 </g>
-<g id="Rektoriaus_komitetai">
+<g class="grouping" id="Rektoriaus_komitetai">
 	<a tabindex="0"
 data-bs-toggle="popover"
 title="Rektoriaus sudaromos darbo grupės"
@@ -348,7 +348,7 @@ href='https://www.vu.lt/site_files/Reguliaminas/Dėl_partnerystės_profesoriaus_
 		</a>
 	</g>
 </g>
-<g id="Senato_kolegija">
+<g class="grouping" id="Senato_kolegija">
 	<g>
 		<a tabindex="0"
 data-bs-toggle="popover"
@@ -373,7 +373,7 @@ href='https://www.vu.lt/apiemus/struktura/senatas/senato-reglamentas'>Plačiau <
 		</a>
 	</g>
 </g>
-<g id="Senato_komitetai">
+<g class="grouping" id="Senato_komitetai">
 	<a tabindex="0"
 data-bs-toggle="popover"
 title="Senato komitetai"
@@ -459,7 +459,7 @@ data-bs-content="Nagrinėja klausimus, susijusius su mokslo vykdymu bei plėtra 
 		</a>
 	</g>
 </g>
-<g id="Didysis_rektoratas">
+<g class="grouping" id="Didysis_rektoratas">
 	<a tabindex="0"
 data-bs-toggle="popover"
 title="Didysis rektoratas"
@@ -483,7 +483,7 @@ neakademinių padalinių vadovų bei Studentų atstovybės prezidento. <hr> <a h
 		</g>
 	</a>
 </g>
-<g id="Mažasis_rektoratas">
+<g class="grouping" id="Mažasis_rektoratas">
 	<a tabindex="0"
 data-bs-toggle="popover"
 title="Mažasis rektoratas"
@@ -604,7 +604,7 @@ data-bs-content="Prorektoriai – administruoja Rektoriaus jiems pavestą Univer
 		<rect x="1701.723" y="1771" fill="url(#SVGID_1_)" width="52" height="32"/>
 	</g>
 </g>
-<g id="KNAP">
+<g class="grouping" id="KNAP">
 	<a tabindex="0"
 data-bs-toggle="popover"
 title="Vilniaus universiteto kamieniniai neakademiniai padaliniai"
@@ -891,7 +891,7 @@ data-bs-content="<a target='_blank' href='https://www.konfucijus.vu.lt/'>konfuci
 	</g>
 	<text transform="matrix(1 0 0 1 1750.8386 1755.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Įeina</text>
 </g>
-<g id="Taryba">
+<g class="grouping" id="Taryba">
 	<a tabindex="0"
 data-bs-toggle="popover"
 title="Taryba"
@@ -963,7 +963,7 @@ kokybę, finansus bei struktūros pokyčius. <hr> <a href='VU-taryba'>Daugiau</a
 	</g>
 	<text transform="matrix(1 0 0 1 1702.8386 178.9795)" fill="#FBB01B" font-family="'Roboto'" font-style="italic" font-size="20px">Teikia siūlymus</text>
 </g>
-<g id="Rektorius">
+<g class="grouping" id="Rektorius">
 	<a tabindex="0"
 data-bs-toggle="popover"
 title="Rektorius"
@@ -1075,7 +1075,7 @@ darbų organizavimą, Universiteto finansinę veiklą, tinkamą lėšų ir turto
 		<rect x="1580.723" y="736" fill="url(#SVGID_4_)" width="52" height="32"/>
 	</g>
 </g>
-<g id="Senatas">
+<g class="grouping" id="Senatas">
 	<a tabindex="0"
 data-bs-toggle="popover"
 title="Senatas"
@@ -1151,7 +1151,7 @@ kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą
 	<text transform="matrix(1 0 0 1 2308.8386 1079.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Formuoja</text>
 	<text transform="matrix(1 0 0 1 2363.8386 859.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Formuoja</text>
 </g>
-<g id="LT">
+<g class="grouping" id="LT">
 	<g>
 		<g>
 			<path fill="#FFFFFF" d="M2181.359,257.5c-7.444,0-13.5-6.056-13.5-13.5V137.751c0-7.444,6.056-13.5,13.5-13.5h313.163
@@ -1165,7 +1165,7 @@ kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą
 		<text transform="matrix(1 0 0 1 2262.4871 165.0371)"><tspan x="0" y="0" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="30.0109px">LR Seimas,</tspan><tspan x="0.125" y="36.013" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="30.0109px">Vyriausybė</tspan><tspan x="-5.51" y="72.026" fill="#111111" font-family="'Roboto'" font-weight="700" font-size="30.0109px">Prezidentas</tspan></text>
 	</g>
 </g>
-<g id="Studentai">
+<g class="grouping" id="Studentai">
 	<g>
 		<g>
 			<path fill="#FFFFFF" d="M1791.441,567.515c-7.444,0-13.5-6.056-13.5-13.5v-91c0-7.444,6.056-13.5,13.5-13.5h363
@@ -2000,7 +2000,7 @@ kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą
 		<rect x="1349.723" y="1173" fill="url(#SVGID_5_)" width="32" height="52"/>
 	</g>
 </g>
-<g id="KAP">
+<g class="grouping" id="KAP">
 	<a tabindex="0"
 data-bs-toggle="popover"
 title="VU kamieniniai akademiniai padaliniai"
@@ -2351,7 +2351,7 @@ data-bs-content="<a target='_blank' href='http://www.knf.vu.lt/'>knf.vu.lt</a>">
 	</g>
 	<text transform="matrix(1 0 0 1 912.8386 1045.9795)" fill="#BC2835" font-family="'Roboto'" font-style="italic" font-size="20px">Įeina KAP vadovai</text>
 </g>
-<g id="CR">
+<g class="grouping" id="CR">
 	<g>
 		<path fill="#FFFFFF" d="M197.718,2765c-17.642,0-31.994-14.353-31.994-31.994v-867.585c0-17.642,14.353-31.994,31.994-31.994
 			h1024.012c17.642,0,31.994,14.353,31.994,31.994v867.585c0,17.642-14.353,31.994-31.994,31.994H197.718z"/>

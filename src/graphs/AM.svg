@@ -38,7 +38,7 @@
         <stop offset="1" stop-color="#c1272d"/>
       </linearGradient>
     </defs>
-    <g id="VSF">
+    <g class="grouping" id="VSF">
       <a tabindex="0" data-bs-toggle="popover" title="Valstybinis studijų fondas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Valstybinis studijų fondas (VSF) - Švietimo mokslo ir sporto ministerijai pavaldi valstybės biudžetinė įstaiga administruojanti valstybės paskolas, valstybės remiamas paskolas studentams ir mokiniams, teikianti kitą finansinę paramą studentams ir profesiniam mokymui vykdyti <hr> <a href='/#vsf'>Daugiau</a>">
           <g>
             <g>
@@ -59,7 +59,7 @@
           </g>
       </a>
     </g>
-    <g id="AEPK">
+    <g class="grouping" id="AEPK">
       <a tabindex="0" data-bs-toggle="popover" title="AEPK tarnyba" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Valstybės biudžetinė įstaiga, kurios veiklos tikslas – užtikrinti Lietuvos Respublikos akademinės etikos
 ir procedūrų kontrolieriaus darbą. <hr> <a href='/#kontrolieriaus-tarnyba'>Daugiau</a>">
         <g>
@@ -99,7 +99,7 @@ ir procedūrų kontrolieriaus darbą. <hr> <a href='/#kontrolieriaus-tarnyba'>Da
       </g>
       <text transform="matrix(1, -0.0012, 0.0012, 1, 472.245, 1760.8887)" font-size="16" fill="#fbb01b" font-family="Roboto-Italic, Roboto" font-style="italic">Informuoja (įpa<tspan x="106.6719" y="0" letter-spacing="-0.0093em">r</tspan><tspan x="111.8516" y="0">eigoja)</tspan></text>
     </g>
-    <g id="STRATA">
+    <g class="grouping" id="STRATA">
       <g opacity="0.6">
         <polyline points="1361.608 1245.502 1232.971 1245.502 1232.971 909.002" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
       </g>
@@ -125,7 +125,7 @@ ir procedūrų kontrolieriaus darbą. <hr> <a href='/#kontrolieriaus-tarnyba'>Da
         </g>
       </g>
     </g>
-    <g id="SKVC">
+    <g class="grouping" id="SKVC">
       <a tabindex="0" data-bs-toggle="popover" title="Studijų kokybės ir vertinimo centras" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Studijų kokybės vertinimo centras teisės aktų nustatyta tvarka skatina aukštųjų mokyklų veiklos
       kokybę per išorinį vertinimą, užsienyje įgytų kvalifikacijų, suteikiančių teisę į aukštąjį mokslą,
       bei aukštojo mokslo kvalifikacijų, vertinimą <hr> <a href='/#skvc'>Daugiau</a>">
@@ -150,7 +150,7 @@ ir procedūrų kontrolieriaus darbą. <hr> <a href='/#kontrolieriaus-tarnyba'>Da
           </g>
       </a>
     </g>
-    <g id="AMT">
+    <g class="grouping" id="AMT">
       <polyline points="1349.608 1463.502 1233.108 1463.502 1233.108 908.708" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
       <a tabindex="0" data-bs-toggle="popover" title="Aukštojo mokslo taryba" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Aukštojo mokslo taryba svarsto aukštojo mokslo būklės apžvalgas ir teikia siūlymus, išvadas bei
       rekomendacijas Vyriausybei, ŠMSM ir kitoms aukštojo mokslo politiką įgyvendinančioms institucijoms
@@ -175,7 +175,7 @@ ir procedūrų kontrolieriaus darbą. <hr> <a href='/#kontrolieriaus-tarnyba'>Da
         </g>
       </g>
     </g>
-    <g id="MSI">
+    <g class="grouping" id="MSI">
       <g>
         <g>
           <path d="M96.0153,1783.4141h947.0273a31.9941,31.9941,0,0,1,31.9941,31.9941v220.6a31.9941,31.9941,0,0,1-31.9941,31.9941H96.0158a31.9941,31.9941,0,0,1-31.9941-31.9941v-220.6A31.9937,31.9937,0,0,1,96.0153,1783.4141Z" fill="#fff"/>
@@ -254,7 +254,7 @@ ir procedūrų kontrolieriaus darbą. <hr> <a href='/#kontrolieriaus-tarnyba'>Da
       <polyline points="1076.108 1934.002 1228.108 1934.002 1233.108 1933.826 1233.579 911.12" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
       <path d="M1228.0105,2048.9617c5,0,19.053,4.0532,19.053,9.053s-14.0532,9.053-19.053,9.053a9.053,9.053,0,1,1,0-18.106Z" transform="translate(-151.6524 -124.0127)" fill="#fbb01b" stroke="#333" stroke-miterlimit="10" stroke-width="3"/>
     </g>
-    <g id="LŠT">
+    <g class="grouping" id="LŠT">
       <polyline points="1044.029 676.139 1232.971 676.139 1233.34 907.526" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
       <g>
         <line x1="1010.6081" y1="649.502" x2="1010.6081" y2="615.7529" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
@@ -286,7 +286,7 @@ valstybės
         </g>
       </g>
     </g>
-    <g id="Legenda">
+    <g class="grouping" id="Legenda">
       <g>
         <g>
           <g>
@@ -318,7 +318,7 @@ valstybės
         </g>
       </g>
     </g>
-    <g id="LMA">
+    <g class="grouping" id="LMA">
       <polyline points="203.608 1360.502 203.608 1420.502 1233.16 1420.502 1233.16 908.708" fill="none" stroke="#fbb01b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"/>
       <a tabindex="0" data-bs-toggle="popover" title="Lietuvos mokslo taryba" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Lietuvos mokslo taryba yra patariamoji institucija Lietuvos Respublikos Seimui ir Vyriausybei
         mokslo, studijų ir eksperimentinės plėtros politikos klausimais. <hr> <a href='/#lma'>Daugiau</a>">
@@ -341,7 +341,7 @@ valstybės
         </g>
       </g>
     </g>
-    <g id="AMK">
+    <g class="grouping" id="AMK">
       <a tabindex="0" data-bs-toggle="popover" title="Lietuvos kolegijų direktorių konferencija" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Tai konferencija vienijanti visus Lietuvos kolegijų direktorius. <hr> <a href='/#lkdk'>Daugiau</a>">
           <g>
             <g>
@@ -380,7 +380,7 @@ valstybės
         </g>
       </g>
     </g>
-    <g id="SAO">
+    <g class="grouping" id="SAO">
       <a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="<a href='/#sao'>Daugiau</a>"><rect x="1397.1081" y="1830.002" width="52" height="32" fill="url(#linear-gradient)"/></a>
       <text transform="matrix(1, -0.0012, 0.0012, 1, 1240.245, 2169.8887)" font-size="14" fill="#fbb01b" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan letter-spacing="-0.0483em">T</tspan><tspan x="7.4922" y="0">eikia siūlymus</tspan></text>
       <g opacity="0.33">
@@ -501,7 +501,7 @@ valstybės
         </g>
       </g>
     </g>
-    <g id="LMT">
+    <g class="grouping" id="LMT">
       <a tabindex="0" data-bs-toggle="popover" title="Lietuvos mokslo taryba" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Lietuvos mokslo taryba yra patariamoji institucija Lietuvos Respublikos Seimui ir Vyriausybei mokslo, studijų ir eksperimentinės plėtros politikos klausimais. <hr> <a href='/#lmt'>Daugiau</a>">
           <g>
             <g>
@@ -550,7 +550,7 @@ vyriausybės teikimu tvirtina Seimas.">
         </g>
       </g>
     </g>
-    <g id="LRV">
+    <g class="grouping" id="LRV">
       <a tabindex="0" data-bs-toggle="popover" title="LR Vyriausybė" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Vyriausybė – tai Lietuvos Respublikos įstatymų vykdomoji valdžia. <hr> <a href='/#am-vyriausybe'>Daugiau</a>">
           <g>
             <g>
@@ -680,7 +680,7 @@ vyriausybės teikimu tvirtina Seimas.">
         <polygon points="2056.151 1717.785 2103.851 1705.01 2056.151 1692.219 2056.151 1717.785" fill="#bd2835"/>
       </g>
     </g>
-    <g id="Seimas">
+    <g class="grouping" id="Seimas">
       <a tabindex="0" data-bs-toggle="popover" title="LR Seimas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Seimas – tai Lietuvos Respublikos įstatymų leidžiamoji valdžia. Seimą sudaro 141 Tautos atstovas,
       išrinktas ketverių metų kadencijai. <hr> <a href='/#am-seimas'>Daugiau</a>">
           <g>
@@ -756,7 +756,7 @@ kalbos politikos formavimo klausimais. <hr> <a href='/#seimas-smk'>Daugiau</a>">
       <text transform="translate(430.1081 1474.002)" font-size="16" fill="#bd2835" font-family="Roboto-Italic, Roboto" font-style="italic">Skiria L<tspan x="51.125" y="0" letter-spacing="-0.0142em">M</tspan><tspan x="64.5234" y="0" letter-spacing="-0.0195em">T</tspan><tspan x="73.5469" y="0" xml:space="preserve"> teikimu</tspan></text>
       <circle cx="967.0294" cy="973.4726" r="9.053" fill="#bd2835" stroke="#333" stroke-miterlimit="10" stroke-width="3"/>
     </g>
-    <g id="LRP">
+    <g class="grouping" id="LRP">
       <a tabindex="0" data-bs-toggle="popover" title="Prezidentas" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Prezidentas yra valstybės vadovas. Prezidentas sprendžia pagrindinius užsienio politikos klausimus ir kartu
 su Vyriausybe vykdo užsienio politiką, turi įstatymų leidybos Seime iniciatyvos teisę, taip pat teisę
 vetuoti Seimo priimtus įstatymus. <hr> <a target='_blank' href='https://www.lrp.lt/lt/prezidento-funkcijos'>Daugiau</a>">
@@ -780,7 +780,7 @@ vetuoti Seimo priimtus įstatymus. <hr> <a target='_blank' href='https://www.lrp
         <text transform="translate(1329.1081 692.002)" font-size="16" fill="#bd2835" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan letter-spacing="-0.0483em">T</tspan><tspan x="8.5625" y="0">eikia</tspan></text>
       </g>
     </g>
-    <g id="LR_pilečiai" data-name="LR pilečiai">
+    <g class="grouping" id="LR_pilečiai" data-name="LR pilečiai">
       <g>
         <a tabindex="0" data-bs-toggle="popover" title="LR piliečiai" data-bs-html="true" role="button" data-bs-trigger="focus" data-bs-content="Asmenys, turintys Lietuvos Respublikos pilietybę ir su ja suteiktas teises bei pareigas.">
           <g>

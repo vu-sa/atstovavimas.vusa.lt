@@ -1,6 +1,6 @@
 <svg id="Vyriausybė" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
   viewBox="0 0 1643 1718.8634">
-  <g id="Patarėjai">
+  <g class="grouping" id="Patarėjai">
     <a tabindex="0" data-bs-toggle="popover" title="Švietimo, mokslo ir sporto ministro patarėjai"
       data-bs-html="true" role="button" data-bs-trigger="focus"
       data-bs-content="Švietimo, mokslo ir sporto ministro patarėjai – padeda ministrui suformuoti politines nuostatas ir
@@ -20,7 +20,7 @@ prioritetus, priimti sprendimus ir juos įgyvendinti. <hr> <a href='/#smsm-patar
       </text>
     </a>
   </g>
-  <g id="Komisijos_ir_darbo_grupės" data-name="Komisijos ir darbo grupės">
+  <g class="grouping" id="Komisijos_ir_darbo_grupės" data-name="Komisijos ir darbo grupės">
     <a tabindex="0" data-bs-toggle="popover" title="Komisijos ir darbo grupės" data-bs-html="true"
       role="button" data-bs-trigger="focus"
       data-bs-content="Tam tikrais atvejais į ŠMSM formuojamas komisijas bei darbo grupes yra deleguojami studentų atstovai iš
@@ -40,7 +40,7 @@ Lietuvos studentų sąjungos). <hr><a href='smsm-komisijos-ir-darbo-grupes'>Daug
       </text>
     </a>
   </g>
-  <g id="Kiti_skyriai_ir_grupės" data-name="Kiti skyriai ir grupės">
+  <g class="grouping" id="Kiti_skyriai_ir_grupės" data-name="Kiti skyriai ir grupės">
     <g>
       <rect x="1373.6348" y="931.778" width="267.8652" height="80.5854" rx="13.5" fill="#fff" />
       <path
@@ -50,7 +50,7 @@ Lietuvos studentų sąjungos). <hr><a href='smsm-komisijos-ir-darbo-grupes'>Daug
     <text transform="translate(1437.0033 966.5031)" font-size="25" fill="#111"
       font-family="Roboto-Regular, Roboto">Kiti skyriai ir <tspan x="32.1108" y="30">grupės</tspan></text>
   </g>
-  <g id="ŠMSM_ministras" data-name="ŠMSM ministras">
+  <g class="grouping" id="ŠMSM_ministras" data-name="ŠMSM ministras">
     <a tabindex="0" data-bs-toggle="popover" title="Švietimo, mokslo ir sporto ministras"
       data-bs-html="true" role="button" data-bs-trigger="focus"
       data-bs-content="Švietimo, mokslo ir sporto ministras – remiantis LR Vyriausybės įstatymu ir LR Vyriausybės nutarimu „Dėl
@@ -127,7 +127,7 @@ vadovauja ministerijai. <hr> <a href='/#smsm-ministras'>Daugiau</a>">
       <tspan x="54.043" y="0">auja</tspan>
     </text>
   </g>
-  <g id="Studentai">
+  <g class="grouping" id="Studentai">
     <g>
       <a tabindex="0" data-bs-toggle="popover" title="Studentams atstovaujančios organizacijos"
         data-bs-html="true" role="button" data-bs-trigger="focus"
@@ -175,7 +175,7 @@ vadovauja ministerijai. <hr> <a href='/#smsm-ministras'>Daugiau</a>">
         fill="#fbb01b" />
     </g>
   </g>
-  <g id="Departamentai">
+  <g class="grouping" id="Departamentai">
     <a tabindex="0" data-bs-toggle="popover" title="ŠMSM departamentai" data-bs-html="true"
       role="button" data-bs-trigger="focus"
       data-bs-content="<a href='smsm-departamentai'>Daugiau</a>">
@@ -351,7 +351,7 @@ vadovauja ministerijai. <hr> <a href='/#smsm-ministras'>Daugiau</a>">
       </a>
     </g>
   </g>
-  <g id="ŠMSM_viceministrai" data-name="ŠMSM viceministrai">
+  <g class="grouping" id="ŠMSM_viceministrai" data-name="ŠMSM viceministrai">
     <a tabindex="0" data-bs-toggle="popover" title="Švietimo, mokslo ir sporto viceministrai"
       data-bs-html="true" role="button" data-bs-trigger="focus"
       data-bs-content="Švietimo, mokslo ir sporto viceministrai – viceministrai ŠMSM ministro nustatytose veiklos srityse atlieka
@@ -386,7 +386,7 @@ Vyriausybės įstatyme nustatytas funkcijas. <hr> <a href='/#smsm-viceministrai'
       <tspan x="54.043" y="0">auja</tspan>
     </text>
   </g>
-  <g id="Pavaldžios_institucijos" data-name="Pavaldžios institucijos">
+  <g class="grouping" id="Pavaldžios_institucijos" data-name="Pavaldžios institucijos">
     <a tabindex="0" data-bs-toggle="popover" title="ŠMSM pavaldžios institucijos"
       data-bs-html="true"
       role="button" data-bs-trigger="focus"

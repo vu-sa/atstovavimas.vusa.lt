@@ -2,7 +2,7 @@
 	xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	viewBox="0 0 2170 958" enable-background="new 0 0 2170 958"
 	xml:space="preserve">
-	<g id="Dekano_pavaduotojai">
+	<g class="grouping" id="Dekano_pavaduotojai">
 		<g>
 			<g>
 				<path fill="#FFFFFF" d="M1341,745.5c-7.444,0-13.5-6.056-13.5-13.5V226c0-7.444,6.056-13.5,13.5-13.5h748
@@ -192,7 +192,7 @@
 			font-family="'Roboto'" font-style="italic"
 			font-size="18px">Vadovauja</text>
 	</g>
-	<g id="VU_SA">
+	<g class="grouping" id="VU_SA">
 		<a tabindex="0" title="VU Studentų atstovybė" role="button"
 			data-link="/vu-sa"
 			data-content="Vilniaus universiteto Studentų atstovybė (VU SA) – seniausia ir didžiausia Lietuvoje visuomeninė, ne pelno siekianti, nepolitinė, ekspertinė švietimo organizacija, atstovaujanti studentų interesams Vilniaus universitete bei už jo ribų">
@@ -376,7 +376,7 @@
 				height="52" />
 		</g>
 	</g>
-	<g id="SPK">
+	<g class="grouping" id="SPK">
 		<g>
 			<a tabindex="0" title="Studijų programų komitetai" role="button"
 				data-link="/kap#studiju-programu-komitetai" data-content="Studijų programų komitetai (toliau – SPK) studijų programų valdymo dariniai, atsakingi už studijų
@@ -417,7 +417,7 @@ programų kokybę bei jų siekinių įgyvendinimą.">
 			font-family="'Roboto'" font-style="italic"
 			font-size="18px">Įeina</text>
 	</g>
-	<g id="PAK">
+	<g class="grouping" id="PAK">
 		<g>
 			<a tabindex="0" title="VU KAP priėmimo-atestacinė komisija"
 				role="button" data-link="/kap#vu-kap-pak" data-content="Vykdo dėstytojų ir mokslo darbuotojų konkursą pareigoms eiti bei jų atestavimą – sprendžia dėstytojų
@@ -439,7 +439,7 @@ priėmimo ir sutarčių su Universitetu pratęsimo klausimus.">
 			</a>
 		</g>
 	</g>
-	<g id="AEK">
+	<g class="grouping" id="AEK">
 		<a tabindex="0" title="VU KAP akademinės etikos komisija"
 			data-link="https://www.vu.lt/site_files/SPN-55_KAP_AEK_nuostatai.pdf"
 			role="button" data-content="Komisija nagrinėja kreipimusis dėl akademinės bendruomenės narių, dirbančių ar studijuojančių tame
@@ -462,7 +462,7 @@ Padalinyje, veiksmų, galimai pažeidžiančių akademinę etiką.">
 			</g>
 		</a>
 	</g>
-	<g id="GNK">
+	<g class="grouping" id="GNK">
 		<a tabindex="0" title="VU KAP ginčų nagrinėjimo komisija"
 			data-content="Komisija nagrinėja pareiškimus dėl ginčų, susijusių su mokslo ir studijų veikla, tarp Padalinio vykdomus studijų dalykus (modulius) studijuojančiųjų ir kitų bendruomenės narių, dirbančių Padalinyje."
 			data-link="/#vu-kap-gnk">
@@ -484,7 +484,7 @@ Padalinyje, veiksmų, galimai pažeidžiančių akademinę etiką.">
 			</g>
 		</a>
 	</g>
-	<g id="Taryba">
+	<g class="grouping" id="Taryba">
 		<a tabindex="0" title="VU KAP taryba" role="button"
 			data-content="VU KAP Taryba – kolegialus VU KAP valdymo organas, renkamas 4 metams."
 			data-link="/kap#vu-taryba">
@@ -658,7 +658,7 @@ Padalinyje, veiksmų, galimai pažeidžiančių akademinę etiką.">
 			font-family="'Roboto'" font-style="italic"
 			font-size="20px">Tvirtina</text>
 	</g>
-	<g id="ŠAP">
+	<g class="grouping" id="ŠAP">
 		<g>
 			<g>
 				<path fill="#FFFFFF"
@@ -698,7 +698,7 @@ Padalinyje, veiksmų, galimai pažeidžiančių akademinę etiką.">
 			font-family="'Roboto'" font-style="italic"
 			font-size="20px">Renka</text>
 	</g>
-	<g id="RK">
+	<g class="grouping" id="RK">
 		<g>
 			<a tabindex="0"
 				data-content="Atsakinga už rinkimų organizavimą padalinyje. VU KAP rinkimų komisijoje posėdžiams gaunama informacija yra konfidenciali, todėl niekur nėra skelbiama.">
@@ -723,7 +723,7 @@ Padalinyje, veiksmų, galimai pažeidžiančių akademinę etiką.">
 			</a>
 		</g>
 	</g>
-	<g id="Studijų_kolegija">
+	<g class="grouping" id="Studijų_kolegija">
 		<a tabindex="0"
 			data-content="Pataria už studijų organizavimą atsakingam VU KAP vadovo pavaduotojui studijų vykdymo ir jų kokybės gerinimo klausimais. Studijų kolegiją sudaro VU KAP veikiančių SPK pirmininkai ir VU SA deleguotas studentų atstovas.">
 			<g>
@@ -763,7 +763,7 @@ Padalinyje, veiksmų, galimai pažeidžiančių akademinę etiką.">
 			font-family="'Roboto'" font-style="italic"
 			font-size="18px">Pataria</text>
 	</g>
-	<g id="Doktorantūros_mokykla">
+	<g class="grouping" id="Doktorantūros_mokykla">
 		<a tabindex="0"
 			data-content="Doktorantūros mokykla – atsakinga už kelių gretutinių mokslo krypčių doktorantūros studijų ir doktorantų mokslinių tyrimų organizavimą Universitete."
 			data-link="/kap#doktoranturos-mokykla">
