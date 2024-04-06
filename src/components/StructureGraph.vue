@@ -1,12 +1,11 @@
 <template>
   <div ref="wrapper">
-    <svgObject />
+    <component :is="svgObject" />
   </div>
 </template>
 
 <script setup lang="ts">
 import { onMounted, ref } from "vue";
-import { computePosition } from "@floating-ui/dom";
 import { zoom, select, selectAll, zoomIdentity, pointer } from "d3"
 
 defineProps<{

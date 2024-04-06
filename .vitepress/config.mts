@@ -6,6 +6,7 @@ export default defineConfig({
   title: "Atstovavimo gidas",
   lang: "lt-LT",
   // add font pr
+  appearance: false,
   head: [
     [
       'link',
