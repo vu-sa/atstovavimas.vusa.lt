@@ -129,12 +129,6 @@ Senatui.
     darbuotojo bei garbės daktaro, alumni, mecenato vardus. Veikloje
     vadovaujasi [šiais
     nuostatais](https://www.vu.lt/site_files/Emerituros_afiliacijos_ir_garbes_vardu_nuostatai.pdf).
--   Bendrųjų universitetinių studijų komisija – nagrinėja naujai
-    teikiamų bendrųjų universitetinių studijų modulius, teikia išvadas
-    dėl jų atitikimo bendrųjų universitetinių studijų koncepcijai, kuri
-    vėliau tvirtinimui yra teikiama Senatui ir atlieka šių modulių
-    įgyvendinimo kokybės stebėseną. Veikloje vadovaujasi: [BUS
-    koncepcija](https://www.vu.lt/site_files/BUS_koncepcija_2018-01-23_redakcija.pdf).
 
 ### Rektoriaus komanda (Mažasis rektoratas)
 
@@ -173,7 +167,7 @@ galėtų vykdyti savo veiklą, yra suskirstyta į skyrius, padalinius,
 tarnybas, departamentus. Centrinę administraciją sudaro:
 
 -   Rektoriaus biuras
--   Bendruomenės vystymo skyrius
+-   Bendruomenės gerovės skyrius
 -   Komunikacijos ir rinkodaros skyrius
 -   Civilinis ir darbų saugos skyrius
 -   Finansų departamentas
@@ -229,14 +223,6 @@ mokslo darbuotojų kandidatūras akademinėms pareigoms užimti.
 [Plačiau apie
 procedūrą](https://www.vu.lt/apiemus/karjera/akademinis-personalas/6546-konkursu-organizavimo-nuostatai-ir-kiti-susije-dokumentai)
 
-#### Vienkartinių socialinių stipendijų skirstymo komisija
-
-Nagrinėja gautus prašymus, susijusius su studento materialinės ir / ar
-socialinės padėties pablogėjimu (susirgus sunkia liga, patyrus traumą,
-avariją, gaisrą, rimtą vagystę, artimojo mirtį, vienam iš tėvų praradus
-darbą ir pan.). Veikloje vadovaujasi [šiais
-principais](https://vusa.lt/lt/vienkartines-socialines-stipendijos).
-
 #### Vienkartinių tikslinių stipendijų skirstymo komisija
 
 Sprendžia, kam ir kokio dydžio skirti vienkartines tikslines stipendijas
@@ -256,7 +242,7 @@ spręsti. Darbo grupės yra trumpalaikės ir sudarytos iki reikiamo
 sprendimo priėmimo (pavyzdžiui, Statuto parengimo, modulinių studijų
 įvedimo ir kt.).
 
-### Didysis rektoratas
+### Rektoratas
 
 Rektoriaus patariamasis darinys, sudarytas iš visų Universiteto
 kamieninių akademinių ir neakademinių padalinių vadovų bei Studentų

@@ -22,13 +22,13 @@ klausimo svarstymo eigoje.
 
 Atskirų klausimų svarstyme ŠMSM ministras ar ministerijai pavaldžios
 institucijos turi teisę sukurti komisijas arba darbo grupes. Poreikį tam
-tikroms darbo grupėms gali išreikšti ir studentų atstovai. Dažnu atveju
+tikroms darbo grupėms gali išreikšti ir studentų (-čių) atstovai (-ės). Dažnu atveju
 į šių klausimų svarstymą gali būti įtraukos ir ŠMSM pavaldžios
 institucijos, todėl reikia žinoti ir jų kompetencijas ir kuruojamus
 klausimus.
 
 Schemoje apibendrintai pavaizduoti visi departamentai, tačiau mums, kaip
-studentų atstovams, yra ypač svarbūs keli departamentų skyriai, nes jie
+studentų (-čių) atstovams (-ėms), yra ypač svarbūs keli departamentų skyriai, nes jie
 daugiausia prisideda prie aukštojo mokslo politikos įgyvendinimo:
 
 ## Studijų, mokslo ir technologijų departamento Studijų skyrius
@@ -44,7 +44,7 @@ ekspertinėmis, aukštųjų mokyklų veiklą koordinuojančiomis
 institucijomis, studentų atstovais.
 
 Išsamiau galite susipažinti
-[čia](https://www.smm.lt/uploads/contacts/docs/35_c84ac34e8fd28c86e657ac5d7d7a7b61.pdf)
+[čia](https://sena-smsm.lrv.lt/uploads/smsm/documents/files/Nuostatai/Studij%C5%B3%20skyriaus%20nuostatai.pdf)
 
 ## Ekonomikos departamento mokslo ir studijų ekonomikos skyrius
 
@@ -55,7 +55,7 @@ finansai. Mokslo ir studijų ekonomikos skyrius dalyvauja mokslo bei
 studijų finansavimą liečiančių įstatymų ar nutarimų rengime.
 
 Išsamiau galite susipažinti
-[čia](https://www.smm.lt/uploads/contacts/docs/43_0fb5f778a2fa662814f06d143800b9a7.pdf)
+[čia](https://sena-smsm.lrv.lt/uploads/smsm/documents/files/Nuostatai/Mokslo%20ir%20studij%C5%B3%20ekonomikos%20sk%20nuostatai%202022.pdf)
 
 ## Mokymosi visą gyvenimą departamento neformalaus švietimo skyrius
 
@@ -70,7 +70,7 @@ neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymo
 įgyvendinimą.
 
 Išsamiau galite susipažinti
-[čia](https://www.smm.lt/uploads/contacts/docs/125_02e6278ec24278c874c9dfeb650070d7.pdf)
+[čia](https://sena-smsm.lrv.lt/uploads/smsm/documents/files/MVGD%20nuostatai%202022%2012(1).pdf)
 
 Šios įstaigos veikla yra planuojama – yra tvirtinami strateginiai,
 metiniai veiklos planai bei kiti planavimo dokumentai, kurie yra viešai
@@ -109,7 +109,7 @@ orientavimo klausimai.
 
 [Išsamiau su ŠMSM viceministrų funkcijomis galite susipažinti čia
 (ministerijos vadovybės
-skiltis)](https://www.smm.lt/web/lt/contacts)
+skiltis)](https://smsm.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai-1/)
 
 ## Švietimo, mokslo ir sporto ministro patarėjai
 
@@ -121,7 +121,7 @@ pasiūlymus, išvadas ir kitą informaciją.
 
 [Išsamiau su ŠMSM patarėjų ir padėjėjų funkcijomis galite susipažinti
 čia (ministro patarėjų ir
-padėjėjų](https://www.smm.lt/web/lt/contacts) skiltis.
+padėjėjų](https://smsm.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai-1/) skiltis.
 
 ## Švietimo, mokslo ir sporto ministerijos kancleris
 
@@ -133,7 +133,7 @@ ministerijos administracijai, pagal kompetenciją priima potvarkius,
 saugo ministerijos antspaudą ir atsako už jo naudojimą.
 
 [Išsamiau su kanclerio funkcijomis galite susipažinti ŠMSM
-nuostatuose](https://www.smm.lt/web/lt/administracine-informacija/nuostatai)
+nuostatuose](https://smsm.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai-1/)
 
 ## Kiti skyriai ir grupės
 
@@ -141,7 +141,7 @@ Kiti skyriai ir grupės – užtikrina pagrindinių ŠMSM procesų
 įgyvendinimą.
 
 [Plačiau galite susipažinti
-čia](https://www.smm.lt/web/lt/struktura-ir-kontaktai/ministerijos-struktura)
+čia](https://smsm.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai-1/)
 
 ![](/img/main/image050.jpg){.img-fluid}
 
@@ -149,17 +149,17 @@ Kiti skyriai ir grupės – užtikrina pagrindinių ŠMSM procesų
 
 Toliau yra trumpai pristatomi ŠMSM struktūroje esantys departamentai:
 
-### Bendrojo ugdymo departamentas
+### Ugdymo departamentas
 
 Formuoja ir įgyvendina valstybinę ikimokyklinio, priešmokyklinio ir
 bendrojo ugdymo politiką, švietimo pagalbos politiką ir dalyvauja
 kuriant valstybinę švietimo politiką kartu su jos įgyvendinimo
 strategija.
 
-Išsamiau su departamentu galite susipažinti
-[čia](https://www.smm.lt/uploads/contacts/docs/5_daede736d9db353e114f44dade1e1da7.pdf)
+<!-- Išsamiau su departamentu galite susipažinti
+[čia](https://www.smm.lt/uploads/contacts/docs/5_daede736d9db353e114f44dade1e1da7.pdf) -->
 
-### Švietimo kokybės ir regioninės politikos departamentas
+### Švietimo tinklo politikos departamentas
 
 Dalyvauja kuriant valstybinę švietimo politiką, kartu su savivaldybių
 administracijomis užtikrina švietimo prieinamumą, teikia metodinę
@@ -168,8 +168,8 @@ formaliojo švietimo programas vykdančių mokyklų (išskyrus aukštąsias)
 pagalbos mokiniui, mokytojui ir mokyklai įstaigų tinklo kūrimo ar
 pertvarkymo, vidurinio ugdymo programų akreditavimo srityse.
 
-Išsamiau su departamentu galite susipažinti
-[čia](https://www.smm.lt/uploads/contacts/docs/11_3e5315a128a1358eb16310779dbb7de6.pdf)
+<!-- Išsamiau su departamentu galite susipažinti
+[čia](https://www.smm.lt/uploads/contacts/docs/11_3e5315a128a1358eb16310779dbb7de6.pdf) -->
 
 ### Studijų, mokslo ir technologijų departamentas
 
@@ -180,16 +180,16 @@ užtikrina tęstinio mokymosi ir suaugusiųjų švietimo sistemos
 funkcionavimą.
 
 Išsamiau su departamentu galite susipažinti
-[čia](https://www.smm.lt/uploads/contacts/docs/15_57b81ae1bcad5a4ce5363cdff7c6d82b.pdf)
+[čia](https://smsm.lrv.lt/media/viesa/saugykla/2023/12/pMHjh1Z8J2U.pdf)
 
 ### Mokymosi visą gyvenimą departamentas
 
-formuoja ir įgyvendina valstybinę mokymosi visą gyvenimą, profesinio
+Formuoja ir įgyvendina valstybinę mokymosi visą gyvenimą, profesinio
 mokymosi, kvalifikacijų sistemos formavimo bei suaugusiųjų neformaliojo
 švietimo politiką.
 
 Išsamiau su departamentu galite susipažinti
-[čia](https://www.smm.lt/uploads/contacts/docs/123_a83450582697747833d0b83f3b38e04e.pdf)
+[čia](https://smsm.lrv.lt/media/viesa/saugykla/2023/12/R8oIVFi2f20.pdf)
 
 ### Ekonomikos departamentas
 
@@ -199,9 +199,9 @@ investicijų politiką, stiprina ir plėtoja švietimo įstaigų bei mokslo ir
 studijų institucijų materialinę bazę.
 
 Išsamiau su departamentu galite susipažinti
-[čia](https://www.smm.lt/uploads/contacts/docs/22_086ee1f6e951b25a85393232d7fe2761.pdf)
+[čia](https://smsm.lrv.lt/media/viesa/saugykla/2023/12/sfgfr4qydZE.pdf)
 
-### Tarptautinio bendradarbiavimo ir Europos integracijos departamentas
+### Tarptautinio bendradarbiavimo grupė
 
 koordinuoja tarptautinio bendradarbiavimo švietimo, studijų ir mokslo
 srityje politikos įgyvendinimą, teikia siūlymus dėl tarptautinio
@@ -211,7 +211,7 @@ kuriomis Lietuva glaudžiai bendradarbiauja tarptautinių programų
 įgyvendinimo klausimais, švietimo, mokslo ir studijų srityse.
 
 Išsamiau su departamentu galite susipažinti
-[čia](https://www.smm.lt/uploads/contacts/docs/46_43f40490d14a7064b07cab9cea4065e2.pdf)
+[čia](https://smsm.lrv.lt/media/viesa/saugykla/2023/12/ESIlkilaSk8.pdf)
 
 ### Europos Sąjungos paramos koordinavimo departamentas
 
@@ -222,15 +222,15 @@ programų įgyvendinimą Lietuvoje.
 Išsamiau su departamentu galite susipažinti
 [čia](https://www.smm.lt/uploads/contacts/docs/21_b309d70d38b5c77871d84a6d63b59d4f.pdf)
 
-### Teisės ir administravimo departamentas
+### Administravimo departamentas | Teisės skyrius 
 
 užtikrina pateiktų vertinti teisės aktų projektų atitikimą LR įstatymams
 ir kitiems teisės aktams, dalyvauja rengiant įstatymų, Vyriausybės
 nutarimų, ŠMSM ministro įsakymų projektus ministerijos kompetencijai
 priskirtais klausimais.
 
-Išsamiau su departamentu galite susipažinti
-[čia](https://www.smm.lt/uploads/contacts/docs/142_8b331a55450da628852888134005f890.pdf)
+Išsamiau su departamento ir skyriaus veikla galite susipažinti
+[čia](https://smsm.lrv.lt/lt/struktura-ir-kontaktine-informacija/kontaktai-1/)
 
 ## ŠMSM pavaldžios institucijos
 
@@ -246,7 +246,7 @@ aukštuoju mokslu susijusių kvalifikacijų vertinimą ir (arba) pripažinimą
 Lietuvos Respublikoje.
 
 Su SKVC nuostatais galite susipažinti
-[čia](https://www.e-tar.lt/portal/legalAct.html?documentId=09280450abfa11e6b844f0f29024f5ac)
+[čia](https://www.e-tar.lt/portal/lt/legalAct/09280450abfa11e6b844f0f29024f5ac/asr)
 
 Išsamiau su SKVC galite susipažinti
 [čia](https://www.skvc.lt/default/lt/)
@@ -303,7 +303,7 @@ Su ŠMPF įstatais galite susipažinti
 [čia](https://www.smpf.lt/wp-content/uploads/2020/10/AR_2020-05-08.pdf)
 
 Išsamiau su ŠMPF galite susipažinti
-[čia](https://www.smpf.lt/lt/)
+[čia](https://www.smpf.lt/)
 
 ### Valstybinis studijų fondas (VSF)
 
@@ -364,9 +364,9 @@ mokymo dalyvių kvalifikacijos tobulinimą.
 Išsamiau su šiuo centru galite susipažinti
 [čia](https://www.kpmpc.lt/kpmpc/)
 
-### Lietuvos mokinių neformaliojo švietimo centras
+### Lietuvos neformaliojo švietimo agentūra
 
-Lietuvos mokinių neformaliojo švietimo centras – inicijuoja ir
+Lietuvos neformaliojo švietimo agentūra – inicijuoja ir
 dalyvauja rengiant teisės aktus, teikia siūlymus, kuria, diegia ir
 skleidžia inovacijas neformaliojo vaikų švietimo politikos klausimais,
 rengia mokytojų kvalifikacijos tobulinimo programas ir organizuoja jų
@@ -375,7 +375,7 @@ vykdymą, teikia metodinę pagalbą.
 Išsamiau su šiuo centru galite susipažinti
 [čia](https://www.lmnsc.lt/)
 
-### Lietuvos vaikų ir jaunimo centras
+<!-- ### Lietuvos vaikų ir jaunimo centras
 
 Lietuvos vaikų ir jaunimo centras – centras dalyvauja formuojant
 neformaliojo vaikų švietimo politiką ir ją įgyvendinant – inicijuoja
@@ -385,12 +385,13 @@ organizuoja neformaliojo švietimo nacionalinius bei tarptautinius
 renginius vaikams ir jaunimui.
 
 Išsamiau su šiuo centru galite susipažinti
-[čia](https://lvjc.lt/)
+[čia](https://lvjc.lt/) -->
 
 ### Mokslo ir enciklopedijų leidybos centras
 
-Mokslo ir enciklopedijų leidybos centras – valstybinė mokslo leidybos
-įstaiga.
+MELC pagrindinė veikla yra rengti skaitmenines enciklopedijas. Ji vykdoma paveldo, dokumentų ir archyvų veiklos srityse. Šiuo metu MELC rengia ir leidžia visuotines ir šakines enciklopedijas, vienkalbius, dvikalbius ir daugiakalbius terminų, lingvistinius ir mokyklinius žodynus, vadovus ir žinynus, Lietuvos ir pasaulio kultūros, mokslo ir technikos paveldo veikalus ir kt.
+Pagrindinė ir svarbiausia MELC veikla – skaitmeninės „Visuotinės lietuvių enciklopedijos“ (VLE) rengimas.
+Nuo 2023 m. sausio 1 d. Mokslo ir enciklopedijų leidybos centras (MELC) tapo Lietuvos nacionalinės Martyno Mažvydo bibliotekos struktūrine dalimi.
 
 Išsamiau su šiuo centru galite susipažinti
 [čia](https://www.melc.lt/lt/)

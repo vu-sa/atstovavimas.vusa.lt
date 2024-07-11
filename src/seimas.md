@@ -36,7 +36,7 @@ kuriose gali būti svarstomas studentų atstovo keliamas klausimas.
 Schemoje apibendrintai pavaizduoti visi komitetai ir komisijos, tačiau
 mums, kaip studentų atstovams, yra svarbiausi Švietimo ir mokslo
 komitetas bei Jaunimo ir sporto reikalų komisija. Todėl toliau
-pateikiame šių komitetų santraukas.
+pateikiame šių komitetų santraukas. Tam tikrais klausimais didesnį dėmesį turime atkreipti ir į Socialinių reikalų ir darbo, Sveikatos reikalų komitetus. 
 
 ## Švietimo ir mokslo komitetas
 
@@ -59,34 +59,32 @@ jaunimo ir sporto reikalus. Komisija palaiko ryšius su kitų šalių
 parlamentinėmis jaunimo ir sporto reikalų institucijomis, Lietuvos ir
 užsienio jaunimo ir sporto visuomeninėmis organizacijomis
 
-Studentams aktualūs klausimai gali būti sprendžiami ir kituose
+Studentams (-ėms) aktualūs klausimai gali būti sprendžiami ir kituose
 komitetuose, todėl naudinga sekti jų darbotvarkes, kurias galite rasti
 [čia](https://www.lrs.lt/sip/portal.show?p_r=35763&p_k=1)
 
-**Išsamiau apie klausimų iniciavimą Seime čia.**
-
 ![](/img/main/image032.jpg){.img-fluid}
 
-## Seimo nariai
+## Seimo nariai (-ės)
 
-Seimo nariais tampa 141 demokratiškuose rinkimuose išrinkti Lietuvos
+Seimo nariais (-ėmis) tampa 141 demokratiškuose rinkimuose išrinkti Lietuvos
 piliečiai.
 
 [Išsamiau apie Seimo nario
 pareigas](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.5734/OLtfmteOUm)
 
-## Seimo pirmininkas
+## Seimo pirmininkas (-ė)
 
-Seimo pirmininkas yra Lietuvos Respublikos Seimo vadovas, renkamas Seimo
+Seimo pirmininkas (-ė) yra Lietuvos Respublikos Seimo vadovas (-ė), renkamas Seimo
 daugumos balsais Seimo kadencijos laikotarpiui. Vykdydamas savo
-įgaliojimus, Seimo Pirmininkas leidžia potvarkius.
+įgaliojimus, Seimo Pirmininkas (-ė) leidžia potvarkius.
 
 [Išsamiau apie Seimo pirmininko
 pareigas](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.5734/OLtfmteOUm)
 
-## Seimo pirmininko pavaduotojai
+## Seimo pirmininko pavaduotojai (-os)
 
-Seimo Pirmininko pavaduotojai atlieka Seimo Pirmininko jiems pavestas
+Seimo Pirmininko pavaduotojai (-os) atlieka Seimo Pirmininko (-ės) jiems pavestas
 funkcijas.
 
 [Išsamiau apie Seimo pirmininko pavaduotojų
@@ -94,9 +92,9 @@ pareigas](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.5734/OLtfmteOUm)
 
 ## Seimo valdyba
 
-Seimo valdybą sudaro Seimo Pirmininkas, jo pavaduotojai ir Seimo
+Seimo valdybą sudaro Seimo Pirmininkas (-ė), jo pavaduotojai (-os) ir Seimo
 opozicijos lyderis. Valdyba sprendžia organizacinius Seimo darbo
-klausimus ir teikia patarimus Seimo Pirmininkui. Prireikus, Seimo
+klausimus ir teikia patarimus Seimo Pirmininkui (-ei). Prireikus, Seimo
 valdyba nustato, kokioms institucijoms ar asmenims pagrindinis komitetas
 privalo nusiųsti įstatymo projektą išvadoms gauti. Taip pat valdyba gali
 sudaryti darbo grupes įstatymams parengti bei organizuoti bendrą
@@ -107,17 +105,17 @@ Išsamiau susipažinti galite
 
 ## Frakcijos
 
-Seimo nariai pagal politines partijas ar vertybines nuostatas gali
+Seimo nariai (-ės) pagal politines partijas ar vertybines nuostatas gali
 jungtis į frakcijas sudarytas iš ne mažiau kaip 7 narių, kuriose siekia
 politinių tikslų įgyvendinimo. Seimo narių frakcijai vadovauja ir jai
-Seime atstovauja frakcijos seniūnas ar seniūno pavaduotojas. Seimo
-nariai, neįsiregistravę į frakcijas, pripažįstami vienos mišrios Seimo
-narių grupės, kuri turi frakcijos teises, nariais.
+Seime atstovauja frakcijos seniūnas (-ė) ar seniūno (-ės) pavaduotojas (-a). Seimo
+nariai (-ės), neįsiregistravę į frakcijas, pripažįstami vienos mišrios Seimo
+narių grupės, kuri turi frakcijos teises, nariais (-ėmis).
 
 Išsamiau susipažinti galite
 [čia](https://www.lrs.lt/sip/portal.show?p_r=35342&p_k=1)
 
-## Seimo frakcijos seniūnas
+## Seimo frakcijos seniūnas (-ė)
 
 Seimo narių frakcijai vadovauja ir jai Seime atstovauja frakcijos
 seniūnas ar seniūno pavaduotojas.

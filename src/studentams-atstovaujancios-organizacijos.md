@@ -4,13 +4,13 @@
 
 ## VU SA
 
-Vilniaus universiteto Studentų atstovybė (VU SA) – seniausia ir
+Vilniaus universiteto studentų atstovybė (VU SA) – seniausia ir
 didžiausia Lietuvoje visuomeninė, ne pelno siekianti, nepolitinė,
-ekspertinė švietimo organizacija, atstovaujanti studentų interesams
+ekspertinė švietimo organizacija, atstovaujanti studentų (-čių) interesams
 Vilniaus universitete bei už jo ribų, puoselėjanti universitetinę
-kultūrą ir kurianti palankiausias sąlygas studentų saviraiškai.
+kultūrą ir kurianti palankiausias sąlygas studentų (-čių) saviraiškai.
 
-VU SA yra vienintelė studentų atstovybė, kuri savo studentų interesams
+VU SA yra vienintelė studentų atstovybė, kuri savo studentų (-čių) interesams
 atstovauja nacionaliniu mastu.
 
 [Išsamiau apie VU SA veiklą](https://vusa.lt/lt)
@@ -18,10 +18,10 @@ atstovauja nacionaliniu mastu.
 ## Lietuvos studentų sąjunga
 
 Lietuvos studentų sąjunga yra nacionalinė, demokratinė, nepriklausoma ir
-nevyriausybinė organizacija, atstovaujanti Lietuvos studentų interesams,
-jungianti Lietuvos aukštųjų mokyklų Studentų savivaldas.
+nevyriausybinė organizacija, atstovaujanti Lietuvos studentų (-čių) interesams,
+jungianti Lietuvos aukštųjų mokyklų studentų savivaldas.
 
-Lietuvos studentų sąjunga atstovauja Lietuvos studentams nacionaliniu
+Lietuvos studentų sąjunga atstovauja Lietuvos studentams (-ėms) nacionaliniu
 lygiu. Siekdama įgyvendinti šią savo misiją, Sąjunga organizuoja
 renginius bei akcijas.
 

@@ -45,6 +45,8 @@ plačiau apie kiekvieną iš jų skaitykite paspaudus nuorodas.
 Asmenys, turintys Lietuvos Respublikos pilietybę ir su ja suteiktas
 teises bei pareigas.
 
+LR piliečiai turi LR Konstitucijos 68 str. antroje dalyje įtvirtintą įstatymų leidybos teisę, kurią gali realizuoti 50 tūkst. piliečių, turinčių rinkimų teisę. Taip pat piliečiai gali teikti peticijas bei pasiūlymus svarstomiems įstatymų projektams paskelbtu konsultavimosi su visuomene laikotarpiu.
+
 ## Prezidentas
 
 Prezidentas yra valstybės vadovas. Prezidentas sprendžia pagrindinius
@@ -59,7 +61,7 @@ funkcijas](https://www.lrp.lt/lt/prezidento-funkcijos)
 
 Seimas – tai Lietuvos Respublikos įstatymų leidžiamoji valdžia. Seimą
 sudaro 141 Tautos atstovas, išrinktas ketverių metų kadencijai. Seimo
-įtaka aukštojo mokslo politikos procesuose sprendžiamoji: Seime
+įtaka aukštojo mokslo politikos procesuose leidžiamoji: Seime
 registruojami su aukštojo mokslo politikos procesais susiję įstatymų
 projektai, kurie per Komitetus vėliau teikiami Seimo posėdžiams ir
 tvirtinami.
@@ -86,7 +88,7 @@ priimami sprendimai pagal kompetenciją jai priskirtų aukštojo mokslo
 klausimų.
 
 [Išsamiau apie Vyriausybės
-veiklą](https://lrv.lt/lt/aktuali-informacija/apie-vyriausybe/vyriausybe)
+veiklą](https://lrv.lt/lt/apie-vyriausybe/)
 
 ![](/img/main/image013.jpg){.img-fluid}
 
@@ -95,7 +97,7 @@ veiklą](https://lrv.lt/lt/aktuali-informacija/apie-vyriausybe/vyriausybe)
 Švietimo, mokslo ir sporto ministerija (toliau – ŠMSM) yra LR valstybės
 įstaiga, kuri savo veiklos tikslų perspektyvoje formuoja valstybės
 politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą, o
-įstatymų nustatytais atvejais – ją ŠMSM ministrui pavestose valdymo
+įstatymų nustatytais atvejais – ją įgyvendina ŠMSM ministrui pavestose valdymo
 srityse.
 
 [Išsamiau apie Švietimo, mokslo ir sporto ministerijos
@@ -129,16 +131,17 @@ LMT](https://www.e-tar.lt/portal/lt/legalAct/fdc30c905a6311e7846ef01bfffb9b64)
 Lietuvos mokslo tarybą sudaro 29 nariai, renkami 5 m. kadencijai.
 Lietuvos mokslo tarybos sudėtį vyriausybės teikimu tvirtina Seimas.
 
-### Lietuvos mokslo tarybos pirmininkas ir pavaduotojai
+### Lietuvos mokslo tarybos pirmininkas
 
-Valdybą sudaro Lietuvos mokslo tarybos pirmininkas ir jo pavaduotojai –
-komitetų pirmininkai, Lietuvos mokslo tarybos mokslinis sekretorius,
-ministro pirmininko patarėjas, Seimo Švietimo, mokslo ir kultūros
-komiteto, Švietimo ir mokslo, Finansų ministerijų, Lietuvos mokslų
-akademijos atstovai.
+LMT vienasmenis valdymo organas yra LMT pirmininkas, į pareigas Vyriausybės teikimu skiria Seimas 5 metų kadencijai. Tas pats asmuo LMT pirmininku gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės.
 
-[Išsamiau apie Lietuvos mokslo tarybos
-pirmininką](https://www.lmt.lt/lt/apie-taryba/pirmininkas/122%20)
+[Išsamiau apie Lietuvos mokslo tarybos pirmininką](https://lmt.lrv.lt/lt/struktura-ir-kontaktine-informacija/vadovas/)
+
+### Lietuvos mokslo tarybos Valdyba
+
+LMT valdyba yra kolegialus LMT valdymo organas. Valdybą sudaro 7 nepriekaištingos reputacijos, kaip apibrėžia Mokslo ir studijų įstatymas, nariai, iš kurių bent keturi turi būti tarptautinės darbo patirties turintys mokslininkai. Valdybą 5 metų kadencijai skiria Vyriausybė. Tas pats asmuo valdybos nariu gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės.
+
+[Išsamiau apie Lietuvos mokslo tarybos valdybą](https://lmt.lrv.lt/lt/valdyba/)
 
 ## Valstybinis studijų fondas
 
@@ -161,7 +164,7 @@ Išsamiau apie VSF:
 
 ![](/img/main/image015.jpg){.img-fluid}
 
-### Valstybinio studijų fondo valdyba
+<!-- ### Valstybinio studijų fondo valdyba
 
 Fondo valdyba paskirsto Fondui skirtas valstybės biudžeto lėšas
 valstybės paskoloms teikti, valstybės remiamų paskolų palūkanoms
@@ -172,7 +175,7 @@ atlieka kitas teisės aktų Fondo valdybai pavestas funkcijas.
 Valdybą tvirtina ŠMSM ministras, ji yra sudaryta iš 11 asmenų.
 
 [Išsamiau apie Valstybinio studijų fondo
-valdybą](https://vsf.lrv.lt/lt/struktura-ir-kontaktai/valdyba-1)
+valdybą](https://vsf.lrv.lt/lt/struktura-ir-kontaktai/valdyba-1) -->
 
 ## Lietuvos mokslų akademija
 
@@ -191,6 +194,15 @@ Prie Lietuvos mokslų akademijos taip pat veikia ir LMA Jaunoji akademija
 
 [Išsamiau apie LMA veiklą rasite
 čia:](http://www.lma.lt/statutas)
+
+
+## Švietimo mainų ir paramos fondas (ŠMPF)
+
+Švietimo mainų ir paramos fondas (ŠMPF) – Lietuvos nacionalinė agentūra, kuriai pavesta administruoti programą „Erasmus+" ir kitas Europos Komisijos (EK) ir Lietuvos Respublikos Vyriausybės finansuojamas iniciatyvas švietimo ir mokymo srityje.
+
+Su ŠMPF įstatais galite susipažinti [čia](https://smpf.lrv.lt/media/viesa/saugykla/2024/2/wi2b7YKf-R4.pdf).
+
+Išsamiau su ŠMPF galite susipažinti [čia](https://smpf.lrv.lt/lt/)
 
 ## Aukštojo mokslo taryba
 
@@ -211,7 +223,7 @@ Aukštojo mokslo tarybos sudėtį tvirtina švietimo ir mokslo ministras,
 Aukštojo mokslo tarybos nuostatus tvirtina Vyriausybė.
 
 [Išsamiau apie Aukštojo mokslo
-tarybą](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.343430/asr)
+tarybą](https://smsm.lrv.lt/lt/struktura-ir-kontaktine-informacija/komisijos-tarybos-ir-darbo-grupes/tarybos/aukstojo-mokslo-tary-ba/)
 
 ## Studijų kokybės ir vertinimo centras
 
@@ -220,12 +232,6 @@ aukštųjų mokyklų veiklos kokybę per išorinį vertinimą, užsienyje įgyt�
 kvalifikacijų, suteikiančių teisę į aukštąjį mokslą, bei aukštojo mokslo
 kvalifikacijų, vertinimą, teikia informaciją Centro veiklos klausimais
 bei vykdo kitas funkcijas.
-
-Pagrindinės sritys ties kuriomis dirba SKVC –vertina užsienyje įgytą
-vidurinį ir aukštąjį išsilavinimą, informuoja apie aukštojo mokslo
-studijas Lietuvoje bei užsienyje, skatina aukštąsias mokyklas gerinti
-studijų kokybę bei rengia su mokslu ir studijomis susijusių teisės aktų
-projektus.
 
 Užsiimdamas studijų programų atestacija, Centras gali uždaryti studijų
 programas ar aukštąsias mokyklas.
@@ -255,7 +261,7 @@ tiriamąja veikla grįstą informaciją, reikalingą įrodymais pagrįstiems
 viešosios politikos sprendimams priimti.
 
 [Išsamiau apie STRATA
-veiklą](https://strata.gov.lt/lt/apie-mus/apie)
+veiklą](https://strata.gov.lt/apie-strata/)
 
 ## Lietuvos Respublikos akademinės etikos ir procedūrų kontrolierius
 
@@ -273,7 +279,7 @@ procedūroms
 
 Išsamiau su akademinės etikos ir procedūrų kontrolieriaus veikla galite
 susipažinti
-[čia.](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.406672/)
+[čia.](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/7784eb71b0bd11ecaf79c2120caf5094?jfwid=-163wt6ffh0)
 
 ### Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnyba
 
@@ -284,7 +290,7 @@ etikos ir procedūrų pažeidimo, prižiūrint, kad nebūtų pažeidžiamos
 akademinės etikos nuostatos ir procedūros.
 
 Daugiau apie kontrolierių ir tarnybą galima pasiskaityti
-[čia](https://etikostarnyba.lt/apie-istaiga/)
+[čia](https://etikostarnyba.lt/apie-istaiga/).
 
 ## Universitetas
 
@@ -300,7 +306,7 @@ Išsamiau galite paskaityti:
 -   [Mokslo ir studijų
     įstatymas](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.343430)
 -   [Universitetų Lietuvoje
-    sąrašas](http://lms.lt/archyvas/?q=lt/LietuvosUniversitetai)
+    sąrašas](https://lurk.lt/universitetai/valstybiniai/)
 
 ## Kolegija
 
@@ -326,7 +332,7 @@ Mokslinių tyrimų institutų įtaka aukštojo mokslo politikos procesuose
 yra patariamoji.
 
 Lietuvoje veikiantys mokslo institutai nurodyti
-[čia](http://lms.lt/archyvas/?q=lt/MoksloInstitutai)
+[čia](httphttp://sena.mab.lt/lt/istekliai-internete/153)
 
 ## Lietuvos švietimo taryba
 
@@ -336,7 +342,7 @@ institucija, atliekanti ekspertinį vertinimą ir konsultuojanti
 strateginiais Lietuvos švietimo plėtros klausimais.
 
 [Išsamiau apie Tarybos funkcijas ir narių
-skyrimą](https://www.lrs.lt/sip/portal.show?p_r=9258&p_k=1)
+skyrimą](https://www.lrs.lt/sip/portal.show?p_r=35572&p_k=1)
 
 ![](/img/main/image022.jpg){.img-fluid}
 
@@ -354,7 +360,7 @@ Gali deleguoti savo atstovus į Švietimo, mokslo ir sporto ministerijos
 aukštuoju mokslu.
 
 [Išsamiau apie
-LURK](https://lurk.lt/index.php/apie-mus/istatai/)
+LURK](https://lurk.lt/apie-mus/strukura/)
 
 ## Lietuvos kolegijų direktorių konferencija (LKDK)
 

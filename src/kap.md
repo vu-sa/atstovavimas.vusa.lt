@@ -10,16 +10,16 @@ import KAP from './graphs/KAP.svg?component'
 ## KAP schemos aprašymas
 
 Čia pavaizduota VU kamieninio akademinio padalinio (fakulteto,
-instituto, centro) (toliau – VU KAP) schema, kuris atlieka pagrindinę
-visų rūšių pagrindinę universiteto veiklą. VU KAP vadovaujasi statutu,
+instituto, centro, akademijos, mokyklos) (toliau – VU KAP), kuris atlieka pagrindinę
+visų rūšių pagrindinę universiteto veiklą, schema. VU KAP vadovaujasi statutu,
 Senato patvirtintais pavyzdiniais VU KAP nuostatais ir kitais
 Universiteto veiklos dokumentais. Kiekvieno VU KAP internetiniame
 puslapyje rasite jo veiklos dokumentus. Taip pat šie dokumentai
 patalpinti prie [VU Senato priimamų sprendimų](https://www.vu.lt/apiemus/struktura/senatas/senato-sprendimai)
 
-Naudodamiesi šia schema sužinosite, kokie yra VU KAP dariniai ir kaip
+<!-- Naudodamiesi šia schema sužinosite, kokie yra VU KAP dariniai ir kaip
 jie susiję tarpusavyje. Plačiau apie kiekvieną iš jų skaitykite
-paspaudus nuorodas.
+paspaudus nuorodas. -->
 
 Kodėl svarbu suvokti VU KAP struktūrą? Todėl, kad mes patys įsitraukiame
 į VU KAP struktūras kaip studentų atstovai, arba renkame studentų
@@ -34,12 +34,12 @@ Schema parengta vadovaujantis: [KAP pavyzdiniais nuostatais](https://www.vu.lt/s
 ## Vilniaus universiteto kamieniniai akademiniai padaliniai
 
 Vilniaus universiteto kamieniniai akademiniai padaliniai (toliau – VU
-KAP) – fakultetai, institutai, centrai, mokyklos – tai vidiniai
+KAP) – fakultetai, institutai, centrai, akademijos, mokyklos – tai vidiniai
 organizaciniai Universiteto dariniai, kuriuose vykdoma visų rūšių
 pagrindinė Universiteto veikla. KAP veiklos tikslai – rengti aukštos
 kvalifikacijos specialistus ir mokslininkus, plėtoti aukšto tarptautinio
 lygio mokslinius tyrimus, užtikrinti mokslo ir studijų vienovę,
-užtikrinti mokslinių tyrimų ir studijų kokybę ir kt.
+užtikrinti mokslinių tyrimų ir studijų kokybę ir ugdyti aktyvius ir atsakingus piliečius ir visuomenės lyderius.
 
 ### VU KAP Taryba
 
@@ -106,12 +106,14 @@ Pagrindinės SPK funkcijos:
     turinio, metodų ir studentų pasiekimų vertinimų vientisumą, studijų
     programos aktualumą ir konkurencingumą;
 2.  Analizuoti studijų programos įgyvendinimą, identifikuoti problemas
-    ir siūlyti jų sprendimo būdus;
+    ir siūlyti jų sprendimo būdus, atnaujinti programą;
 3.  Rengti studijų programos realizavimo ataskaitas ir pristatyti jas VU
     KAP tarybai bent kartą per mokslo metus;
 4.  Tvirtina kreditų kaupimo ir perkėlimo sprendimus, individualius
     studijų planus;
 5.  Tvirtina neformaliuoju ir savišvietos būdu įgytas kompetencijas.
+
+SPK sudaro studijų programą įgyvendinantys dėstytojai, socialiniai partneriai, bent vienas studentų atstovas (jungtinio studijų programų komiteto atveju – bent 2).
 
 Į studentų atstovą savo SPK gali kreiptis, jei turi pasiūlymų, kaip būtų
 galima pagerinti studijų programos vykdymo kokybę bei kitais studijų
@@ -142,6 +144,8 @@ egzaminų laikymo, baigiamojo egzamino ar baigiamojo darbo gynimo
 procedūros ar kitų pažeidimų, galimai turinčių įtakos galutiniam studijų
 dalyko pasiekimų vertinimui.
 
+VU KAP ginčų nagrinėjimo komisiją sudaro 3 VU KAP dėstytojai ir **3 studentų atstovai**.
+
 [Išsamiau](https://www.vu.lt/site_files/Reguliaminas/KAP_gin%C4%8D%C5%B3_nagrin%C4%97jimo_komisijos_nuostatai_2019-04-16.pdf)
 
 ## VU KAP akademinės etikos komisija
@@ -149,6 +153,8 @@ dalyko pasiekimų vertinimui.
 Komisija nagrinėja kreipimusis dėl akademinės bendruomenės narių,
 dirbančių ar studijuojančių tame Padalinyje, veiksmų, galimai
 pažeidžiančių akademinę etiką.
+
+VU KAP akademinės etikos komisiją sudaro 4 VU KAP dėstytojai ir **2 studentų atstovai**.
 
 [Išsamiau](https://www.vu.lt/site_files/SPN-55_KAP_AEK_nuostatai.pdf)
 
@@ -160,7 +166,7 @@ pratęsimo klausimus. Baigiantis dėstytojo darbo sutarties su
 Universitetu laikotarpiui, Komisija vertina dėstytojo studijų vykdymo
 bei mokslinę veiklą ir sprendžia, ar darbo sutartis bus pratęsta.
 
-[Išsamiau](https://www.vu.lt/site_files/Vilniaus_universiteto_d%C4%97stytoj%C5%B3_ir_mokslo_meno_darbuotoj%C5%B3_konkurs%C5%B3_pareigoms_eiti_i_aestavimo_organizavimo_nuostatai.pdf)
+[Išsamiau](https://www.vu.lt/site_files/2023-12-14_Konkursų_atestacijų_nuostatų_projektas_Senatui_galutinis.pdf)
 
 ## VU KAP rinkimų komisija
 

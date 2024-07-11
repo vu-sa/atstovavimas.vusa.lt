@@ -7,9 +7,9 @@ next:
 # Įvadas
 
 Prieš Jūsų akis – VU SA sukurtas atstovavimo gidas. Jo tikslas –
-supažindinti studentų atstovus ir atstovavimu besidominčius asmenis su
+supažindinti studentų (-čių) atstovus (-es) ir atstovavimu besidominčius asmenis su
 nacionaline aukštojo mokslo politika ir jos dalyviais. Šiuo gidu
-siekiame NVO atstovų kompetencijų reikalingų pasiūlymams parengti ir
+siekiame NVO atstovų (-ių) kompetencijų reikalingų pasiūlymams parengti ir
 pristatyti stiprinimo.
 
 VU SA, siekdama paskatinti piliečius aktyviau įsitraukti į viešąjį
@@ -25,7 +25,7 @@ laikotarpiu vyravusių teisinių ar kitokių apribojimų.
 
 Atstovavimą, kaip reiškinį, galima išskirti į šias sudedamąsias:
 
--   Atstovaujama šalis (pavyzdžiui, studentai)
+-   Atstovaujama šalis (pavyzdžiui, studentai (-ės))
 -   Atstovas (asmuo, kuris vykdo atstovavimo veiklas)
 -   Tikslas (kokio pokyčio yra siekiama)
 -   Suinteresuotos šalys (įvairūs organai, institucijos ir panašiai,
@@ -39,7 +39,7 @@ O dabar apie patį leidinį. Jame pasistengsime aptarti, kokios
 suinteresuotosios šalys dalyvauja formuojant ir įgyvendinant aukštojo
 mokslo politikos procesus. Leidinį sudaro dvi dalys: pirmoji dalis
 sudaryta iš aukštojo mokslo politikos dalyvių, o antrojoje dalyje galite
-rasti patarimus studentų atstovų veiklai ir kompetencijos kėlimui.
+rasti patarimus studentų (-čių) atstovų (-ių) veiklai ir kompetencijos kėlimui.
 
 Pirmojoje dalyje pavaizduotos keturios schemos. Pirmojoje atvaizduojami
 Mokslo ir studijų įstatyme nurodyti aukštojo mokslo politikos dalyviai.
