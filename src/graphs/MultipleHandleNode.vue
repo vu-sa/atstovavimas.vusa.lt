@@ -1,7 +1,7 @@
 <template>
   <button class="vue-flow__node-default" @mouseenter="isVisible = true" @mouseleave="handleClose" @blur="handleClose" @focus="isVisible = true">
     <!-- <component :is="data.label" /> -->
-    <span v-if="typeof data.label === 'string'">{{ data.label }}</span>
+    <span class="font-medium text-sm" v-if="typeof data.label === 'string'">{{ data.label }}</span>
     <component v-else :is="data.label" />
 
     <template v-if="data?.handles">
