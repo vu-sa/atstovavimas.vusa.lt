@@ -1,14 +1,14 @@
-<script setup lang="ts">
-import StructureGraph from './components/StructureGraph.vue'
-import AMSvg from './graphs/AM.svg?component'
-</script>
+<!--<script setup lang="ts">-->
+<!--import StructureGraph from './components/StructureGraph.vue'-->
+<!--import AMSvg from './graphs/AM.svg?component'-->
+<!--</script>-->
 
 
 # Aukštasis mokslas
 
 ## Aukštojo mokslo politikos schema
 
-<StructureGraph :svg-object="AMSvg" />
+<!--<StructureGraph :svg-object="AMSvg" />-->
 
 ## Aukštojo mokslo politikos schemos aprašas
 

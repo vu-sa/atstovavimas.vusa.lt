@@ -1,24 +1,24 @@
-<script setup lang="ts">
-import StructureGraph from './components/StructureGraph.vue'
-import SeimasProcesas from './graphs/SeimasProcesas.svg?component'
-import VyriausybeProcesas from './graphs/VyriausybeProcesas.svg?component'
-import SeimasProcesasTrumpai from './graphs/SeimasProcesasTrumpai.svg?component'
-</script>
+<!--<script setup lang="ts">-->
+<!--import StructureGraph from './components/StructureGraph.vue'-->
+<!--import SeimasProcesas from './graphs/SeimasProcesas.svg?component'-->
+<!--import VyriausybeProcesas from './graphs/VyriausybeProcesas.svg?component'-->
+<!--import SeimasProcesasTrumpai from './graphs/SeimasProcesasTrumpai.svg?component'-->
+<!--</script>-->
 
 
 # Įstatymų leidybos procesas
 
-## Apibendrinta įstatymo iniciavimo struktūra
-
-<StructureGraph :svg-object="SeimasProcesasTrumpai" />
-
-## Įstatymo iniciavimo struktūra
-
-<StructureGraph :svg-object="SeimasProcesas" />
-
-## Vyriausybės nutarimo priėmimo procesas
-
-<StructureGraph :svg-object="VyriausybeProcesas" />
+<!--## Apibendrinta įstatymo iniciavimo struktūra-->
+<!---->
+<!--<StructureGraph :svg-object="SeimasProcesasTrumpai" />-->
+<!---->
+<!--## Įstatymo iniciavimo struktūra-->
+<!---->
+<!--<StructureGraph :svg-object="SeimasProcesas" />-->
+<!---->
+<!--## Vyriausybės nutarimo priėmimo procesas-->
+<!---->
+<!--<StructureGraph :svg-object="VyriausybeProcesas" />-->
 
 ## Vyriausybės nutarimo priėmimo proceso aprašas
 

@@ -1,13 +1,13 @@
 <script setup lang="ts">
-import StructureGraph from './components/StructureGraph.vue'
-import Seimas from './graphs/Seimas.svg?component'
+import StructureGraphWrapper from './components/StructureGraphWrapper.vue'
+import Seimas from './data/seimas'
 </script>
 
 # LR Seimas ir susijusios struktūros
 
 ## LR Seimo ir susijusių struktūrų schema
 
-<StructureGraph :svg-object="Seimas" />
+<StructureGraphWrapper :nodes="Seimas.nodes" :edges="Seimas.edges" />
 
 ## LR Seimo ir susijusių struktūrų schemos aprašas
 

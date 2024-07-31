@@ -43,7 +43,7 @@
  *   in custom container, badges, etc.
  * -------------------------------------------------------------------------- */
 
- :root {
+:root {
   --vp-c-default-1: var(--vp-c-gray-1);
   --vp-c-default-2: var(--vp-c-gray-2);
   --vp-c-default-3: var(--vp-c-gray-3);
@@ -93,17 +93,13 @@
 
 :root {
   --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(
-    120deg,
-    #df9604 30%,
-    #7e1b23
-  );
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg,
+      #df9604 30%,
+      #7e1b23);
 
-  --vp-home-hero-image-background-image: linear-gradient(
-    -45deg,
-    #bd34fe 50%,
-    #47caff 50%
-  );
+  --vp-home-hero-image-background-image: linear-gradient(-45deg,
+      #bd34fe 50%,
+      #47caff 50%);
   --vp-home-hero-image-filter: blur(40px);
 }
 
@@ -165,4 +161,58 @@ abbr::after {
 
 abbr:hover::after {
   @apply opacity-100 visible;
+}
+
+.basic-flow.dark {
+  background: #2d3748;
+  color: #fffffb
+}
+
+.basic-flow.dark .vue-flow__node {
+  background: #4a5568;
+  color: #fffffb
+}
+
+.basic-flow.dark .vue-flow__node.selected {
+  background: #333;
+  box-shadow: 0 0 0 2px #2563eb
+}
+
+.basic-flow .vue-flow__controls {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 4px;
+}
+
+.basic-flow.dark .vue-flow__controls {
+  border: 1px solid #FFFFFB
+}
+
+.basic-flow .vue-flow__controls .vue-flow__controls-button {
+  border: none;
+  @apply bg-gray-100/60 rounded-md px-3;
+}
+
+.basic-flow .vue-flow__controls .vue-flow__controls-button svg {
+  height: 12px;
+  width: 12px
+}
+
+.basic-flow.dark .vue-flow__controls .vue-flow__controls-button {
+  background: #333;
+  fill: #fffffb;
+  border: none
+}
+
+.basic-flow.dark .vue-flow__controls .vue-flow__controls-button:hover {
+  background: #4d4d4d
+}
+
+.basic-flow.dark .vue-flow__edge-textbg {
+  fill: #292524
+}
+
+.basic-flow.dark .vue-flow__edge-text {
+  fill: #fffffb
 }
