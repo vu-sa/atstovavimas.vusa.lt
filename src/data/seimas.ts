@@ -1,5 +1,6 @@
 import { MarkerType, Position } from "@vue-flow/core"
 import { h } from "vue"
+import { orangeStyle, redStyle } from "./edgeStyles"
 
 export const nodes = [
   {
@@ -12,7 +13,7 @@ export const nodes = [
     id: 'node-lrv',
     type: 'multiple-handle',
     data: { label: h('div', [h('img', { src: '/img/Lietuvos_Respublikos_Vyriausybes_logotipas.png' })]), handles: ['right-bottom', 'right-top'], description: "Vyriausybė – tai Lietuvos Respublikos įstatymų vykdomoji valdžia. Vyriausybė sudaro 14 ministerijų ministrai ir ministras pirmininkas, Seimo paskirti ketverių metų kadencijai.", url: "https://lrv.lt/lt/aktuali-informacija/apie-vyriausybe/vyriausybe" },
-    position: { x: -350, y: 150 },
+    position: { x: -350, y: 160 },
   },
   {
     id: 'node-seimo-kanceliarija',
@@ -24,7 +25,7 @@ export const nodes = [
     id: 'node-seimo-nariai',
     type: 'multiple-handle',
     data: { label: "LR Seimo nariai", handles: ['top', 'bottom', 'left'], description: 'Seimo nariais tampa 141 demokratiškuose rinkimuose išrinkti Lietuvos piliečiai.', url: '/seimas.html#seimo-nariai' },
-    position: { x: -50, y: 400 },
+    position: { x: -50, y: 420 },
   },
   {
     id: 'node-seimo-frakcijos',
@@ -35,23 +36,24 @@ export const nodes = [
   {
     id: 'parent-node-seimo-grupes',
     position: { x: -50, y: 610 },
-    style: { backgroundColor: 'rgba(60,30,60, 0.02)', width: '200px', height: '230px' },
+    style: { backgroundColor: 'rgba(60,30,60, 0.02)', width: '200px', height: '180px' },
     sourcePosition: Position.Left,
     targetPosition: Position.Left,
   },
   {
     id: 'node-laikinosios-darbo-grupes',
     type: 'multiple-handle',
-    data: { label: "Laikinosios darbo grupės", handles: ['right-top'], description: "Konkretiems klausimams spręsti Seimo nariai (mažiausiai penki) gali jungtis į laikinąsias darbo grupes.", url: 'https://www.lrs.lt/sip/portal.show?p_r=38270' },
+    data: { label: "Laikinosios darbo grupės", handles: ['right'], description: "Konkretiems klausimams spręsti Seimo nariai (mažiausiai penki) gali jungtis į laikinąsias darbo grupes.", url: 'https://www.lrs.lt/sip/portal.show?p_r=38270' },
     position: { x: 25, y: 15 },
     parentNode: 'parent-node-seimo-grupes',
+    style: { lineHeight: '1.25' },
     extent: 'parent',
   },
   {
     id: 'node-komitetai',
     type: 'multiple-handle',
     data: { label: "Komitetai", handles: [], description: 'Seimas įstatymams nagrinėti ir kitiems klausimams spręsti sudaro komitetus. Komitetai svarbiausioms veiklos kryptims iš savo narių gali sudaryti pakomitečius.', url: '/seimas.html#seimo-komitetai' },
-    position: { x: 25, y: 105 },
+    position: { x: 25, y: 75 },
     parentNode: 'parent-node-seimo-grupes',
     extent: 'parent',
   },
@@ -59,7 +61,7 @@ export const nodes = [
     id: 'node-komisijos',
     type: 'multiple-handle',
     data: { label: "Komisijos", handles: [], description: 'Seimas įstatymams nagrinėti ir kitiems klausimams spręsti sudaro komisijas.', url: '/seimas.html#komisijos' },
-    position: { x: 25, y: 170 },
+    position: { x: 25, y: 125 },
     parentNode: 'parent-node-seimo-grupes',
     extent: 'parent',
   },
@@ -67,6 +69,7 @@ export const nodes = [
     id: 'node-sao',
     data: { label: "Studentams atstovaujančios organizacijos", handles: ['right', 'bottom', 'top'], url: 'studentams-atstovaujancios-organizacijos.html' },
     position: { x: -350, y: 500 },
+    style: { lineHeight: '1.25' },
     type: 'multiple-handle',
   },
   {
@@ -79,52 +82,37 @@ export const nodes = [
     id: 'node-seimo-pirmininkas',
     type: 'multiple-handle',
     data: { label: "LR Seimo pirmininkas", handles: ['left-top', 'right-top', 'right', 'left', 'top-left'], description: "Seimo pirmininkas yra Lietuvos Respublikos Seimo vadovas, renkamas Seimo daugumos balsais Seimo kadencijos laikotarpiui. Vykdydamas savo įgaliojimus, Seimo Pirmininkas leidžia potvarkius.", url: 'https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.5734/OLtfmteOUm' },
-    position: { x: 250, y: 260 },
+    style: { lineHeight: '1.25' },
+    position: { x: 250, y: 250 },
   },
   {
     id: 'node-seimo-pirmininko-pavaduotojai',
     type: 'multiple-handle',
     data: { label: "LR Seimo pirmininko pavaduotojai", handles: ['left', 'right', 'left-bottom'], description: 'Seimo Pirmininko pavaduotojai atlieka Seimo Pirmininko jiems pavestas funkcijas.', url: 'https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.5734/OLtfmteOUm' },
-    position: { x: 250, y: 360 },
+    style: { lineHeight: '1.25' },
+    position: { x: 250, y: 365 },
   },
   {
     id: 'node-seimo-frakciju-seniunu-sueiga',
     type: 'multiple-handle',
-    data: { label: "LR Seimo frakcijų seniūnų sueiga", handles: ['left', 'right-top', 'right-bottom', 'right', 'left-top', 'left-bottom', 'bottom'], description: "Seime veikia Seniūnų sueiga, į kurią įeina Seimo valdybos nariai ir frakcijų atstovai, kurių skaičius proporcingas frakcijų narių skaičiui.", url: '/seimas.html#seniunu-sueiga' },
-    position: { x: 230, y: 480 },
+    data: { label: "LR Seimo frakcijų seniūnų sueiga", handles: ['left', 'right-top', 'right-bottom', 'right', 'left-top', 'bottom', 'top'], description: "Seime veikia Seniūnų sueiga, į kurią įeina Seimo valdybos nariai ir frakcijų atstovai, kurių skaičius proporcingas frakcijų narių skaičiui.", url: '/seimas.html#seniunu-sueiga' },
+    style: { lineHeight: '1.25' },
+    position: { x: 200, y: 540 },
   },
   {
     id: 'node-frakcijos-seniunas',
     type: 'multiple-handle',
-    data: { label: "LR Seimo Frakcijos seniūnas", handles: ['top', 'left'], description: 'Seimo narių frakcijai vadovauja ir jai Seime atstovauja frakcijos seniūnas ar seniūno pavaduotojas.', url: 'https://www.lrs.lt/sip/portal.show?p_r=35342' },
-    position: { x: 230, y: 650 },
+    data: { label: "LR Seimo Frakcijos seniūnas", handles: ['bottom', 'left'], description: 'Seimo narių frakcijai vadovauja ir jai Seime atstovauja frakcijos seniūnas ar seniūno pavaduotojas.', url: 'https://www.lrs.lt/sip/portal.show?p_r=35342' },
+    style: { lineHeight: '1.25' },
+    position: { x: 200, y: 450 },
   },
   {
     id: 'node-seimo-valdyba',
     type: 'multiple-handle',
     data: { label: "LR Seimo valdyba", handles: ['top', 'left', 'bottom'], description: 'Seimo valdybą sudaro Seimo Pirmininkas, jo pavaduotojai ir Seimo opozicijos lyderis. Valdyba sprendžia organizacinius Seimo darbo klausimus ir teikia patarimus Seimo Pirmininkui.', url: '/seimas.html#seimo-valdyba' },
-    position: { x: 500, y: 460 },
+    position: { x: 450, y: 460 },
   },
 ]
-
-const orangeStyle = {  
-    style: { stroke: 'peru' },
-    labelStyle: { fill: 'peru' },
-    markerEnd: {
-      type: MarkerType.ArrowClosed,
-      color: 'peru'
-    },
-}
-
-const redStyle = {  
-    style: { stroke: 'firebrick' },
-    labelStyle: { fill: 'firebrick' },
-    markerEnd: {
-      type: MarkerType.ArrowClosed,
-      color: 'firebrick'
-    },
-}
-
 
 export const edges = [
   {
@@ -250,8 +238,8 @@ export const edges = [
     id: 'e13',
     source: 'node-frakcijos-seniunas',
     target: 'node-seimo-frakciju-seniunu-sueiga',
-    sourceHandle: 'top',
-    targetHandle: 'bottom',
+    sourceHandle: 'bottom',
+    targetHandle: 'top',
     label: 'Įeina',
     ...redStyle
   },
@@ -294,11 +282,11 @@ export const edges = [
   },
   {
     id: 'e20',
-    source: 'node-sao',
-    target: 'node-studentai',
-    sourceHandle: 'bottom',
-    targetHandle: 'top',
-    label: 'Atstovauja',
+    source: 'node-studentai',
+    target: 'node-sao',
+    sourceHandle: 'top',
+    targetHandle: 'bottom',
+    label: 'Renka',
     ...redStyle
   },
   {
@@ -314,7 +302,7 @@ export const edges = [
     id: 'e21a',
     source: 'node-seimo-frakcijos',
     target: 'node-seimo-frakciju-seniunu-sueiga',
-    sourceHandle: 'right',
+    sourceHandle: 'right-bottom',
     targetHandle: 'left',
     label: 'Skiria',
     ...redStyle
@@ -323,7 +311,7 @@ export const edges = [
     id: 'e21b',
     source: 'node-seimo-frakcijos',
     target: 'node-frakcijos-seniunas',
-    sourceHandle: 'right-bottom',
+    sourceHandle: 'right',
     targetHandle: 'left',
     label: 'Renka',
     ...redStyle
@@ -342,7 +330,7 @@ export const edges = [
     source: 'node-seimo-frakciju-seniunu-sueiga',
     target: 'node-laikinosios-darbo-grupes',
     sourceHandle: 'left-bottom',
-    targetHandle: 'right-top',
+    targetHandle: 'right',
     label: 'Formuoja klausimus',
     ...orangeStyle
   },

@@ -3,6 +3,9 @@
     <template #node-multiple-handle="props">
       <MultipleHandleNode :id="props.id" :data="props.data" />
     </template>
+    <template #node-parent="props">
+      <ParentNode :id="props.id" :data="props.data" :source-position="props.sourcePosition" :target-position="props.targetPosition" />
+    </template>
     <Controls class="h-8" position="bottom-right">
       <ControlButton v-if="showFullscreen" @click="$emit('showDialog')">
         <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 512 512">
@@ -38,6 +41,7 @@ import { Controls, ControlButton } from '@vue-flow/controls'
 const { onInit, onNodeDragStop, onConnect, onPaneReady, addEdges, setViewport, toObject } = useVueFlow()
 import { ref, computed } from 'vue'
 import MultipleHandleNode from '../graphs/MultipleHandleNode.vue';
+import ParentNode from '../graphs/ParentNode.vue';
 
 const props = defineProps<{
   animated?: boolean
@@ -49,7 +53,14 @@ const props = defineProps<{
 
 const emit = defineEmits(['showDialog', 'close'])
 
-const nodes = ref(props.nodes)
+const nodes = computed(() => {
+  return props.nodes.map(node => {
+    return {
+      ...node,
+      class: 'vue-flow__node-default'
+    }
+  })
+})
 
 const playAnimations = ref(props.animated)
 

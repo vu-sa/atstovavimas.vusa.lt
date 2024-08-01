@@ -19,14 +19,14 @@ const animated = ref(true)
 </script>
 
 <template>
-  <div class="h-[600px]">
-    <StructureGraph :nodes :edges @show-dialog="handleModal" show-fullscreen />
+  <div class="h-96 sm:h-[468px]">
+    <StructureGraph :min-zoom="0.2" :nodes :edges @show-dialog="handleModal" show-fullscreen />
   </div>
 
   <dialog class="w-full h-full" ref="dialogRef">
 
-    <div class="h-[calc(100%-3rem)]">
-      <StructureGraph :nodes :edges @close="dialogRef?.close()" :animated v-if="showGraph" show-close />
+    <div class="h-full">
+      <StructureGraph :min-zoom="0.2" :nodes :edges @close="dialogRef?.close()" :animated v-if="showGraph" show-close />
     </div>
   </dialog>
 </template>

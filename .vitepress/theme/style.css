@@ -216,3 +216,9 @@ abbr:hover::after {
 .basic-flow.dark .vue-flow__edge-text {
   fill: #fffffb
 }
+
+/*Overwrite padding for node div, so button would use it*/
+
+.vue-flow__node-default, .vue-flow__node-input, .vue-flow__node-output {
+  padding: 0;
+}

@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import StructureGraphWrapper from './components/StructureGraphWrapper.vue'
 import Seimas from './data/seimas'
+import VU from './data/vu'
 </script>
 
 # Schemos
@@ -27,9 +28,9 @@ import Seimas from './data/seimas'
 <!---->
 <!--<StructureGraph :svg-object="SMSM" />-->
 <!---->
-<!--## Vilniaus universitetas-->
-<!---->
-<!--<StructureGraph :svg-object="VU" />-->
+## Vilniaus universitetas
+
+<StructureGraphWrapper :nodes="VU.nodes" :edges="VU.edges" />
 <!---->
 <!--## Vilniaus universiteto kamieniniai akademiniai padaliniai-->
 <!---->

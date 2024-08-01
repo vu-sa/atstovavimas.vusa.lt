@@ -1,11 +1,11 @@
-<!--<script setup lang="ts">-->
-<!--import StructureGraph from './components/StructureGraph.vue'-->
-<!--import VU from './graphs/VU.svg?component'-->
-<!--</script>-->
+<script setup lang="ts">
+import StructureGraphWrapper from './components/StructureGraphWrapper.vue'
+import VU from './data/vu'
+</script>
 
 # Vilniaus universitetas
 
-<!--<StructureGraph :svg-object="VU" />-->
+<StructureGraphWrapper :nodes="VU.nodes" :edges="VU.edges" />
 
 ### Schemos aprašas
 
