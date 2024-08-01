@@ -25,19 +25,19 @@ const nodes = [
   {
     id: 'node-rektorius',
     type: 'multiple-handle',
-    data: { label: 'Rektorius', textClass: 'text-base font-bold', handles: ['left-bottom', 'bottom', 'bottom-right', 'right-bottom', 'right'], description: "Vienasmenis Universiteto valdymo organas ir Universiteto vadovas. Rektorius veikia Universiteto vardu ir jam atstovauja, atsako už Universiteto veiklos tikslų įgyvendinimą, kokybišką darbų organizavimą, Universiteto finansinę veiklą, tinkamą lėšų ir turto valdymą.", url: 'https://www.vu.lt/apiemus/struktura/rektorius' },
+    data: { label: 'Rektorius', textClass: 'text-[16px] font-bold', handles: ['left-bottom', 'bottom', 'bottom-right', 'right-bottom', 'right'], description: "Vienasmenis Universiteto valdymo organas ir Universiteto vadovas. Rektorius veikia Universiteto vardu ir jam atstovauja, atsako už Universiteto veiklos tikslų įgyvendinimą, kokybišką darbų organizavimą, Universiteto finansinę veiklą, tinkamą lėšų ir turto valdymą.", url: 'https://www.vu.lt/apiemus/struktura/rektorius' },
     position: { x: 0, y: 5 },
   },
   {
     id: 'node-taryba',
     type: 'multiple-handle',
-    data: { label: 'Taryba', textClass: 'text-base font-bold', handles: ['top-left', 'top', 'top-right', 'bottom'], description: "Universiteto valdymo organas atsakingas už strateginę Universiteto plėtrą, veiklos kokybę, finansus bei struktūros pokyčius.", url: '/vu.html#taryba' },
+    data: { label: 'Taryba', textClass: 'text-[16px] font-bold', handles: ['top-left', 'top', 'top-right', 'bottom'], description: "Universiteto valdymo organas atsakingas už strateginę Universiteto plėtrą, veiklos kokybę, finansus bei struktūros pokyčius.", url: '/vu.html#taryba' },
     position: { x: -210, y: 80 },
   },
   {
     id: 'node-senatas',
     type: 'multiple-handle',
-    data: { label: 'Senatas', textClass: 'text-base font-bold', handles: ['top-left', 'top', 'right-top', 'right', 'right-bottom'], description: "Užtikrina kultūros, mokslo, tyrimų ir dėstymo laisvę Universitete, Universiteto bendrųjų akademinių reikalų ir kitų tiesiogiai su viso Universiteto akademine veikla susijusių klausimų kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą.", url: '/vu.html#senatas' },
+    data: { label: 'Senatas', textClass: 'text-[16px] font-bold', handles: ['top-left', 'top', 'right-top', 'right', 'right-bottom'], description: "Užtikrina kultūros, mokslo, tyrimų ir dėstymo laisvę Universitete, Universiteto bendrųjų akademinių reikalų ir kitų tiesiogiai su viso Universiteto akademine veikla susijusių klausimų kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą.", url: '/vu.html#senatas' },
     position: { x: 195, y: 80 },
   },
   {

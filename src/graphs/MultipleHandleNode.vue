@@ -1,7 +1,7 @@
 <template>
   <button class="h-full w-full p-2" @mouseenter="isVisible = true" @mouseleave="handleClose" @blur="handleClose" @focus="isVisible = true">
     <!-- <component :is="data.label" /> -->
-    <span :class=[data.textClass] class="font-medium" v-if="typeof data.label === 'string'">{{ data.label }}</span>
+    <span :class=[data.textClass] class="font-medium text-[13.4px]" v-if="typeof data.label === 'string'">{{ data.label }}</span>
     <component v-else :is="data.label" />
 
     <template v-if="data?.handles">
