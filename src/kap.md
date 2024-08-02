@@ -1,11 +1,11 @@
-<!--<script setup lang="ts">-->
-<!--import StructureGraph from './components/StructureGraph.vue'-->
-<!--import KAP from './graphs/KAP.svg?component'-->
-<!--</script>-->
+<script setup lang="ts">
+import StructureGraphWrapper from './components/StructureGraphWrapper.vue'
+import KAP from './data/kap'
+</script>
 
-# KAP
+# Kamieniniai akademiniai padaliniai
 
-<!--<StructureGraph :svg-object="KAP" />-->
+<StructureGraphWrapper :nodes="KAP.nodes" :edges="KAP.edges" />
 
 ## KAP schemos aprašymas
 

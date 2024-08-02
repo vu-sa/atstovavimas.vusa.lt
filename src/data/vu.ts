@@ -302,7 +302,7 @@ const nodes = [
     id: 'node-tspmi',
     type: 'multiple-handle',
     data: { label: 'Tarptautinių santykių ir politikos mokslų institutas', handles: [], url: 'http://tspmi.vu.lt' },
-    position: { x: 335, y: 140 },
+    position: { x: 335, y: 137 },
     parentNode: 'parent-node-kap',
     style: { lineHeight: '1.25' },
     extent: 'parent',
@@ -340,6 +340,7 @@ const nodes = [
     data: { label: 'Bendrabučių centras', handles: [], url: 'http://www.bustas.vu.lt/' },
     position: { x: 15, y: 50 },
     parentNode: 'parent-node-knap',
+    style: { lineHeight: '1.25' },
     extent: 'parent',
   },
   {

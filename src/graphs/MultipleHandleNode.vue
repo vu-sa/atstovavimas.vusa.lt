@@ -1,7 +1,7 @@
 <template>
-  <button class="h-full w-full p-2" @mouseenter="isVisible = true" @mouseleave="handleClose" @blur="handleClose" @focus="isVisible = true">
+  <button class="h-full w-full p-2" @mouseenter="handleOpen" @mouseleave="handleClose" @blur="handleClose" @focus="handleOpen">
     <!-- <component :is="data.label" /> -->
-    <span :class=[data.textClass] class="font-medium text-[13.4px]" v-if="typeof data.label === 'string'">{{ data.label }}</span>
+    <span :class=[data.textClass] class="text-[13.4px]" v-if="typeof data.label === 'string'">{{ data.label }}</span>
     <component v-else :is="data.label" />
 
     <template v-if="data?.handles">
@@ -56,6 +56,12 @@ defineProps(['id', 'sourcePosition', 'targetPosition', 'data'])
 
 const isVisible = ref(false);
 const isOnToolbar = ref(false);
+
+const handleOpen = () => {
+  setTimeout(() => {
+    isVisible.value = true;
+  }, 100)
+};
 
 const handleClose = () => {
   setTimeout(() => {

@@ -83,7 +83,7 @@ export const nodes = [
     type: 'multiple-handle',
     data: { label: "LR Seimo pirmininkas", handles: ['left-top', 'right-top', 'right', 'left', 'top-left'], description: "Seimo pirmininkas yra Lietuvos Respublikos Seimo vadovas, renkamas Seimo daugumos balsais Seimo kadencijos laikotarpiui. Vykdydamas savo įgaliojimus, Seimo Pirmininkas leidžia potvarkius.", url: 'https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.5734/OLtfmteOUm' },
     style: { lineHeight: '1.25' },
-    position: { x: 250, y: 250 },
+    position: { x: 250, y: 260 },
   },
   {
     id: 'node-seimo-pirmininko-pavaduotojai',

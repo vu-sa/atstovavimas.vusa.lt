@@ -1,8 +1,8 @@
 <template>
-  <button class="h-full w-full relative p-2" @mouseenter="isVisible = true" @mouseleave="handleClose"
+  <button class="h-full w-full relative" @mouseenter="handleOpen" @mouseleave="handleClose"
     @blur="handleClose" @focus="isVisible = true">
     <!-- <component :is="data.label" /> -->
-    <span :class=[data.textClass] class="absolute top-1 text-xs left-0 text-center leading-4 w-full" v-if="typeof data.label === 'string'">{{ data.label }}</span>
+    <span :class=[data.textClass] class="absolute top-2 text-xs left-0 text-center leading-4 w-full" v-if="typeof data.label === 'string'">{{ data.label }}</span>
     <component v-else :is="data.label" />
   </button>
   <Handle type="source" :position="sourcePosition" />
@@ -25,14 +25,25 @@ import { ref } from 'vue'
 defineProps(['id', 'sourcePosition', 'targetPosition', 'data'])
 
 const isVisible = ref(false);
+const isOnButton = ref(false);
 const isOnToolbar = ref(false);
 
+const handleOpen = () => {
+  isOnButton.value = true;
+  setTimeout(() => {
+    if (isOnButton.value) {
+      isVisible.value = true;
+    }
+  }, 200)
+};
+
 const handleClose = () => {
+  isOnButton.value = false;
   setTimeout(() => {
     if (!isOnToolbar.value) {
       isVisible.value = false;
     }
-  }, 200);
+  }, 180);
 };
 
 const handleToolbarLeave = () => {

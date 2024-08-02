@@ -4,7 +4,7 @@ module.exports = {
     './src/**/*.{html,js,vue,ts,md}',
     './.vitepress/**/*.{html,js,vue,ts,md}',
   ],
-  corePlugins: {
-    preflight: false
-  }
+  //corePlugins: {
+  //  preflight: false
+  //}
 };

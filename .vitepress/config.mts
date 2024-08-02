@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Atstovavimo gidas",
+  cleanUrls: true,
   lang: "lt-LT",
-  // add font pr
   appearance: false,
   head: [
     [
@@ -24,18 +24,19 @@ export default defineConfig({
   srcDir: 'src',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    /* editLink: {
+    editLink: {
       pattern: 'https://github.com/vu-sa/atstovavimas.vusa.lt/edit/main/src/:path',
       text: 'Atnaujinti šį puslapį',
-    }, */
-    /* lastUpdated: {
+    },
+    lastUpdated: {
       formatOptions: {
         month: 'long',
         year: 'numeric',
         day: 'numeric',
+        forceLocale: true
+      },
+      text: 'Atnaujinta',
     },
-    text: 'Atnaujinta',
-    }, */
 
     search: {
       provider: 'local',
@@ -62,16 +63,16 @@ export default defineConfig({
       }
     },
     darkModeSwitchLabel: 'Tamsus režimas',
-        langMenuLabel: 'Kalba',
-        docFooter: {
-            prev: 'Ankstesnis',
-            next: 'Kitas',
-        },
-        returnToTopLabel: 'Grįžti į viršų',
-        sidebarMenuLabel: 'Turinys',
-        outline: {
-            label: 'Šiame puslapyje...',
-        },
+    langMenuLabel: 'Kalba',
+    docFooter: {
+      prev: 'Ankstesnis',
+      next: 'Kitas',
+    },
+    returnToTopLabel: 'Grįžti į viršų',
+    sidebarMenuLabel: 'Turinys',
+    outline: {
+      label: 'Šiame puslapyje...',
+    },
     nav: [
       { text: 'Institucijos', link: '/kap' },
       { text: 'Atstovavimas', link: '/studentams-atstovaujancios-organizacijos' },

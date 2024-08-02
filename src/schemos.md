@@ -1,7 +1,9 @@
 <script setup lang="ts">
 import StructureGraphWrapper from './components/StructureGraphWrapper.vue'
 import Seimas from './data/seimas'
+import KAP from './data/kap'
 import VU from './data/vu'
+import SMSM from './data/smsm'
 </script>
 
 # Schemos
@@ -24,14 +26,14 @@ import VU from './data/vu'
 <!---->
 <!--<StructureGraph :svg-object="VyriausybeProcesas" />-->
 <!---->
-<!--## Švietimo ir mokslo ministerija-->
-<!---->
-<!--<StructureGraph :svg-object="SMSM" />-->
-<!---->
+## Švietimo ir mokslo ministerija
+
+<StructureGraphWrapper :nodes="SMSM.nodes" :edges="SMSM.edges" />
+
 ## Vilniaus universitetas
 
 <StructureGraphWrapper :nodes="VU.nodes" :edges="VU.edges" />
-<!---->
-<!--## Vilniaus universiteto kamieniniai akademiniai padaliniai-->
-<!---->
-<!--<StructureGraph :svg-object="KAP" />-->
+
+## Vilniaus universiteto kamieniniai akademiniai padaliniai
+
+<StructureGraphWrapper :nodes="KAP.nodes" :edges="KAP.edges" />
