@@ -24,8 +24,9 @@ export const nodes = [
   {
     id: 'node-seimo-nariai',
     type: 'multiple-handle',
-    data: { label: "LR Seimo nariai", handles: ['top', 'bottom', 'left'], description: 'Seimo nariais tampa 141 demokratiškuose rinkimuose išrinkti Lietuvos piliečiai.', url: '/seimas.html#seimo-nariai' },
-    position: { x: -50, y: 420 },
+    data: { label: "LR Seimo nariai", handles: ['top', 'bottom', 'left'], description: 'Seimo nariais tampa 141 demokratiškuose rinkimuose išrinkti Lietuvos piliečiai.', url: '/seimas.html#seimo-nariai', textClass: 'font-bold text-[15px]' },
+    style: { lineHeight: '1.25' },
+    position: { x: -50, y: 410 },
   },
   {
     id: 'node-seimo-frakcijos',
@@ -81,7 +82,7 @@ export const nodes = [
   {
     id: 'node-seimo-pirmininkas',
     type: 'multiple-handle',
-    data: { label: "LR Seimo pirmininkas", handles: ['left-top', 'right-top', 'right', 'left', 'top-left'], description: "Seimo pirmininkas yra Lietuvos Respublikos Seimo vadovas, renkamas Seimo daugumos balsais Seimo kadencijos laikotarpiui. Vykdydamas savo įgaliojimus, Seimo Pirmininkas leidžia potvarkius.", url: 'https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.5734/OLtfmteOUm' },
+    data: { label: "LR Seimo pirmininkas",textClass: 'font-bold text-[16px]', handles: ['left-top', 'right-top', 'right', 'left', 'top-left'], description: "Seimo pirmininkas yra Lietuvos Respublikos Seimo vadovas, renkamas Seimo daugumos balsais Seimo kadencijos laikotarpiui. Vykdydamas savo įgaliojimus, Seimo Pirmininkas leidžia potvarkius.", url: 'https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.5734/OLtfmteOUm' },
     style: { lineHeight: '1.25' },
     position: { x: 250, y: 260 },
   },

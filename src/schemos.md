@@ -4,6 +4,7 @@ import Seimas from './data/seimas'
 import KAP from './data/kap'
 import VU from './data/vu'
 import SMSM from './data/smsm'
+import LRV from './data/lrv'
 </script>
 
 # Schemos
@@ -20,9 +21,9 @@ import SMSM from './data/smsm'
 <!---->
 <!--<StructureGraph :svg-object="SeimasProcesas" />-->
 
-<!--## LR Vyriausybė-->
+## LR Vyriausybė
 <!---->
-<!--<StructureGraph :svg-object="LRV" />-->
+<StructureGraphWrapper :nodes="LRV.nodes" :edges="LRV.edges" />
 <!---->
 <!--<StructureGraph :svg-object="VyriausybeProcesas" />-->
 <!---->

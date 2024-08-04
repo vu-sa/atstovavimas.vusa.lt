@@ -1,13 +1,13 @@
-<!--<script setup lang="ts">-->
-<!--import StructureGraph from './components/StructureGraph.vue'-->
-<!--import LRV from './graphs/LRV.svg?component'-->
-<!--</script>-->
+<script setup lang="ts">
+import StructureGraphWrapper from './components/StructureGraphWrapper.vue'
+import LRV from './data/lrv'
+</script>
 
 # LR Vyriausybė
 
 ## LR Vyriausybės ir susijusių struktūrų schema
 
-<!--<StructureGraph :svg-object="LRV" />-->
+<StructureGraphWrapper :nodes="LRV.nodes" :edges="LRV.edges" />
 
 ## LR Vyriausybės ir susijusių struktūrų schemos aprašas
 
@@ -38,12 +38,12 @@ Vyriausybės nutarimų iniciavimo ar pakeitimo, todėl schemoje prie
 atitinkamų ministerijų yra nurodyti su studentais susiję tų ministerijų
 kuruojami klausimai.
 
-<!-- Už aukštojo mokslo ir studijų politiką tiesiogiai atsakinga yra
+Už aukštojo mokslo ir studijų politiką tiesiogiai atsakinga yra
 Švietimo, mokslo ir sporto ministerija. Išsamiau apie šią ministeriją –
-[čia](#smsm)
+[čia](./smsm)
 
 Apie Vyriausybės nutarimų svarstymo procedūras išsamiau galite
-paskaityti [čia](lrv-nutarimai) -->
+paskaityti [čia](./lrv-nutarimai)
 
 ![](/img/main/image040.jpg){.img-fluid}
 
