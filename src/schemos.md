@@ -5,13 +5,14 @@ import KAP from './data/kap'
 import VU from './data/vu'
 import SMSM from './data/smsm'
 import LRV from './data/lrv'
+import AM from './data/am'
 </script>
 
 # Schemos
 
-<!--## Aukštasis mokslas-->
-<!---->
-<!--<StructureGraph :svg-object="AM" />-->
+## Aukštasis mokslas
+
+<StructureGraphWrapper :nodes="AM.nodes" :edges="AM.edges" />
 
 ## LR Seimas
 

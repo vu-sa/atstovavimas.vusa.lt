@@ -1,14 +1,13 @@
-<!--<script setup lang="ts">-->
-<!--import StructureGraph from './components/StructureGraph.vue'-->
-<!--import AMSvg from './graphs/AM.svg?component'-->
-<!--</script>-->
-
+<script setup lang="ts">
+import StructureGraphWrapper from './components/StructureGraphWrapper.vue'
+import AM from './data/am'
+</script>
 
 # Aukštasis mokslas
 
 ## Aukštojo mokslo politikos schema
 
-<!--<StructureGraph :svg-object="AMSvg" />-->
+<StructureGraphWrapper :nodes="AM.nodes" :edges="AM.edges" />
 
 ## Aukštojo mokslo politikos schemos aprašas
 
@@ -203,27 +202,6 @@ Prie Lietuvos mokslų akademijos taip pat veikia ir LMA Jaunoji akademija
 Su ŠMPF įstatais galite susipažinti [čia](https://smpf.lrv.lt/media/viesa/saugykla/2024/2/wi2b7YKf-R4.pdf).
 
 Išsamiau su ŠMPF galite susipažinti [čia](https://smpf.lrv.lt/lt/)
-
-## Aukštojo mokslo taryba
-
-Aukštojo mokslo taryba yra ekspertinė institucija aukštojo mokslo raidos
-klausimais.
-
-Aukštojo mokslo taryba svarsto aukštojo mokslo būklės apžvalgas ir
-teikia siūlymus, išvadas bei rekomendacijas Vyriausybei, ŠMSM ir kitoms
-aukštojo mokslo politiką įgyvendinančioms institucijoms dėl aukštojo
-mokslo strateginių tikslų ir pažangos uždavinių nustatymo Nacionaliniame
-pažangos plane.
-
-Inicijuoja tyrimus, analizes, konferencijas, pasitarimus, forumus,
-ekspertinius renginius aukštojo mokslo plėtros klausimais, atlieka kitas
-įstatymų ir kitų teisės aktų pavestas funkcijas.
-
-Aukštojo mokslo tarybos sudėtį tvirtina švietimo ir mokslo ministras,
-Aukštojo mokslo tarybos nuostatus tvirtina Vyriausybė.
-
-[Išsamiau apie Aukštojo mokslo
-tarybą](https://smsm.lrv.lt/lt/struktura-ir-kontaktine-informacija/komisijos-tarybos-ir-darbo-grupes/tarybos/aukstojo-mokslo-tary-ba/)
 
 ## Studijų kokybės ir vertinimo centras
 

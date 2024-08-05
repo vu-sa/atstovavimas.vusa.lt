@@ -1,11 +1,12 @@
 <template>
-  <button class="h-full w-full p-2" @mouseenter="handleOpen" @mouseleave="handleClose" @blur="handleClose" @focus="handleOpen">
+  <button class="h-full w-full" @mouseenter="handleOpen" @mouseleave="handleClose" @blur="handleClose" @focus="handleOpen">
     <!-- <component :is="data.label" /> -->
-    <span :class=[data.textClass] class="text-[13.4px]" v-if="typeof data.label === 'string'">{{ data.label }}</span>
+    <span :class=[data.textClass] class="text-[13.4px] p-2 block w-fit mx-auto" v-if="typeof data.label === 'string'">{{ data.label }}</span>
     <component v-else :is="data.label" />
 
     <template v-if="data?.handles">
 
+      <Handle v-if="data?.handles?.includes('right')" id="right" :position="Position.Right" />
       <Handle v-if="data?.handles?.includes('left-top')" id="left-top" :position="Position.Left" style="top: 25%" />
       <Handle v-if="data?.handles?.includes('left')" id="left" :position="Position.Left" />
       <Handle v-if="data?.handles?.includes('left-bottom')" id="left-bottom" :position="Position.Left"
@@ -14,7 +15,6 @@
       <Handle v-if="data?.handles?.includes('top')" id="top" :position="Position.Top" />
       <Handle v-if="data?.handles?.includes('top-right')" id="top-right" :position="Position.Top" style="left: 75%" />
       <Handle v-if="data?.handles?.includes('right-top')" id="right-top" :position="Position.Right" style="top: 25%" />
-      <Handle v-if="data?.handles?.includes('right')" id="right" :position="Position.Right" />
       <Handle v-if="data?.handles?.includes('right-bottom')" id="right-bottom" :position="Position.Right"
         style="top: 75%" />
       <Handle v-if="data?.handles?.includes('bottom-left')" id="bottom-left" :position="Position.Bottom"
