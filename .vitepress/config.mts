@@ -6,6 +6,9 @@ export default defineConfig({
   cleanUrls: true,
   lang: "lt-LT",
   appearance: false,
+  sitemap: {
+    hostname: 'https://atstovavimas.vusa.lt'
+  },
   head: [
     [
       'link',
