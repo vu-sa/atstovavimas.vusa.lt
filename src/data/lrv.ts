@@ -15,7 +15,7 @@ const nodes = [
     type: 'multiple-handle',
     data: { label: h('div', [h('img', { src: '/img/Lietuvos_Respublikos_Vyriausybes_logotipas.png' })]), description: "Vyriausybė – tai Lietuvos Respublikos įstatymų vykdomoji valdžia. Vyriausybė sudaro 14 ministerijų ministrai ir ministras pirmininkas, Seimo paskirti ketverių metų kadencijai.", url: "/vyriausybe#lrv", handles: ['top', 'left-top', 'left', 'left-bottom', 'bottom', 'right-bottom', 'right', 'right-top'] },
     position: { x: -10, y: 50 },
-    style: { width: '200px', padding: '10px' }
+    style: { width: '200px', padding: '14px' }
   },
   {
     id: 'node-komisijos-ir-komitetai',
@@ -84,7 +84,7 @@ const nodes = [
   {
     id: 'node-apmin',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: '/img/Vyriausybe/ApMin.png', class: 'h-16 mx-auto object-contain'  })]), handles: [], url: '/vyriausybe#aplinkos-ministerija' },
+    data: { label: h('div', [h('img', { src: '/img/Vyriausybe/ApMin.png', class: 'h-16 pt-2 mx-auto object-contain'  })]), handles: [], url: '/vyriausybe#aplinkos-ministerija' },
     style: { lineHeight: '1.25', },
     position: { x: 15, y: 50 },
     parentNode: 'parent-node-ministerijos',
@@ -111,7 +111,7 @@ const nodes = [
   {
     id: 'node-finmin',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: '/img/Vyriausybe/FinMin.jpg', class: 'h-16 mx-auto object-contain'  })]), handles: [] },
+    data: { label: h('div', [h('img', { src: '/img/Vyriausybe/FinMin.jpg', class: 'h-16 pt-2 mx-auto object-contain'  })]), handles: [] },
     style: { lineHeight: '1.25', },
     position: { x: 495, y: 50 },
     parentNode: 'parent-node-ministerijos',
@@ -138,7 +138,7 @@ const nodes = [
   {
     id: 'node-samin',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: '/img/Vyriausybe/SaMin.png', class: 'h-16 mx-auto object-contain'  })]), handles: [], url: '/vyriausybe#sveikatos-apsaugos-ministerija' },
+    data: { label: h('div', [h('img', { src: '/img/Vyriausybe/SaMin.png', class: 'h-16 pt-2 mx-auto object-contain'  })]), handles: [], url: '/vyriausybe#sveikatos-apsaugos-ministerija' },
     style: { lineHeight: '1.25', },
     position: { x: 335, y: 140 },
     parentNode: 'parent-node-ministerijos',
@@ -147,7 +147,7 @@ const nodes = [
   {
     id: 'node-sadmin',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: '/img/Vyriausybe/SadMin.png', class: 'h-16 mx-auto object-contain'  })]), handles: [], url: '/vyriausybe#socialines-apsaugos-ir-darbo-ministerija' },
+    data: { label: h('div', [h('img', { src: '/img/Vyriausybe/SadMin.png', class: 'h-16 pt-2 mx-auto object-contain'  })]), handles: [], url: '/vyriausybe#socialines-apsaugos-ir-darbo-ministerija' },
     style: { lineHeight: '1.25', },
     position: { x: 495, y: 140 },
     parentNode: 'parent-node-ministerijos',
@@ -174,7 +174,7 @@ const nodes = [
   {
     id: 'node-urmin',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: '/img/Vyriausybe/UrMin.jpg', class: 'h-16 mx-auto object-contain'  })]), handles: [], url: '/vyriausybe#uzsienio-reikalu-ministerija' },
+    data: { label: h('div', [h('img', { src: '/img/Vyriausybe/UrMin.jpg', class: 'h-16 pt-2 mx-auto object-contain'  })]), handles: [], url: '/vyriausybe#uzsienio-reikalu-ministerija' },
     style: { lineHeight: '1.25', },
     position: { x: 335, y: 230 },
     parentNode: 'parent-node-ministerijos',
@@ -201,7 +201,7 @@ const nodes = [
   {
     id: 'node-zumin',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: '/img/Vyriausybe/ŽūMin.png', class: 'h-16 mx-auto object-contain'  })]), handles: [], url: '/vyriausybe#zemes-ukio-ministerija' },
+    data: { label: h('div', [h('img', { src: '/img/Vyriausybe/ŽūMin.png', class: 'h-16 pt-2 mx-auto object-contain'  })]), handles: [], url: '/vyriausybe#zemes-ukio-ministerija' },
     style: { lineHeight: '1.25', },
     position: { x: 335, y: 320 },
     parentNode: 'parent-node-ministerijos',

@@ -50,7 +50,7 @@ const nodes = [
   {
     id: 'node-esfa',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: 'img/SMSM/SMSM1.png', class: 'h-16 object-contain' })]), handles: [], description: 'Europos socialinio fondo agentūra (ESFA) – Agentūra siekia pagerinti galimybes įsidarbinti padedant jauniems žmonėms baigus mokyklą integruotis į darbo rinką arba apmokant mažiau kvalifikuotus darbo ieškančius asmenis.', url: '/smsm#esfa' },
+    data: { label: h('div', [h('img', { src: 'img/SMSM/SMSM1.png', class: 'h-16 object-contain p-2' })]), handles: [], description: 'Europos socialinio fondo agentūra (ESFA) – Agentūra siekia pagerinti galimybes įsidarbinti padedant jauniems žmonėms baigus mokyklą integruotis į darbo rinką arba apmokant mažiau kvalifikuotus darbo ieškančius asmenis.', url: '/smsm#esfa' },
     style: { lineHeight: '1.25', },
     position: { x: 15, y: 50 },
     parentNode: 'parent-node-pavaldzios-institucijos',
@@ -59,7 +59,7 @@ const nodes = [
   {
     id: 'node-svietimo-centras',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: 'img/SMSM/LMNSC.png', class: 'h-16 mx-auto object-contain' })]), handles: [], description: 'Lietuvos mokinių neformaliojo švietimo centras – inicijuoja ir dalyvauja rengiant teisės aktus, teikia siūlymus, kuria, diegia ir skleidžia inovacijas neformaliojo vaikų švietimo politikos klausimais, rengia mokytojų kvalifikacijos tobulinimo programas ir organizuoja jų vykdymą, teikia metodinę pagalbą.' },
+    data: { label: h('div', [h('img', { src: 'img/SMSM/LMNSC.png', class: 'h-16 mx-auto p-2 object-contain' })]), handles: [], description: 'Lietuvos mokinių neformaliojo švietimo centras – inicijuoja ir dalyvauja rengiant teisės aktus, teikia siūlymus, kuria, diegia ir skleidžia inovacijas neformaliojo vaikų švietimo politikos klausimais, rengia mokytojų kvalifikacijos tobulinimo programas ir organizuoja jų vykdymą, teikia metodinę pagalbą.' },
     style: { lineHeight: '1.25', },
     position: { x: 15, y: 140 },
     parentNode: 'parent-node-pavaldzios-institucijos',
@@ -68,7 +68,7 @@ const nodes = [
   {
     id: 'node-nsa',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: 'img/SMSM/SMSM4.png', class: 'h-16 mx-auto object-contain' })]), handles: [], description: 'Nacionalinė švietimo agentūra dalyvauja įgyvendinant valstybinę ikimokyklinio, priešmokyklinio, bendrojo ugdymo politiką, skatina švietimo įstaigas (išskyrus aukštąsias mokyklas), kitus švietimo teikėjus užtikrinti švietimo veiklos kokybę, teikiant informacinę, konsultacinę, kvalifikacijos tobulinimo, ugdymo(si) aplinkos kūrimo pagalbą.' },
+    data: { label: h('div', [h('img', { src: 'img/SMSM/SMSM4.png', class: 'h-16 mx-auto p-2 object-contain' })]), handles: [], description: 'Nacionalinė švietimo agentūra dalyvauja įgyvendinant valstybinę ikimokyklinio, priešmokyklinio, bendrojo ugdymo politiką, skatina švietimo įstaigas (išskyrus aukštąsias mokyklas), kitus švietimo teikėjus užtikrinti švietimo veiklos kokybę, teikiant informacinę, konsultacinę, kvalifikacijos tobulinimo, ugdymo(si) aplinkos kūrimo pagalbą.' },
     style: { lineHeight: '1.25', },
     position: { x: 660, y: 50 },
     parentNode: 'parent-node-pavaldzios-institucijos',
@@ -77,7 +77,7 @@ const nodes = [
   {
     id: 'node-kpmpc',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: 'img/SMSM/SMSM2.png', class: 'h-16 mx-auto object-contain' })]), handles: [], description: 'Kvalifikacijų ir profesinio mokymo plėtros centras – švietimo pagalbos įstaiga, teikianti informacinę, ekspertinę, konsultacinę ir kvalifikacijos tobulinimo pagalbą, įgyvendinanti valstybinę profesinio mokymo ir mokymosi visą gyvenimą sistemų plėtros politiką.' },
+    data: { label: h('div', [h('img', { src: 'img/SMSM/SMSM2.png', class: 'h-16 mx-auto p-2 object-contain' })]), handles: [], description: 'Kvalifikacijų ir profesinio mokymo plėtros centras – švietimo pagalbos įstaiga, teikianti informacinę, ekspertinę, konsultacinę ir kvalifikacijos tobulinimo pagalbą, įgyvendinanti valstybinę profesinio mokymo ir mokymosi visą gyvenimą sistemų plėtros politiką.' },
     style: { lineHeight: '1.25', },
     position: { x: 180, y: 50 },
     parentNode: 'parent-node-pavaldzios-institucijos',
@@ -86,7 +86,7 @@ const nodes = [
   {
     id: 'node-melc',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: 'img/SMSM/logo-melc.svg', class: 'h-16 mx-auto object-contain' })]), handles: [], description: 'Mokslo ir enciklopedijų leidybos centras – valstybinė mokslo leidybos įstaiga.', url: 'https://www.melc.lt/lt/' },
+    data: { label: h('div', [h('img', { src: 'img/SMSM/logo-melc.svg', class: 'h-16 mx-auto p-2 object-contain' })]), handles: [], description: 'Mokslo ir enciklopedijų leidybos centras – valstybinė mokslo leidybos įstaiga.', url: 'https://www.melc.lt/lt/' },
     style: { lineHeight: '1.25', },
     position: { x: 180, y: 140 },
     parentNode: 'parent-node-pavaldzios-institucijos',
@@ -113,7 +113,7 @@ const nodes = [
   {
     id: 'node-nvi',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: 'img/SMSM/SMSM5.png', class: 'h-16 mx-auto object-contain' })]), handles: [], description: 'Nacionalinis vėžio institutas – instituto misija yra vykdyti valstybei, visuomenei, tarptautiniam bendradarbiavimui, ūkio subjektams svarbius ilgalaikius mokslinius tyrimus ir eksperimentinę plėtrą, siekiant pagerinti onkologinių pacientų diagnostikos, gydymo ir profilaktikos efektyvumą ir sumažinti mirtingumą nuo vėžio, rengti onkologijos ir gretutinių krypčių mokslininkus ir aukštos kvalifikacijos specialistus.', url: 'https://www.nvi.lt/' },
+    data: { label: h('div', [h('img', { src: 'img/SMSM/SMSM5.png', class: 'h-16 mx-auto p-2 object-contain' })]), handles: [], description: 'Nacionalinis vėžio institutas – instituto misija yra vykdyti valstybei, visuomenei, tarptautiniam bendradarbiavimui, ūkio subjektams svarbius ilgalaikius mokslinius tyrimus ir eksperimentinę plėtrą, siekiant pagerinti onkologinių pacientų diagnostikos, gydymo ir profilaktikos efektyvumą ir sumažinti mirtingumą nuo vėžio, rengti onkologijos ir gretutinių krypčių mokslininkus ir aukštos kvalifikacijos specialistus.', url: 'https://www.nvi.lt/' },
     style: { lineHeight: '1.25', },
     position: { x: 340, y: 140 },
     parentNode: 'parent-node-pavaldzios-institucijos',
@@ -122,7 +122,7 @@ const nodes = [
   {
     id: 'node-smpf',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: 'img/SMSM/smpf.png', class: 'h-16 mx-auto object-contain' })]), handles: [], description: 'Švietimo mainų ir paramos fondas (ŠMPF) – Lietuvos nacionalinė agentūra, kuriai pavesta administruoti programą „Erasmus+“ ir kitas Europos Komisijos (EK) ir Lietuvos Respublikos Vyriausybės finansuojamas iniciatyvas švietimo ir mokymo srityje.', url: 'https://www.smpf.lt/wp-content/uploads/2020/10/AR_2020-05-08.pdf' },
+    data: { label: h('div', [h('img', { src: 'img/SMSM/smpf.png', class: 'h-16 mx-auto p-1 object-contain' })]), handles: [], description: 'Švietimo mainų ir paramos fondas (ŠMPF) – Lietuvos nacionalinė agentūra, kuriai pavesta administruoti programą „Erasmus+“ ir kitas Europos Komisijos (EK) ir Lietuvos Respublikos Vyriausybės finansuojamas iniciatyvas švietimo ir mokymo srityje.', url: 'https://www.smpf.lt/wp-content/uploads/2020/10/AR_2020-05-08.pdf' },
     style: { lineHeight: '1.25', },
     position: { x: 500, y: 50 },
     parentNode: 'parent-node-pavaldzios-institucijos',
@@ -131,7 +131,7 @@ const nodes = [
   {
     id: 'node-vsf',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: 'img/SMSM/VSF.jpg', class: 'h-16 mx-auto object-contain' })]), handles: [], description: 'Valstybinis studijų fondas (VSF) – biudžetinė įstaiga, administruojanti valstybės paskolas, valstybės remiamas paskolas studentams ir mokiniams, kurie mokosi pagal formaliojo profesinio mokymo programas, kitą finansinę paramą studentams ir profesiniam mokymui vykdyti, lėšas studentų pilietiniams, moksliniams, verslumo, kūrybiniams ir sportiniams projektams vykdyti.' },
+    data: { label: h('div', [h('img', { src: 'img/SMSM/VSF.jpg', class: 'h-16 mx-auto p-2 object-contain' })]), handles: [], description: 'Valstybinis studijų fondas (VSF) – biudžetinė įstaiga, administruojanti valstybės paskolas, valstybės remiamas paskolas studentams ir mokiniams, kurie mokosi pagal formaliojo profesinio mokymo programas, kitą finansinę paramą studentams ir profesiniam mokymui vykdyti, lėšas studentų pilietiniams, moksliniams, verslumo, kūrybiniams ir sportiniams projektams vykdyti.' },
     style: { lineHeight: '1.25', },
     position: { x: 500, y: 140 },
     parentNode: 'parent-node-pavaldzios-institucijos',

@@ -6,13 +6,13 @@ export const nodes = [
   {
     id: 'node-seimas',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: '/img/Seimas.png' })]), handles: ['left-bottom', 'left', 'left-bottom', 'top', 'left-top', 'right', 'bottom', 'right-bottom', 'right-top'], description: "Lietuvos Respublikos Seimas yra įstatymų leidžiamoji valdžia.", url: 'https://www.lrs.lt/sip/portal.show?p_r=35354' },
+    data: { label: h('div', [h('img', { src: '/img/Seimas.png', class: 'p-2' })]), handles: ['left-bottom', 'left', 'left-bottom', 'top', 'left-top', 'right', 'bottom', 'right-bottom', 'right-top'], description: "Lietuvos Respublikos Seimas yra įstatymų leidžiamoji valdžia.", url: 'https://www.lrs.lt/sip/portal.show?p_r=35354' },
     position: { x: -50, y: 150 },
   },
   {
     id: 'node-lrv',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: '/img/Lietuvos_Respublikos_Vyriausybes_logotipas.png' })]), handles: ['right-bottom', 'right-top'], description: "Vyriausybė – tai Lietuvos Respublikos įstatymų vykdomoji valdžia. Vyriausybė sudaro 14 ministerijų ministrai ir ministras pirmininkas, Seimo paskirti ketverių metų kadencijai.", url: "https://lrv.lt/lt/aktuali-informacija/apie-vyriausybe/vyriausybe" },
+    data: { label: h('div', [h('img', { class: 'p-2', src: '/img/Lietuvos_Respublikos_Vyriausybes_logotipas.png' })]), handles: ['right-bottom', 'right-top'], description: "Vyriausybė – tai Lietuvos Respublikos įstatymų vykdomoji valdžia. Vyriausybė sudaro 14 ministerijų ministrai ir ministras pirmininkas, Seimo paskirti ketverių metų kadencijai.", url: "https://lrv.lt/lt/aktuali-informacija/apie-vyriausybe/vyriausybe" },
     position: { x: -350, y: 160 },
   },
   {
