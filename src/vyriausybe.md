@@ -43,7 +43,7 @@ Už aukštojo mokslo ir studijų politiką tiesiogiai atsakinga yra
 [čia](./smsm)
 
 Apie Vyriausybės nutarimų svarstymo procedūras išsamiau galite
-paskaityti [čia](./lrv-nutarimai)
+paskaityti [čia](./vyriausybe)
 
 ![](/img/main/image040.jpg){.img-fluid}
 
