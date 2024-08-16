@@ -11,15 +11,15 @@ import KAP from './data/kap'
 
 Čia pavaizduota VU kamieninio akademinio padalinio (fakulteto,
 instituto, centro, akademijos, mokyklos) (toliau – VU KAP), kuris atlieka pagrindinę
-visų rūšių pagrindinę universiteto veiklą, schema. VU KAP vadovaujasi statutu,
+visų rūšių pagrindinę universiteto veiklą, schema. VU KAP vadovaujasi VU statutu,
 Senato patvirtintais pavyzdiniais VU KAP nuostatais ir kitais
 Universiteto veiklos dokumentais. Kiekvieno VU KAP internetiniame
 puslapyje rasite jo veiklos dokumentus. Taip pat šie dokumentai
-patalpinti prie [VU Senato priimamų sprendimų](https://www.vu.lt/apiemus/struktura/senatas/senato-sprendimai)
+patalpinti prie [VU Senato priimamų sprendimų](https://www.vu.lt/apiemus/struktura/senatas/senato-sprendimai).
 
-<!-- Naudodamiesi šia schema sužinosite, kokie yra VU KAP dariniai ir kaip
+Naudodamiesi šia schema sužinosite, kokie yra VU KAP dariniai ir kaip
 jie susiję tarpusavyje. Plačiau apie kiekvieną iš jų skaitykite
-paspaudus nuorodas. -->
+paspaudus nuorodas.
 
 Kodėl svarbu suvokti VU KAP struktūrą? Todėl, kad mes patys įsitraukiame
 į VU KAP struktūras kaip studentų atstovai, arba renkame studentų
@@ -39,7 +39,7 @@ organizaciniai Universiteto dariniai, kuriuose vykdoma visų rūšių
 pagrindinė Universiteto veikla. KAP veiklos tikslai – rengti aukštos
 kvalifikacijos specialistus ir mokslininkus, plėtoti aukšto tarptautinio
 lygio mokslinius tyrimus, užtikrinti mokslo ir studijų vienovę,
-užtikrinti mokslinių tyrimų ir studijų kokybę ir ugdyti aktyvius ir atsakingus piliečius ir visuomenės lyderius.
+užtikrinti mokslinių tyrimų ir studijų kokybę ir ugdyti aktyvius bei atsakingus piliečius ir visuomenės lyderius.
 
 ### VU KAP Taryba
 
@@ -113,7 +113,8 @@ Pagrindinės SPK funkcijos:
     studijų planus;
 5.  Tvirtina neformaliuoju ir savišvietos būdu įgytas kompetencijas.
 
-SPK sudaro studijų programą įgyvendinantys dėstytojai, socialiniai partneriai, bent vienas studentų atstovas (jungtinio studijų programų komiteto atveju – bent 2).
+SPK sudaro studijų programą įgyvendinantys dėstytojai, socialiniai partneriai, 
+bent vienas studentų atstovas (jungtinio studijų programų komiteto atveju – bent 2).
 
 Į studentų atstovą savo SPK gali kreiptis, jei turi pasiūlymų, kaip būtų
 galima pagerinti studijų programos vykdymo kokybę bei kitais studijų

@@ -232,7 +232,7 @@ const nodes = [
   {
     id: 'node-lmt-pirmininkas-pavaduotojai',
     type: 'multiple-handle',
-    data: { label: 'LMT pirmininkas / pavaduotojai', handles: ['top'], description: 'Valdybą sudaro Lietuvos mokslo tarybos pirmininkas ir jo pavaduotojai.', url: 'aukstasis-mokslas#lmt-pirmininkas-pavaduotojai' },
+    data: { label: 'LMT valdyba', handles: ['top'], description: 'Valdybą sudaro Lietuvos mokslo tarybos pirmininkas ir jo pavaduotojai.', url: 'aukstasis-mokslas#lmt-valdyba' },
     position: { x: 25, y: 115 },
     style: { lineHeight: '1.25' },
     parentNode: 'parent-node-lmt'

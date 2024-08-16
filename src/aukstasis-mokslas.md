@@ -17,7 +17,8 @@ lauke veikiančios studentiškos organizacijos ir jų deleguoti atstovai
 turi matyti šios sistemos dalyvius, jog galėtų tikslingai nukreipti savo
 kreipimąsi. Ši aukštojo mokslo sistema yra sudaryta remiantis [LR Mokslo
 ir studijų
-įstatymu](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.343430)
+įstatymu](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.343430) ir kitais
+studijas bei mokslą reglamentuojančiais teisės aktais.
 
 Jame nurodyta, kad valstybės mokslo ir studijų politiką **formuoja**
 Seimas, o ją **įgyvendina** Vyriausybė, Švietimo ir mokslo ministerija

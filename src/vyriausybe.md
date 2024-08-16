@@ -291,7 +291,7 @@ Išsamiau galite susipažinti čia: <https://sumin.lrv.lt>
 Ministerija rūpinasi gyventojų sveikatos stiprinimu ir saugojimu, jog
 būtų užtikrinta kokybiška, saugi ir visiems vienodai prieinama sveikatos
 priežiūra bei ligų prevencija. Atsako už rezidentūros vietų valstybinio
-užsakymo suformavimą, rūpinasi pschikos sveikatos klausimais, sveikatos
+užsakymo suformavimą, rūpinasi psichikos sveikatos klausimais, sveikatos
 draudimo klausimu, e-sveikatos priežiūra, rūpinasi medicinos įstaigomis,
 rūpinasi skatinimo priemonėmis studentams, studijuojantiems sveikatos
 mokslų krypties programose.
@@ -306,7 +306,7 @@ skirstymo studijų kokybės, socialinės dimensijos, fizinės sveikatos ir
 profesionalaus sporto klausimus. Rūpinasi skatinimo priemonėmis
 studentams, studijuojantiems susijusiose švietimo mokslų kryptyse.
 
-<!-- **Išsamiau į ŠMSM struktūrą nuoroda**. -->
+**Išsamiau į ŠMSM struktūrą nuoroda**: <https://smsm.lrv.lt/lt/struktura-ir-kontaktine-informacija/ministerijos-struktura/>
 
 Išsamiau galite susipažinti čia: <https://smsm.lrv.lt/lt/>
 
@@ -342,7 +342,7 @@ Išsamiau galite susipažinti čia: <https://zum.lrv.lt>
 
 ## Pavaldžios įstaigos
 
-Vyriausybė turi 17--a pavaldžių institucijų. Išsamiau galite susipažinti
+Vyriausybė turi 18--a pavaldžių institucijų. Išsamiau galite susipažinti
 [čia](https://lrv.lt/lt/ministerijos-ir-istaigos/)
 
 ![](/img/main/image046.jpg){.img-fluid}

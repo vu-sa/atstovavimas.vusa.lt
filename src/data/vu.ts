@@ -58,7 +58,7 @@ const nodes = [
   {
     id: 'node-didysis-rektoratas',
     type: 'multiple-handle',
-    data: { label: 'Didysis rektoratas', handles: ['top-right', 'left', 'bottom', 'right'], description: "Rektoriaus patariamasis darinys, sudarytas iš visų Universiteto kamieninių akademinių ir neakademinių padalinių vadovų bei Studentų atstovybės prezidento.", url: '/vu.html#didysis-rektoratas' },
+    data: { label: 'Rektoratas', handles: ['top-right', 'left', 'bottom', 'right'], description: "Rektoriaus patariamasis darinys, sudarytas iš visų Universiteto kamieninių akademinių ir neakademinių padalinių vadovų bei Studentų atstovybės prezidento.", url: '/vu.html#rektoratas' },
     position: { x: -370, y: 170 },
   },
   {
