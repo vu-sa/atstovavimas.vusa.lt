@@ -57,7 +57,7 @@ politikos formavimu ir įgyvendinimu ir teikia pasiūlymus Seimui,
 Vyriausybei ir kitoms institucijoms dėl teisės aktų, reglamentuojančių
 jaunimo ir sporto reikalus. Komisija palaiko ryšius su kitų šalių
 parlamentinėmis jaunimo ir sporto reikalų institucijomis, Lietuvos ir
-užsienio jaunimo ir sporto visuomeninėmis organizacijomis
+užsienio jaunimo ir sporto visuomeninėmis organizacijomis.
 
 Studentams (-ėms) aktualūs klausimai gali būti sprendžiami ir kituose
 komitetuose, todėl naudinga sekti jų darbotvarkes, kurias galite rasti
