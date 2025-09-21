@@ -119,9 +119,9 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'facebook', link: 'https://facebook.com' },
-      { icon: 'instagram', link: 'https://instagram.com' },
-      { icon: 'youtube', link: 'https://youtube.com' },
+      { icon: 'facebook', link: 'https://www.facebook.com/vieningai.vu.sa' },
+      { icon: 'instagram', link: 'https://www.instagram.com/vu.studentu.atstovybe' },
+      { icon: 'youtube', link: 'https://www.youtube.com/@VilnUniSA' },
     ]
   }
 })
