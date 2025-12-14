@@ -4,7 +4,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Atstovavimo gidas",
   cleanUrls: true,
-  lang: "lt-LT",
   appearance: false,
   sitemap: {
     hostname: 'https://atstovavimas.vusa.lt'
@@ -25,22 +24,149 @@ export default defineConfig({
   ],
   description: "Vieningai Už Studentų Ateitį",
   srcDir: 'src',
+  locales: {
+    root: {
+      label: 'Lietuvių',
+      lang: 'lt-LT',
+      themeConfig: {
+        editLink: {
+          pattern: 'https://github.com/vu-sa/atstovavimas.vusa.lt/edit/main/src/:path',
+          text: 'Atnaujinti šį puslapį',
+        },
+        lastUpdated: {
+          formatOptions: {
+            month: 'long',
+            year: 'numeric',
+            day: 'numeric',
+            forceLocale: true
+          },
+          text: 'Atnaujinta',
+        },
+        darkModeSwitchLabel: 'Tamsus režimas',
+        langMenuLabel: 'Kalba',
+        docFooter: {
+          prev: 'Ankstesnis',
+          next: 'Kitas',
+        },
+        returnToTopLabel: 'Grįžti į viršų',
+        sidebarMenuLabel: 'Turinys',
+        outline: {
+          label: 'Šiame puslapyje...',
+        },
+        nav: [
+          { text: 'Institucijos', link: '/kap' },
+          { text: 'Atstovavimas', link: '/studentams-atstovaujancios-organizacijos' },
+          { text: 'Schemos', link: '/schemos' }
+        ],
+        sidebar: [
+          {
+            text: 'Įvadas',
+            link: '/ivadas'
+          },
+          {
+            text: 'Schemos',
+            link: '/schemos'
+          },
+          {
+            text: 'Institucijos',
+            items: [
+              { text: 'Kamieninis akademinis padalinys', link: '/kap' },
+              { text: 'Vilniaus universitetas', link: '/vu' },
+              { text: 'Miestas', link: '/miestas' },
+              { text: 'Aukštasis mokslas', link: '/aukstasis-mokslas' },
+              { text: 'Seimas', link: '/seimas' },
+              { text: 'Vyriausybė', link: '/vyriausybe' },
+              { text: 'ŠMSM', link: '/smsm' },
+              { text: 'Įstatymų leidyba', link: '/istatymu-leidyba' },
+            ]
+          },
+          {
+            text: 'Atstovavimas',
+            items: [
+              { text: 'Studentams atstovaujančios organizacijos', link: '/studentams-atstovaujancios-organizacijos' },
+              { text: 'Studentų atstovavimas', link: '/studentu-atstovavimas' },
+            ]
+          },
+          {
+            text: "Baigiamasis žodis",
+            link: "/baigiamasis-zodis"
+          }
+        ],
+      }
+    },
+    en: {
+      label: 'English',
+      lang: 'en-US',
+      link: '/en/',
+      themeConfig: {
+        editLink: {
+          pattern: 'https://github.com/vu-sa/atstovavimas.vusa.lt/edit/main/src/:path',
+          text: 'Edit this page',
+        },
+        lastUpdated: {
+          formatOptions: {
+            month: 'long',
+            year: 'numeric',
+            day: 'numeric',
+            forceLocale: true
+          },
+          text: 'Last updated',
+        },
+        darkModeSwitchLabel: 'Dark mode',
+        langMenuLabel: 'Language',
+        docFooter: {
+          prev: 'Previous',
+          next: 'Next',
+        },
+        returnToTopLabel: 'Return to top',
+        sidebarMenuLabel: 'Contents',
+        outline: {
+          label: 'On this page...',
+        },
+        nav: [
+          { text: 'Institutions', link: '/en/kap' },
+          { text: 'Representation', link: '/en/studentams-atstovaujancios-organizacijos' },
+          { text: 'Diagrams', link: '/en/schemos' }
+        ],
+        sidebar: [
+          {
+            text: 'Introduction',
+            link: '/en/ivadas'
+          },
+          {
+            text: 'Diagrams',
+            link: '/en/schemos'
+          },
+          {
+            text: 'Institutions',
+            items: [
+              { text: 'Core Academic Unit', link: '/en/kap' },
+              { text: 'Vilnius University', link: '/en/vu' },
+              { text: 'City', link: '/en/miestas' },
+              { text: 'Higher Education', link: '/en/aukstasis-mokslas' },
+              { text: 'Parliament', link: '/en/seimas' },
+              { text: 'Government', link: '/en/vyriausybe' },
+              { text: 'Ministry of Education', link: '/en/smsm' },
+              { text: 'Legislative Process', link: '/en/istatymu-leidyba' },
+            ]
+          },
+          {
+            text: 'Representation',
+            items: [
+              { text: 'Student Representative Organizations', link: '/en/studentams-atstovaujancios-organizacijos' },
+              { text: 'Student Representation', link: '/en/studentu-atstovavimas' },
+            ]
+          },
+          {
+            text: "Concluding Remarks",
+            link: "/en/baigiamasis-zodis"
+          }
+        ],
+      }
+    }
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    editLink: {
-      pattern: 'https://github.com/vu-sa/atstovavimas.vusa.lt/edit/main/src/:path',
-      text: 'Atnaujinti šį puslapį',
-    },
-    lastUpdated: {
-      formatOptions: {
-        month: 'long',
-        year: 'numeric',
-        day: 'numeric',
-        forceLocale: true
-      },
-      text: 'Atnaujinta',
-    },
-
     search: {
       provider: 'local',
       options: {
@@ -61,63 +187,27 @@ export default defineConfig({
                 }
               }
             }
+          },
+          en: {
+            translations: {
+              button: {
+                buttonText: 'Search',
+                buttonAriaLabel: 'Search',
+              },
+              modal: {
+                noResultsText: 'No results found',
+                resetButtonTitle: 'Clear',
+                footer: {
+                  selectText: 'Select',
+                  navigateText: 'Navigate',
+                  closeText: 'Close',
+                }
+              }
+            }
           }
         }
       }
     },
-    darkModeSwitchLabel: 'Tamsus režimas',
-    langMenuLabel: 'Kalba',
-    docFooter: {
-      prev: 'Ankstesnis',
-      next: 'Kitas',
-    },
-    returnToTopLabel: 'Grįžti į viršų',
-    sidebarMenuLabel: 'Turinys',
-    outline: {
-      label: 'Šiame puslapyje...',
-    },
-    nav: [
-      { text: 'Institucijos', link: '/kap' },
-      { text: 'Atstovavimas', link: '/studentams-atstovaujancios-organizacijos' },
-      { text: 'Schemos', link: '/schemos' }
-    ],
-
-    sidebar: [
-      {
-        text: 'Įvadas',
-        link: '/ivadas'
-      },
-      {
-        text: 'Schemos',
-        link: '/schemos'
-      },
-      {
-        text: 'Institucijos',
-        items: [
-          { text: 'Kamieninis akademinis padalinys', link: '/kap' },
-          { text: 'Vilniaus universitetas', link: '/vu' },
-          { text: 'Miestas', link: '/miestas' },
-          { text: 'Aukštasis mokslas', link: '/aukstasis-mokslas' },
-          { text: 'Seimas', link: '/seimas' },
-          { text: 'Vyriausybė', link: '/vyriausybe' },
-          { text: 'ŠMSM', link: '/smsm' },
-          { text: 'Įstatymų leidyba', link: '/istatymu-leidyba' },
-        ]
-      },
-      {
-        text: 'Atstovavimas',
-        items: [
-          { text: 'Studentams atstovaujančios organizacijos', link: '/studentams-atstovaujancios-organizacijos' },
-          { text: 'Studentų atstovavimas', link: '/studentu-atstovavimas' },
-        ]
-      },
-
-      {
-        text: "Baigiamasis žodis",
-        link: "/baigiamasis-zodis"
-      }
-    ],
-
     socialLinks: [
       { icon: 'facebook', link: 'https://www.facebook.com/vieningai.vu.sa' },
       { icon: 'instagram', link: 'https://www.instagram.com/vu.studentu.atstovybe' },
