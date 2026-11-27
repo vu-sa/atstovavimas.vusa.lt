@@ -19,7 +19,7 @@ ir sporto ir kitos ministerijos.
 Šioje schemoje pristatomi Vyriausybės organizaciniai dariniai ir
 susijusių struktūrų veikla bei jų tarpusavio ryšiai. Ši struktūra
 sudaryta remiantis Vyriausybės darbo reglamentu, jo nuorodą rasite
-[čia](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.13436/asr) ir
+[čia](https://www.e-tar.lt/portal/lt/legalAct/TAR.2D810041F3C0/ylxwSbtJKW) ir
 [Lietuvos Respublikos Vyriausybės
 įstatymu](https://www.e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82/asr)
 
@@ -69,7 +69,7 @@ Išsamiau apie Vyriausybės veiklą:
 
 -   [Apie
     Vyriausybę](https://lrv.lt/lt/apie-vyriausybe/)
--   [Ministrai](https://lrv.lt/lt/apie-vyriausybe/xviii-vyriausybe/ministrai/)
+-   [Ministrai](https://lrv.lt/lt/apie-vyriausybe/xxi-vyriausybe/ministru-kabinetas/)
 
 ## Ministras Pirmininkas
 
@@ -82,7 +82,7 @@ Išsamiau galite susipažinti čia:
 -   [LR Vyriausybės
     įstatymas](https://www.e-tar.lt/portal/lt/legalAct/TAR.96A68BFC9E82/asr)
 -   [Ministro Pirmininko
-    puslapis](ttps://lrv.lt/lt/apie-vyriausybe/ministre-pirmininke1/)
+    puslapis](https://lrv.lt/lt/apie-vyriausybe/ministras-pirmininkas/)
 
 ## Ministro Pirmininko biuras
 
@@ -111,7 +111,7 @@ Vyriausybės kanceliarija padeda vykdyti Vyriausybės ir Ministro
 Pirmininko funkcijas. Vyriausybės kanceliarijai vadovauja Vyriausybės kancleris.
 
 Išsamiau galite susipažinti
-[čia](https://lrv.lt/lt/vyriausybes-kanceliarija-1/apie-lrvk/)
+[čia](https://lrv.lt/lt/vyriausybes-kanceliarija/struktura-ir-kontaktine-informacija/vyriausybes-kanceliarijos-struktura/)
 
 ## Vyriausybės kancleris
 
@@ -120,7 +120,7 @@ pateiktų teisės aktų projektų analizę ir derinimą, organizuoja
 Vyriausybės posėdžių rengimą ministerijų atstovų pasitarimus.
 
 Išsamiau galite susipažinti
-[čia](https://lrv.lt/lt/vyriausybes-kanceliarija-1/vyriausybes-kanclere/)
+[čia](https://lrv.lt/lt/vyriausybes-kanceliarija/vyriausybes-kancleris/)
 
 ## Vyriausybės komitetai ir komisijos
 

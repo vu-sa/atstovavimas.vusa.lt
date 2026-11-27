@@ -110,6 +110,8 @@ priklausančius klausimus ir yra tiesiogiai atsakingas už Vyriausybės
 programos ir kasmetinių Vyriausybės veiklos prioritetų bei planuojamų
 pasiekti rezultatų jam pavestose valdymo srityse įgyvendinimą.
 
+<a id="lmt"></a>
+
 ## Lietuvos mokslo taryba
 
 Lietuvos mokslo taryba yra **patariamoji institucija Seimui ir
@@ -123,8 +125,7 @@ Sąjungos šalių narių darbo grupėse bei tarptautinėse organizacijose,
 įgyvendina mokslo programinį konkursinį finansavimą. LMT finansuoja
 mokslinius projektus, prie kurių prisideda ir studentai.
 
-[Išsamiau apie
-LMT](https://www.e-tar.lt/portal/lt/legalAct/fdc30c905a6311e7846ef01bfffb9b64)
+[LMT nuostatai](https://lmt.lrv.lt/lt/administracine-informacija/nuostatai/)
 
 ### Lietuvos mokslo tarybos nariai
 
@@ -137,11 +138,15 @@ LMT vienasmenis valdymo organas yra LMT pirmininkas, į pareigas Vyriausybės te
 
 [Išsamiau apie Lietuvos mokslo tarybos pirmininką](https://lmt.lrv.lt/lt/struktura-ir-kontaktine-informacija/vadovas/)
 
+<a id="lmt-valdyba"></a>
+
 ### Lietuvos mokslo tarybos Valdyba
 
 LMT valdyba yra kolegialus LMT valdymo organas. Valdybą sudaro 7 nepriekaištingos reputacijos, kaip apibrėžia Mokslo ir studijų įstatymas, nariai, iš kurių bent keturi turi būti tarptautinės darbo patirties turintys mokslininkai. Valdybą 5 metų kadencijai skiria Vyriausybė. Tas pats asmuo valdybos nariu gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės.
 
 [Išsamiau apie Lietuvos mokslo tarybos valdybą](https://lmt.lrv.lt/lt/valdyba/)
+
+<a id="vsf"></a>
 
 ## Valstybinis studijų fondas
 
@@ -204,6 +209,8 @@ Su ŠMPF įstatais galite susipažinti [čia](https://smpf.lrv.lt/media/viesa/sa
 
 Išsamiau su ŠMPF galite susipažinti [čia](https://smpf.lrv.lt/lt/)
 
+<a id="skvc"></a>
+
 ## Studijų kokybės ir vertinimo centras
 
 Studijų kokybės vertinimo centras teisės aktų nustatyta tvarka skatina
@@ -216,7 +223,9 @@ Užsiimdamas studijų programų atestacija, Centras gali uždaryti studijų
 programas ar aukštąsias mokyklas.
 
 [Išsamiau apie SKVC
-veiklą](https://www.skvc.lt/default/lt/apie-mus)
+veiklą](https://skvc.lrv.lt/lt/)
+
+<a id="skvc-taryba"></a>
 
 ### Studijų kokybės ir vertinimo centro taryba
 
@@ -230,7 +239,7 @@ siūlymus dėl centro metinių veiklos planų, tvirtina metinę centro
 direktoriaus ataskaitą, rengia centro metinę ataskaitą.
 
 [Išsamiau apie Studių kokybės vertinimo centro
-tarybą](https://www.skvc.lt/default/lt/taryba)
+tarybą](https://skvc.lrv.lt/lt/struktura-ir-kontaktine-informacija/taryba/)
 
 ## Vyriausybės strateginės analizės centras
 
@@ -240,7 +249,9 @@ tiriamąja veikla grįstą informaciją, reikalingą įrodymais pagrįstiems
 viešosios politikos sprendimams priimti.
 
 [Išsamiau apie STRATA
-veiklą](https://strata.gov.lt/apie-strata/)
+veiklą](https://strata.gov.lt/)
+
+<a id="kontrolierius"></a>
 
 ## Lietuvos Respublikos akademinės etikos ir procedūrų kontrolierius
 
@@ -259,6 +270,8 @@ procedūroms
 Išsamiau su akademinės etikos ir procedūrų kontrolieriaus veikla galite
 susipažinti
 [čia.](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/7784eb71b0bd11ecaf79c2120caf5094?jfwid=-163wt6ffh0)
+
+<a id="kontrolieriaus-tarnyba"></a>
 
 ### Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnyba
 
@@ -310,8 +323,8 @@ Mokslinių tyrimų institutas – juridinis asmuo, kurio pagrindinė veikla
 Mokslinių tyrimų institutų įtaka aukštojo mokslo politikos procesuose
 yra patariamoji.
 
-Lietuvoje veikiantys mokslo institutai nurodyti
-[čia](httphttp://sena.mab.lt/lt/istekliai-internete/153)
+Daugiau apie Lietuvos mokslininkų sąjungą rasite
+[čia](https://lms.lt/).
 
 ## Lietuvos švietimo taryba
 
@@ -324,6 +337,8 @@ strateginiais Lietuvos švietimo plėtros klausimais.
 skyrimą](https://www.lrs.lt/sip/portal.show?p_r=35572&p_k=1)
 
 ![](/img/main/image022.jpg){.img-fluid}
+
+<a id="lurk"></a>
 
 ## Lietuvos universitetų rektorių konferencija (LURK)
 
@@ -341,6 +356,8 @@ aukštuoju mokslu.
 [Išsamiau apie
 LURK](https://lurk.lt/apie-mus/strukura/)
 
+<a id="lkdk"></a>
+
 ## Lietuvos kolegijų direktorių konferencija (LKDK)
 
 Tai konferencija vienijanti visus Lietuvos kolegijų direktorius. Jos
@@ -354,4 +371,4 @@ Gali deleguoti savo atstovus į ŠMSM (ir ne tik) sudarytas darbo grupes
 ar komisijas, kurios susijusios su aukštuoju mokslu.
 
 [Išsamiau apie
-LKDK](https://www.kolegijos.lt/lt/apie-konferencija/istatai/)
+LKDK](https://kolegijos.lt/)

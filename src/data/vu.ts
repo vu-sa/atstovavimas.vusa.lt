@@ -25,31 +25,31 @@ const nodes = [
   {
     id: 'node-rektorius',
     type: 'multiple-handle',
-    data: { label: 'Rektorius', textClass: 'text-[16px] font-bold', handles: ['left-bottom', 'bottom', 'bottom-right', 'right-bottom', 'right'], description: "Vienasmenis Universiteto valdymo organas ir Universiteto vadovas. Rektorius veikia Universiteto vardu ir jam atstovauja, atsako už Universiteto veiklos tikslų įgyvendinimą, kokybišką darbų organizavimą, Universiteto finansinę veiklą, tinkamą lėšų ir turto valdymą.", url: 'https://www.vu.lt/apiemus/struktura/rektorius' },
+    data: { label: 'Rektorius', textClass: 'text-[16px] font-bold', handles: ['left-bottom', 'bottom', 'bottom-right', 'right-bottom', 'right'], description: "Vienasmenis Universiteto valdymo organas ir Universiteto vadovas. Rektorius veikia Universiteto vardu ir jam atstovauja, atsako už Universiteto veiklos tikslų įgyvendinimą, kokybišką darbų organizavimą, Universiteto finansinę veiklą, tinkamą lėšų ir turto valdymą.", url: 'https://www.vu.lt/universitetas/struktura/rektorius' },
     position: { x: 0, y: 5 },
   },
   {
     id: 'node-taryba',
     type: 'multiple-handle',
-    data: { label: 'Taryba', textClass: 'text-[16px] font-bold', handles: ['top-left', 'top', 'top-right', 'bottom'], description: "Universiteto valdymo organas atsakingas už strateginę Universiteto plėtrą, veiklos kokybę, finansus bei struktūros pokyčius.", url: '/vu.html#taryba' },
+    data: { label: 'Taryba', textClass: 'text-[16px] font-bold', handles: ['top-left', 'top', 'top-right', 'bottom'], description: "Universiteto valdymo organas atsakingas už strateginę Universiteto plėtrą, veiklos kokybę, finansus bei struktūros pokyčius.", url: 'https://www.vu.lt/universitetas/struktura/vu-taryba' },
     position: { x: -210, y: 80 },
   },
   {
     id: 'node-senatas',
     type: 'multiple-handle',
-    data: { label: 'Senatas', textClass: 'text-[16px] font-bold', handles: ['top-left', 'top', 'right-top', 'right', 'right-bottom'], description: "Užtikrina kultūros, mokslo, tyrimų ir dėstymo laisvę Universitete, Universiteto bendrųjų akademinių reikalų ir kitų tiesiogiai su viso Universiteto akademine veikla susijusių klausimų kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą.", url: '/vu.html#senatas' },
+    data: { label: 'Senatas', textClass: 'text-[16px] font-bold', handles: ['top-left', 'top', 'right-top', 'right', 'right-bottom'], description: "Užtikrina kultūros, mokslo, tyrimų ir dėstymo laisvę Universitete, Universiteto bendrųjų akademinių reikalų ir kitų tiesiogiai su viso Universiteto akademine veikla susijusių klausimų kolegialų aptarimą bei jiems įgyvendinti reikalingų teisės aktų priėmimą.", url: 'https://www.vu.lt/universitetas/struktura/vu-senatas/senato-sprendimai' },
     position: { x: 195, y: 80 },
   },
   {
     id: 'node-senato-kolegija',
     type: 'multiple-handle',
-    data: { label: 'Senato kolegija', handles: ['left', 'top-left'], description: "Senato veiklai organizuoti sudaroma Senato kolegija, susidedanti iš Senato pirmininko, Senato pirmininko pavaduotojo (-ų) ir Komitetų pirmininkų ir Studentų atstovo.", url: 'https://www.vu.lt/apiemus/struktura/senatas/senato-reglamentas' },
+    data: { label: 'Senato kolegija', handles: ['left', 'top-left'], description: "Senato veiklai organizuoti sudaroma Senato kolegija, susidedanti iš Senato pirmininko, Senato pirmininko pavaduotojo (-ų) ir Komitetų pirmininkų ir Studentų atstovo.", url: 'https://www.vu.lt/universitetas/struktura/vu-senatas/senato-sprendimai' },
     position: { x: 465, y: 80 },
   },
   {
     id: 'parent-node-mazasis-rektoratas',
     type: 'parent',
-    data: { label: 'Mažasis rektoratas', url: '/seimas.html#mazasis-rektoratas' },
+    data: { label: 'Mažasis rektoratas', url: 'https://www.vu.lt/universitetas/struktura/rektoriaus-komanda' },
     sourcePosition: Position.Left,
     targetPosition: Position.Top,
     position: { x: -95, y: 140 },
@@ -131,7 +131,7 @@ const nodes = [
   {
     id: 'node-apk',
     type: 'multiple-handle',
-    data: { label: 'Akademinio protokolo komisija', handles: [], description: "Kuria ir nuolatos atnaujina akademinių apeigų protokolą bei akademinių renginių aprašus.", url: 'https://www.vu.lt/site_files/Akademiniu_apeigu_protokolas.pdf' },
+    data: { label: 'Akademinio protokolo komisija', handles: [], description: "Kuria ir nuolatos atnaujina akademinių apeigų protokolą bei akademinių renginių aprašus.", url: 'https://www.vu.lt/uploads/Akademini_C5_B3_apeig_C5_B3_protokolas_99b8c47905.pdf' },
     position: { x: 15, y: 50 },
     parentNode: 'parent-node-senato-komisijos',
     style: { lineHeight: '1.25' },
@@ -140,7 +140,7 @@ const nodes = [
   {
     id: 'node-aek',
     type: 'multiple-handle',
-    data: { label: 'Centrinė akademinės etikos komisija', handles: [], description: 'Sprendžia ginčus bei klausimus, susijusius su akademinės etikos pažeidimais, kuria ir nuolatos atnaujina VU akademinės etikos kodeksą.', url: 'https://www.vu.lt/apiemus/dokumentai#akademine-etika' },
+    data: { label: 'Centrinė akademinės etikos komisija', handles: [], description: 'Sprendžia ginčus bei klausimus, susijusius su akademinės etikos pažeidimais, kuria ir nuolatos atnaujina VU akademinės etikos kodeksą.', url: 'https://www.vu.lt/uploads/SPN_55_CAEK_nuostatai_2020_10_14_89056c831b.pdf' },
     position: { x: 15, y: 110 },
     parentNode: 'parent-node-senato-komisijos',
     style: { lineHeight: '1.25' },
@@ -149,7 +149,7 @@ const nodes = [
   {
     id: 'node-gnk',
     type: 'multiple-handle',
-    data: { label: 'Centrinė ginčų nagrinėjimo komisija', handles: [], description: 'Nagrinėja skundus bei pareiškimus tarp Universiteto bendruomenės narių, nesusijusius su akademinės etikos pažeidimais.', url: 'https://www.vu.lt/apiemus/dokumentai#akademine-etika' },
+    data: { label: 'Centrinė ginčų nagrinėjimo komisija', handles: [], description: 'Nagrinėja skundus bei pareiškimus tarp Universiteto bendruomenės narių, nesusijusius su akademinės etikos pažeidimais.', url: 'https://www.vu.lt/uploads/Centrin_C4_97s_gin_C4_8_D_C5_B3_nagrin_C4_97jimo_komisijos_nuostatai_2019_04_16_c82d2581e1.pdf' },
     position: { x: 15, y: 190 },
     parentNode: 'parent-node-senato-komisijos',
     style: { lineHeight: '1.25' },
@@ -158,7 +158,7 @@ const nodes = [
   {
     id: 'node-crk',
     type: 'multiple-handle',
-    data: { label: 'Centrinė rinkimų komisija', handles: [], description: 'Kuria VU valdymo organų rinkimų tvarką ir užtikrina skaidrius bei tinkamus VU valdymo organų rinkimus.', url: 'https://www.vu.lt/site_files/VUCentrinesrinkimukomisijosnuostatai.pdf' },
+    data: { label: 'Centrinė rinkimų komisija', handles: [], description: 'Kuria VU valdymo organų rinkimų tvarką ir užtikrina skaidrius bei tinkamus VU valdymo organų rinkimus.', url: 'https://vu.lt/uploads/SPN_49_2024_priedas_aaf4a0d1cf.pdf' },
     position: { x: 175, y: 50 },
     parentNode: 'parent-node-senato-komisijos',
     style: { lineHeight: '1.25' },
@@ -167,7 +167,7 @@ const nodes = [
   {
     id: 'node-garbes-vardu-komisija',
     type: 'multiple-handle',
-    data: { label: 'Emeritūros, afiliacijos ir garbės vardų komisija', handles: [], description: "Svarsto ir teikia Senatui tvirtinti kandidatūras gauti Universiteto profesoriaus emerito, afiliuotojo profesoriaus, docento, mokslo darbuotojo bei garbės daktaro, alumni, mecenato vardus.", url: 'https://www.vu.lt/site_files/Emerituros_afiliacijos_ir_garbes_vardu_nuostatai.pdf' },
+    data: { label: 'Emeritūros, afiliacijos ir garbės vardų komisija', handles: [], description: "Svarsto ir teikia Senatui tvirtinti kandidatūras gauti Universiteto profesoriaus emerito, afiliuotojo profesoriaus, docento, mokslo darbuotojo bei garbės daktaro, alumni, mecenato vardus.", url: 'https://vu.lt/uploads/Emerituros_afiliacijos_ir_garbes_vardu_nuostatai_Vilniaus_universiteto_senato_2019_m_gruodzio_17_d_nutarimo_Nr_SPN_74_redakcija_779c333221.pdf' },
     position: { x: 175, y: 110 },
     parentNode: 'parent-node-senato-komisijos',
     style: { lineHeight: '1.25' },
@@ -176,7 +176,7 @@ const nodes = [
   {
     id: 'node-vardu-teikimo-komisija',
     type: 'multiple-handle',
-    data: { label: 'VU profesoriaus ir docentro pedagoginių vardų teikimo komisija', handles: [] },
+    data: { label: 'VU profesoriaus ir docentro pedagoginių vardų teikimo komisija', handles: [], url: 'https://www.vu.lt/uploads/Pedagoginiu_vardu_tvarkos_aprasas_2024_09_24_a8770e400b.pdf' },
     position: { x: 175, y: 190 },
     parentNode: 'parent-node-senato-komisijos',
     style: { lineHeight: '1.25' },
@@ -229,7 +229,7 @@ const nodes = [
   {
     id: 'node-ff',
     type: 'multiple-handle',
-    data: { label: 'Fizikos fakultetas', handles: [], url: 'http://gmc.vu.lt' },
+    data: { label: 'Fizikos fakultetas', handles: [], url: 'https://www.ff.vu.lt/' },
     position: { x: 15, y: 280 },
     parentNode: 'parent-node-kap',
     style: { lineHeight: '1' },
@@ -319,7 +319,7 @@ const nodes = [
   {
     id: 'node-vm',
     type: 'multiple-handle',
-    data: { label: 'Verslo mokykla', handles: [], url: 'http://vm.vu.lt' },
+    data: { label: 'Verslo mokykla', handles: [], url: 'https://www.vm.vu.lt/' },
     position: { x: 335, y: 255 },
     parentNode: 'parent-node-kap',
     style: { lineHeight: '1.25' },
@@ -396,7 +396,7 @@ const nodes = [
   {
     id: 'node-mpbc',
     type: 'multiple-handle',
-    data: { label: 'Mokymų ir praktikų bazių centras', handles: [], url: 'https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=63' },
+    data: { label: 'Mokymų ir praktikų bazių centras', handles: [], url: 'https://www.vu.lt/universitetas/struktura/padaliniai' },
     position: { x: 175, y: 100 },
     parentNode: 'parent-node-knap',
     style: { lineHeight: '1.25' },
@@ -413,7 +413,7 @@ const nodes = [
   {
     id: 'node-planetariumas',
     type: 'multiple-handle',
-    data: { label: 'Planetariumas', handles: [], url: 'http://planetarium.tfai.vu.lt/' },
+    data: { label: 'Metodinis STEAM ugdymo centras', handles: [], url: 'https://www.vu.lt/universitetas/struktura/padaliniai' },
     position: { x: 175, y: 210 },
     parentNode: 'parent-node-knap',
     extent: 'parent',
@@ -430,7 +430,7 @@ const nodes = [
   {
     id: 'node-tvpc',
     type: 'multiple-handle',
-    data: { label: 'Turto valdymo ir paslaugų centras', handles: [], url: 'https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=6' },
+    data: { label: 'Turto valdymo ir paslaugų centras', handles: [], url: 'https://www.vu.lt/kontaktai' },
     position: { x: 175, y: 320 },
     parentNode: 'parent-node-knap',
     style: { lineHeight: '1.25' },
@@ -447,7 +447,7 @@ const nodes = [
   {
     id: 'parent-node-komisijos-komitetai',
     type: 'parent',
-    data: { label: 'Komisijos ir komitetai', description: 'Rektorius gali formuoti komisijas ir komitetus svarbiems Universiteto klausimams spręsti.', url: '/seimas.html#rektoriaus-komisijos' },
+    data: { label: 'Komisijos ir komitetai', description: 'Rektorius gali formuoti komisijas ir komitetus svarbiems Universiteto klausimams spręsti.', url: '/vu.html#rektoriaus-sudaromos-komisijos-ir-komitetai' },
     position: { x: 180, y: 230 },
     sourcePosition: Position.Left,
     targetPosition: Position.Left,
@@ -456,7 +456,7 @@ const nodes = [
   {
     id: 'node-priemimo-komisija',
     type: 'multiple-handle',
-    data: { label: 'VU priėmimo komisija', handles: [], description: 'Komisija svarsto ir teikia Universiteto rektoriui tvirtinti dėstytojų ir mokslo darbuotojų kandidatūras akademinėms pareigoms užimti.', url: 'https://www.vu.lt/apiemus/karjera/akademinis-personalas/6546-konkursu-organizavimo-nuostatai-ir-kiti-susije-dokumentai' },
+    data: { label: 'VU priėmimo komisija', handles: [], description: 'Komisija svarsto ir teikia Universiteto rektoriui tvirtinti dėstytojų ir mokslo darbuotojų kandidatūras akademinėms pareigoms užimti.', url: 'https://www.vu.lt/uploads/1_Konkursu_nuostatai_nuo20260901_6de7288faa.pdf' },
     position: { x: 15, y: 50 },
     parentNode: 'parent-node-komisijos-komitetai',
     style: { lineHeight: '1.25' },
@@ -465,7 +465,7 @@ const nodes = [
   {
     id: 'node-geriausi-destytojai',
     type: 'multiple-handle',
-    data: { label: 'VU geriausių dėstytojų pripažinimo komisija', handles: [], description: "Komisija svarsto kandidatų veiklą ir teikia Rektoriui rekomendacijas dėl kandidatų pripažinimo geriausiais metų dėstytojais.", url: 'https://www.vu.lt/site_files/Isak_VU_geriausiu_destytoju_rinkimo_aprasas_1.pdf' },
+    data: { label: 'VU geriausių dėstytojų pripažinimo komisija', handles: [], description: "Komisija svarsto kandidatų veiklą ir teikia Rektoriui rekomendacijas dėl kandidatų pripažinimo geriausiais metų dėstytojais.", url: 'https://www.vu.lt/uploads/VILNIAUS_UNIVERSITETO_GERIAUSI_C5_B2_D_C4_96_STYTOJ_C5_B2_RINKIM_C5_B2_TVARKOS_APRA_C5_A0_AS_2024_08_08_05295e70f7.pdf' },
     position: { x: 15, y: 110 },
     parentNode: 'parent-node-komisijos-komitetai',
     style: { lineHeight: '1.25' },
@@ -501,7 +501,7 @@ const nodes = [
   {
     id: 'node-partnerystes-profesoriai',
     type: 'multiple-handle',
-    data: { label: 'VU partnerystės profesorių ir partnerystės docentų pareigų suteikimo patariamasis komitetas', handles: [], description: "Komitetas VU rektoriui teikia nuomonę dėl VU partnerystės profesorių ir partnerystės docentų pareigybių suteikimo.", url: 'https://www.vu.lt/site_files/Reguliaminas/Dėl_partnerystės_profesoriaus_ir_partnerystės_docento_pareigybių.pdf' },
+    data: { label: 'VU partnerystės profesorių ir partnerystės docentų pareigų suteikimo patariamasis komitetas', handles: [], description: "Komitetas VU rektoriui teikia nuomonę dėl VU partnerystės profesorių ir partnerystės docentų pareigybių suteikimo.", url: 'https://www.vu.lt/uploads/D_C4_96_L_VILNIAUS_UNIVERSITETO_D_C4_96_STYTOJ_C5_B2_PRI_C4_96_MIMO_C4_AE_PAREIGAS_NE_VIE_C5_A0_O_KONKURSO_B_C5_AADU_S_C4_84_LYG_C5_B2_IR_TVARKOS_APRA_C5_A0_AS_6fdc3409cf.pdf' },
     position: { x: 15, y: 430 },
     parentNode: 'parent-node-komisijos-komitetai',
     style: { lineHeight: '1.25' },
@@ -518,7 +518,7 @@ const nodes = [
   {
     id: 'node-rektoriaus-biuras',
     type: 'multiple-handle',
-    data: { label: 'Rektoriaus biuras', handles: [], url: 'https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1' },
+    data: { label: 'Rektoriaus biuras', handles: [], url: 'https://www.vu.lt/kontaktai' },
     position: { x: 15, y: 50 },
     parentNode: 'parent-node-ca',
     style: { lineHeight: '1.25' },
@@ -527,7 +527,7 @@ const nodes = [
   {
     id: 'node-finansu-departamentas',
     type: 'multiple-handle',
-    data: { label: 'Finansų departamentas', handles: [], url: 'https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1' },
+    data: { label: 'Finansų departamentas', handles: [], url: 'https://www.vu.lt/kontaktai' },
     position: { x: 15, y: 95 },
     parentNode: 'parent-node-ca',
     style: { lineHeight: '1.25' },
@@ -536,7 +536,7 @@ const nodes = [
   {
     id: 'node-personalo-skyrius',
     type: 'multiple-handle',
-    data: { label: 'Personalo skyrius', handles: [], url: 'https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1' },
+    data: { label: 'Personalo skyrius', handles: [], url: 'https://www.vu.lt/kontaktai' },
     position: { x: 15, y: 155 },
     parentNode: 'parent-node-ca',
     style: { lineHeight: '1.25' },
@@ -545,7 +545,7 @@ const nodes = [
   {
     id: 'node-spks',
     type: 'multiple-handle',
-    data: { label: 'Studentų paslaugų ir karjeros skyrius', handles: [], url: 'https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1' },
+    data: { label: 'Studentų paslaugų ir karjeros skyrius', handles: [], url: 'https://www.vu.lt/kontaktai' },
     position: { x: 15, y: 200 },
     parentNode: 'parent-node-ca',
     style: { lineHeight: '1.25' },
@@ -554,7 +554,7 @@ const nodes = [
   {
     id: 'node-strateginio-planavimo-skyrius',
     type: 'multiple-handle',
-    data: { label: 'Strateginio planavimo skyrius', handles: [], url: 'https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1' },
+    data: { label: 'Strateginio planavimo skyrius', handles: [], url: 'https://www.vu.lt/kontaktai' },
     position: { x: 15, y: 260 },
     parentNode: 'parent-node-ca',
     style: { lineHeight: '1.25' },
@@ -563,7 +563,7 @@ const nodes = [
   {
     id: 'node-vidaus-audito-skyrius',
     type: 'multiple-handle',
-    data: { label: 'Vidaus audito skyrius', handles: [], url: 'https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1' },
+    data: { label: 'Vidaus audito skyrius', handles: [], url: 'https://www.vu.lt/kontaktai' },
     position: { x: 15, y: 320 },
     parentNode: 'parent-node-ca',
     style: { lineHeight: '1.25' },
@@ -572,7 +572,7 @@ const nodes = [
   {
     id: 'node-bendruomenes-geroves-skyrius',
     type: 'multiple-handle',
-    data: { label: 'Bendruomenės gerovės skyrius', handles: [], url: 'https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1' },
+    data: { label: 'Bendruomenės gerovės skyrius', handles: [], url: 'https://www.vu.lt/kontaktai' },
     position: { x: 175, y: 50 },
     parentNode: 'parent-node-ca',
     style: { lineHeight: '1.25' },
@@ -581,7 +581,7 @@ const nodes = [
   {
     id: 'node-krs',
     type: 'multiple-handle',
-    data: { label: 'Komunikacijos ir rinkodaros skyrius', handles: [], url: 'https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1' },
+    data: { label: 'Komunikacijos ir rinkodaros skyrius', handles: [], url: 'https://www.vu.lt/kontaktai' },
     position: { x: 175, y: 110 },
     parentNode: 'parent-node-ca',
     style: { lineHeight: '1.25' },
@@ -590,7 +590,7 @@ const nodes = [
   {
     id: 'node-pletros-departamentas',
     type: 'multiple-handle',
-    data: { label: 'Plėtros departamentas', handles: [], url: 'https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1' },
+    data: { label: 'Plėtros departamentas', handles: [], url: 'https://www.vu.lt/kontaktai' },
     position: { x: 175, y: 170 },
     parentNode: 'parent-node-ca',
     style: { lineHeight: '1.25' },
@@ -599,7 +599,7 @@ const nodes = [
   {
     id: 'node-studiju-administravimo-skyrius',
     type: 'multiple-handle',
-    data: { label: 'Studijų administravimo skyrius', handles: [], url: 'https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1' },
+    data: { label: 'Studijų administravimo skyrius', handles: [], url: 'https://www.vu.lt/kontaktai' },
     position: { x: 175, y: 230 },
     parentNode: 'parent-node-ca',
     style: { lineHeight: '1.25' },
@@ -608,7 +608,7 @@ const nodes = [
   {
     id: 'node-trs',
     type: 'multiple-handle',
-    data: { label: 'Tarptautinių ryšių skyrius', handles: [], url: 'https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1' },
+    data: { label: 'Tarptautinių ryšių skyrius', handles: [], url: 'https://www.vu.lt/kontaktai' },
     position: { x: 175, y: 310 },
     parentNode: 'parent-node-ca',
     style: { lineHeight: '1.25' },
@@ -617,7 +617,7 @@ const nodes = [
   {
     id: 'node-vps',
     type: 'multiple-handle',
-    data: { label: 'Viešųjų pirkimų skyrius', handles: [], url: 'https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1' },
+    data: { label: 'Viešųjų pirkimų skyrius', handles: [], url: 'https://www.vu.lt/kontaktai' },
     position: { x: 335, y: 330 },
     parentNode: 'parent-node-ca',
     style: { lineHeight: '1.25' },
@@ -626,7 +626,7 @@ const nodes = [
   {
     id: 'node-saugos-tarnyba',
     type: 'multiple-handle',
-    data: { label: 'Civilinės ir darbų saugos tarnyba', handles: [], url: 'https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1' },
+    data: { label: 'Civilinės ir darbų saugos tarnyba', handles: [], url: 'https://www.vu.lt/kontaktai' },
     position: { x: 335, y: 50 },
     parentNode: 'parent-node-ca',
     style: { lineHeight: '1.25' },
@@ -635,7 +635,7 @@ const nodes = [
   {
     id: 'node-mokslo-departamentas',
     type: 'multiple-handle',
-    data: { label: 'Mokslo ir inovacijų departamentas', handles: [], url: 'https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1' },
+    data: { label: 'Mokslo ir inovacijų departamentas', handles: [], url: 'https://www.vu.lt/kontaktai' },
     position: { x: 335, y: 110 },
     parentNode: 'parent-node-ca',
     style: { lineHeight: '1.25' },
@@ -644,7 +644,7 @@ const nodes = [
   {
     id: 'node-teisekuros-skyrius',
     type: 'multiple-handle',
-    data: { label: 'Teisėkūros skyrius', handles: [], url: 'https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1' },
+    data: { label: 'Teisėkūros skyrius', handles: [], url: 'https://www.vu.lt/kontaktai' },
     position: { x: 335, y: 170 },
     parentNode: 'parent-node-ca',
     style: { lineHeight: '1.25' },
@@ -653,7 +653,7 @@ const nodes = [
   {
     id: 'node-skps',
     type: 'multiple-handle',
-    data: { label: 'Studijų kokybės ir plėtros skyrius', handles: [], url: 'https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1'},
+    data: { label: 'Studijų kokybės ir plėtros skyrius', handles: [], url: 'https://www.vu.lt/kontaktai'},
     position: { x: 335, y: 210 },
     parentNode: 'parent-node-ca',
     style: { lineHeight: '1.25' },
@@ -662,7 +662,7 @@ const nodes = [
   {
     id: 'node-teises-taikymo-skyrius',
     type: 'multiple-handle',
-    data: { label: 'Teisės taikymo skyrius', handles: [], url: 'https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1' },
+    data: { label: 'Teisės taikymo skyrius', handles: [], url: 'https://www.vu.lt/kontaktai' },
     position: { x: 335, y: 270 },
     parentNode: 'parent-node-ca',
     style: { lineHeight: '1.25' },

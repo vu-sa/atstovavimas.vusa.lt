@@ -12,7 +12,7 @@ import VU from './data/vu'
 Vilniaus universiteto struktūra sudaryta remiantis Vilniaus universiteto
 Statutu ir kitais vidiniais veiklos dokumentais ir teisės aktais, jie
 pasiekiami
-[čia](https://www.vu.lt/apiemus/dokumentai#strateginiai-veiklos-planai).
+[čia](https://www.vu.lt/universitetas/veiklos-dokumentai).
 
 Vilniaus universitetas – seniausia šalies nacionalinės reikšmės mokslo
 ir studijų institucija. Universitetas turi Lietuvos Respublikos
@@ -45,7 +45,7 @@ Universiteto veiklos tikslų įgyvendinimą, kokybišką darbų organizavimą,
 Universiteto finansinę veiklą, tinkamą lėšų ir turto valdymą.
 
 [Plačiau apie Rektoriaus funkcijas,
-darbotvarkę.](https://www.vu.lt/apiemus/struktura/rektorius)
+darbotvarkę.](https://www.vu.lt/universitetas/struktura/rektorius)
 
 ## Taryba
 
@@ -54,7 +54,7 @@ plėtrą, veiklos kokybę, finansus bei struktūros pokyčius.
 
 Tarybą sudaro vienuolika narių, iš kurių du yra VU SA deleguoti
 atstovai. [Plačiau apie tarybos priimtus
-sprendimus.](https://www.vu.lt/apiemus/struktura/taryba/tarybos-sprendimai)
+sprendimus.](https://www.vu.lt/universitetas/struktura/vu-taryba)
 
 ## Senatas
 
@@ -67,7 +67,7 @@ Universiteto Senatą sudaro 46 narys, iš kurių 9 yra VU SA deleguoti
 atstovai.
 
 [Plačiau apie Senato priimtus
-sprendimus.](https://www.vu.lt/apiemus/struktura/senatas/senato-sprendimai)
+sprendimus.](https://www.vu.lt/universitetas/struktura/vu-senatas/senato-sprendimai)
 
 ### Senato komitetai
 
@@ -96,7 +96,7 @@ pirmininkai pristato Komitetuose apsvarstytus ir numatytus teikti
 Senatui klausimus bei tvirtinamas Senato metų darbo planas.
 
 [Plačiau apie Senato kolegiją ir Senato
-veiklą.](https://www.vu.lt/apiemus/struktura/senatas/senato-reglamentas)
+veiklą.](https://www.vu.lt/universitetas/struktura/vu-senatas/senato-sprendimai)
 
 ### Senato komisijos
 
@@ -109,26 +109,26 @@ Senatui.
 -   Centrinė rinkimų komisija – kuria VU valdymo organų rinkimų tvarką
     ir užtikrina skaidrius bei tinkamus VU valdymo organų rinkimus.
     Veikloje vadovaujasi: [šiais
-    nuostatais](https://www.vu.lt/site_files/VUCentrinesrinkimukomisijosnuostatai.pdf).
+    nuostatais](https://vu.lt/uploads/SPN_49_2024_priedas_aaf4a0d1cf.pdf).
 -   Centrinė akademinės etikos komisija – sprendžia ginčus bei
     klausimus, susijusius su akademinės etikos pažeidimais, kuria ir
     nuolatos atnaujina VU akademinės etikos kodeksą. Veikloje
     vadovaujasi: [šiais
-    dokumentais](https://www.vu.lt/apiemus/dokumentai#akademine-etika).
+    dokumentais](https://www.vu.lt/uploads/SPN_55_CAEK_nuostatai_2020_10_14_89056c831b.pdf).
 -   Centrinė ginčų nagrinėjimo komisija – nagrinėja skundus bei
     pareiškimus tarp Universiteto bendruomenės narių, nesusijusius su
     akademinės etikos pažeidimais. Veikloje vadovaujasi: [šiais
-    dokumentais](https://www.vu.lt/apiemus/dokumentai#akademine-etika).
+    dokumentais](https://www.vu.lt/uploads/Centrin_C4_97s_gin_C4_8_D_C5_B3_nagrin_C4_97jimo_komisijos_nuostatai_2019_04_16_c82d2581e1.pdf).
 -   Akademinio protokolo komisija – kuria ir nuolatos atnaujina
     akademinių apeigų protokolą bei akademinių renginių aprašus.
     Veikloje vadovaujasi [šiuo
-    protokolu](https://www.vu.lt/site_files/Akademiniu_apeigu_protokolas.pdf).
+    protokolu](https://www.vu.lt/uploads/Akademini_C5_B3_apeig_C5_B3_protokolas_99b8c47905.pdf).
 -   Emeritūros, afiliacijos ir garbės vardų komisija – svarsto ir
     teikia Senatui tvirtinti kandidatūras gauti Universiteto
     profesoriaus emerito, afiliuotojo profesoriaus, docento, mokslo
     darbuotojo bei garbės daktaro, alumni, mecenato vardus. Veikloje
     vadovaujasi [šiais
-    nuostatais](https://www.vu.lt/site_files/Emerituros_afiliacijos_ir_garbes_vardu_nuostatai.pdf).
+    nuostatais](https://vu.lt/uploads/Emerituros_afiliacijos_ir_garbes_vardu_nuostatai_Vilniaus_universiteto_senato_2019_m_gruodzio_17_d_nutarimo_Nr_SPN_74_redakcija_779c333221.pdf).
 
 ### Rektoriaus komanda (Mažasis rektoratas)
 
@@ -153,7 +153,7 @@ materialines bei organizacines sąlygas Universiteto Senato ir Tarybos
 veiklai.
 
 [Plačiau apie Rektoriaus komandos
-narius.](https://www.vu.lt/apiemus/struktura/vicerektore-prorektoriai-ir-kancleris)
+narius.](https://www.vu.lt/universitetas/struktura/rektoriaus-komanda)
 
 ### Patarėjai
 
@@ -185,7 +185,7 @@ tarnybas, departamentus. Centrinę administraciją sudaro:
 -   Viešųjų pirkimų skyrius
 
 Visų šių skyrių kontaktus rasite:
-[čia](https://www.vu.lt/apiemus/kontaktai-ir-nuorodos/telefonu-knyga?kod1=1)
+[čia](https://www.vu.lt/kontaktai)
 
 Studentų atstovams svarbu bendradarbiauti su beveik visais VU
 veikiančiais skyriais, nes jie gali būti yra partneriai, kurie padeda
@@ -204,7 +204,7 @@ paskaitas Vilniaus universitete dėstyti garsiems Lietuvos verslo
 atstovams, diplomatams ir kitiems savo sričių specialistams, užimantiems
 vadovaujančias pareigas ar turintiems didžiulę praktinio darbo patirtį.
 Komitetas savo veikloje vadovaujasi [šiais
-nuostatais](https://www.vu.lt/site_files/Reguliaminas/Dėl_partnerystės_profesoriaus_ir_partnerystės_docento_pareigybių.pdf).
+nuostatais](https://www.vu.lt/uploads/D_C4_96_L_VILNIAUS_UNIVERSITETO_D_C4_96_STYTOJ_C5_B2_PRI_C4_96_MIMO_C4_AE_PAREIGAS_NE_VIE_C5_A0_O_KONKURSO_B_C5_AADU_S_C4_84_LYG_C5_B2_IR_TVARKOS_APRA_C5_A0_AS_6fdc3409cf.pdf).
 
 #### VU geriausių dėstytojų pripažinimo komisija
 
@@ -213,7 +213,7 @@ kandidatų pripažinimo geriausiais metų dėstytojais. Kandidatūras iš
 Vilniaus universiteto studentų siūlomų dėstytojų Komisijos svarstymui
 teikia kamieninio akademinio padalinio administracija kartu su VU SA
 padaliniu. Komisija savo veikloje vadovaujasi [šiuo
-aprašu](https://www.vu.lt/site_files/Isak_VU_geriausiu_destytoju_rinkimo_aprasas_1.pdf).
+aprašu](https://www.vu.lt/uploads/VILNIAUS_UNIVERSITETO_GERIAUSI_C5_B2_D_C4_96_STYTOJ_C5_B2_RINKIM_C5_B2_TVARKOS_APRA_C5_A0_AS_2024_08_08_05295e70f7.pdf).
 
 #### VU priėmimo komisija
 
@@ -221,7 +221,7 @@ Komisija svarsto ir teikia Universiteto rektoriui tvirtinti dėstytojų ir
 mokslo darbuotojų kandidatūras akademinėms pareigoms užimti.
 
 [Plačiau apie
-procedūrą](https://www.vu.lt/apiemus/karjera/akademinis-personalas/6546-konkursu-organizavimo-nuostatai-ir-kiti-susije-dokumentai)
+procedūrą](https://www.vu.lt/uploads/1_Konkursu_nuostatai_nuo20260901_6de7288faa.pdf)
 
 #### Vienkartinių tikslinių stipendijų skirstymo komisija
 
@@ -233,7 +233,7 @@ principais](https://vusa.lt/lt/vienkartines-tikslines-stipendijos).
 Plačiau apie VU teikiamas stipendijas:
 
 -   [VU puslapyje](https://www.vu.lt/studijos/studentams/finansai/stipendijos)
--   [Stipedijų nuostatuose](https://www.vu.lt/site_files/SD/Studentams/st._reglamentuojantys_dok/Stipendijų_nuostatai_2020-07-20.pdf)
+-   [Stipedijų nuostatuose](https://www.vu.lt/uploads/Vilniausuniversitetostipendiju_CC_A8nuostatai2020_07_20_6bef91bd07.pdf)
 
 ### Rektoriaus sudaromos darbo grupės
 
@@ -251,7 +251,9 @@ studijomis, finansais ir plėtra susijusius klausimus bei teikia išvadas
 Universiteto Tarybai, Senatui, Rektoriui, kurie pagal savo veiklos sritį
 priima galutinius sprendimus.
 
-[Plačiau apie Didžiojo rektorato sudėtį.](https://www.vu.lt/apiemus/struktura/rektorato-sudetis)
+[Plačiau apie Didžiojo rektorato sudėtį.](https://www.vu.lt/universitetas/struktura)
+
+<a id="vu-kap"></a>
 
 ## Vilniaus universiteto kamieniniai akademiniai padaliniai (VU KAP)
 
@@ -259,12 +261,14 @@ Fakultetai, institutai, centrai, mokyklos – tai vidiniai organizaciniai
 Universiteto dariniai, kuriuose vykdoma visų rūšių pagrindinė
 Universiteto veikla.
 
-Veikla grindžiama pavyzdiniais [VU KAP nuostatais](https://www.vu.lt/site_files/Senatas_Taryba/S-2016-2/KAP_pavyzdiniai_nuostatai_PATVIRTINTI_po_redagavimo.pdf)
+Veikla grindžiama pavyzdiniais [VU KAP nuostatais](https://www.vu.lt/uploads/KAP_pavyzdiniai_nuostatai_2025_11_18_50fba2e804.pdf)
 
-Šiuo metu Universitete yra [penkiolika VU KAP](https://www.vu.lt/apiemus/struktura/padaliniai)
+šiuo metu Universitete yra [penkiolika VU KAP](https://www.vu.lt/universitetas/struktura/padaliniai)
 
 Išsamiau apie VU KAP - [VU schemoje](#VU-schema) (paspausk schemoje ant
 KAP ir galėsi nueiti į jo puslapį)
+
+<a id="vu-knap"></a>
 
 ## Vilniaus universiteto kamieniniai neakademiniai padaliniai (VU KNAP)
 
@@ -275,10 +279,10 @@ Pavyzdiniuose Vilniaus universiteto kamieninių neakademinių padalinių
 nuostatuose, kuriuos tvirtina Rektorius.
 
 Visi VU <abbr title="Kamieninis neakademinis padalinys">KNAP</abbr> pateikiami
-[čia](https://www.vu.lt/apiemus/struktura/padaliniai).
+[čia](https://www.vu.lt/universitetas/struktura/padaliniai).
 
 [VU KNAP pavyzdiniai
-nuostatai](https://www.vu.lt/site_files/Reguliaminas/Pavyzdiniai_VU_kamieninio_neakademinio_padalinio_nuostatai_2019-10-16.pdf)
+nuostatai](https://www.vu.lt/uploads/Pavyzdiniai_VU_kamieninio_neakademinio_padalinio_nuostatai_2019_10_16_c093af51de.pdf)
 
 ## Vilniaus universiteto Studentų atstovybė (VU SA)
 
@@ -290,6 +294,8 @@ saviraiškai.
 
 VU SA yra vienintelė studentų atstovybė, kuri savo studentų interesams
 atstovauja nacionaliniu mastu.
+
+Plačiau apie [VU SA](https://www.vusa.lt/lt).
 
 **Studentas** – asmuo, studijuojantis aukštojoje mokykloje pagal tam
 tikrą studijų programą arba doktorantūroje.
@@ -323,7 +329,7 @@ atsakingi už studijų programas, bent kartą per semestrą susirinktų į
 posėdžius, kuriuose būtų aptariama kryptis kokybiškesnės programos link.
 
 Plačiau su SPK funkcijomis galite susipažinti
-[čia](https://www.vu.lt/site_files/Reguliaminas/SPK_nuostatai_galutinis_2018.pdf).
+[čia](https://www.vu.lt/uploads/2025_06_17_SPK_nuostatai_cb6c633851.pdf).
 
 Pokyčiai studijų programoje skirstomi į esminius ir neesminius. Žemiau
 pateikiami pokyčių pavyzdžiai:
