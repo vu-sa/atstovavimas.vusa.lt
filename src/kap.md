@@ -15,7 +15,7 @@ visų rūšių pagrindinę universiteto veiklą, schema. VU KAP vadovaujasi VU s
 Senato patvirtintais pavyzdiniais VU KAP nuostatais ir kitais
 Universiteto veiklos dokumentais. Kiekvieno VU KAP internetiniame
 puslapyje rasite jo veiklos dokumentus. Taip pat šie dokumentai
-patalpinti prie [VU Senato priimamų sprendimų](https://www.vu.lt/apiemus/struktura/senatas/senato-sprendimai).
+patalpinti prie [VU Senato priimamų sprendimų](https://www.vu.lt/universitetas/struktura/vu-senatas/senato-sprendimai).
 
 Naudodamiesi šia schema sužinosite, kokie yra VU KAP dariniai ir kaip
 jie susiję tarpusavyje. Plačiau apie kiekvieną iš jų skaitykite
@@ -29,7 +29,7 @@ išspręsti problemą, kilusią VU KAP, pavyzdžiui, kilus konfliktui dėl
 galutinio dalyko įvertinimo, ar norint patobulinti savo studijų
 programą.
 
-Schema parengta vadovaujantis: [KAP pavyzdiniais nuostatais](https://www.vu.lt/site_files/Reguliaminas/Kamieninio_akademinio_padalinio_pavyzdiniai_nuostatai.pdf)
+Schema parengta vadovaujantis: [KAP pavyzdiniais nuostatais](https://www.vu.lt/uploads/KAP_pavyzdiniai_nuostatai_2025_11_18_50fba2e804.pdf)
 
 ## Vilniaus universiteto kamieniniai akademiniai padaliniai
 
@@ -120,7 +120,7 @@ bent vienas studentų atstovas (jungtinio studijų programų komiteto atveju –
 galima pagerinti studijų programos vykdymo kokybę bei kitais studijų
 programos vykdymo ar individualaus studijų plano sudarymo klausimais.
 
-[Išsamiau](https://www.vu.lt/site_files/Reguliaminas/SPK_nuostatai_galutinis_2018.pdf)
+[Išsamiau](https://www.vu.lt/uploads/2025_06_17_SPK_nuostatai_cb6c633851.pdf)
 
 ## Doktorantūros mokykla
 
@@ -132,7 +132,7 @@ užtikrinti doktorantūros studijų kokybę ir sudaryti tinkamas sąlygas
 doktorantams vykdyti mokslinius tyrimus ir eksperimentinės plėtros
 darbus.
 
-[Išsamiau](https://www.vu.lt/site_files/Senatas_Taryba/S-2017-10-1/VU_doktoranturos_mokyklu_nuostatai.pdf)
+[Išsamiau](https://www.vu.lt/uploads/VU_doktoranturos_mokyklu_nuostatai_7d97320663.pdf)
 
 ## VU KAP ginčų nagrinėjimo komisija
 
@@ -147,7 +147,7 @@ dalyko pasiekimų vertinimui.
 
 VU KAP ginčų nagrinėjimo komisiją sudaro 3 VU KAP dėstytojai ir **3 studentų atstovai**.
 
-[Išsamiau](https://www.vu.lt/site_files/Reguliaminas/KAP_gin%C4%8D%C5%B3_nagrin%C4%97jimo_komisijos_nuostatai_2019-04-16.pdf)
+[Išsamiau](https://www.vu.lt/uploads/KAP_gin_C4_8_D_C5_B3_nagrin_C4_97jimo_komisijos_nuostatai_2019_04_16_0cce6eabc4.pdf)
 
 ## VU KAP akademinės etikos komisija
 
@@ -157,7 +157,7 @@ pažeidžiančių akademinę etiką.
 
 VU KAP akademinės etikos komisiją sudaro 4 VU KAP dėstytojai ir **2 studentų atstovai**.
 
-[Išsamiau](https://www.vu.lt/site_files/SPN-55_KAP_AEK_nuostatai.pdf)
+[Išsamiau](https://www.vu.lt/uploads/SPN_55_KAP_AEK_nuostatai_73e0ed4be9.pdf)
 
 ## VU KAP priėmimo-atestacinė komisija
 
@@ -167,7 +167,7 @@ pratęsimo klausimus. Baigiantis dėstytojo darbo sutarties su
 Universitetu laikotarpiui, Komisija vertina dėstytojo studijų vykdymo
 bei mokslinę veiklą ir sprendžia, ar darbo sutartis bus pratęsta.
 
-[Išsamiau](https://www.vu.lt/site_files/2023-12-14_Konkursų_atestacijų_nuostatų_projektas_Senatui_galutinis.pdf)
+Šiuo metu komisijos nuostatai viešai neprieinami.
 
 ## VU KAP rinkimų komisija
 

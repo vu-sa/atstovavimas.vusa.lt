@@ -13,14 +13,14 @@ const nodes = [
   {
     id: 'node-lrv',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: '/img/Lietuvos_Respublikos_Vyriausybes_logotipas.png' })]), description: "Vyriausybė – tai Lietuvos Respublikos įstatymų vykdomoji valdžia. Vyriausybė sudaro 14 ministerijų ministrai ir ministras pirmininkas, Seimo paskirti ketverių metų kadencijai.", url: "/vyriausybe#lrv", handles: ['top', 'left-top', 'left', 'left-bottom', 'bottom', 'right-bottom', 'right', 'right-top'] },
+    data: { label: h('div', [h('img', { src: '/img/Lietuvos_Respublikos_Vyriausybes_logotipas.png' })]), description: "Vyriausybė – tai Lietuvos Respublikos įstatymų vykdomoji valdžia. Vyriausybė sudaro 14 ministerijų ministrai ir ministras pirmininkas, Seimo paskirti ketverių metų kadencijai.", url: "/vyriausybe#vyriausybe", handles: ['top', 'left-top', 'left', 'left-bottom', 'bottom', 'right-bottom', 'right', 'right-top'] },
     position: { x: -10, y: 50 },
     style: { width: '200px', padding: '14px' }
   },
   {
     id: 'node-komisijos-ir-komitetai',
     type: 'multiple-handle',
-    data: { label: 'Vyriausybės komisijos ir komitetai', handles: ['top'], description: 'Vyriausybės komitetai yra Vyriausybės patariamosios institucijos.', url: '/vyriausybe#lrv-komitetai-komisijos' },
+    data: { label: 'Vyriausybės komisijos ir komitetai', handles: ['top'], description: 'Vyriausybės komitetai yra Vyriausybės patariamosios institucijos.', url: '/vyriausybe#vyriausybes-komitetai-ir-komisijos' },
     style: { lineHeight: '1.25', },
     position: { x: 110, y: 245 },
   },
@@ -33,21 +33,21 @@ const nodes = [
   {
     id: 'node-ministras-pirmininkas',
     type: 'multiple-handle',
-    data: {textClass: 'font-bold text-[18px]', label: 'Ministras Pirmininkas', handles: ['left', 'left-bottom', 'bottom', 'right-bottom', 'right'], description: 'Ministras Pirmininkas atstovauja Vyriausybei ir vadovauja jos veiklai, teikia Seimui svarstyti Vyriausybės programą, pirmininkauja Vyriausybės posėdžiams.' },
+    data: {textClass: 'font-bold text-[18px]', label: 'Ministras Pirmininkas', handles: ['left', 'left-bottom', 'bottom', 'right-bottom', 'right'], description: 'Ministras Pirmininkas atstovauja Vyriausybei ir vadovauja jos veiklai, teikia Seimui svarstyti Vyriausybės programą, pirmininkauja Vyriausybės posėdžiams.', url: 'https://lrv.lt/lt/apie-vyriausybe/ministras-pirmininkas/' },
     style: { lineHeight: '1.25', },
     position: { x: 400, y: 70 },
   },
   {
     id: 'node-kancleris',
     type: 'multiple-handle',
-    data: { label: 'Vyriausybės kancleris', handles: ['top', 'bottom', 'left'], description: 'Vyriausybės kancleris organizuoja Vyriausybei ir Ministrui Pirmininkui pateiktų teisės aktų projektų analizę ir derinimą, organizuoja Vyriausybės posėdžių rengimą ministerijų atstovų pasitarimus.', url: 'https://lrvk.lrv.lt/lt/vyriausybes-kancleris'},
+    data: { label: 'Vyriausybės kancleris', handles: ['top', 'bottom', 'left'], description: 'Vyriausybės kancleris organizuoja Vyriausybei ir Ministrui Pirmininkui pateiktų teisės aktų projektų analizę ir derinimą, organizuoja Vyriausybės posėdžių rengimą ministerijų atstovų pasitarimus.', url: 'https://lrv.lt/lt/vyriausybes-kanceliarija/vyriausybes-kancleris/'},
     style: { lineHeight: '1.25', },
     position: { x: 400, y: 180 },
   },
   {
     id: 'node-kanceliarija',
     type: 'multiple-handle',
-    data: { label: 'Vyriausybės kanceliarija', handles: ['top', 'left'], description: 'Vyriausybės kanceliarija padeda vykdyti Vyriausybės ir Ministro Pirmininko funkcijas.', url: 'https://lrvk.lrv.lt/lt/vyriausybes-kanceliarijos-struktura' },
+    data: { label: 'Vyriausybės kanceliarija', handles: ['top', 'left'], description: 'Vyriausybės kanceliarija padeda vykdyti Vyriausybės ir Ministro Pirmininko funkcijas.', url: 'https://lrv.lt/lt/vyriausybes-kanceliarija/struktura-ir-kontaktine-informacija/vyriausybes-kanceliarijos-struktura/' },
     style: { lineHeight: '1.25', },
     position: { x: 470, y: 340 },
   },
@@ -61,21 +61,21 @@ const nodes = [
   {
     id: 'node-mp-biuras',
     type: 'multiple-handle',
-    data: { label: 'Ministro Pirmininko biuras', handles: ['left'], description: 'Organizuoja susitikimus ir renginius, kuriuose dalyvauja Ministras Pirmininkas.', url: 'https://lrvk.lrv.lt/lt/vyriausybes-kanceliarijos-struktura' },
+    data: { label: 'Ministro Pirmininko biuras', handles: ['left'], description: 'Organizuoja susitikimus ir renginius, kuriuose dalyvauja Ministras Pirmininkas.', url: 'https://lrv.lt/lt/vyriausybes-kanceliarija/struktura-ir-kontaktine-informacija/vyriausybes-kanceliarijos-struktura/' },
     style: { lineHeight: '1.25', },
     position: { x: 730, y: 185 },
   },
   {
     id: 'node-mp-patarejai',
     type: 'multiple-handle',
-    data: { label: 'Ministro Pirmininko patarėjai', handles: ['left'], description: 'Ministro Pirmininko patarėjai – politinio pasitikėjimo valstybės tarnautojai, kurie pataria Ministrui Pirmininkui atitinkamų sričių klausimais, pagal savo ekspertinius laukus.', url: 'https://ministraspirmininkas.lrv.lt/lt/ministres-pirmininkes-komanda' },
+    data: { label: 'Ministro Pirmininko patarėjai', handles: ['left'], description: 'Ministro Pirmininko patarėjai – politinio pasitikėjimo valstybės tarnautojai, kurie pataria Ministrui Pirmininkui atitinkamų sričių klausimais, pagal savo ekspertinius laukus.', url: 'https://lrv.lt/lt/vyriausybes-kanceliarija/struktura-ir-kontaktine-informacija/vyriausybes-kanceliarijos-struktura/' },
     style: { lineHeight: '1.25', },
     position: { x: 730, y: 340 },
   },
   {
     id: 'parent-node-ministerijos',
     type: 'parent',
-    data: { label: 'Ministerijos', url: '/vyriausybe#lrv-ministerijos', description: 'Ministerija steigiama formuoti valstybės politiką ir koordinuoti jos įgyvendinimą ministrui pavestose srityse.' },
+    data: { label: 'Ministerijos', url: '/vyriausybe#lietuvos-respublikos-ministerijos', description: 'Ministerija steigiama formuoti valstybės politiką ir koordinuoti jos įgyvendinimą ministrui pavestose srityse.' },
     targetPosition: Position.Top,
     sourcePosition: Position.Top,
     style: { ...parentStyle, lineHeight: '1.25', width: '660px', height: '415px' },
@@ -111,7 +111,7 @@ const nodes = [
   {
     id: 'node-finmin',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: '/img/Vyriausybe/FinMin.jpg', class: 'h-16 pt-2 mx-auto object-contain'  })]), handles: [] },
+    data: { label: h('div', [h('img', { src: '/img/Vyriausybe/FinMin.jpg', class: 'h-16 pt-2 mx-auto object-contain'  })]), handles: [], url: 'https://finmin.lrv.lt/lt/' },
     style: { lineHeight: '1.25', },
     position: { x: 495, y: 50 },
     parentNode: 'parent-node-ministerijos',
@@ -156,7 +156,7 @@ const nodes = [
   {
     id: 'node-sumin',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: '/img/Vyriausybe/SuMin.jpg', class: 'h-16 mx-auto object-contain'  })]), handles: [] },
+    data: { label: h('div', [h('img', { src: '/img/Vyriausybe/SuMin.jpg', class: 'h-16 mx-auto object-contain'  })]), handles: [], url: 'https://sumin.lrv.lt/lt/' },
     style: { lineHeight: '1.25', },
     position: { x: 15, y: 230 },
     parentNode: 'parent-node-ministerijos',
@@ -192,7 +192,7 @@ const nodes = [
   {
     id: 'node-smsmin',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: '/img/Vyriausybe/ŠmsMin.png', class: 'h-16 mx-auto object-contain'  })]), handles: [] },
+    data: { label: h('div', [h('img', { src: '/img/Vyriausybe/ŠmsMin.png', class: 'h-16 mx-auto object-contain'  })]), handles: [], url: 'https://smsm.lrv.lt/lt/' },
     style: { lineHeight: '1.25', },
     position: { x: 175, y: 320 },
     parentNode: 'parent-node-ministerijos',

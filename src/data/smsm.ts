@@ -13,21 +13,21 @@ const nodes = [
   {
     id: 'node-smsm-viceministrai',
     type: 'multiple-handle',
-    data: { label: 'ŠMSM viceministrai', handles: ['top', 'bottom'], description: "Švietimo, mokslo ir sporto viceministrai – viceministrai ŠMSM ministro nustatytose veiklos srityse atlieka Vyriausybės įstatyme nustatytas funkcijas.", url: "/smsm#smsm-viceministrai" },
+    data: { label: 'ŠMSM viceministrai', handles: ['top', 'bottom'], description: "Švietimo, mokslo ir sporto viceministrai – viceministrai ŠMSM ministro nustatytose veiklos srityse atlieka Vyriausybės įstatyme nustatytas funkcijas.", url: "/smsm#svietimo-mokslo-ir-sporto-viceministrai" },
     style: { lineHeight: '1.25', },
     position: { x: -100, y: 130 },
   },
   {
     id: 'node-patarejai',
     type: 'multiple-handle',
-    data: { label: 'Patarėjai', handles: ['bottom'], description: 'Švietimo, mokslo ir sporto ministro patarėjai – padeda ministrui suformuoti politines nuostatas ir prioritetus, priimti sprendimus ir juos įgyvendinti.', url: '/smsm#smsm-patarejai' },
+    data: { label: 'Patarėjai', handles: ['bottom'], description: 'Švietimo, mokslo ir sporto ministro patarėjai – padeda ministrui suformuoti politines nuostatas ir prioritetus, priimti sprendimus ir juos įgyvendinti.', url: '/smsm#svietimo-mokslo-ir-sporto-ministro-patarejai' },
     style: { lineHeight: '1.25', },
     position: { x: 160, y: 90 },
   },
   {
     id: 'node-komisijos',
     type: 'multiple-handle',
-    data: { label: 'Komisijos ir darbo grupės', handles: ['bottom'], description: 'Tam tikrais atvejais į ŠMSM formuojamas komisijas bei darbo grupes yra deleguojami studentų atstovai iš nacionalinių studentams atstovaujančių organizacijų (t.y. Vilniaus universiteto Studentų atstovybės ir / arba Lietuvos studentų sąjungos).', url: '/smsm#smsm-komisijos-ir-darbo-grupes' },
+    data: { label: 'Komisijos ir darbo grupės', handles: ['bottom'], description: 'Tam tikrais atvejais į ŠMSM formuojamas komisijas bei darbo grupes yra deleguojami studentų atstovai iš nacionalinių studentams atstovaujančių organizacijų (t.y. Vilniaus universiteto Studentų atstovybės ir / arba Lietuvos studentų sąjungos).', url: '/smsm#komisijos-ir-darbo-grupes' },
     style: { lineHeight: '1.25', },
     position: { x: 500, y: 90 },
   },
@@ -50,7 +50,7 @@ const nodes = [
   {
     id: 'node-esfa',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: 'img/SMSM/SMSM1.png', class: 'h-16 object-contain p-2' })]), handles: [], description: 'Europos socialinio fondo agentūra (ESFA) – Agentūra siekia pagerinti galimybes įsidarbinti padedant jauniems žmonėms baigus mokyklą integruotis į darbo rinką arba apmokant mažiau kvalifikuotus darbo ieškančius asmenis.', url: '/smsm#esfa' },
+    data: { label: h('div', [h('img', { src: 'img/SMSM/SMSM1.png', class: 'h-16 object-contain p-2' })]), handles: [], description: 'Europos socialinio fondo agentūra (ESFA) – Agentūra siekia pagerinti galimybes įsidarbinti padedant jauniems žmonėms baigus mokyklą integruotis į darbo rinką arba apmokant mažiau kvalifikuotus darbo ieškančius asmenis.', url: '/smsm#europos-socialinio-fondo-agentura-esfa' },
     style: { lineHeight: '1.25', },
     position: { x: 15, y: 50 },
     parentNode: 'parent-node-pavaldzios-institucijos',
@@ -59,7 +59,7 @@ const nodes = [
   {
     id: 'node-svietimo-centras',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: 'img/SMSM/LMNSC.png', class: 'h-16 mx-auto p-2 object-contain' })]), handles: [], description: 'Lietuvos mokinių neformaliojo švietimo centras – inicijuoja ir dalyvauja rengiant teisės aktus, teikia siūlymus, kuria, diegia ir skleidžia inovacijas neformaliojo vaikų švietimo politikos klausimais, rengia mokytojų kvalifikacijos tobulinimo programas ir organizuoja jų vykdymą, teikia metodinę pagalbą.' },
+    data: { label: 'Lietuvos neformaliojo švietimo agentūra (LiNEŠA)', handles: [], description: 'Lietuvos neformaliojo švietimo agentūra – inicijuoja ir dalyvauja rengiant teisės aktus, teikia siūlymus, kuria, diegia ir skleidžia inovacijas neformaliojo vaikų švietimo politikos klausimais, rengia mokytojų kvalifikacijos tobulinimo programas ir organizuoja jų vykdymą, teikia metodinę pagalbą.', url: '/smsm#lietuvos-neformaliojo-svietimo-agentura' },
     style: { lineHeight: '1.25', },
     position: { x: 15, y: 140 },
     parentNode: 'parent-node-pavaldzios-institucijos',
@@ -68,7 +68,7 @@ const nodes = [
   {
     id: 'node-nsa',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: 'img/SMSM/SMSM4.png', class: 'h-16 mx-auto p-2 object-contain' })]), handles: [], description: 'Nacionalinė švietimo agentūra dalyvauja įgyvendinant valstybinę ikimokyklinio, priešmokyklinio, bendrojo ugdymo politiką, skatina švietimo įstaigas (išskyrus aukštąsias mokyklas), kitus švietimo teikėjus užtikrinti švietimo veiklos kokybę, teikiant informacinę, konsultacinę, kvalifikacijos tobulinimo, ugdymo(si) aplinkos kūrimo pagalbą.' },
+    data: { label: h('div', [h('img', { src: 'img/SMSM/SMSM4.png', class: 'h-16 mx-auto p-2 object-contain' })]), handles: [], description: 'Nacionalinė švietimo agentūra dalyvauja įgyvendinant valstybinę ikimokyklinio, priešmokyklinio, bendrojo ugdymo politiką, skatina švietimo įstaigas (išskyrus aukštąsias mokyklas), kitus švietimo teikėjus užtikrinti švietimo veiklos kokybę, teikiant informacinę, konsultacinę, kvalifikacijos tobulinimo, ugdymo(si) aplinkos kūrimo pagalbą.', url: '/smsm#nacionaline-svietimo-agentura-nsa' },
     style: { lineHeight: '1.25', },
     position: { x: 660, y: 50 },
     parentNode: 'parent-node-pavaldzios-institucijos',
@@ -77,7 +77,7 @@ const nodes = [
   {
     id: 'node-kpmpc',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: 'img/SMSM/SMSM2.png', class: 'h-16 mx-auto p-2 object-contain' })]), handles: [], description: 'Kvalifikacijų ir profesinio mokymo plėtros centras – švietimo pagalbos įstaiga, teikianti informacinę, ekspertinę, konsultacinę ir kvalifikacijos tobulinimo pagalbą, įgyvendinanti valstybinę profesinio mokymo ir mokymosi visą gyvenimą sistemų plėtros politiką.' },
+    data: { label: h('div', [h('img', { src: 'img/SMSM/SMSM2.png', class: 'h-16 mx-auto p-2 object-contain' })]), handles: [], description: 'Kvalifikacijų ir profesinio mokymo plėtros centras – švietimo pagalbos įstaiga, teikianti informacinę, ekspertinę, konsultacinę ir kvalifikacijos tobulinimo pagalbą, įgyvendinanti valstybinę profesinio mokymo ir mokymosi visą gyvenimą sistemų plėtros politiką.', url: '/smsm#kvalifikaciju-ir-profesinio-mokymo-pletros-centras' },
     style: { lineHeight: '1.25', },
     position: { x: 180, y: 50 },
     parentNode: 'parent-node-pavaldzios-institucijos',
@@ -95,7 +95,7 @@ const nodes = [
   {
     id: 'node-skvc',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: 'img/SMSM/SMSM6.png', class: 'h-16 mx-auto object-contain' })]), handles: [], description: 'Studijų kokybės vertinimo centras (SKVC), tai LR valstybės biudžetinė įstaiga, įgyvendinanti aukštojo mokslo kokybės priežiūros politiką ir prisidedanti gerinant laisvo asmenų judėjimo sąlygas.' },
+    data: { label: h('div', [h('img', { src: 'img/SMSM/SMSM6.png', class: 'h-16 mx-auto object-contain' })]), handles: [], description: 'Studijų kokybės vertinimo centras (SKVC), tai LR valstybės biudžetinė įstaiga, įgyvendinanti aukštojo mokslo kokybės priežiūros politiką ir prisidedanti gerinant laisvo asmenų judėjimo sąlygas.', url: '/smsm#studiju-kokybes-vertinimo-centras' },
     style: { lineHeight: '1.25' },
     position: { x: 660, y: 140 },
     parentNode: 'parent-node-pavaldzios-institucijos',
@@ -122,7 +122,7 @@ const nodes = [
   {
     id: 'node-smpf',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: 'img/SMSM/smpf.png', class: 'h-16 mx-auto p-1 object-contain' })]), handles: [], description: 'Švietimo mainų ir paramos fondas (ŠMPF) – Lietuvos nacionalinė agentūra, kuriai pavesta administruoti programą „Erasmus+“ ir kitas Europos Komisijos (EK) ir Lietuvos Respublikos Vyriausybės finansuojamas iniciatyvas švietimo ir mokymo srityje.', url: 'https://www.smpf.lt/wp-content/uploads/2020/10/AR_2020-05-08.pdf' },
+    data: { label: h('div', [h('img', { src: 'img/SMSM/smpf.png', class: 'h-16 mx-auto p-1 object-contain' })]), handles: [], description: 'Švietimo mainų ir paramos fondas (ŠMPF) – Lietuvos nacionalinė agentūra, kuriai pavesta administruoti programą „Erasmus+“ ir kitas Europos Komisijos (EK) ir Lietuvos Respublikos Vyriausybės finansuojamas iniciatyvas švietimo ir mokymo srityje.', url: '/smsm#svietimo-mainu-ir-paramos-fondas-smpf' },
     style: { lineHeight: '1.25', },
     position: { x: 500, y: 50 },
     parentNode: 'parent-node-pavaldzios-institucijos',
@@ -131,7 +131,7 @@ const nodes = [
   {
     id: 'node-vsf',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: 'img/SMSM/VSF.jpg', class: 'h-16 mx-auto p-2 object-contain' })]), handles: [], description: 'Valstybinis studijų fondas (VSF) – biudžetinė įstaiga, administruojanti valstybės paskolas, valstybės remiamas paskolas studentams ir mokiniams, kurie mokosi pagal formaliojo profesinio mokymo programas, kitą finansinę paramą studentams ir profesiniam mokymui vykdyti, lėšas studentų pilietiniams, moksliniams, verslumo, kūrybiniams ir sportiniams projektams vykdyti.' },
+    data: { label: h('div', [h('img', { src: 'img/SMSM/VSF.jpg', class: 'h-16 mx-auto p-2 object-contain' })]), handles: [], description: 'Valstybinis studijų fondas (VSF) – biudžetinė įstaiga, administruojanti valstybės paskolas, valstybės remiamas paskolas studentams ir mokiniams, kurie mokosi pagal formaliojo profesinio mokymo programas, kitą finansinę paramą studentams ir profesiniam mokymui vykdyti, lėšas studentų pilietiniams, moksliniams, verslumo, kūrybiniams ir sportiniams projektams vykdyti.', url: '/smsm#valstybinis-studiju-fondas-vsf' },
     style: { lineHeight: '1.25', },
     position: { x: 500, y: 140 },
     parentNode: 'parent-node-pavaldzios-institucijos',
@@ -140,7 +140,7 @@ const nodes = [
   {
     id: 'node-vln',
     type: 'multiple-handle',
-    data: { label: 'Vilniaus lietuvių namai', handles: [], description: 'Vilniaus lietuvių namai – dieninė, savarankiško mokymosi bendrojo lavinimo gimnazija Vilniuje vykdanti pradinio, pagrindinio, vidurinio ir papildomo ugdymo programas, orientuota į užsienio lietuvius.' },
+    data: { label: 'Vilniaus lietuvių namai', handles: [], description: 'Vilniaus lietuvių namai – dieninė, savarankiško mokymosi bendrojo lavinimo gimnazija Vilniuje vykdanti pradinio, pagrindinio, vidurinio ir papildomo ugdymo programas, orientuota į užsienio lietuvius.', url: '/smsm#vilniaus-lietuviu-namai' },
     style: { lineHeight: '1.25', },
     position: { x: 340, y: 235 },
     parentNode: 'parent-node-pavaldzios-institucijos',
@@ -190,7 +190,7 @@ const nodes = [
   {
     id: 'node-es',
     type: 'multiple-handle',
-    data: { label: 'ES paramos koordinavimo departamentas', handles: [] },
+    data: { label: 'Tarptautinių investicijų koordinavimo departamentas', handles: [], url: '/smsm#tarptautiniu-investiciju-koordinavimo-departamentas' },
     style: { lineHeight: '1.25', },
     position: { x: 335, y: 50 },
     parentNode: 'parent-node-departamentai',
@@ -199,7 +199,7 @@ const nodes = [
   {
     id: 'node-mvg',
     type: 'multiple-handle',
-    data: { label: 'Mokymosi visą gyvenimą departamentas', handles: [] },
+    data: { label: 'Mokymosi visą gyvenimą departamentas', handles: [], url: '/smsm#mokymosi-visa-gyvenima-departamentas' },
     style: { lineHeight: '1.25', },
     position: { x: 15, y: 130 },
     parentNode: 'parent-node-departamentai',
@@ -208,18 +208,9 @@ const nodes = [
   {
     id: 'node-smtd',
     type: 'multiple-handle',
-    data: { label: 'Studijų mokslo ir technologijų departamentas', handles: [] },
+    data: { label: 'Studijų mokslo ir technologijų departamentas', handles: [], url: '/smsm#studiju-mokslo-ir-technologiju-departamentas' },
     style: { lineHeight: '1.25', },
     position: { x: 175, y: 130 },
-    parentNode: 'parent-node-departamentai',
-    extent: 'parent'
-  },
-  {
-    id: 'node-skrpd',
-    type: 'multiple-handle',
-    data: { label: 'Švietimo kokybės ir regioninės plėtros departamentas', handles: [] },
-    style: { lineHeight: '1.25', },
-    position: { x: 335, y: 130 },
     parentNode: 'parent-node-departamentai',
     extent: 'parent'
   },
@@ -235,7 +226,7 @@ const nodes = [
   {
     id: 'node-tad',
     type: 'multiple-handle',
-    data: { label: 'Teisės ir administravimo departamentas', handles: [] },
+    data: { label: 'Teisės ir administravimo departamentas', handles: [], url: '/smsm#administravimo-departamentas-teises-skyrius' },
     style: { lineHeight: '1.25', },
     position: { x: 270, y: 210 },
     parentNode: 'parent-node-departamentai',

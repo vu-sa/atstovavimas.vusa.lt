@@ -12,7 +12,7 @@ export const nodes = [
   {
     id: 'node-lrv',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { class: 'p-2', src: '/img/Lietuvos_Respublikos_Vyriausybes_logotipas.png' })]), handles: ['right-bottom', 'right-top'], description: "Vyriausybė – tai Lietuvos Respublikos įstatymų vykdomoji valdžia. Vyriausybė sudaro 14 ministerijų ministrai ir ministras pirmininkas, Seimo paskirti ketverių metų kadencijai.", url: "https://lrv.lt/lt/aktuali-informacija/apie-vyriausybe/vyriausybe" },
+    data: { label: h('div', [h('img', { class: 'p-2', src: '/img/Lietuvos_Respublikos_Vyriausybes_logotipas.png' })]), handles: ['right-bottom', 'right-top'], description: "Vyriausybė – tai Lietuvos Respublikos įstatymų vykdomoji valdžia. Vyriausybė sudaro 14 ministerijų ministrai ir ministras pirmininkas, Seimo paskirti ketverių metų kadencijai.", url: "https://lrv.lt/lt/apie-vyriausybe/xxi-vyriausybe/ministru-kabinetas/" },
     position: { x: -350, y: 160 },
   },
   {
@@ -24,14 +24,14 @@ export const nodes = [
   {
     id: 'node-seimo-nariai',
     type: 'multiple-handle',
-    data: { label: "LR Seimo nariai", handles: ['top', 'bottom', 'left'], description: 'Seimo nariais tampa 141 demokratiškuose rinkimuose išrinkti Lietuvos piliečiai.', url: '/seimas.html#seimo-nariai', textClass: 'font-bold text-[15px]' },
+    data: { label: "LR Seimo nariai", handles: ['top', 'bottom', 'left'], description: 'Seimo nariais tampa 141 demokratiškuose rinkimuose išrinkti Lietuvos piliečiai.', url: '/seimas.html#seimo-nariai-es', textClass: 'font-bold text-[15px]' },
     style: { lineHeight: '1.25' },
     position: { x: -50, y: 410 },
   },
   {
     id: 'node-seimo-frakcijos',
     type: 'multiple-handle',
-    data: { label: "LR Seimo frakcijos", handles: ['top', 'left', 'right', 'right-top', 'right-bottom'], description: 'Seimo nariai pagal politines partijas ar vertybines nuostatas gali jungtis į frakcijas sudarytas iš ne mažiau kaip 7 narių, kuriose siekia politinių tikslų įgyvendinimo.', url: '/seimas.html#seimo-frakcijos' },
+    data: { label: "LR Seimo frakcijos", handles: ['top', 'left', 'right', 'right-top', 'right-bottom'], description: 'Seimo nariai pagal politines partijas ar vertybines nuostatas gali jungtis į frakcijas sudarytas iš ne mažiau kaip 7 narių, kuriose siekia politinių tikslų įgyvendinimo.', url: '/seimas.html#frakcijos' },
     position: { x: -50, y: 500 },
   },
   {
@@ -53,7 +53,7 @@ export const nodes = [
   {
     id: 'node-komitetai',
     type: 'multiple-handle',
-    data: { label: "Komitetai", handles: [], description: 'Seimas įstatymams nagrinėti ir kitiems klausimams spręsti sudaro komitetus. Komitetai svarbiausioms veiklos kryptims iš savo narių gali sudaryti pakomitečius.', url: '/seimas.html#seimo-komitetai' },
+    data: { label: "Komitetai", handles: [], description: 'Seimas įstatymams nagrinėti ir kitiems klausimams spręsti sudaro komitetus. Komitetai svarbiausioms veiklos kryptims iš savo narių gali sudaryti pakomitečius.', url: '/seimas.html#komitetai' },
     position: { x: 25, y: 75 },
     parentNode: 'parent-node-seimo-grupes',
     extent: 'parent',

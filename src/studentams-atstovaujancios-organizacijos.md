@@ -26,4 +26,4 @@ lygiu. Siekdama įgyvendinti šią savo misiją, Sąjunga organizuoja
 renginius bei akcijas.
 
 [Išsamiau apie LSS
-veiklą](http://www.lss.lt/veikla-lietuvoje/)
+veiklą](https://www.lss.lt/)

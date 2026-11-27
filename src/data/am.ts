@@ -89,7 +89,7 @@ const nodes = [
   {
     id: 'node-strata',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: '/img/strata-logo.png', class: 'p-4' })]), handles: ['left', 'top'], description: 'Vyriausybės strateginės analizės centras yra ekspertinė institucija, teikianti Vyriausybei ir ministerijoms nepriklausomą, tiriamąja veikla grįstą informaciją, reikalingą įrodymais pagrįstiems viešosios politikos sprendimams priimti. STRATA įtaka aukštojo mokslo politikos procesuose yra patariamoji.', url: 'https://strata.gov.lt/lt/apie-mus/apie' },
+    data: { label: h('div', [h('img', { src: '/img/strata-logo.png', class: 'p-4' })]), handles: ['left', 'top'], description: 'Vyriausybės strateginės analizės centras yra ekspertinė institucija, teikianti Vyriausybei ir ministerijoms nepriklausomą, tiriamąja veikla grįstą informaciją, reikalingą įrodymais pagrįstiems viešosios politikos sprendimams priimti. STRATA įtaka aukštojo mokslo politikos procesuose yra patariamoji.', url: 'https://strata.gov.lt/' },
     position: { x: 70, y: 375 },
   },
   {
@@ -109,14 +109,14 @@ const nodes = [
   {
     id: 'parent-node-vsf',
     type: 'parent',
-    data: { label: h('div', [h('img', { src: '/img/AM1.png', class: 'h-14 absolute top-4 mx-auto w-full object-contain' })]), description: 'Valstybinis studijų fondas (VSF) - Švietimo mokslo ir sporto ministerijai pavaldi valstybės biudžetinė įstaiga administruojanti valstybės paskolas, valstybės remiamas paskolas studentams ir mokiniams, teikianti kitą finansinę paramą studentams ir profesiniam mokymui vykdyti.', url: '/aukstasis-mokslas/#vsf' },
+    data: { label: h('div', [h('img', { src: '/img/AM1.png', class: 'h-14 absolute top-4 mx-auto w-full object-contain' })]), description: 'Valstybinis studijų fondas (VSF) - Švietimo mokslo ir sporto ministerijai pavaldi valstybės biudžetinė įstaiga administruojanti valstybės paskolas, valstybės remiamas paskolas studentams ir mokiniams, teikianti kitą finansinę paramą studentams ir profesiniam mokymui vykdyti.', url: '/aukstasis-mokslas#vsf' },
     position: { x: 470, y: 535 },
     style: { width: '180px', height: '150px', padding: '3px' },
   },
   {
     id: 'node-vsf-valdyba',
     type: 'multiple-handle',
-    data: { label: 'VSF valdyba', handles: ['left', 'bottom', 'right'], description: 'Fondo valdyba paskirsto Fondui skirtas valstybės biudžeto lėšas valstybės paskoloms teikti, valstybės remiamų paskolų palūkanoms apmokėti.', url: '/aukstasis-mokslas#vsf-valdyba' },
+    data: { label: 'VSF valdyba', handles: ['left', 'bottom', 'right'], description: 'Fondo valdyba paskirsto Fondui skirtas valstybės biudžeto lėšas valstybės paskoloms teikti, valstybės remiamų paskolų palūkanoms apmokėti.', url: '/aukstasis-mokslas#vsf' },
     position: { x: 15, y: 95 },
     parentNode: 'parent-node-vsf'
   },
@@ -130,14 +130,14 @@ const nodes = [
   {
     id: 'node-vusa',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: '/img/vusa.png', class: 'mx-auto p-2 w-full object-contain h-20' })]), handles: [], description: 'Vilniaus universiteto Studentų atstovybė (VU SA) – seniausia ir didžiausia Lietuvoje visuomeninė, ne pelno siekianti, nepolitinė, ekspertinė švietimo organizacija, atstovaujanti studentų interesams Vilniaus universitete bei už jo ribų, puoselėjanti universitetinę kultūrą ir kurianti palankiausias sąlygas studentų saviraiškai.', url: '/aukstasis-mokslas#vusa' },
+    data: { label: h('div', [h('img', { src: '/img/vusa.png', class: 'mx-auto p-2 w-full object-contain h-20' })]), handles: [], description: 'Vilniaus universiteto Studentų atstovybė (VU SA) – seniausia ir didžiausia Lietuvoje visuomeninė, ne pelno siekianti, nepolitinė, ekspertinė švietimo organizacija, atstovaujanti studentų interesams Vilniaus universitete bei už jo ribų, puoselėjanti universitetinę kultūrą ir kurianti palankiausias sąlygas studentų saviraiškai.', url: '/studentams-atstovaujancios-organizacijos#vu-sa' },
     position: { x: 25, y: 65 },
     parentNode: 'parent-node-sao'
   },
   {
     id: 'node-lss',
     type: 'multiple-handle',
-    data: { label: h('div', [h('img', { src: '/img/LSS.png', class: 'mx-auto w-full object-contain h-20' })]), handles: ['bottom'], description: 'Lietuvos studentų sąjunga yra nacionalinė, demokratinė, nepriklausoma ir nevyriausybinė organizacija, atstovaujanti Lietuvos studentų interesams, jungianti Lietuvos aukštųjų mokyklų Studentų savivaldas.', url: '/aukstasis-mokslas#lss' },
+    data: { label: h('div', [h('img', { src: '/img/LSS.png', class: 'mx-auto w-full object-contain h-20' })]), handles: ['bottom'], description: 'Lietuvos studentų sąjunga yra nacionalinė, demokratinė, nepriklausoma ir nevyriausybinė organizacija, atstovaujanti Lietuvos studentų interesams, jungianti Lietuvos aukštųjų mokyklų Studentų savivaldas.', url: '/studentams-atstovaujancios-organizacijos#lietuvos-studentu-sajunga' },
     position: { x: 195, y: 65 },
     parentNode: 'parent-node-sao'
   },
@@ -211,7 +211,7 @@ const nodes = [
   {
     id: 'node-direktoriu-konferencija',
     type: 'multiple-handle',
-    data: { label: 'Lietuvos direktorių konferencija', handles: ['left', 'right', 'right-top'], description: 'Tai konferencija vienijanti visus Lietuvos kolegijų direktorius.', url: '/aukstasis-mokslas#lkdk' },
+    data: { label: 'Lietuvos kolegijų direktorių konferencija', handles: ['left', 'right', 'right-top'], description: 'Tai konferencija vienijanti visus Lietuvos kolegijų direktorius.', url: '/aukstasis-mokslas#lkdk' },
     position: { x: -125, y: 700 },
     style: { 'lineHeight': '1.25' }
   },

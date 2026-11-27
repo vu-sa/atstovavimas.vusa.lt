@@ -43,7 +43,7 @@ ekspertinėmis, aukštųjų mokyklų veiklą koordinuojančiomis
 institucijomis, studentų atstovais.
 
 Išsamiau galite susipažinti
-[čia](https://sena-smsm.lrv.lt/uploads/smsm/documents/files/Nuostatai/Studij%C5%B3%20skyriaus%20nuostatai.pdf)
+[čia](https://smsm.lrv.lt/media/viesa/saugykla/2023/12/pMHjh1Z8J2U.pdf)
 
 ## Ekonomikos departamento mokslo ir studijų ekonomikos skyrius
 
@@ -54,7 +54,7 @@ finansai. Mokslo ir studijų ekonomikos skyrius dalyvauja mokslo bei
 studijų finansavimą liečiančių įstatymų ar nutarimų rengime.
 
 Išsamiau galite susipažinti
-[čia](https://sena-smsm.lrv.lt/uploads/smsm/documents/files/Nuostatai/Mokslo%20ir%20studij%C5%B3%20ekonomikos%20sk%20nuostatai%202022.pdf)
+[čia](https://smsm.lrv.lt/media/viesa/saugykla/2023/12/sfgfr4qydZE.pdf)
 
 ## Mokymosi visą gyvenimą departamento neformalaus švietimo skyrius
 
@@ -69,7 +69,7 @@ neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymo
 įgyvendinimą.
 
 Išsamiau galite susipažinti
-[čia](https://sena-smsm.lrv.lt/uploads/smsm/documents/files/MVGD%20nuostatai%202022%2012(1).pdf)
+[čia](https://smsm.lrv.lt/media/viesa/saugykla/2025/1/0w-4Z8HW_SQ.docx)
 
 Šios įstaigos veikla yra planuojama – yra tvirtinami strateginiai,
 metiniai veiklos planai bei kiti planavimo dokumentai, kurie yra viešai
@@ -212,14 +212,14 @@ kuriomis Lietuva glaudžiai bendradarbiauja tarptautinių programų
 Išsamiau su departamentu galite susipažinti
 [čia](https://smsm.lrv.lt/media/viesa/saugykla/2023/12/ESIlkilaSk8.pdf)
 
-### Europos Sąjungos paramos koordinavimo departamentas
+### Tarptautinių investicijų koordinavimo departamentas
 
 formuoja bei įgyvendina ES struktūrinės paramos panaudojimo švietimui ir
 mokslui politiką ir dalyvauja formuojant ES struktūrinės paramos
 programų įgyvendinimą Lietuvoje.
 
 Išsamiau su departamentu galite susipažinti
-[čia](https://www.smm.lt/uploads/contacts/docs/21_b309d70d38b5c77871d84a6d63b59d4f.pdf)
+[čia](https://smsm.lrv.lt/uploads/smsm/documents/files/Nuostatai/TIKD%20(ESPKD)%202022%2004%2025.pdf)
 
 ### Administravimo departamentas | Teisės skyrius 
 
@@ -245,10 +245,10 @@ aukštuoju mokslu susijusių kvalifikacijų vertinimą ir (arba) pripažinimą
 Lietuvos Respublikoje.
 
 Su SKVC nuostatais galite susipažinti
-[čia](https://www.e-tar.lt/portal/lt/legalAct/09280450abfa11e6b844f0f29024f5ac/asr)
+[čia](https://www.e-tar.lt/portal/legalAct.html?documentId=fb4ccdd09ded11f0a34db2fbd35a03b2)
 
 Išsamiau su SKVC galite susipažinti
-[čia](https://www.skvc.lt/default/lt/)
+[čia](https://skvc.lrv.lt/lt/)
 
 Atstovavimo procese verta žinoti ir patariančiąsias SKVC institucijas:
 
@@ -299,7 +299,7 @@ Europos Komisijos (EK) ir Lietuvos Respublikos Vyriausybės finansuojamas
 iniciatyvas švietimo ir mokymo srityje.
 
 Su ŠMPF įstatais galite susipažinti
-[čia](https://www.smpf.lt/wp-content/uploads/2020/10/AR_2020-05-08.pdf)
+[čia](https://smpf.lrv.lt/lt/administracine-informacija/nuostatai/)
 
 Išsamiau su ŠMPF galite susipažinti
 [čia](https://www.smpf.lt/)
@@ -361,7 +361,7 @@ plėtoja suaugusiųjų švietimo sistemą ir vykdo profesinio bei suaugusiųjų
 mokymo dalyvių kvalifikacijos tobulinimą.
 
 Išsamiau su šiuo centru galite susipažinti
-[čia](https://www.kpmpc.lt/kpmpc/)
+[čia](https://kpmpc.lrv.lt/lt/)
 
 ### Lietuvos neformaliojo švietimo agentūra
 
@@ -372,7 +372,7 @@ rengia mokytojų kvalifikacijos tobulinimo programas ir organizuoja jų
 vykdymą, teikia metodinę pagalbą.
 
 Išsamiau su šiuo centru galite susipažinti
-[čia](https://www.lmnsc.lt/)
+[čia](https://www.linesa.lt/)
 
 <!-- ### Lietuvos vaikų ir jaunimo centras
 
@@ -451,4 +451,4 @@ dialogą su ŠMSM ministru, teikti ministerijai savo suformuotus
 pasiūlymus švietimo politikai.
 
 Išsamiau su ŠMSM komisijomis bei darbo grupėmis galite susipažinti
-[čia](https://www.smm.lt/web/lt/komisijos-ir-darbo-grupes)
+[čia](https://smsm.lrv.lt/lt/struktura-ir-kontaktine-informacija/komisijos-tarybos-ir-darbo-grupes/)
